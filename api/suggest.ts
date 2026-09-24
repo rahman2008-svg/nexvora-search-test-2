@@ -4,13 +4,14 @@
  */
 
 import { nexvoraEngine } from '../src/indexing/nexvoraIndex.ts';
+import { loadServerDocuments } from '../src/indexing/serverLoader.ts';
 
 let isInitialized = false;
 
 function ensureEngineLoaded() {
   if (!isInitialized) {
     try {
-      nexvoraEngine.initializeFromStorage();
+      nexvoraEngine.buildIndex(loadServerDocuments());
       isInitialized = true;
     } catch {
       isInitialized = true;

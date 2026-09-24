@@ -1060,4 +1060,3 @@ export class NexVoraSearchEngine {
 }
 
 export const nexvoraEngine = new NexVoraSearchEngine();
-nexvoraEngine.initializeFromStorage();

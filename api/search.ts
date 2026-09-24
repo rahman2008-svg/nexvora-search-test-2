@@ -4,6 +4,7 @@
  */
 
 import { nexvoraEngine } from '../src/indexing/nexvoraIndex.ts';
+import { loadServerDocuments } from '../src/indexing/serverLoader.ts';
 
 // Cache in-memory initialization across warm serverless invocations
 let isInitialized = false;
@@ -11,7 +12,7 @@ let isInitialized = false;
 function ensureEngineLoaded() {
   if (!isInitialized) {
     try {
-      nexvoraEngine.initializeFromStorage();
+      nexvoraEngine.buildIndex(loadServerDocuments());
       isInitialized = true;
     } catch {
       // Fallback: engine self-initializes on search

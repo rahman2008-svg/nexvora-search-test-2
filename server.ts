@@ -8,6 +8,7 @@ import path from 'path';
 import { fileURLToPath } from 'url';
 import { searchRouter } from './src/api/searchRouter.ts';
 import { nexvoraEngine } from './src/indexing/nexvoraIndex.ts';
+import { loadServerDocuments } from './src/indexing/serverLoader.ts';
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
@@ -19,30 +20,64 @@ async function startServer() {
 
   app.use(express.json());
 
-  // Initialize Search Engine from generated/documents/
+  // Initialize Search Engine from generated server-side documents.
   try {
-    const initStats = nexvoraEngine.initializeFromStorage();
-    console.log(`[NexVora Engine] Initialized: ${initStats.documentsLoaded} documents, ${initStats.termsIndexed} indexed terms.`);
+    const documents = loadServerDocuments();
+    nexvoraEngine.buildIndex(documents);
+
+    const stats = nexvoraEngine.getStats();
+
+    console.log(
+      `[NexVora Engine] Initialized: ${stats.totalDocuments} documents, ${stats.totalTerms} indexed terms.`
+    );
   } catch (err) {
-    console.error('[NexVora Engine] Storage initialization error:', err);
+    console.error(
+      '[NexVora Engine] Storage initialization error:',
+      err
+    );
   }
 
   // Mount Search API Routes
   app.use('/api', searchRouter);
 
-  // Health check endpoint
+  // API health check
+  app.get('/api/healthz', (_req: Request, res: Response) => {
+    res.status(200).json({
+      status: 'ok',
+      engine: 'NexVora Search BM25',
+      time: new Date().toISOString(),
+    });
+  });
+
+  // Legacy health endpoint
   app.get('/healthz', (_req: Request, res: Response) => {
-    res.status(200).json({ status: 'ok', time: new Date().toISOString() });
+    res.status(200).json({
+      status: 'ok',
+      engine: 'NexVora Search BM25',
+      time: new Date().toISOString(),
+    });
   });
 
   // Dynamic robots.txt using current request origin
   app.get('/robots.txt', (req: Request, res: Response) => {
-    const proto = (req.headers['x-forwarded-proto'] as string) || req.protocol || 'https';
+    const proto =
+      (req.headers['x-forwarded-proto'] as string) ||
+      req.protocol ||
+      'https';
+
     const host = req.get('host') || 'localhost:3000';
     const origin = `${proto}://${host}`;
 
-    res.setHeader('Content-Type', 'text/plain; charset=utf-8');
-    res.setHeader('Cache-Control', 'public, max-age=86400');
+    res.setHeader(
+      'Content-Type',
+      'text/plain; charset=utf-8'
+    );
+
+    res.setHeader(
+      'Cache-Control',
+      'public, max-age=86400'
+    );
+
     res.send(`# NexVora Search Independent Web Indexer
 User-agent: *
 Allow: /
@@ -54,12 +89,24 @@ Sitemap: ${origin}/sitemap.xml
 
   // Dynamic sitemap.xml using current request origin
   app.get('/sitemap.xml', (req: Request, res: Response) => {
-    const proto = (req.headers['x-forwarded-proto'] as string) || req.protocol || 'https';
+    const proto =
+      (req.headers['x-forwarded-proto'] as string) ||
+      req.protocol ||
+      'https';
+
     const host = req.get('host') || 'localhost:3000';
     const origin = `${proto}://${host}`;
 
-    res.setHeader('Content-Type', 'application/xml; charset=utf-8');
-    res.setHeader('Cache-Control', 'public, max-age=86400');
+    res.setHeader(
+      'Content-Type',
+      'application/xml; charset=utf-8'
+    );
+
+    res.setHeader(
+      'Cache-Control',
+      'public, max-age=86400'
+    );
+
     res.send(`<?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
@@ -90,9 +137,11 @@ Sitemap: ${origin}/sitemap.xml
 </urlset>`);
   });
 
-  // Setup Vite dev server middlewares or static production files
+  // Setup Vite dev server or static production files
   if (!isProd) {
-    const { createServer: createViteServer } = await import('vite');
+    const { createServer: createViteServer } =
+      await import('vite');
+
     const vite = await createViteServer({
       server: {
         middlewareMode: true,
@@ -101,21 +150,32 @@ Sitemap: ${origin}/sitemap.xml
       },
       appType: 'spa',
     });
+
     app.use(vite.middlewares);
   } else {
     const distPath = path.resolve(__dirname, 'dist');
+
     app.use(express.static(distPath));
+
     app.get('*', (_req: Request, res: Response) => {
-      res.sendFile(path.resolve(distPath, 'index.html'));
+      res.sendFile(
+        path.resolve(distPath, 'index.html')
+      );
     });
   }
 
   app.listen(PORT, '0.0.0.0', () => {
-    console.log(`[NexVora Engine] Server listening on http://0.0.0.0:${PORT}`);
+    console.log(
+      `[NexVora Engine] Server listening on http://0.0.0.0:${PORT}`
+    );
   });
 }
 
 startServer().catch((err) => {
-  console.error('[NexVora Server] Fatal error starting server:', err);
+  console.error(
+    '[NexVora Server] Fatal error starting server:',
+    err
+  );
+
   process.exit(1);
 });
