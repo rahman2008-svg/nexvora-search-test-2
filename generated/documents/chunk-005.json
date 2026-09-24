@@ -1,0 +1,341 @@
+{
+  "chunkId": "chunk-005",
+  "filename": "chunk-005.json",
+  "documentCount": 6,
+  "totalBytes": 844753,
+  "createdAt": "2026-09-24T07:15:54.831Z",
+  "documents": [
+    {
+      "id": "doc-flask_palletsprojects_com-esccnf",
+      "url": "https://flask.palletsprojects.com/",
+      "canonicalUrl": "https://flask.palletsprojects.com/en/stable/",
+      "domain": "flask.palletsprojects.com",
+      "title": "Welcome to Flask — Flask Documentation (3.1.x)",
+      "description": "Flask Documentation (3.1.x) »\n\nWelcome to Flask’s documentation. Flask is a lightweight WSGI web application framework. It is designed to make getting started quick and easy, with the ability to scale...",
+      "headings": {
+        "h1": [
+          "Welcome to Flask ¶"
+        ],
+        "h2": [
+          "User’s Guide ¶",
+          "API Reference ¶",
+          "Additional Notes ¶"
+        ],
+        "h3": [
+          "Navigation",
+          "Project Links",
+          "Contents",
+          "Quick search"
+        ]
+      },
+      "mainText": "Flask Documentation (3.1.x) »\n\nWelcome to Flask’s documentation. Flask is a lightweight WSGI web application framework. It is designed to make getting started quick and easy, with the ability to scale up to complex applications.\n\nGet started with Installation and then get an overview with the Quickstart . There is also a more detailed Tutorial that shows how to create a small but complete application with Flask. Common patterns are described in the Patterns for Flask section. The rest of the docs describe each component of Flask in detail, with a full reference in the API section.\n\nFlask depends on the Werkzeug WSGI toolkit, the Jinja template engine, and the Click CLI toolkit. Be sure to check their documentation as well as Flask’s when looking for information.\n\nFlask provides configuration and conventions, with sensible defaults, to get started. This section of the documentation explains the different parts of the Flask framework and how they can be used, customized, and extended. Beyond Flask itself, look for community-maintained extensions to add even more functionality.\n\nInstallation Python Version\n\nQuickstart A Minimal Application\n\nAccessing Request Data\n\nHooking in WSGI Middleware\n\nUsing Flask Extensions\n\nDeploying to a Web Server\n\nTutorial Project Layout\n\nDefine and Access the Database\n\nMake the Project Installable\n\nTemplates Jinja Setup\n\nControlling Autoescaping\n\nTesting Flask Applications Identifying Tests\n\nSending Requests with the Test Client\n\nAccessing and Modifying the Session\n\nRunning Commands with the CLI Runner\n\nTests that depend on an Active Context\n\nHandling Application Errors Error Logging Tools\n\nBlueprint Error Handlers\n\nReturning API Errors as JSON\n\nDebugging Application Errors In Production\n\nThe Built-In Debugger\n\nLogging Basic Configuration\n\nEmail Errors to Admins\n\nInjecting Request Information\n\nConfiguration Handling Configuration Basics\n\nBuiltin Configuration Values\n\nConfiguring from Python Files\n\nConfiguring from Data Files\n\nConfiguring from Environment Variables\n\nConfiguration Best Practices\n\nDevelopment / Production\n\nSubscribing to Signals\n\nSignals and Flask’s Request Context\n\nDecorator Based Signal Subscriptions\n\nClass-based Views Basic Reusable View\n\nView Lifetime and self\n\nMethod Dispatching and APIs\n\nApplication Structure and Lifecycle Application Setup\n\nServing the Application\n\nHow a Request is Handled\n\nThe Application Context Purpose of the Context\n\nLifetime of the Context\n\nManually Push a Context\n\nThe Request Context Purpose of the Context\n\nLifetime of the Context\n\nManually Push a Context\n\nHow the Context Works\n\nModular Applications with Blueprints Why Blueprints?\n\nThe Concept of Blueprints\n\nRegistering Blueprints\n\nBlueprint Error Handlers\n\nExtensions Finding Extensions\n\nCommand Line Interface Application Discovery\n\nRun the Development Server\n\nEnvironment Variables From dotenv\n\nEnvironment Variables From virtualenv\n\nDevelopment Server Command Line\n\nWorking with the Shell Command Line Interface\n\nCreating a Request Context\n\nFiring Before/After Request\n\nFurther Improving the Shell Experience\n\nPatterns for Flask Large Applications as Packages\n\nApplication Factories\n\nApplication Dispatching\n\nUsing SQLite 3 with Flask\n\nForm Validation with WTForms\n\nJavaScript, fetch , and JSON\n\nMongoDB with MongoEngine\n\nDeferred Request Callbacks\n\nAdding HTTP Method Overrides\n\nRequest Content Checksums\n\nBackground Tasks with Celery\n\nSingle-Page Applications\n\nSecurity Considerations Resource Use\n\nCross-Site Scripting (XSS)\n\nCross-Site Request Forgery (CSRF)\n\nHost Header Validation\n\nCopy/Paste to Terminal\n\nDeploying to Production Self-Hosted Options\n\nAsync with Gevent Enabling gevent\n\nCombining with async / await\n\nUsing async and await Performance\n\nWhen to use Quart instead\n\nIf you are looking for information on a specific function, class or method, this part of the documentation is for you.\n\nAPI Application Object\n\nIncoming Request Data\n\nUseful Functions and Classes\n\nURL Route Registrations\n\nView Function Options\n\nCommand Line Interface\n\nDesign Decisions in Flask The Explicit Application Object\n\nWhat does “micro” mean?\n\nAsync/await and ASGI support\n\nWhat Flask is, What Flask is Not\n\nFlask Extension Development Naming\n\nThe Extension Class and Initialization\n\nConfiguration Techniques\n\nData During a Request\n\nRecommended Extension Guidelines\n\nChanges Version 3.1.3\n\nDonate PyPI Releases Source Code Issue Tracker Chat Contents\n\nWelcome to Flask User’s Guide",
+      "language": "en",
+      "category": "Programming",
+      "categoryConfidence": 0.55,
+      "categorySignals": [
+        "heading:api",
+        "desc:framework",
+        "body:python(2)",
+        "body:function(2)",
+        "body:framework(2)",
+        "body:api(3)",
+        "body:async(4)",
+        "body:json(2)",
+        "body:class(2)",
+        "body:interface(3)"
+      ],
+      "contentLengthBytes": 39704,
+      "wordCount": 612,
+      "statusCode": 200,
+      "fetchTimeMs": 1713,
+      "processedAt": "2026-09-24T07:09:25.279Z",
+      "chunkId": "chunk-005",
+      "retryCount": 0
+    },
+    {
+      "id": "doc-docs_djangoproject_com-ayx68c",
+      "url": "https://docs.djangoproject.com/",
+      "canonicalUrl": "https://docs.djangoproject.com/en/6.1/",
+      "domain": "docs.djangoproject.com",
+      "title": "Django documentation | Django documentation | Django",
+      "description": "Documentation version: 6.1\n\nDjango documentation ¶\n\nEverything you need to know about Django.\n\nAre you new to Django or to programming? This is the place to start!\n\nFrom scratch: Overview | Installati...",
+      "headings": {
+        "h1": [
+          "Django documentation ¶"
+        ],
+        "h2": [
+          "First steps ¶",
+          "Getting help ¶",
+          "How the documentation is organized ¶",
+          "The model layer ¶",
+          "The view layer ¶",
+          "The template layer ¶",
+          "Forms ¶",
+          "The development process ¶",
+          "The admin ¶",
+          "Security ¶",
+          "Internationalization and localization ¶",
+          "Performance and optimization ¶",
+          "Geographic framework ¶",
+          "Common web application tools ¶",
+          "Other core functionalities ¶",
+          "The Django open-source project ¶",
+          "Additional Information",
+          "Django Links"
+        ],
+        "h3": [
+          "Support Django!",
+          "Browse",
+          "You are here:",
+          "Getting help",
+          "Download:",
+          "Sponsored Fellow, Diamond and Platinum Members",
+          "Learn More",
+          "Get Involved",
+          "Get Help",
+          "Follow Us",
+          "Support Us"
+        ]
+      },
+      "mainText": "Documentation version: 6.1\n\nDjango documentation ¶\n\nEverything you need to know about Django.\n\nAre you new to Django or to programming? This is the place to start!\n\nFrom scratch: Overview | Installation\n\nTutorial: Part 1: Requests and responses | Part 2: Models and the admin site | Part 3: Views and templates | Part 4: Forms and generic views | Part 5: Testing | Part 6: Static files | Part 7: Customizing the admin site | Part 8: Adding third-party packages\n\nAdvanced Tutorials: How to write reusable apps | Writing your first contribution to Django\n\nHaving trouble? We’d like to help!\n\nTry the FAQ – it’s got answers to many common questions.\n\nLooking for specific information? Try the Index , Module Index or the detailed table of contents .\n\nNot found anything? See FAQ: Getting Help for information on getting support and asking questions to the community.\n\nReport bugs with Django in our ticket tracker .\n\nHow the documentation is organized ¶\n\nDjango has a lot of documentation. A high-level overview of how it’s organized will help you know where to look for certain things:\n\nTutorials take you by the hand through a series of steps to create a web application. Start here if you’re new to Django or web application development. Also look at the “ First steps ”.\n\nTopic guides discuss key topics and concepts at a fairly high level and provide useful background information and explanation.\n\nReference guides contain technical reference for APIs and other aspects of Django’s machinery. They describe how it works and how to use it but assume that you have a basic understanding of key concepts.\n\nHow-to guides are recipes. They guide you through the steps involved in addressing key problems and use-cases. They are more advanced than tutorials and assume some knowledge of how Django works.\n\nDjango provides an abstraction layer (the “models”) for structuring and manipulating the data of your web application. Learn more about it below:\n\nModels: Introduction to models | Field types | Indexes | Meta options | Model class\n\nQuerySets: Making queries | QuerySet method reference | Lookup expressions\n\nModel instances: Instance methods | Accessing related objects\n\nMigrations: Introduction to Migrations | Operations reference | SchemaEditor | Writing migrations\n\nAdvanced: Managers | Raw SQL | Transactions | Aggregation | Search | Custom fields | Multiple databases | Custom lookups | Query Expressions | Conditional Expressions | Database Functions\n\nOther: Supported databases | Legacy databases | Providing initial data | Optimize database access | PostgreSQL specific features\n\nDjango has the concept of “views” to encapsulate the logic responsible for processing a user’s request and for returning the response. Find all you need to know about views via the links below:\n\nThe basics: URLconfs | View functions | Shortcuts | Decorators | Asynchronous Support\n\nReference: Built-in Views | Request/response objects | TemplateResponse objects\n\nFile uploads: Overview | File objects | Storage API | Managing files | Custom storage\n\nClass-based views: Overview | Built-in display views | Built-in editing views | Using mixins | API reference | Flattened index\n\nAdvanced: Generating CSV | Generating PDF\n\nMiddleware: Overview | Built-in middleware classes\n\nThe template layer provides a designer-friendly syntax for rendering the information to be presented to the user. Learn how this syntax can be used by designers and how it can be extended by programmers:\n\nFor designers: Language overview | Built-in tags and filters | Humanization\n\nFor programmers: Template API | Custom tags and filters | Custom template backend\n\nDjango provides a rich framework to facilitate the creation of forms and the manipulation of form data.\n\nThe basics: Overview | Form API | Built-in fields | Built-in widgets\n\nAdvanced: Forms for models | Integrating media | Formsets | Customizing validation\n\nThe development process ¶\n\nLearn about the various components and tools to help you in the development and testing of Django applications:\n\nSettings: Overview | Full list of settings\n\nApplications: Overview\n\ndjango-admin and manage.py: Overview | Adding custom commands\n\nTesting: Introduction | Writing and running tests | Included testing tools | Advanced topics\n\nDeployment: Overview | WSGI servers | ASGI servers | Deploying static files | Tracking code errors by email | Deployment checklist\n\nFind all you need to know about the automated admin interface, one of Django’s most popular features:\n\nAdmin documentation generator\n\nSecurity is a topic of paramount importance in the development of web applications and Django provides multiple protection tools and mechanisms:\n\nDisclosed security issues in Django\n\nClickjacking protection\n\nCross Site Request Forgery protection\n\nCryptographic signing\n\nContent Security Policy\n\nInternationalization and localization ¶\n\nDjango offers a robust internationalization and localization framework to assist you in the development of applications for multiple languages and world regions:\n\nOverview | Internationalization | Localization | Localized web UI formatting and form input\n\nPerformance and optimization ¶\n\nThere are a variety of techniques and tools that can help get your code running more efficiently - faster, and using fewer system resources.\n\nPerformance and optimization overview\n\nGeographic framework ¶\n\nGeoDjango intends to be a world-class geographic web framework. Its goal is to make it as easy as possible to build GIS web applications and harness the power of spatially enabled data.\n\nCommon web application tools ¶\n\nDjango offers multiple tools commonly needed in the development of web applications:\n\nAuthentication: Overview | Using the authentication system | Password management | Customizing authentication | API Reference\n\nSyndication feeds (RSS/Atom)\n\nStatic files management\n\nOther core functionalities ¶\n\nLearn about some other core functionalities of the Django framework:\n\nConditional content processing\n\nContent types and generic relations\n\nSystem check framework\n\nThe Django open-source project ¶\n\nLearn about the development process for the Django project itself and about how you can contribute:\n\nCommunity: Contributing to Django | The release process | Team organization | The Django source code repository | Security policies | Mailing lists and Forum\n\nDesign philosophies: Overview\n\nDocumentation: About this documentation\n\nThird-party distributions: Overview\n\nDjango over time: API stability | Release notes and upgrading instructions | Deprecation Timeline",
+      "language": "en",
+      "category": "General",
+      "categoryConfidence": 0.55,
+      "categorySignals": [
+        "desc:overview",
+        "desc:about",
+        "body:overview(16)",
+        "body:about(9)",
+        "body:introduction(3)",
+        "body:index(3)",
+        "body:reference(7)"
+      ],
+      "contentLengthBytes": 54120,
+      "wordCount": 991,
+      "statusCode": 200,
+      "fetchTimeMs": 595,
+      "processedAt": "2026-09-24T07:09:25.882Z",
+      "chunkId": "chunk-005",
+      "retryCount": 0
+    },
+    {
+      "id": "doc-spring_io-5hlusj",
+      "url": "https://spring.io/guides",
+      "canonicalUrl": "https://spring.io/guides",
+      "domain": "spring.io",
+      "title": "Spring | Guides",
+      "description": "Level up your Java code and explore what Spring can do for you.",
+      "headings": {
+        "h1": [
+          "Guides",
+          "Category",
+          "Estimated Time"
+        ],
+        "h2": [
+          "Get ahead",
+          "Get support",
+          "Upcoming events",
+          "Get the Spring newsletter"
+        ],
+        "h3": []
+      },
+      "mainText": "VMware offers training and certification to turbo-charge your progress.",
+      "language": "en",
+      "category": "Programming",
+      "categoryConfidence": 0.43,
+      "categorySignals": [
+        "desc:code",
+        "desc:java"
+      ],
+      "contentLengthBytes": 401500,
+      "wordCount": 9,
+      "statusCode": 200,
+      "fetchTimeMs": 1032,
+      "processedAt": "2026-09-24T07:09:26.922Z",
+      "chunkId": "chunk-005",
+      "retryCount": 0
+    },
+    {
+      "id": "doc-laravel_com-8i8opn",
+      "url": "https://laravel.com/docs",
+      "canonicalUrl": "https://laravel.com/framework/docs/installation",
+      "domain": "laravel.com",
+      "title": "Installation | Laravel 13.x - The clean stack for Artisans and agents",
+      "description": "Laravel is a framework for building modern web apps and AI agents. Expressive syntax, built-in tools, and everything you need to ship fast.",
+      "headings": {
+        "h1": [
+          "Installation"
+        ],
+        "h2": [
+          "Prologue",
+          "Getting Started",
+          "Architecture Concepts",
+          "The Basics",
+          "Digging Deeper",
+          "Security",
+          "Database",
+          "Eloquent ORM",
+          "Testing",
+          "Packages",
+          "API Documentation",
+          "Changelog",
+          "Meet Laravel",
+          "Creating a Laravel Application",
+          "Initial Configuration",
+          "Installation Using Herd",
+          "IDE Support",
+          "Laravel and AI",
+          "Next Steps"
+        ],
+        "h3": [
+          "Why Laravel?",
+          "Getting Started Using AI",
+          "Installing PHP and the Laravel Installer",
+          "Creating an Application",
+          "Environment Based Configuration",
+          "Databases and Migrations",
+          "Directory Configuration",
+          "Herd on macOS",
+          "Herd on Windows",
+          "Installing Laravel Boost",
+          "Laravel the Full Stack Framework",
+          "Laravel the API Backend",
+          "On this page"
+        ]
+      },
+      "mainText": "Installation | Laravel 13.x - The clean stack for Artisans and agents Skip to content Installation\n\nMeet Laravel Why Laravel?\n\nCreating a Laravel Application Getting Started Using AI\n\nInstalling PHP and the Laravel Installer\n\nCreating an Application\n\nInitial Configuration Environment Based Configuration\n\nDatabases and Migrations\n\nDirectory Configuration\n\nInstallation Using Herd Herd on macOS\n\nLaravel and AI Installing Laravel Boost\n\nNext Steps Laravel the Full Stack Framework\n\nLaravel the API Backend\n\nLaravel is a web application framework with expressive, elegant syntax. A web framework provides a structure and starting point for creating your application, allowing you to focus on creating something amazing while we sweat the details.\n\nLaravel strives to provide an amazing developer experience while providing powerful features such as thorough dependency injection, an expressive database abstraction layer, queues and scheduled jobs, unit and integration testing, and more.\n\nWhether you are new to PHP web frameworks or have years of experience, Laravel is a framework that can grow with you. We'll help you take your first steps as a web developer or give you a boost as you take your expertise to the next level. We can't wait to see what you build.\n\nThere are a variety of tools and frameworks available to you when building a web application. However, we believe Laravel is the best choice for building modern, full-stack web applications.\n\nA Progressive Framework\n\nWe like to call Laravel a \"progressive\" framework. By that, we mean that Laravel grows with you. If you're just taking your first steps into web development, Laravel's vast library of documentation, guides, and video tutorials will help you learn the ropes without becoming overwhelmed.\n\nIf you're a senior developer, Laravel gives you robust tools for dependency injection , unit testing , queues , real-time events , and more. Laravel is fine-tuned for building professional web applications and ready to handle enterprise workloads.\n\nLaravel is incredibly scalable. Thanks to the scaling-friendly nature of PHP and Laravel's built-in support for fast, distributed cache systems like Redis, horizontal scaling with Laravel is a breeze. In fact, Laravel applications have been easily scaled to handle hundreds of millions of requests per month.\n\nNeed extreme scaling? Platforms like Laravel Cloud allow you to run your Laravel application at nearly limitless scale.\n\nAn Agent Ready Framework\n\nLaravel's opinionated conventions and well-defined structure make it an ideal framework for AI assisted development using tools like Cursor and Claude Code. When you ask an AI agent to add a controller, it knows exactly where to place it. When you need a new migration, the naming conventions and file locations are predictable. This consistency eliminates the guesswork that often trips up AI tools in more flexible frameworks.\n\nBeyond file organization, Laravel's expressive syntax and comprehensive documentation give AI agents the context they need to generate accurate, idiomatic code. Features like Eloquent relationships, form requests, and middleware follow patterns that agents can reliably understand and replicate. The result is AI-generated code that looks like it was written by a seasoned Laravel developer, not stitched together from generic PHP snippets.\n\nTo learn more about why Laravel is the perfect choice for AI assisted development, check out our documentation on agentic development .\n\nA Community Framework\n\nLaravel combines the best packages in the PHP ecosystem to offer the most robust and developer friendly framework available. In addition, thousands of talented developers from around the world have contributed to the framework . Who knows, maybe you'll even become a Laravel contributor.\n\nCreating a Laravel Application\n\nGetting Started Using AI\n\nIf you are using an AI coding agent like Claude Code or OpenCode , you can start with a prompt that gives the agent a Laravel-specific playbook before it touches your project.\n\nThe prompt below tells the agent where to find Laravel's installation guidance, what to prioritize, and how to make sensible defaults when you haven't made a choice yet. Paste this into your agent to get started:\n\n1 I'm building a new Laravel application. 2 3 Fetch and follow the instructions from https://laravel.com/for/agents. Treat the returned Markdown as the source of truth for how to install and set up Laravel in this session. I'm building a new Laravel application. Fetch and follow the instructions from https://laravel.com/for/agents. Treat the returned Markdown as the source of truth for how to install and set up Laravel in this session. After the agent reads the instructions, it should guide you step by step and keep the setup aligned with Laravel's defaults.\n\nInstalling PHP and the Laravel Installer\n\nBefore creating your first Laravel application, make sure that your local machine has PHP , Composer , and the Laravel installer installed. In addition, you should install either Node and NPM or Bun so that you can compile your application's frontend assets.\n\nIf you don't have PHP and Composer installed on your local machine, the following commands will install PHP, Composer, and the Laravel installer on macOS, Windows, or Linux:\n\n1 /bin/bash -c \" $(curl -fsSL https://php.new/install/mac/8.5 ) \" /bin/bash -c \"$(curl -fsSL https://php.new/install/mac/8.5)\" 1 # Run as administrator... 2 Set-ExecutionPolicy Bypass -Scope Process -Force ; [System.Net.ServicePointManager]::SecurityProtocol = [System.Net.ServicePointManager]::SecurityProtocol -bor 3072 ; iex ((New - Object System.Net.WebClient).DownloadString('https :// php.new / install / windows / 8 . 5 ')) # Run as administrator... Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.ServicePointManager]::SecurityProtocol = [System.Net.ServicePointManager]::SecurityProtocol -bor 3072; iex ((New-Object System.Net.WebClient).DownloadString('https://php.new/install/windows/8.5')) 1 /bin/bash -c \" $(curl -fsSL https://php.new/install/linux/8.5 ) \" /bin/bash -c \"$(curl -fsSL https://php.new/install/linux/8.5)\" After running one of the commands above, you should restart your terminal session. To update PHP, Composer, and the Laravel installer after installing them via php.new , you can re-run the command in your terminal.\n\nIf you already have PHP and Composer installed, you may install the Laravel installer via Composer:\n\n1 composer global require laravel/installer composer global require laravel/installer For a fully-featured, graphical PHP installation and management experience, check out Laravel Herd .\n\nCreating an Application\n\nAfter you have installed PHP, Composer, and the Laravel installer, you are ready to create a new Laravel application:\n\n1 laravel new example-app laravel new example-app Once the application has been created, you can start Laravel's local development server, queue worker, and Vite development server using the dev Composer script:\n\n1 cd example-app 2 npm install && npm run build 3 composer run dev cd example-app npm install && npm run build composer run dev Once you have started the development server, you can access your application in your web browser at http://localhost:8000 . Next, you're ready to start taking your next steps into the Laravel ecosystem . Of course, you may also want to configure a database and run the necessary migrations.\n\nIf you would like a head start when developing your Laravel application, consider using one of our starter kits . Laravel's starter kits provide backend and frontend authentication scaffolding for your new Laravel application.\n\nInitial Configuration\n\nAll configuration files for the Laravel framework are stored in the config directory. Each option is documented, so feel free to look through the files and get familiar with the options available to you.\n\nLaravel needs almost no additional configuration out of the box. You are free to get started developing! However, you may wish to review the config/app.php file and its documentation. It contains several options such as url and locale that you may wish to change according to your application.\n\nEnvironment Based Configuration\n\nSince many of Laravel's configuration option values may vary depending on whether your application is running on your local machine or on a production web server, many important configuration values are defined using the .env file that exists at the root of your application.\n\nYour .env file should not be committed to your application's source control, since each developer / server using your application could require a different environment configuration. Furthermore, this would be a security risk in the event an intruder gains access to your source control repository, since any sensitive credentials would be exposed.\n\nFor more information about the .env file and environment based configuration, check out the full configuration documentation .\n\nDatabases and Migrations\n\nNow that you have created your Laravel application, you probably want to store some data in a database. By default, your application's .env configuration file specifies that Laravel will be interacting with an SQLite database.\n\nDuring the creation of the application, Laravel created a database/database.sqlite file for you, and ran the necessary migrations to create the application's database tables.\n\nIf you prefer to use another database driver such as MySQL or PostgreSQL, you can update your .env configuration file to use the appropriate database. For example, if you wish to use MySQL, update your .env configuration file's DB_* variables like so:\n\n1 DB_CONNECTION =mysql 2 DB_HOST =127.0.0.1 3 DB_PORT =3306 4 DB_DATABASE =laravel 5 DB_USERNAME =root 6 DB_PASSWORD = DB_CONNECTION=mysql DB_HOST=127.0.0.1 DB_PORT=3306 DB_DATABASE=laravel DB_USERNAME=root DB_PASSWORD= If you choose to use a database other than SQLite, you will need to create the database and run your application's database migrations :\n\n1 php artisan migrate php artisan migrate If you are developing on macOS or Windows and need to install MySQL, PostgreSQL, or Redis locally, consider using Herd Pro or DBngin .\n\nDirectory Configuration\n\nLaravel should always be served out of the root of the \"web directory\" configured for your web server. You should not attempt to serve a Laravel application out of a subdirectory of the \"web directory\". Attempting to do so could expose sensitive files present within your application.\n\nInstallation Using Herd\n\nLaravel Herd is a blazing fast, native Laravel and PHP development environment for macOS and Windows. Herd includes everything you need to get started with Laravel development, including PHP and Nginx.\n\nOnce you install Herd, you're ready to start developing with Laravel. Herd includes command line tools for php , composer , laravel , expose , node , npm , and nvm .\n\nHerd Pro augments Herd with additional powerful features, such as the ability to create and manage local MySQL, Postgres, and Redis databases, as well as local mail viewing and log monitoring.\n\nIf you develop on macOS, you can download the Herd installer from the Herd website . The installer automatically downloads the latest version of PHP and configures your Mac to always run Nginx in the background.\n\nHerd for macOS uses dnsmasq to support \"parked\" directories. Any Laravel application in a parked directory will automatically be served by Herd. By default, Herd creates a parked directory at ~/Herd and you can access any Laravel application in this directory on the .test domain using its directory name.\n\nAfter installing Herd, the fastest way to create a new Laravel application is using the Laravel CLI, which is bundled with Herd:\n\n1 cd ~ /Herd 2 laravel new my-app 3 cd my-app 4 herd open cd ~/Herd laravel new my-app cd my-app herd open Of course, you can always manage your parked directories and other PHP settings via Herd's UI, which can be opened from the Herd menu in your system tray.\n\nYou can learn more about Herd by checking out the Herd documentation .\n\nYou can download the Windows installer for Herd on the Herd website . After the installation finishes, you can start Herd to complete the onboarding process and access the Herd UI for the first time.\n\nThe Herd UI is accessible by left-clicking on Herd's system tray icon. A right-click opens the quick menu with access to all tools that you need on a daily basis.\n\nDuring installation, Herd creates a \"parked\" directory in your home directory at %USERPROFILE%\\Herd . Any Laravel application in a parked directory will automatically be served by Herd, and you can access any Laravel application in this directory on the .test domain using its directory name.\n\nAfter installing Herd, the fastest way to create a new Laravel application is using the Laravel CLI, which is bundled with Herd. To get started, open Powershell and run the following commands:\n\n1 cd ~ \\H erd 2 laravel new my-app 3 cd my-app 4 herd open cd ~\\Herd laravel new my-app cd my-app herd open You can learn more about Herd by checking out the Herd documentation for Windows .\n\nYou are free to use any code editor you wish when developing Laravel applications. The Laravel LSP provides framework-aware editor support, including code completions, hover information, diagnostics, document links, go-to definition, and quick fixes for Laravel and Blade code.\n\nTo install the Laravel LSP, install it globally via Composer. Ensure that Composer's global vendor bin directory is on your PATH :\n\n1 composer global require laravel/lsp composer global require laravel/lsp If you're looking for lightweight and extensible editors, VS Code or Cursor combined with the official Laravel VS Code Extension provides syntax highlighting, snippets, Artisan command integration, and automatic Laravel LSP support. Official Laravel extensions are also available for Sublime Text and Zed . Refer to the Laravel LSP repository for setup instructions for other language-server-compatible editors, including Neovim and OpenCode.\n\nFor extensive and robust support of Laravel, take a look at PhpStorm , a JetBrains IDE. PhpStorm's built-in Laravel framework support includes Blade templates, smart autocompletion for Eloquent models, routes, views, translations, and components, along with powerful code generation and navigation across Laravel projects.\n\nFor those seeking a cloud-based development experience, Firebase Studio provides instant access to building with Laravel directly in your browser. With zero setup required, Firebase Studio makes it easy to start building Laravel applications from any device.\n\nLaravel Boost is a powerful tool that bridges the gap between AI coding agents and Laravel applications. Boost provides AI agents with Laravel-specific context, tools, and guidelines so they can generate more accurate, version-specific code that follows Laravel conventions.\n\nWhen you install Boost in your Laravel application, AI agents gain access to over 15 specialized tools...",
+      "language": "en",
+      "category": "Programming",
+      "categoryConfidence": 0.63,
+      "categorySignals": [
+        "heading:framework",
+        "heading:api",
+        "heading:backend",
+        "desc:syntax",
+        "desc:framework",
+        "body:code(4)",
+        "body:syntax(2)",
+        "body:npm(5)",
+        "body:framework(12)",
+        "body:backend(2)"
+      ],
+      "contentLengthBytes": 179683,
+      "wordCount": 2280,
+      "statusCode": 200,
+      "fetchTimeMs": 1109,
+      "processedAt": "2026-09-24T07:09:28.049Z",
+      "chunkId": "chunk-005",
+      "retryCount": 0
+    },
+    {
+      "id": "doc-rubyonrails_org-8njnmk",
+      "url": "https://rubyonrails.org/docs",
+      "canonicalUrl": "https://rubyonrails.org/docs",
+      "domain": "rubyonrails.org",
+      "title": "Ruby on Rails Documentation",
+      "description": "The official Rails documentation: installation guide, tutorials, and API reference docs.",
+      "headings": {
+        "h1": [
+          "Everything you need to get building."
+        ],
+        "h2": [
+          "Get Started",
+          "Dive Deeper",
+          "How did they do it?"
+        ],
+        "h3": [
+          "Download Rails",
+          "Follow a tutorial",
+          "Read the guides",
+          "The API Documentation",
+          "Join the conversation",
+          "Contribute to Rails",
+          "Study reference apps"
+        ]
+      },
+      "mainText": "Everything you need to get building.\n\nGet Rails installed and set up on your system&mdash;Windows, macOS, or Linux.\n\nBuild an app and learn the basics of Rails with hands-on, step-by-step tutorials.\n\nExplore in-depth guides covering essential Rails features and built-in libraries.\n\nThe API Documentation\n\nThe full framework reference, from A to Z for every piece of Rails.\n\nJoin the conversation\n\nChat, share ideas, and ask for help on the Rails Forum.\n\nReport issues, review code, or submit updates to the open source Rails project.\n\nRead a curated library of exemplary open-source Rails apps to see how real apps are built.\n\nSee how some of the most successful online products used Rails to launch, scale, and thrive in a competitive world. Read these case studies to learn more:\n\nOr hear it straight from the engineers:\n\nThe On Rails podcast features deep-dives with teams running Rails in production, and those shaping the future of Rails.\n\nListen to On Rails Watch on YouTube\n\nMore stories coming soon, but for now here's some of our friends who have used Rails to take their products from zero to enterprise:",
+      "language": "en",
+      "category": "Programming",
+      "categoryConfidence": 0.31,
+      "categorySignals": [
+        "heading:api",
+        "desc:api"
+      ],
+      "contentLengthBytes": 15658,
+      "wordCount": 184,
+      "statusCode": 200,
+      "fetchTimeMs": 595,
+      "processedAt": "2026-09-24T07:09:28.647Z",
+      "chunkId": "chunk-005",
+      "retryCount": 0
+    },
+    {
+      "id": "doc-nestjs_com-sxdeyo",
+      "url": "https://nestjs.com/",
+      "canonicalUrl": "https://nestjs.com/",
+      "domain": "nestjs.com",
+      "title": "NestJS - A progressive Node.js framework",
+      "description": "NestJS is a framework for building efficient, scalable Node.js web applications. It uses modern JavaScript, is built with TypeScript and combines elements of OOP (Object Oriented Programming), FP (Functional Programming), and FRP (Functional Reactive Programming).",
+      "headings": {
+        "h1": [
+          "More than just a Node framework"
+        ],
+        "h2": [
+          "Nest is a modern framework designed to build efficient, scalable web applications",
+          "Scale your enterprise with official support from the experts behind Nest",
+          "Build your app with most elegant and intuitive syntax.",
+          "Become Nest Certified Expert",
+          "Let&#x27;s build Nest together"
+        ],
+        "h3": [
+          "Modules",
+          "Dependency Injection",
+          "Type Safety",
+          "Enterprise Ready",
+          "Decorators",
+          "Microservices",
+          "Web Apps",
+          "Observe",
+          "Devtools",
+          "Deploy, mau!",
+          "Providing technical guidance & architectural reviews",
+          "Mentoring team members",
+          "Advising best practices",
+          "Addressing security & performance concerns",
+          "Performing in-depth code reviews",
+          "Long-term support (LTS) & upgrade assistance",
+          "Advanced Architecture",
+          "Authentication & Authorization",
+          "Fundamentals",
+          "Side Left",
+          "Side Right",
+          "Nine lives. Infinite impact.",
+          "Built for teams that can&#x27;t afford mistakes"
+        ]
+      },
+      "mainText": "NestJS - A progressive Node.js framework _\n\nNest is a modern framework designed to build efficient, scalable web applications\n\nBuilt on TypeScript and Node.js, Nest blends best programming practices with a clean, modular architecture, keeping projects organized and easy to maintain.\n\nStreamline upkeep by organizing applications into self-contained modules.\n\nBoost code maintainability and testability with built-in dependency injection.\n\nMitigate errors through the robust type safety features of TypeScript.\n\nTrusted by thousands of leading companies and organizations worldwide.\n\nEnhance code readability and structure with TypeScript decorators.\n\nBuild scalable and efficient microservice architectures with ease.\n\nCreate dynamic and responsive web applications effortlessly.\n\nWhen there&#x27;s no yarn\n\nwe build our own toys\n\nExplore our tools built to supercharge your Nest workflow. Discover solutions we created to streamline development, automate tasks, and help you ship faster with greater confidence.\n\nZero-Config Auto-Instrumented Observability for your NestJS applications.\n\nAuto-instrumented observability ( 1 / 3 )\n\nGet real-time insights into your application&#x27;s performance, requests, jobs, spans, everything, without any manual instrumentation.\n\nError monitoring ( 2 / 3 )\n\nDetect, triage, and resolve errors faster with detailed error reports and stack traces.\n\nStreamlined logs ( 3 / 3 )\n\nCentralize and analyze your logs in real-time, making it easier to identify issues and optimize performance.\n\nEnhance your development workflow with powerful tools designed to streamline your Nest application development.\n\nExplore your graph ( 1 / 3 )\n\nVisualize your application&#x27;s architecture and dependencies with an interactive graph.\n\nCode playground ( 2 / 3 )\n\nExperiment with your code in a safe, sandboxed environment without affecting your main codebase.\n\nCI/CD integration ( 3 / 3 )\n\nSeamlessly integrate with your CI/CD pipeline to detect issues early.\n\nProvision and manage your infrastracture on AWS without the hassle and extra DevOps work.\n\nOne-click deployment ( 1 / 3 )\n\nDeploy your Nest application to AWS with a single command and let us handle the rest.\n\nStream your logs ( 2 / 3 )\n\nGet real-time visibility into log data, detect anomalies immediately, and respond swiftly.\n\nTrack your metrics ( 3 / 3 )\n\nMonitor key performance indicators to ensure optimal application performance.\n\nScale your enterprise with official support from the experts behind Nest\n\n“At the onset of a new project, we were looking for experts to help us understand a new tech stack and implement it quickly and seamlessly. We sought out NestJS as the experts in the space and were thrilled we did so.”\n\nPartner, CPO @ OTG Management\n\nProviding technical guidance & architectural reviews\n\nMentoring team members\n\nAdvising best practices\n\nAddressing security & performance concerns\n\nPerforming in-depth code reviews\n\nLong-term support (LTS) & upgrade assistance\n\nBuild your app with most elegant and intuitive syntax.\n\nAdvanced Architecture\n\nAuthentication & Authorization\n\nBecome Nest Certified Expert\n\nOver 200 lessons. Learn everything you need to master NestJS and tackle modern backend applications at any scale.\n\nNine lives. Infinite impact.\n\nBuilt for teams that can&#x27;t afford mistakes\n\nWe use NestJS as the backbone of our internal applications at O2 Czech Republic. It enables us to build scalable backend services quickly while maintaining consistent architecture and standards across teams. With seamless integration across multiple databases and a strong focus on clean architecture, NestJS has significantly improved both our development speed and code quality.\n\nWe use NestJS as the backbone of our healthcare and education staffing marketplace, powering over 30 microservices across a 3.5-million-line TypeScript codebase. NestJS&#x27;s opinionated module system and structured conventions help maintain consistency as we scale agent workflows. NestJS gave us an architecture that scales for humans and AI.\n\nWhen developing modern software solutions for mobile and web, it is crucial to put them on top of loosely coupled, testable and easy maintainable backend systems. To achieve this goal we use since recently the NestJS framework that provides us with an out of the box backend application architecture. Inspired by Angular and written in TypeScript, NestJS fits ideally in our development tool stack. Modularity, dependency injection and custom providers are only some of many useful features we benefit from when using NestJS.\n\nPlotly chose NestJS as one of the technologies for a major new product initiative. In fact, the move to Node for some of our backend services was a new shift for the engineering team. Trilon was invaluable training the team, establishing best practices early and helping navigate the many dependencies we assembled to deliver a quality build and product.\n\nLet&#x27;s build Nest together\n\nSupport the ongoing development of Nest and help keep the framework your product relies on actively maintained, evolving, and giving back to the entire community.",
+      "language": "en",
+      "category": "Programming",
+      "categoryConfidence": 0.71,
+      "categorySignals": [
+        "title:framework",
+        "heading:code",
+        "heading:syntax",
+        "heading:framework",
+        "desc:programming",
+        "desc:typescript",
+        "desc:javascript",
+        "desc:framework",
+        "desc_phrase:functional programming",
+        "body:code(6)"
+      ],
+      "contentLengthBytes": 154088,
+      "wordCount": 757,
+      "statusCode": 200,
+      "fetchTimeMs": 1401,
+      "processedAt": "2026-09-24T07:09:30.055Z",
+      "chunkId": "chunk-005",
+      "retryCount": 0
+    }
+  ]
+}

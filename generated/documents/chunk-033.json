@@ -1,0 +1,285 @@
+{
+  "chunkId": "chunk-033",
+  "filename": "chunk-033.json",
+  "documentCount": 6,
+  "totalBytes": 1359176,
+  "createdAt": "2026-09-24T07:15:54.831Z",
+  "documents": [
+    {
+      "id": "doc-gutenberg_org-9jyk6w",
+      "url": "https://www.gutenberg.org/",
+      "canonicalUrl": "https://www.gutenberg.org/",
+      "domain": "gutenberg.org",
+      "title": "Free eBooks | Project Gutenberg",
+      "description": "Project Gutenberg is a library of free eBooks.",
+      "headings": {
+        "h1": [
+          "Project Gutenberg is a library of 79,457 free eBooks"
+        ],
+        "h2": [],
+        "h3": [
+          "Find Free eBooks",
+          "Project Gutenberg",
+          "Get Help",
+          "How to Help",
+          "Useful Links",
+          "Audio Books",
+          "Our Social Media",
+          "News Feeds of new eBooks"
+        ]
+      },
+      "mainText": "Project Gutenberg is a library of 79,457 free eBooks\n\nChoose free eBooks to download or read online. You will find the world's great literature here with a focus on older works whose U.S. copyright has expired. Thousands of Project Gutenberg volunteers have digitized and proofread these books for you.\n\nFrequently Downloaded : Top 100, or ranked by popularity .\n\nMain Categories . The ones you'd find in any large bookstore.\n\nReading Lists . Hand-curated by volunteers.\n\nSearch Options . By author, title, subject, language, type, popularity, and more.\n\nVisit self.gutenberg.org for self-published eBooks at the World Library Foundation.\n\n✓ 100% Free - No fees, no registration, completely free\n\n✓ No Apps Required - only regular Web browsers or eBook readers needed\n\n✓ 55+ Years - Pioneering free eBooks since 1971\n\n✓ Volunteer-based - hundreds of volunteers have contributed over the years\n\n✓ Read about our late CEO , Dr. Greg Newby .\n\nConsider a small donation to help us digitize more books: donate\n\nReading Options & Kindle : How to read and enjoy our ebooks.\n\nFrequently Asked Questions about Project Gutenberg.\n\nHelp, How-To and FAQs : In depth information about many topics.\n\nDistributed Proofreaders welcomes new volunteers. This is the main source of new Project Gutenberg eBooks. Getting started is easy, and just a page a day will help!\n\nFix and improve Project Gutenberg by reporting errors, bugs, typos, and suggesting changes.\n\nRecord audiobooks with our friends at LibriVox .\n\nAbout Project Gutenberg .\n\nDonating to Project Gutenberg .\n\nLinking to Project Gutenberg and roboting or crawling the site.\n\nPartners and affiliates .\n\nPermissions, copyright, licensing, and trademark information .\n\nWhat does free eBook (No Cost or Freedom?) mean?\n\nAudio books are a great way to enjoy literature. We recommend the following sources. All of them are digitizations of Project Gutenberg texts. They are freely available and in the public domain in the US.\n\n- Project Gutenberg’s 662 titles read by people\n\n- Human-read audio books from LibriVox . LibriVox is a volunteer community that produces high-quality performances.\n\n- The Project Gutenberg Open Audiobook Collection . Almost 5,000 computer-generated titles from 2023 via a Project Gutenberg collaboration with Microsoft and MIT.\n\n- Project Gutenberg’s audio books from 2003 . They are computer-generated and listenable but relatively low quality compared to today’s technology.\n\nNews Feeds of new eBooks\n\nAbout Project Gutenberg",
+      "language": "en",
+      "category": "Programming",
+      "categoryConfidence": 0.35,
+      "categorySignals": [
+        "heading:library",
+        "desc:library",
+        "body:library(2)"
+      ],
+      "contentLengthBytes": 26243,
+      "wordCount": 390,
+      "statusCode": 200,
+      "fetchTimeMs": 985,
+      "processedAt": "2026-09-24T07:13:37.449Z",
+      "chunkId": "chunk-033",
+      "retryCount": 0
+    },
+    {
+      "id": "doc-archive_org-w4a9om",
+      "url": "https://archive.org/details/texts",
+      "canonicalUrl": "https://archive.org/details/texts",
+      "domain": "archive.org",
+      "title": "Internet Archive: Digital Library of Free & Borrowable Texts, Movies, Music & Wayback Machine",
+      "description": "...",
+      "headings": {
+        "h1": [],
+        "h2": [],
+        "h3": []
+      },
+      "mainText": "",
+      "language": "en",
+      "category": "Programming",
+      "categoryConfidence": 0.2,
+      "categorySignals": [
+        "title:library"
+      ],
+      "contentLengthBytes": 1872,
+      "wordCount": 0,
+      "statusCode": 200,
+      "fetchTimeMs": 913,
+      "processedAt": "2026-09-24T07:13:38.363Z",
+      "chunkId": "chunk-033",
+      "retryCount": 0
+    },
+    {
+      "id": "doc-jstor_org-pxalm7",
+      "url": "https://www.jstor.org/",
+      "canonicalUrl": "https://www.jstor.org/",
+      "domain": "jstor.org",
+      "title": "JSTOR Home",
+      "description": "JSTOR is a digital library of academic journals, books, and primary sources.",
+      "headings": {
+        "h1": [],
+        "h2": [],
+        "h3": []
+      },
+      "mainText": "Explore millions of high-quality primary sources and images from around the world, including artworks, maps, photographs, and more.\n\nGet diverse perspectives on global public health policy and response through a variety of media types\n\nPart of The New Reproductive Order: Technology, Fertility, and Social Change around the Globe\n\nPart of Protein: The Making of a Nutritional Superstar\n\nPart of Patchwork Pandemic: State Politics and the Fractured US Response to HIV/AIDS\n\nPart of World Health Organization\n\nPart of Fraser Institute\n\nPart of South African Institute of International Affairs\n\nPart of Inquiry, SAGE Publications Inc\n\nPart of Journal of Global Faultlines\n\nPart of The International Journal of Disability and Social Justice\n\nPart of Open: Images from the History of Medicine (National Library of Medicine)\n\nPart of Open: Schomburg Center for Research in Black Culture (New York Public Library)\n\nHarness the power of visual materials&mdash;explore more than 3 million images now on JSTOR.\n\nEnhance your scholarly research with underground newspapers, magazines, and journals.\n\nExplore collections in the arts, sciences, and literature from the world’s leading museums, archives, and scholars.",
+      "language": "en",
+      "category": "Programming",
+      "categoryConfidence": 0.2,
+      "categorySignals": [
+        "desc:library",
+        "body:library(2)"
+      ],
+      "contentLengthBytes": 43954,
+      "wordCount": 176,
+      "statusCode": 200,
+      "fetchTimeMs": 689,
+      "processedAt": "2026-09-24T07:13:40.181Z",
+      "chunkId": "chunk-033",
+      "retryCount": 0
+    },
+    {
+      "id": "doc-unesco_org-r7qubb",
+      "url": "https://www.unesco.org/en/education",
+      "canonicalUrl": "https://www.unesco.org/en/education",
+      "domain": "unesco.org",
+      "title": "Education transforms lives | UNESCO",
+      "description": "Education is at the heart of UNESCO’s mission to build peace, eradicate poverty and drive sustainable development. It is a human right for all throughout life",
+      "headings": {
+        "h1": [
+          "Education transforms lives"
+        ],
+        "h2": [
+          "Impact stories",
+          "Our priorities",
+          "What you need to know about education and why it matters",
+          "Advancing education in Africa",
+          "News",
+          "Leading and monitoring education",
+          "Long reads",
+          "Key facts",
+          "Calendar",
+          "Publications",
+          "UNESCO Prizes on education",
+          "Join UNESCO’s LinkedIn group on education"
+        ],
+        "h3": []
+      },
+      "mainText": "© UNESCO/Jyothy Karat © UNESCO/Jyothy Karat Education transforms lives\n\nInternational cooperation SDG4 coordination\n\nGlobal Education Monitoring Report\n\nUNESCO Chairs and UNITWIN Networks\n\nUNESCO Associated Schools Network\n\nGlobal network of technical and vocational education and training institutions\n\nGlobal network of learning cities\n\nG20 Education Working Group\n\nGlobal Coalition for Education\n\nGreening Education Partnership\n\nAll education themes Protecting the right to education Right to education\n\nEducation in emergencies\n\nInclusion in education\n\nLearning throughout life Lifelong learning\n\nEarly childhood care and education\n\nLiteracy and adult learning\n\nTechnical and vocational education and training\n\nEnsuring gender equality in education Education and gender equality\n\nGirls’ and women’s education in science and technology\n\nStrengthening education systems Education financing\n\nEducation policies and strategies\n\nEducation management, monitoring and evaluation\n\nCurriculum development\n\nEducating for peace and the planet Global citizenship and peace education\n\nLearning about violent pasts to prevent future atrocities\n\nCountering hate speech\n\nEducation for sustainable development\n\nReimagining education AI and technology in education\n\nNews and stories All UNESCO news on education\n\nResources Publications\n\nNational education profiles\n\nStanding with teachers: 60 years of protecting the profession, advancing its status and shaping our futures\n\nto strengthen education for sustainable development in education systems\n\nat UNESCO’s Digital Learning Week\n\nEducation transforms lives and is at the heart of UNESCO’s mission to build peace, eradicate poverty and drive sustainable development. It is a human right for all throughout life. The Organization is the only United Nations agency with a mandate to cover all aspects of education. It has been entrusted to lead the Global Education 2030 Agenda through Sustainable Development Goal 4.  \n\nUNESCO provides global and regional leadership in education, strengthens education systems worldwide and responds to contemporary global challenges through education with gender equality as an underlying principle. Its work encompasses quality educational development from pre-school to higher education and beyond.\n\nSteering technology in education on our terms\n\nLeading the transformation of learning to address the climate crisis as part of education for sustainable development\n\nEmpowering and supporting teachers and educators to ensure quality education for all\n\nImplementing the UNESCO Recommendation on Education for Peace, Human Rights and Sustainable Development.\n\nWhat you need to know about education and why it matters\n\nEducation is a fundamental human right. It empowers individuals, strengthens communities and fosters inclusive societies. \n\nAt the heart of UNESCO’s mission, education is a lifelong process that equips learners with the knowledge, skills and values needed to build a better future. Here is what you need to know about education, why it matters, and UNESCO’s actions to ensure that everyone, everywhere, has access to quality learning.\n\n© UNESCO/Emily Pinna Advancing education in Africa\n\nUNESCO is leading efforts to advance education across Africa, driven by its strong commitment to ensure inclusive, equitable quality education for all.\n\nVarious initiatives aimed at improving access to education, enhancing the quality of teaching, and promoting lifelong learning opportunities are making positive impact throughout the continent.\n\nCatherine LProd/Shutterstock.com News\n\nLeading and monitoring education\n\nallocate less than 4% of their GDP to education\n\nlack basic literacy skills (UIS, 2025)\n\nmust be recruited to achieve universal primary and secondary education by 2030\n\nare out of school globally\n\nUNESCO Prizes on education\n\nUNESCO-Japan Prize on Education for Sustainable Development The 2025 call for applications is now closed UNESCO Prize for Girls’ and Women’s Education The 2026 call for nominations is closed. UNESCO International Literacy Prizes The 2026 call for nominations is now closed UNESCO-Hamdan Prize for Teacher Development The call for nominations and applications for the 2025-2026 is now closed UNESCO ICT in Education Prize The 2026 call for nominations is closed UNESCO Prize for Global Citizenship Education The 2025 call for nominations is now closed Join UNESCO’s LinkedIn group on education\n\nBecome part of a global community for researchers, educators, policy makers, students and other professionals, who are passionate about ensuring education is a right for all.   Engage with new content, share your own practices, resources and more, participate in meaningful conversation and join networking opportunities! ",
+      "language": "en",
+      "category": "Education",
+      "categoryConfidence": 0.76,
+      "categorySignals": [
+        "url_pattern:\\/edu",
+        "url_pattern:\\/education",
+        "title:education",
+        "heading:education",
+        "desc:education",
+        "body:education(57)",
+        "body:training(2)"
+      ],
+      "contentLengthBytes": 347631,
+      "wordCount": 658,
+      "statusCode": 200,
+      "fetchTimeMs": 1513,
+      "processedAt": "2026-09-24T07:14:00.251Z",
+      "chunkId": "chunk-033",
+      "retryCount": 0
+    },
+    {
+      "id": "doc-unicef_org-7ehn02",
+      "url": "https://www.unicef.org/education",
+      "canonicalUrl": "https://www.unicef.org/education",
+      "domain": "unicef.org",
+      "title": "Education | UNICEF",
+      "description": "Every child has the right to go to school and learn.",
+      "headings": {
+        "h1": [
+          "Education"
+        ],
+        "h2": [
+          "Programme overview",
+          "Data and reports",
+          "Together, we've made a world of difference",
+          "UNICEF home",
+          "About us",
+          "Related UNICEF sites"
+        ],
+        "h3": [
+          "What we do",
+          "Inclusive education",
+          "Girls' education",
+          "Education in emergencies",
+          "Early childhood education",
+          "Primary education",
+          "Adolescent education and skills",
+          "Digital education",
+          "Education partnerships",
+          "Explainers",
+          "How to reduce stress and support student well-being",
+          "Self-care tips for teachers",
+          "How can we keep children safe online?",
+          "What is child labour?",
+          "The latest",
+          "One month after the floods, efforts to restore education are helping children return to learning in Nepal",
+          "Drone strikes destroy more than 330,000 learning materials in Sudan&rsquo;s North Kordofan State",
+          "Five years on, Afghan girls still locked out of learning",
+          "Education Strategy"
+        ]
+      },
+      "mainText": "Every child has the right to go to school and learn.\n\nUNICEF/UN0526284/AlObidy Home\n\nEducation Girls' education\n\nEducation in emergencies\n\nWhat we do  |  Data  |  Reports  | Explainers | News\n\nThe world has made great strides towards universal education. In the early 1950s, only half of the kids who should have been in primary school were. Today, that's risen to nearly 90%.\n\nBut this success masks stark disparities. For too many children living in poverty, for kids living with disabilities or from ethnic minorities, and for girls growing up in the wrong place, education remains out of reach.\n\nEven when kids can attend class, schooling does not always lead to learning. An estimated two thirds of 10-year-olds in low- and middle-income countries aren't able to read and understand a simple text.\n\nQuality education is a child's right. To deny it is to threaten their chance at a happy, healthy future.\n\nIn 147 countries around the world, UNICEF works to provide quality learning opportunities that prepare children with the knowledge and skills they need to thrive.\n\nWe make targeted efforts to reach kids and teens who are excluded from education on the basis of gender, disability, ethnicity, language and poverty. Our programmes also prioritize children living through &ndash; or displaced by &ndash; conflict and natural disaster. In many humanitarian emergencies, UNICEF is the largest provider of educational support, working with our UN and local partners.\n\nThrough it all, we focus on closing the gap between what students have and what they need &ndash;  learning in a safe, friendly environment; from qualified, motivated teachers; with tools and languages they can understand. Explore our work across these key areas:\n\nChildren with disabilities face persistent barriers to education stemming from discrimination, stigma and the routine failure of policymakers to address exclusion in school. As a result, they're among the kids most likely to be out of school, and are often placed in segregated schooling. Many miss out on opportunities to learn and develop skills for employment and independent living. UNICEF supports inclusive education as the most effective way for all children to acquire the knowledge and life skills everyone needs to thrive.\n\nInvesting in girls&rsquo; education transforms communities, countries and the entire world. Girls who receive an education are less likely to marry young and more likely to lead healthy, productive lives. They earn higher incomes, contribute to more prosperous societies, and build better futures for their families. But education is more than schooling. It&rsquo;s also about girls feeling safe in classrooms and supported in the subjects they choose to pursue.\n\nEducation in emergencies\n\nEducation is a lifeline for children in crisis. It connects them to so much more than learning. In school, kids find a sense of stability and a place to connect with friends and cope with trauma. Schools can protect children from the physical dangers around them, including exploitation and recruitment into armed groups. Sometimes, school becomes the only place where children can reliably get enough food, water and hygiene supplies.\n\nEarly childhood education\n\nPreschool sets kids up for success. Children enrolled in at least one year of pre-primary education are more likely to develop the critical skills they need to succeed in school and in their communities. Evidence from around the world also shows that pre-primary education helps advance economic development.\n\nStill, nearly half of all children of age are not enrolled in preschool. In low-income countries, roughly 1 in 5 kids are able to attend. Vulnerable children are disproportionately excluded from pre-primary education &ndash; even though it can have the greatest impact on them.\n\nTo ensure no child is left behind, Governments should adopt policies that commit to universal preschool and prioritize the poorest and hardest-to-reach kids.\n\nUNICEF works to give every child a fair start in learning. We support pre-primary education in 129 countries around the globe by:\n\nBuilding political commitment to quality pre-primary education through evidence generation, advocacy and communication.\n\nStrengthening policies and advocating for increased public financing for pre-primary education.\n\nBolstering national capacity to plan and implement quality pre-primary education at scale.\n\nEnhancing the quality of pre-primary programmes by supporting the development of quality standards, curricular frameworks, teacher training packages and more.\n\nCollecting data and generating evidence for innovative approaches that bring quality pre-primary education to vulnerable children.\n\nDelivering conflict-sensitive early childhood education and psychosocial support to young children and their families in humanitarian situations.\n\nThe near universalization of primary schooling is one of the world's great achievements in recent history. In the early 1950s, about 50% of kids were out of school. Today, that figure's dropped to 11%.\n\nStill, the most marginalized children remain cut off from primary education, deprived of their right to develop foundational literacy and numeracy skills. An estimated 70% of 10-year-olds in low- and middle-income countries are unable to understand a simple written text. Children living in emergency and fragile settings also have fewer chances to complete primary school. As do girls, in some parts of the world.\n\nEven for students who are in school, far too many don't learn the critical foundational skills they need to thrive.\n\nTo get every child in school and learning, global efforts must be concentrated on reaching the most marginalized while enhancing the quality of primary education. This requires political commitment and targeted strategies to strengthen education systems with equitable financing and resource distribution.\n\nTogether with governments and partners, UNICEF is working to:\n\nBuild political commitment for quality primary education that leads to effective learning outcomes through evidence generation, advocacy and communication.\n\nAdvocate for better, equitable financing and distribution of education resources for primary education.\n\nSupport access to quality formal education , focusing on the most marginalized.\n\nStrengthen non-formal education and alternative models like catch-up classes, bridging and accelerated education, and skills development.\n\nStrengthen the capacity of countries to plan and implement quality education at scale , including through evidence-based interventions that contribute to foundational literacy and numeracy outcomes.\n\nChampion and leverage digital learning modalities as platforms to support access to quality primary education.\n\nAdolescent education and skills\n\nChildren need education and skills to become lifelong learners, secure productive work and positively engage in their communities.\n\nBut by the time they hit adolescence (ages 10&ndash;19), too many kids haven't acquired the basic skills &ndash; like transferable, digital and job-specific skills &ndash; needed to thrive as adults. Some aren't even able to reach minimum proficiency levels in reading and math.\n\nConcerted investment and coordination to strengthen education systems is needed so that all adolescents, especially the most marginalized, can acquire skills that help them fulfil their potential.\n\nSince skills development takes place at various stages in life, UNICEF programming is anchored in a multiple-pathways approach that helps us meet kids where they are. We work closely with governments and partners so that every 5-year-old is ready to learn, every 10-year-old is ready to succeed in school, and every 18-year-old is prepared for life and work.\n\nIn both humanitarian and development contexts, we improve the quality and reach of education and training programmes that develop the skills, knowledge and outlooks adolescents need to participate meaningfully in society. This includes mainstreaming skills development in school curricula, while providing alternative pathways for continued education.\n\nIn schools and in communities, UNICEF:\n\nSupports skills development opportunities through curricular and extracurricular programmes.\n\nPromotes flexible, alternative and certified learning programmes to prepare adolescents &ndash; especially those who have been uprooted by war, violence and poverty &ndash; to re-enter school or transition to work.\n\nSupports community-based opportunities for non-formal skills development and civic engagement.\n\nWe also work with governments and communities to help dismantle barriers to learning for the most marginalized &ndash; especially girls; migrant, refugee and displaced adolescents; those living in poverty; and kids with disabilities.\n\nWhat&rsquo;s more, UNICEF mobilizes financial resources, political support and technical know-how to innovate skills development programmes. In 2018, we spearheaded Generation Unlimited , a global partnership dedicated to connecting all young people to education, training, employment and entrepreneurship.\n\nFor children forced from the classroom due to conflict, climate disaster or even discrimination, digital learning tools may be their only chance at an education. UNICEF works to put innovative learning products in the hands of kids who need them most &ndash; including children with disabilities, those seeking refuge or asylum, and girls. We also help strengthen education systems that serve the most vulnerable, leveraging AI and adaptive tools to improve the quality and reach of schooling.\n\nEducation partnerships\n\nUNICEF is a leader in partnerships that secure every child's right to learn. Our key global initiatives include:\n\nA TIME Best Invention of 2021, the Learning Passport enables high-quality, flexible learning for children anywhere, to close the learning poverty gap.\n\nIf the largest generation of young people in history is prepared for the transition to work, the potential for global progress is unlimited. We enable young people to become productive and engaged members of society.\n\nThe Giga Initiative was launched to connect every school to the internet and every young person to information, opportunity and choice.\n\nEducation Cannot Wait\n\nEducation Cannot Wait is the United Nations global fund for education in emergencies and protracted crises. We support and protect holistic learning outcomes so no one is left behind.\n\nEdTech Hub is a global research partnership that empowers people by giving them the evidence they need to make decisions about technology in education.\n\nGlobal Partnership for Education\n\nGPE is the world&rsquo;s only partnership and fund focused on providing quality education to children in lower-income countries.\n\nGlobal Education Cluster\n\nThe Global Education Cluster works towards a predictable, equitable and well-coordinated response in communities affected by crisis.\n\nUnited Nations Girls' Education Initiative\n\nThrough evidence building, advocacy and action, the UNGEI partnership works to close the gender gap in education.\n\nIn collaboration with the UNESCO Institute for Statistics, this initiative provides governments with actionable data to identify barriers that lead to exclusion and develop policies that put more children on track to complete their education.\n\nOur most searched-for and cited references for researchers, policymakers and journalists.\n\nHow to reduce stress and support student well-being\n\nActivities for teachers to support student mental health.\n\nSelf-care tips for teachers\n\nHow to ease anxiety and reduce the impact of stress on your health\n\nHow can we keep children safe online?\n\nSexual exploitation and abuse is one of the most insidious threats children face online. AI is changing the way they&rsquo;re exposed to it.\n\nWhat is child labour?\n\nMillions of children are subjected to child labour worldwide, with some forced into hazardous work through trafficking.\n\nTogether, we've made a world of difference\n\nUNICEF works in some of the toughest places on earth to protect children's rights and futures. But we can't do it alone. For helping us help them, thank you.\n\nOne month after the floods, efforts to restore education are helping children return to learning in Nepal\n\nDrone strikes destroy more than 330,000 learning materials in Sudan&rsquo;s North Kordofan State\n\nFive years on, Afghan girls still locked out of learning\n\nMore than 2.6 million girls have been banned from secondary schooling since 2021.\n\nShaping the Future of Learning",
+      "language": "en",
+      "category": "Education",
+      "categoryConfidence": 0.82,
+      "categorySignals": [
+        "url_pattern:\\/edu",
+        "url_pattern:\\/education",
+        "title:education",
+        "heading:education",
+        "heading:student",
+        "desc:learn",
+        "desc:school",
+        "body:education(44)",
+        "body:learn(5)",
+        "body:school(14)"
+      ],
+      "contentLengthBytes": 260509,
+      "wordCount": 1840,
+      "statusCode": 200,
+      "fetchTimeMs": 612,
+      "processedAt": "2026-09-24T07:14:00.887Z",
+      "chunkId": "chunk-033",
+      "retryCount": 0
+    },
+    {
+      "id": "doc-history_com-3sp6lk",
+      "url": "https://www.history.com/",
+      "canonicalUrl": "https://www.history.com/",
+      "domain": "history.com",
+      "title": "HISTORY | Topics, Shows and This Day in History | HISTORY",
+      "description": "Fascinating stories from the past you can trust, plus hit shows.",
+      "headings": {
+        "h1": [
+          "HISTORY | Topics, Shows and This Day in History | HISTORY"
+        ],
+        "h2": [
+          "Create a free HISTORY profile to stay in the know.",
+          "Who Was the Real Billy the Kid?",
+          "Trending",
+          "Today&#x27;s Picks",
+          "Holy Marvels with Dennis Quaid",
+          "On the Trail of Noah&#x27;s Ark",
+          "This Day in History",
+          "Games!",
+          "Constitutional Amendments Quiz",
+          "This Week in History Quiz: September 13-19",
+          "World’s Oldest Things Quiz",
+          "American Colonies Quiz",
+          "Now Streaming on HISTORY",
+          "Fall Themes",
+          "Fall Equinox 2026",
+          "HISTORY Honors 250",
+          "250 Objects That Tell the Story of America",
+          "250 Events That Shaped America",
+          "250 People Who Shaped America",
+          "HISTORY Honors 250 Hub",
+          "Sponsored Playlist",
+          "The History of Better Sleep",
+          "The Surprising History of Sleep Apnea",
+          "Digital Exclusive"
+        ],
+        "h3": [
+          "The Mystery of ‘Woodhenge’ and Its Connection to the Equinox",
+          "The Roman Legacy of Triumphal Arches",
+          "How Fall Colors Turned New England Into a Leaf Peeping Hot Spot",
+          "‘Pumpkin Spice’ Has Been a Thing for 3,500 Years",
+          "How Pickling Helped Early American Colonists Survive",
+          "Apples Were Once As Good As Gold",
+          "Sleep Apnea in the Oval Office",
+          "The Strange History of Sleep Apnea Treatments",
+          "A Man Searches for His Wife During the 9/11 Attacks",
+          "A Race Against Time in the South Tower",
+          "25 Years Later, Felipe Oyola Returns to Ground Zero",
+          "How Bob Small Escaped the South Tower"
+        ]
+      },
+      "mainText": "HISTORY | Topics, Shows and This Day in History | HISTORY HISTORY | Topics, Shows and This Day in History | HISTORY\n\nWho Was the Real Billy the Kid?\n\nOrphaned at 14, Billy the Kid became one of the Wild West’s most legendary outlaws. But how much of his reputation matches the real man?\n\nWhen Roald Dahl Spied on the United States\n\nName That Founding Father!\n\nHow the First Latino Congressman Had to Fight for His Seat\n\nThe Mystery of ‘Woodhenge’ and Its Connection to the Equinox\n\nThe Roman Legacy of Triumphal Arches\n\nHoly Marvels with Dennis Quaid\n\nOn the Trail of Noah&#x27;s Ark\n\nNoah&#x27;s great flood may have been inspired by actual events, at least according to one expert. If so, could the boat have survived?\n\nConstitutional Amendments Quiz\n\nThis Week in History Quiz: September 13-19\n\nWorld’s Oldest Things Quiz\n\nAmerican Colonies Quiz\n\nNow Streaming on HISTORY\n\nThe fall equinox is the first day of autumn in the Northern Hemisphere. Arriving in September, the day has spawned rituals in many cultures.\n\nHow Fall Colors Turned New England Into a Leaf Peeping Hot Spot\n\nSince New England’s forests regenerated in the 1800s, visitors have been ogling its patchwork of fall colors.\n\n‘Pumpkin Spice’ Has Been a Thing for 3,500 Years\n\nA key ingredient in the flavor was discovered on ancient pottery shards in Indonesia, revealing it has been around for a long, looooong time.\n\nHow Pickling Helped Early American Colonists Survive\n\nFamilies packed everything from cabbage to watermelon rinds to pork, beef and fish to sustain food supplies into the winter months.\n\nApples Were Once As Good As Gold\n\nIn the colonial era, people used hard apple cider as payment.\n\n250 Objects That Tell the Story of America\n\n250 Events That Shaped America\n\n250 People Who Shaped America\n\nHISTORY Honors 250 Hub\n\nSign up for Inside History\n\nGet fascinating history stories twice a week that connect the past with today’s world, plus an in-depth exploration every Friday.\n\nThe History of Better Sleep\n\nExplore the surprising history of sleep apnea, from Dickens and presidents to strange devices and modern treatment breakthroughs.\n\nThe Surprising History of Sleep Apnea\n\nFrom Dickens’ Pickwick Papers to modern Inspire® therapy, explore how sleep apnea treatment has evolved over nearly two centuries.\n\nSleep Apnea in the Oval Office\n\nTwo former presidents may have shown signs of sleep apnea long before modern science gave the condition a name.\n\nThe Strange History of Sleep Apnea Treatments\n\nFrom strange anti-snoring devices to Inspire® therapy, see how sleep apnea treatment evolved through one patient’s experience.\n\nFirst-person interviews and visual effects bring to life the experiences of those who were inside the towers on 9/11.\n\nA Man Searches for His Wife During the 9/11 Attacks\n\nA Race Against Time in the South Tower\n\n25 Years Later, Felipe Oyola Returns to Ground Zero\n\nHow Bob Small Escaped the South Tower",
+      "language": "en",
+      "category": "Education",
+      "categoryConfidence": 0.27,
+      "categorySignals": [
+        "heading:quiz",
+        "body:quiz(4)"
+      ],
+      "contentLengthBytes": 678967,
+      "wordCount": 477,
+      "statusCode": 200,
+      "fetchTimeMs": 419,
+      "processedAt": "2026-09-24T07:14:02.560Z",
+      "chunkId": "chunk-033",
+      "retryCount": 0
+    }
+  ]
+}

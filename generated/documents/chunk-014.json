@@ -1,0 +1,332 @@
+{
+  "chunkId": "chunk-014",
+  "filename": "chunk-014.json",
+  "documentCount": 6,
+  "totalBytes": 268414,
+  "createdAt": "2026-09-24T07:15:54.831Z",
+  "documents": [
+    {
+      "id": "doc-gnu_org-zszdmn",
+      "url": "https://www.gnu.org/",
+      "canonicalUrl": "https://www.gnu.org/",
+      "domain": "gnu.org",
+      "title": "The GNU Operating System and the Free Software Movement",
+      "description": "Since 1983, developing the free Unix style operating system GNU, so that computer users can have the freedom to share and improve the software they use.",
+      "headings": {
+        "h1": [],
+        "h2": [
+          "What is GNU?",
+          "What is the Free Software Movement?",
+          "What is Free Software?",
+          "More about GNU"
+        ],
+        "h3": [
+          "Planet GNU",
+          "Take Action"
+        ]
+      },
+      "mainText": "The GNU Operating System and the Free Software Movement Skip to main text Free Software Supporter : JOIN THE FSF GNU Operating System Supported by the Free Software Foundation\n\nGNU is the only operating system developed specifically to give its users freedom. What is GNU, and what freedom is at stake?\n\nEscape to Freedom: A video from the FSF\n\nGNU is an operating system that is free software &mdash;that is, it respects users' freedom. The GNU operating system consists of GNU packages (programs specifically released by the GNU Project) as well as free software released by third parties. The development of GNU made it possible to use a computer without software that would trample your freedom.\n\nWe recommend installable versions of GNU (more precisely, GNU/Linux distributions) which are entirely free software. More about GNU below .\n\n... or Try parts of GNU\n\nWhat is the Free Software Movement?\n\nThe free software movement campaigns to win for the users of computing the freedom that comes from free software. Free software puts its users in control of their own computing. Nonfree software puts its users under the power of the software's developer. See the video explanation .\n\nWhat is Free Software?\n\nFree software means the users have the freedom to run, copy, distribute, study, change and improve the software.\n\nFree software is a matter of liberty, not price. To understand the concept, you should think of &ldquo;free&rdquo; as in &ldquo;free speech,&rdquo; not as in &ldquo;free beer.&rdquo;\n\nMore precisely, free software means users of a program have the four essential freedoms :\n\nThe freedom to run the program as you wish, for any purpose (freedom 0).\n\nThe freedom to study how the program works, and change it so it does your computing as you wish (freedom 1). Access to the source code is a precondition for this.\n\nThe freedom to redistribute copies so you can help others (freedom 2).\n\nThe freedom to distribute copies of your modified versions to others (freedom 3). By doing this you can give the whole community a chance to benefit from your changes. Access to the source code is a precondition for this.\n\nDevelopments in technology and network use have made these freedoms even more important now than they were in 1983.\n\nNowadays the free software movement goes far beyond developing the GNU system. See the Free Software Foundation's web site for more about what we do, and a list of ways you can help .\n\nGNU is a Unix-like operating system. That means it is a collection of many programs: applications, libraries, developer tools, even games. The development of GNU, started in January 1984, is known as the GNU Project. Many of the programs in GNU are released under the auspices of the GNU Project; those we call GNU packages .\n\nThe name &ldquo;GNU&rdquo; is a recursive acronym for &ldquo;GNU's Not Unix.&rdquo; &ldquo;GNU&rdquo; is pronounced g'noo , as one syllable, like saying &ldquo;grew&rdquo; but replacing the r with n .\n\nThe program in a Unix-like system that allocates machine resources and talks to the hardware is called the &ldquo;kernel.&rdquo; GNU is typically used with a kernel called Linux. This combination is the GNU/Linux operating system . GNU/Linux is used by millions, though many call it &ldquo;Linux&rdquo; by mistake .\n\nGNU's own kernel, the GNU Hurd , was started in 1990 (before Linux was started). Volunteers continue developing the Hurd because it is an interesting technical project.\n\nThe GNU Project strongly urges the community to communicate in ways that are friendly, welcoming and kind. See the GNU Kind Communications Guidelines .\n\nAs we enjoy great advantages from the inventions of others, we should be glad of an opportunity to serve others by any invention of ours, and this we should do freely and generously. &mdash; Benjamin Franklin, Autobiography\n\nparted-3.8 release [stable] : This is to announce parted-3.8, a stable release. This is the same as the 3.7.14 alpha release except that gnulib has been updated. The full set of changes since...\n\nJoin the FSF for EncryptFest on October 25 : We are excited to announce EncryptFest, a global encryption and privacy-focused event on Sunday, October 25, 2026 from 13:00 15:00 Eastern Daylight...\n\nautomake 1.19 released [stable] : Automake 1.19 released. Announcement: https://lists.gnu ... -09/msg00001...\n\nSupport current FSF campaigns .\n\nSign the petition for freedom in the classroom .\n\nJoin the Copilot Watch Group .\n\nCan you help GNU with any of these projects?\n\nGNU high priority enhancement projects\n\nFree program to subtract background music\n\nCan you contribute to any of the long-term high priority projects ?\n\nCan you help maintain a GNU package ? These packages are looking for maintainers:\n\nhalifax , quickthreads , guile-sdl , superopt , wdiff .\n\nAlso, these packages are looking for co-maintainers:\n\naspell , bison , gnuae , gnubatch , gnubik , gnuspool , metaexchange , powerguru .\n\nSee the package web pages for more information.\n\nShort descriptions for all GNU packages\n\nToday's random package&hellip;\n\nGNU SHMM is a shared memory manager. It can read or write to shared memory. It also supports other commands such as locking or unlocking a block of shared memory identified by key and size. ( doc )\n\nAvailable for this page:\n\n[en]  English   [de]  Deutsch   [el]  ελληνικά   [es]  español   [fa]  فارسی   [fr]  français   [it]  italiano   [ja]  日本語   [nl]  Nederlands   [pt-br]  português   [ru]  русский   [sq]  Shqip   [tr]  Türkçe   [zh-cn]  简体中文   [zh-tw]  繁體中文  \n\n&ldquo;The Free Software Foundation (FSF) is a nonprofit with a worldwide mission to promote computer user freedom. We defend the rights of all software users.&rdquo;\n\nThe FSF also has sister organizations in Europe , Latin America and India . Feel free to join them!\n\nPlease send general FSF & GNU inquiries to <gnu@gnu.org> . There are also other ways to contact the FSF. Broken links and other corrections or suggestions can be sent to <webmasters@gnu.org> .\n\nPlease see the Translations README for information on coordinating and contributing translations of this article.\n\nCopyright &copy; 1996-2026 Free Software Foundation , Inc.\n\nThis page is licensed under a Creative Commons Attribution-NoDerivatives 4.0 International License .\n\nCopyright Infringement Notification\n\nUpdated: $Date: 2026/05/24 17:24:06 $",
+      "language": "en",
+      "category": "Technology",
+      "categoryConfidence": 0.8,
+      "categorySignals": [
+        "title:software",
+        "title_phrase:operating system",
+        "heading:software",
+        "desc:software",
+        "desc_phrase:operating system",
+        "body:software(23)",
+        "body:computing(3)",
+        "body:linux(6)",
+        "body:kernel(3)"
+      ],
+      "contentLengthBytes": 31545,
+      "wordCount": 1014,
+      "statusCode": 200,
+      "fetchTimeMs": 4683,
+      "processedAt": "2026-09-24T07:10:52.440Z",
+      "chunkId": "chunk-014",
+      "retryCount": 0
+    },
+    {
+      "id": "doc-mozilla_org-hp5kya",
+      "url": "https://www.mozilla.org/en-US/",
+      "canonicalUrl": "https://www.mozilla.org/en-US/",
+      "domain": "mozilla.org",
+      "title": "Mozilla - Internet for people, not profit (US)",
+      "description": "We’re working to put control of the internet back in the hands of the people using it.",
+      "headings": {
+        "h1": [
+          "Welcome to Mozilla"
+        ],
+        "h2": [
+          "Help us improve your Mozilla experience",
+          "Firefox browsers",
+          "Mozilla VPN",
+          "Mozilla Monitor",
+          "Firefox Relay",
+          "MDN Plus",
+          "Thunderbird",
+          "Solo",
+          "0DIN",
+          "Tabstack",
+          "Otari",
+          "About Mozilla",
+          "The Mozilla Manifesto",
+          "Get Involved",
+          "Blog",
+          "Mozilla Foundation",
+          "Mozilla.ai",
+          "Mozilla Ventures",
+          "Mozilla Advertising",
+          "Mozilla Builders",
+          "Mozilla New Products",
+          "Love the internet again",
+          "Donate to Mozilla Foundation",
+          "Join the movement: AI for the people",
+          "State of Mozilla",
+          "Explore issues shaping the future of the internet",
+          "Company",
+          "Support",
+          "Developers",
+          "Follow @Mozilla",
+          "Follow @Firefox"
+        ],
+        "h3": [
+          "Mozilla Data Collective",
+          "Owners, Not Renters",
+          "A Rebel Alliance?",
+          "Mozilla Ventures",
+          "A Double Bottom Line for Tech",
+          "Otari",
+          "You, AI and the internet — what’s really going on?",
+          "Open Source AI Is Winning",
+          "Nothing Personal",
+          "Get Firefox news",
+          "Thanks!"
+        ]
+      },
+      "mainText": "From trustworthy tech to policies that defend your digital rights, we put you first — always.\n\nLove the internet again\n\nBreak free from big tech — our products put you in control of a safer, more private internet experience.\n\nFirefox : Get the gold standard for browsing with speed, privacy and control.\n\nThunderbird : Go chaos-free with one app for all your emails, calendars and contacts.\n\nMozilla VPN : Keep your location and online adventures private — stream like a local, anywhere.\n\nMozilla Monitor : Get a heads-up if your personal info is at risk and lock it down like a pro.\n\nFirefox Relay : Mask your email and phone number so you only get the messages you want.\n\nSolo : Instantly create a beautiful website so you can grow your business.\n\n0DIN : Secure your AI by finding and fixing GenAI vulnerabilities before attackers do.\n\nTabstack : Reliably automate web tasks with a simple developer-focused API.\n\nDonate to Mozilla Foundation\n\nMozilla Foundation is building a future where technology is powered by people, and open by design. That’s why we fuel community-centered tech through advocacy, education, funding, and innovation — to make sure that the future of tech is good for everyone. But that’s only possible if we do it together. We’re proudly non-profit. Will you donate to Mozilla today?\n\nJoin the movement: AI for the people\n\nOur mission is to make it easy for people to build with, and collaborate on, open-source, trustworthy AI.\n\nMozilla Data Collective\n\nProduct Mozilla Data Collective is rebuilding the AI data ecosystem with communities at the center.\n\nProduct Join our new Open Source AI community.\n\nImpact How Mozilla is taking on AI Industry Heavyweights.\n\nProgram Got an early-stage startup? Pitch your company to Mozilla Ventures and secure funding to drive positive change for the future of AI and the internet.\n\nA Double Bottom Line for Tech\n\nEvent Mark Surman discusses how we can build a tech ecosystem with a double bottom line — one that values both mission and money.\n\nProduct Otari eliminates the complexity of managing multiple AI providers by unifying routing, security, budgeting, failover, and auditing behind a single API endpoint.\n\nYou, AI and the internet — what’s really going on?\n\nType Author(s) Topic Intro\n\nArticle Fast Company News Mozilla’s new AI strategy marks a return to its ‘rebel alliance’ roots\n\nArticle Mozilla Open Source AI Mozilla and Mila announce strategic research partnership\n\nVideo Mozilla Products Why Firefox is Letting You Turn Off AI\n\nArticle Le Monde News AI summit in India pushes a 'third way' between US and China\n\nVideo Impact Alpha Products (Human) agents of impact are shaping the algorithm for ‘good AI’\n\nArticle Rest of World News Fed up with Big Tech, communities turn to data collectives for control\n\nArticle Mozilla Foundation Open Source AI Our first Democracy x AI incubator cohort is announced\n\nArticle Marketplace Privacy & Security Who should get an AI kill switch?\n\nArticle Mark Surman Artificial Intelligence Mozilla President: meet the open source ‘rebel alliance’ that could break Big Tech’s grip on AI\n\nArticle The Register Products Mozilla throws Thunderbolt at enterprise AI providers\n\nArticle Raffi Krikorian Privacy & Security New York Times: It’s the End of the Internet As We Know It\n\nWe’re at a crossroads for the future of technology, with Big AI companies consolidating power. The 2025 State of Mozilla report is an invitation to choose a different future together.\n\nExplore issues shaping the future of the internet\n\nOpen Source AI Is Winning\n\nAt a critical moment for the future of AI, our inaugural, annual survey looks at where open AI is winning, and where it is exposed.\n\nOur new magazine for independent thinkers, technologists, and creatives on the front lines of digital culture.",
+      "language": "en",
+      "category": "News",
+      "categoryConfidence": 0.32,
+      "categorySignals": [
+        "heading:news",
+        "body:news(3)"
+      ],
+      "contentLengthBytes": 116565,
+      "wordCount": 622,
+      "statusCode": 200,
+      "fetchTimeMs": 1390,
+      "processedAt": "2026-09-24T07:10:53.840Z",
+      "chunkId": "chunk-014",
+      "retryCount": 0
+    },
+    {
+      "id": "doc-eclipse_org-aua55e",
+      "url": "https://www.eclipse.org/",
+      "canonicalUrl": "https://www.eclipse.org/",
+      "domain": "eclipse.org",
+      "title": "Eclipse Foundation | Powering Open Innovation",
+      "description": "The Eclipse Foundation hosts 450+ open source projects with vendor-neutral governance, enabling global collaboration in automotive, IoT, cloud, and emerging …",
+      "headings": {
+        "h1": [
+          "Global community, European foundation"
+        ],
+        "h2": [
+          "Membership",
+          "Sponsorship",
+          "Contribute",
+          "Collaborate with us",
+          "Projects",
+          "Industry collaborations",
+          "Core services",
+          "Key initiatives",
+          "Strategic services",
+          "What's happening",
+          "Events",
+          "Developer resources",
+          "Industry insights",
+          "Marketplaces",
+          "The Foundation",
+          "Our members",
+          "More",
+          "Connecting the world through open collaboration",
+          "Together, we turn ideas into impact",
+          "Announcements",
+          "Community news",
+          "Subscribe to our newsletter"
+        ],
+        "h3": [
+          "Explore how you can connect, contribute, and grow with us.",
+          "Open source projects and industry collaborations",
+          "Where our community connects",
+          "Resources to power your open source journey",
+          "There are three ways to get involved:",
+          "Join as a member",
+          "Become a sponsor",
+          "Contribute as an individual"
+        ]
+      },
+      "mainText": "Global community, European foundation\n\nThe Eclipse Foundation empowers our global community with a mature, scalable, and business-friendly environment that drives open source collaboration and innovation.\n\nConnecting the world through open collaboration\n\nCreating global impact\n\nWe are a community of communities, bringing together developers, organisations, and innovators from around the globe to share knowledge, collaborate openly, and turn ideas into lasting real-world impact.\n\nExplore how you can connect, contribute, and grow with us.\n\nResources and services\n\nOpen source projects and industry collaborations\n\nEclipse Foundation has provided a trusted home for open source collaboration for over 20 years. Our proven vendor-neutral governance helps projects grow, thrive, and deliver real-world impact, and we help peers drive shared innovation through strategic industry collaborations.\n\nWhere our community connects\n\nJoin events that bring developers, organisations, and innovators together to learn, share, and collaborate. From local meetups to global conferences, our events inspire ideas, build connections, and celebrate open innovation.\n\nResources to power your open source journey\n\nDiscover the resources, documentation, and services that help open source projects and contributors thrive. From downloads and marketplaces to community programs and learning materials, you’ll find everything you need to collaborate, grow, and make an impact.\n\nBecome a member or a sponsor\n\nTogether, we turn ideas into impact\n\nJoin a global community that’s shaping the future of open source technology. By being part of the Eclipse Foundation ecosystem, you’ll connect with innovators across industries, gain visibility in a trusted global network, and help create technologies that make a lasting impact.\n\nThere are three ways to get involved:\n\nTake an active role in guiding projects, influencing strategy, and helping shape the open technologies that power entire industries.\n\nStrengthen the community, support collaboration, and showcase your leadership in advancing open innovation.\n\nContribute as an individual\n\nTake an active role in guiding projects, influencing strategy, and helping shape the open technologies that power entire industries.",
+      "language": "en",
+      "category": "Technology",
+      "categoryConfidence": 0.2,
+      "categorySignals": [
+        "desc:cloud"
+      ],
+      "contentLengthBytes": 42898,
+      "wordCount": 312,
+      "statusCode": 200,
+      "fetchTimeMs": 2007,
+      "processedAt": "2026-09-24T07:10:55.855Z",
+      "chunkId": "chunk-014",
+      "retryCount": 0
+    },
+    {
+      "id": "doc-python_org-5tzazd",
+      "url": "https://www.python.org/community/",
+      "canonicalUrl": "https://www.python.org/community",
+      "domain": "python.org",
+      "title": "Our Community | Python.org",
+      "description": "The official home of the Python Programming Language",
+      "headings": {
+        "h1": [
+          "Python&rsquo;s community is vast ; diverse & aims to grow ; Python is Open ."
+        ],
+        "h2": [
+          "Getting Started",
+          "Community Survey",
+          "Success Stories",
+          "Python Weekly",
+          "PySlackers",
+          "Python Discord",
+          "Python Developers Community – LinkedIn",
+          "Internet Relay Chat"
+        ],
+        "h3": []
+      },
+      "mainText": "Our Community | Python.org Notice: This page displays a fallback because interactive scripts did not run. Possible causes include disabled JavaScript or failure to load scripts or stylesheets.\n\nNew to the community? Here are some great places to get started:\n\nWe want to be open about how we can improve transparency, provide the community with opportunities to interact with us, and be responsive to raised suggestions.\n\nContribute by filling out the Python Software Foundation Community Survey here . Success Stories\n\nMy experience with the Python community has been awesome. I have met some fantastic people through local meetups and gotten great support.\n\nPython Weekly is a free weekly email newsletter featuring curated news, articles, new releases, jobs, and more. Curated by Rahul Chaudhary every Thursday.\n\nGo to pythonweekly.com to sign up.\n\nPySlackers is a community of Python enthusiasts centered around an open Slack team.\n\nGo to pyslackers.com for more information and to join.\n\nPython Discord is a large community focused around the Python programming language.\n\nGo to pythondiscord.com for more information and to join.\n\nPython Developers Community – LinkedIn\n\nThis is the place where Python Engineers level up their knowledge, skills and network. Exchange technical publications, coding tutorials and other learning resources.\n\nGo to the Python Developers Community on LinkedIn .\n\nLibera.Chat hosts several channels. Select an IRC client , register your nickname with Libera.Chat , and you can be off and running!\n\nLibera.Chat IRC General Channels\n\n#python for general questions\n\n#python-dev for CPython developers",
+      "language": "en",
+      "category": "Programming",
+      "categoryConfidence": 0.74,
+      "categorySignals": [
+        "title:python",
+        "heading:python",
+        "desc:programming",
+        "desc:python",
+        "body:python(11)"
+      ],
+      "contentLengthBytes": 36437,
+      "wordCount": 245,
+      "statusCode": 200,
+      "fetchTimeMs": 739,
+      "processedAt": "2026-09-24T07:10:56.598Z",
+      "chunkId": "chunk-014",
+      "retryCount": 0
+    },
+    {
+      "id": "doc-rust_lang_org-ywdi0u",
+      "url": "https://www.rust-lang.org/learn/get-started",
+      "canonicalUrl": "https://www.rust-lang.org/learn/get-started",
+      "domain": "rust-lang.org",
+      "title": "Getting started - Rust Programming Language",
+      "description": "A language empowering everyone to build reliable and efficient software.",
+      "headings": {
+        "h1": [
+          "Getting started"
+        ],
+        "h2": [
+          "Quickly set up a Rust development environment and write a small app!",
+          "Installing Rust",
+          "Generating a new project",
+          "Adding dependencies",
+          "A small Rust application",
+          "Learn more!",
+          "Who’s this crab, Ferris?"
+        ],
+        "h3": [
+          "Rustup: the Rust installer and version management tool",
+          "Windows Subsystem for Linux",
+          "Is Rust up to date?",
+          "Cargo: the Rust build tool and package manager",
+          "Other tools"
+        ]
+      },
+      "mainText": "Quickly set up a Rust development environment and write a small app!\n\nYou can try Rust online in the Rust Playground without installing anything on your computer.\n\nRustup: the Rust installer and version management tool\n\nThe primary way that folks install Rust is through a tool called Rustup, which is a Rust installer and version management tool.\n\nIt looks like you’re running macOS, Linux, or another Unix-like OS. To download Rustup and install Rust, run the following in your terminal, then follow the on-screen instructions. See \"Other Installation Methods\" if you are on Windows.\n\ncurl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh Copy It looks like you’re running Windows. To start using Rust, download the installer, then run the program and follow the onscreen instructions. You may need to install the Visual Studio C++ Build tools when prompted to do so. If you are not on Windows see \"Other Installation Methods\" .\n\nWindows Subsystem for Linux\n\nIf you’re a Windows Subsystem for Linux user run the following in your terminal, then follow the on-screen instructions to install Rust.\n\ncurl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh Copy To install Rust, if you are running a Unix such as WSL, Linux or macOS, run the following in your terminal, then follow the on-screen instructions.\n\ncurl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh Copy If you are running Windows, download and run rustup‑init.exe then follow the on-screen instructions.\n\nRust updates very frequently. If you have installed Rustup some time ago, chances are your Rust version is out of date. Get the latest version of Rust by running rustup update .\n\nCargo: the Rust build tool and package manager\n\nWhen you install Rustup you’ll also get the latest stable version of the Rust build tool and package manager, also known as Cargo. Cargo does lots of things:\n\nbuild your project with cargo build\n\nrun your project with cargo run\n\ntest your project with cargo test\n\nbuild documentation for your project with cargo doc\n\npublish a library to crates.io with cargo publish\n\nTo test that you have Rust and Cargo installed, you can run this in your terminal of choice:\n\nRust support is available in many editors:\n\nGenerating a new project\n\nLet’s write a small application with our new Rust development environment. To start, we’ll use Cargo to make a new project for us. In your terminal of choice run:\n\nThis will generate a new directory called hello-rust with the following files:\n\nhello-rust |- Cargo.toml |- src |- main.rs Cargo.toml is the manifest file for Rust. It’s where you keep metadata for your project, as well as dependencies.\n\nsrc/main.rs is where we’ll write our application code.\n\nThe cargo new step generated a \"Hello, world!\" project for us! We can run this program by moving into the new directory that we made and running this in our terminal:\n\nYou should see this in your terminal:\n\n$ cargo run Compiling hello-rust v0.1.0 (/Users/ag_dubs/rust/hello-rust) Finished dev [unoptimized + debuginfo] target(s) in 1.34s Running `target/debug/hello-rust` Hello, world! Adding dependencies\n\nLet’s add a dependency to our application. You can find all sorts of libraries on crates.io , the package registry for Rust. In Rust, we often refer to packages as “crates.”\n\nIn this project, we’ll use a crate called ferris-says . In our Cargo.toml file we’ll add this information (that we got from the crate page):\n\n[dependencies] ferris-says = \"0.3.1\" We can also do this by running cargo add ferris-says .\n\n...and Cargo will install our dependency for us.\n\nYou’ll see that running this command created a new file for us, Cargo.lock . This file is a log of the exact versions of the dependencies we are using locally.\n\nTo use this dependency, we can open main.rs , remove everything that’s in there (it’s just another example), and add this line to it:\n\nuse ferris_says::say; This line means that we can now use the say function that the ferris-says crate exports for us.\n\nA small Rust application\n\nNow let’s write a small application with our new dependency. In our main.rs , add the following code:\n\nuse ferris_says::say; // from the previous step use std::io::{stdout, BufWriter}; fn main() { let stdout = stdout(); let message = String::from(\"Hello fellow Rustaceans!\"); let width = message.chars().count(); let mut writer = BufWriter::new(stdout.lock()); say(&message, width, &mut writer).unwrap(); } Once we save that, we can run our application by typing:\n\nAssuming everything went well, you should see your application print this to the screen:\n\n__________________________ -------------------------- \\ \\ _~^~^~_ \\) / o o \\ (/ '_ - _' / '-----' \\ Learn more!\n\nYou’re a Rustacean now! Welcome! We’re so glad to have you. When you’re ready, hop over to our Learn page, where you can find lots of books that will help you to continue on your Rust adventure.\n\nWho’s this crab, Ferris?\n\nFerris is the unofficial mascot of the Rust Community. Many Rust programmers call themselves “Rustaceans,” a play on the word “ crustacean .” We refer to Ferris with any pronouns “she,” “he,” “they,” “it,” etc.\n\nFerris is a name playing off of the adjective, “ferrous,” meaning of or pertaining to iron. Since Rust often forms on iron, it seemed like a fun origin for our mascot’s name!",
+      "language": "en",
+      "category": "Programming",
+      "categoryConfidence": 0.8,
+      "categorySignals": [
+        "domain:rust-lang.org",
+        "title:programming",
+        "title:rust",
+        "heading:rust",
+        "heading:package",
+        "heading:cargo",
+        "body:code(2)",
+        "body:rust(27)",
+        "body:package(3)",
+        "body:cargo(18)"
+      ],
+      "contentLengthBytes": 22594,
+      "wordCount": 865,
+      "statusCode": 200,
+      "fetchTimeMs": 1587,
+      "processedAt": "2026-09-24T07:10:58.193Z",
+      "chunkId": "chunk-014",
+      "retryCount": 0
+    },
+    {
+      "id": "doc-kernel_org-xevvgt",
+      "url": "https://www.kernel.org/doc/html/latest/",
+      "canonicalUrl": "https://www.kernel.org/doc/html/latest",
+      "domain": "kernel.org",
+      "title": "The Linux Kernel documentation — The Linux Kernel documentation",
+      "description": "Working with the development community\n\nAll development-process docs\n\nDevelopment tools and processes\n\nWriting documentation\n\nUser-oriented documentation\n\nFirmware-related documentation\n\nFirmware and ...",
+      "headings": {
+        "h1": [
+          "The Linux Kernel",
+          "The Linux Kernel documentation ¶"
+        ],
+        "h2": [
+          "Working with the development community ¶",
+          "Internal API manuals ¶",
+          "Development tools and processes ¶",
+          "User-oriented documentation ¶",
+          "Firmware-related documentation ¶",
+          "Architecture-specific documentation ¶",
+          "Other documentation ¶",
+          "Translations ¶",
+          "Indices and tables ¶"
+        ],
+        "h3": [
+          "Quick search",
+          "Contents",
+          "This Page"
+        ]
+      },
+      "mainText": "Working with the development community\n\nAll development-process docs\n\nDevelopment tools and processes\n\nWriting documentation\n\nUser-oriented documentation\n\nFirmware-related documentation\n\nFirmware and Devicetree\n\nArchitecture-specific documentation\n\nUnsorted documentation\n\nChinese (Traditional)\n\nPortuguese (Brazilian)\n\nThe Linux Kernel documentation ¶\n\nThis is the top level of the kernel’s documentation tree. Kernel documentation, like the kernel itself, is very much a work in progress; that is especially true as we work to integrate our many scattered documents into a coherent whole. Please note that improvements to the documentation are welcome; join the linux-doc list at vger.kernel.org if you want to help out.\n\nWorking with the development community ¶\n\nThe essential guides for interacting with the kernel’s development community and getting your work upstream.\n\nWorking with the development community\n\nAll development-process docs\n\nInternal API manuals ¶\n\nManuals for use by developers working to interface with the rest of the kernel.\n\nDevelopment tools and processes ¶\n\nVarious other manuals with useful information for all kernel developers.\n\nDevelopment tools and processes\n\nWriting documentation\n\nUser-oriented documentation ¶\n\nThe following manuals are written for users of the kernel — those who are trying to get it to work optimally on a given system and application developers seeking information on the kernel’s user-space APIs.\n\nUser-oriented documentation\n\nSee also: the Linux man pages , which are kept separately from the kernel’s own documentation.\n\nFirmware-related documentation ¶\n\nThe following holds information on the kernel’s expectations regarding the platform firmware.\n\nFirmware-related documentation\n\nFirmware and Devicetree\n\nArchitecture-specific documentation ¶\n\nArchitecture-specific documentation\n\nCPU architectures ARC architecture\n\nLoongArch Architecture\n\nMIPS-specific Documentation\n\nNios II Specific Documentation\n\nOpenRISC Architecture\n\nSuperH Interfaces Guide\n\nx86-specific Documentation\n\nOther documentation ¶\n\nThere are several unsorted documents that don’t seem to fit on other parts of the documentation body, or may require some adjustments and/or conversion to reStructuredText format, or are simply too old.\n\nUnsorted documentation\n\nLa documentazione del kernel Linux\n\nDocumentação do Kernel Linux em Português\n\nTraducción al español",
+      "language": "en",
+      "category": "Technology",
+      "categoryConfidence": 0.8,
+      "categorySignals": [
+        "domain:kernel.org",
+        "title:linux",
+        "title:kernel",
+        "heading:linux",
+        "heading:kernel",
+        "body:linux(4)",
+        "body:kernel(14)",
+        "body:architecture(3)"
+      ],
+      "contentLengthBytes": 18375,
+      "wordCount": 314,
+      "statusCode": 200,
+      "fetchTimeMs": 389,
+      "processedAt": "2026-09-24T07:10:58.589Z",
+      "chunkId": "chunk-014",
+      "retryCount": 0
+    }
+  ]
+}

@@ -1,27 +1,189 @@
 {
   "category": "Science",
-  "documentCount": 2,
-  "updatedAt": "2026-09-24T05:08:13.816Z",
+  "documentCount": 20,
+  "updatedAt": "2026-09-24T07:15:08.996Z",
   "documentIds": [
-    "doc-webb_nasa_gov-hbuwpj",
-    "doc-nature_com-rbglia"
+    "doc-paperswithcode_com-045bg3",
+    "doc-science_nasa_gov-mhxgv6",
+    "doc-nasa_gov-5tf67j",
+    "doc-nasa_gov-k2ixxt",
+    "doc-esa_int-z0amw6",
+    "doc-usgs_gov-aum77m",
+    "doc-energy_gov-n9sjl6",
+    "doc-home_cern-cv3s5g",
+    "doc-home_cern-v4gzgf",
+    "doc-scientificamerican_com-g3he1b",
+    "doc-arxiv_org-u0spdr",
+    "doc-smithsonianmag_com-zj0tp2",
+    "doc-ourworldindata_org-m1xnjt",
+    "doc-ipcc_ch-g598ry",
+    "doc-climate_nasa_gov-2z3jzu",
+    "doc-climate_nasa_gov-9tym27",
+    "doc-nationalgeographic_com-2tzzpu",
+    "doc-earthobservatory_nasa_gov-csm903",
+    "doc-earthdata_nasa_gov-laq8td",
+    "doc-cancer_gov-ghlpix"
   ],
   "items": [
     {
-      "id": "doc-webb_nasa_gov-hbuwpj",
-      "title": "Science Overview – James Webb Space Telescope – NASA",
-      "canonicalUrl": "https://webb.nasa.gov/content/science/overview.html",
-      "domain": "webb.nasa.gov",
-      "description": "Explore the scientific mission of NASA",
-      "confidence": 0.88
+      "id": "doc-paperswithcode_com-045bg3",
+      "title": "Trending Papers - Hugging Face",
+      "canonicalUrl": "https://paperswithcode.com/",
+      "domain": "paperswithcode.com",
+      "description": "Your daily dose of AI research from AK",
+      "confidence": 0.58
     },
     {
-      "id": "doc-nature_com-rbglia",
-      "title": "Quantum Computing Milestones and Coherence Times – Nature Science",
-      "canonicalUrl": "https://www.nature.com/articles/d41586-quantum-computing",
-      "domain": "nature.com",
-      "description": "Peer-reviewed research into superconducting qubits, quantum error correction, and quantum physics coherence times in cryogenic physics laboratories.",
-      "confidence": 0.76
+      "id": "doc-science_nasa_gov-mhxgv6",
+      "title": "NASA Science",
+      "canonicalUrl": "https://science.nasa.gov/",
+      "domain": "science.nasa.gov",
+      "description": "NASA Science seeks to discover the secrets of space, the origins of the universe, search for life elsewhere, and protect and improve life on Earth.",
+      "confidence": 0.86
+    },
+    {
+      "id": "doc-nasa_gov-5tf67j",
+      "title": "NASA",
+      "canonicalUrl": "https://www.nasa.gov/",
+      "domain": "nasa.gov",
+      "description": "NASA.gov brings you the latest news, images and videos from America's space agency, pioneering the future in space exploration, scientific discovery and aeronautics research.",
+      "confidence": 0.89
+    },
+    {
+      "id": "doc-nasa_gov-k2ixxt",
+      "title": "Learning Resources - NASA",
+      "canonicalUrl": "https://www.nasa.gov/learning-resources/",
+      "domain": "nasa.gov",
+      "description": "We’re launching learning to new heights with STEM resources that connect educators, students, parents and caregivers to the inspiring work at NASA. Find your place in space!",
+      "confidence": 0.77
+    },
+    {
+      "id": "doc-esa_int-z0amw6",
+      "title": "ESA - Science & Exploration",
+      "canonicalUrl": "https://www.esa.int/Science_Exploration",
+      "domain": "esa.int",
+      "description": "Exploring our Solar System and unlocking the secrets of the Universe",
+      "confidence": 0.8
+    },
+    {
+      "id": "doc-usgs_gov-aum77m",
+      "title": "USGS.gov | Science for a changing world",
+      "canonicalUrl": "https://www.usgs.gov/home",
+      "domain": "usgs.gov",
+      "description": "We provide science about the natural hazards that threaten lives and livelihoods; the water, energy, minerals, and other natural resources we rely on; the health of our ecosystems and environment; and the impacts of climate and land-use change. Our scientists develop new methods and tools to supply timely, relevant, and useful information about the Earth and its processes.",
+      "confidence": 0.59
+    },
+    {
+      "id": "doc-energy_gov-n9sjl6",
+      "title": "Office of Science | Department of Energy",
+      "canonicalUrl": "https://www.energy.gov/science/office-science",
+      "domain": "energy.gov",
+      "description": "Office of Science Summary",
+      "confidence": 0.85
+    },
+    {
+      "id": "doc-home_cern-cv3s5g",
+      "title": "Science – Home | CERN",
+      "canonicalUrl": "https://home.cern/science/",
+      "domain": "home.cern",
+      "description": "CERN’s physics programme ranges from nuclear to high-energy physics and from studies of antimatter to the possible effects of cosmic rays on clouds.\n\nParticle accelerators propel sub-atomic particles ...",
+      "confidence": 0.74
+    },
+    {
+      "id": "doc-home_cern-v4gzgf",
+      "title": "Physics – Home | CERN",
+      "canonicalUrl": "https://home.cern/science/physics/",
+      "domain": "home.cern",
+      "description": "The research programme at CERN covers topics from the basic structure of matter to cosmic rays, and from the Standard Model to supersymmetry\n\nCERN’s main focus is particle physics – the study of the f...",
+      "confidence": 0.83
+    },
+    {
+      "id": "doc-scientificamerican_com-g3he1b",
+      "title": "Scientific American",
+      "canonicalUrl": "https://www.scientificamerican.com/",
+      "domain": "scientificamerican.com",
+      "description": "Scientific American is the essential guide to the most awe-inspiring advances in science and technology, explaining how they change our understanding of the world and shape our lives.",
+      "confidence": 0.86
+    },
+    {
+      "id": "doc-arxiv_org-u0spdr",
+      "title": "arXiv.org e-Print archive",
+      "canonicalUrl": "https://arxiv.org/",
+      "domain": "arxiv.org",
+      "description": "arXiv is a free distribution service and an open-access archive for nearly 2.4 million scholarly articles in the fields of physics, mathematics, computer science, quantitative biology, quantitative fi...",
+      "confidence": 0.82
+    },
+    {
+      "id": "doc-smithsonianmag_com-zj0tp2",
+      "title": "Smithsonian Magazine: Explore History, Science, Arts & Culture",
+      "canonicalUrl": "https://www.smithsonianmag.com/",
+      "domain": "smithsonianmag.com",
+      "description": "Discover the latest stories in history, archaeology, science, arts and culture from one of the top news magazines. Smithsonian Magazine brings you compelling, in-depth articles every day.",
+      "confidence": 0.61
+    },
+    {
+      "id": "doc-ourworldindata_org-m1xnjt",
+      "title": "Our World in Data",
+      "canonicalUrl": "https://ourworldindata.org/",
+      "domain": "ourworldindata.org",
+      "description": "Research and data to make progress against the world’s largest problems.",
+      "confidence": 0.29
+    },
+    {
+      "id": "doc-ipcc_ch-g598ry",
+      "title": "IPCC — Intergovernmental Panel on Climate Change",
+      "canonicalUrl": "https://www.ipcc.ch/",
+      "domain": "ipcc.ch",
+      "description": "IPCC-65 Vacancies Through its assessments, the IPCC determines the state of knowledge on climate change. It identifies where there is agreement in the scientific community on topics related to climate...",
+      "confidence": 0.51
+    },
+    {
+      "id": "doc-climate_nasa_gov-2z3jzu",
+      "title": "Climate Change - NASA Science",
+      "canonicalUrl": "https://science.nasa.gov/climate-change/",
+      "domain": "climate.nasa.gov",
+      "description": "NASA is a global leader in studying Earth’s changing climate.",
+      "confidence": 0.84
+    },
+    {
+      "id": "doc-climate_nasa_gov-9tym27",
+      "title": "Climate Change - NASA Science",
+      "canonicalUrl": "https://science.nasa.gov/climate-change/",
+      "domain": "climate.nasa.gov",
+      "description": "NASA is a global leader in studying Earth’s changing climate.",
+      "confidence": 0.84
+    },
+    {
+      "id": "doc-nationalgeographic_com-2tzzpu",
+      "title": "Environment | National Geographic",
+      "canonicalUrl": "https://www.nationalgeographic.com/environment",
+      "domain": "nationalgeographic.com",
+      "description": "From deforestation to pollution, environmental challenges are growing—but so are the solutions. Our environment coverage explores the world’s environmental issues through stories on groundbreaking research and inspiring individuals making a difference for our planet.",
+      "confidence": 0.51
+    },
+    {
+      "id": "doc-earthobservatory_nasa_gov-csm903",
+      "title": "Earth Observatory - NASA Science",
+      "canonicalUrl": "https://science.nasa.gov/earth/earth-observatory/",
+      "domain": "earthobservatory.nasa.gov",
+      "description": "NASA's Earth Observatory brings you the Earth, every day: images, stories, and discoveries about the environment, Earth systems, and climate.",
+      "confidence": 0.82
+    },
+    {
+      "id": "doc-earthdata_nasa_gov-laq8td",
+      "title": "Your Gateway to NASA Earth Observation Data | NASA Earthdata",
+      "canonicalUrl": "https://www.earthdata.nasa.gov/",
+      "domain": "earthdata.nasa.gov",
+      "description": "Earthdata is the home for full and open access to NASA's Earth science data collections, accelerating scientific advancement for societal benefit.",
+      "confidence": 0.77
+    },
+    {
+      "id": "doc-cancer_gov-ghlpix",
+      "title": "Comprehensive Cancer Information - NCI",
+      "canonicalUrl": "https://www.cancer.gov/",
+      "domain": "cancer.gov",
+      "description": "Accurate, up-to-date, comprehensive cancer information from the U.S. government's principal agency for cancer research.",
+      "confidence": 0.62
     }
   ]
 }

@@ -1,0 +1,338 @@
+{
+  "chunkId": "chunk-013",
+  "filename": "chunk-013.json",
+  "documentCount": 6,
+  "totalBytes": 989001,
+  "createdAt": "2026-09-24T07:15:54.831Z",
+  "documents": [
+    {
+      "id": "doc-docs_github_com-vv94lw",
+      "url": "https://docs.github.com/en/pull-requests",
+      "canonicalUrl": "https://docs.github.com/en/pull-requests",
+      "domain": "docs.github.com",
+      "title": "Pull requests documentation - GitHub Docs",
+      "description": "Discover how to create, review, and merge pull requests, resolve merge conflicts, and work with forks.",
+      "headings": {
+        "h1": [
+          "Pull requests documentation"
+        ],
+        "h2": [
+          "Pull requests",
+          "Recommended",
+          "Articles",
+          "Help and support"
+        ],
+        "h3": [
+          "About pull requests",
+          "Branches",
+          "Creating a pull request",
+          "About forks",
+          "About stacked pull requests",
+          "Allowing changes to a pull request branch created from a fork",
+          "Approving a pull request with required reviews",
+          "Automatically merging a pull request",
+          "Changing a commit message",
+          "Changing the base branch of a pull request",
+          "Was this Doc helpful?",
+          "Help us make GitHub Docs great!",
+          "Still need help?"
+        ]
+      },
+      "mainText": "Pull requests documentation\n\nDiscover how to create, review, and merge pull requests, resolve merge conflicts, and work with forks.\n\nUse pull requests to propose, discuss, and merge changes on GitHub.\n\nUse branches in GitHub to isolate development work, manage default branches, and collaborate effectively using pull requests and branch protections.\n\nCreating a pull request\n\nCreate a pull request to propose changes to the code in a repository.\n\nUse forks to make changes in your own copy of a repository and propose them back to the original project.\n\nUse pull requests to propose, discuss, and merge changes on GitHub.\n\nAbout stacked pull requests\n\nBreak large code changes into a chain of smaller, dependent pull requests you can review and merge independently.\n\nAllowing changes to a pull request branch created from a fork\n\nEnable collaboration by allowing repository maintainers to commit changes to pull request branches created from forks in your personal account.\n\nApproving a pull request with required reviews\n\nApprove pull requests with required reviews, including setting approval rules, reviewing changes, and submitting feedback before merging.\n\nAutomatically merging a pull request\n\nEnable or disable auto-merge for pull requests to streamline your workflow and automatically merge changes once all requirements are met.\n\nUse branches in GitHub to isolate development work, manage default branches, and collaborate effectively using pull requests and branch protections.\n\nChanging a commit message\n\nAmend unclear, incorrect, or sensitive commit messages locally and push updated commits to GitHub, including steps for editing recent or older commits.\n\nChanging the base branch of a pull request\n\nModify the base branch of an open pull request to compare changes against a different branch and ensure accurate updates.",
+      "language": "en",
+      "category": "Programming",
+      "categoryConfidence": 0.82,
+      "categorySignals": [
+        "domain:github.com",
+        "title:github",
+        "title_phrase:pull request",
+        "heading:github",
+        "heading:commit",
+        "heading_phrase:pull request",
+        "desc_phrase:pull request",
+        "body:code(2)",
+        "body:repository(3)",
+        "body:github(5)"
+      ],
+      "contentLengthBytes": 201963,
+      "wordCount": 274,
+      "statusCode": 200,
+      "fetchTimeMs": 786,
+      "processedAt": "2026-09-24T07:10:37.634Z",
+      "chunkId": "chunk-013",
+      "retryCount": 0
+    },
+    {
+      "id": "doc-docs_github_com-rkyjkw",
+      "url": "https://docs.github.com/en/rest",
+      "canonicalUrl": "https://docs.github.com/en/rest",
+      "domain": "docs.github.com",
+      "title": "GitHub REST API documentation - GitHub Docs",
+      "description": "Create integrations, retrieve data, and automate your workflows with the GitHub REST API.",
+      "headings": {
+        "h1": [
+          "GitHub REST API documentation"
+        ],
+        "h2": [
+          "REST API",
+          "Recommended",
+          "Articles",
+          "Help and support"
+        ],
+        "h3": [
+          "Quickstart for GitHub REST API",
+          "Getting started with the REST API",
+          "Authenticating to the REST API",
+          "About the OpenAPI description for the REST API",
+          "About the REST API",
+          "API Versions",
+          "Best practices for using the REST API",
+          "Billing usage",
+          "Breaking changes",
+          "Budgets",
+          "Building a CI server",
+          "Was this Doc helpful?",
+          "Help us make GitHub Docs great!",
+          "Still need help?"
+        ]
+      },
+      "mainText": "GitHub REST API documentation\n\nCreate integrations, retrieve data, and automate your workflows with the GitHub REST API.\n\nQuickstart for GitHub REST API\n\nLearn how to get started with the GitHub REST API.\n\nGetting started with the REST API\n\nLearn how to use the GitHub REST API.\n\nAuthenticating to the REST API\n\nYou can authenticate to the REST API to access more endpoints and have a higher rate limit.\n\nAbout the OpenAPI description for the REST API\n\nThe GitHub REST API is fully described in an OpenAPI compliant document.\n\nGet oriented to the REST API documentation.\n\nLearn how to specify which REST API version to use whenever you make a request to the REST API.\n\nAuthenticating to the REST API\n\nYou can authenticate to the REST API to access more endpoints and have a higher rate limit.\n\nBest practices for using the REST API\n\nFollow these best practices when using GitHub&#x27;s API.\n\nUse the REST API to get billing usage information.\n\nLearn about breaking changes that were introduced in each REST API version.\n\nUse the REST API to get budget information.\n\nBuild your own CI system using the Status API.",
+      "language": "en",
+      "category": "Programming",
+      "categoryConfidence": 0.82,
+      "categorySignals": [
+        "domain:github.com",
+        "title:github",
+        "title:api",
+        "heading:github",
+        "heading:api",
+        "desc:github",
+        "desc:api",
+        "body:github(7)",
+        "body:api(21)"
+      ],
+      "contentLengthBytes": 414622,
+      "wordCount": 189,
+      "statusCode": 200,
+      "fetchTimeMs": 1699,
+      "processedAt": "2026-09-24T07:10:39.348Z",
+      "chunkId": "chunk-013",
+      "retryCount": 0
+    },
+    {
+      "id": "doc-docs_github_com-gmw4t3",
+      "url": "https://docs.github.com/en/graphql",
+      "canonicalUrl": "https://docs.github.com/en/graphql",
+      "domain": "docs.github.com",
+      "title": "GitHub GraphQL API documentation - GitHub Docs",
+      "description": "To create integrations, retrieve data, and automate your workflows, use the GitHub GraphQL API. The GitHub GraphQL API offers more precise and flexible queries than the GitHub REST API.",
+      "headings": {
+        "h1": [
+          "GitHub GraphQL API documentation"
+        ],
+        "h2": [
+          "GraphQL API",
+          "Recommended",
+          "Articles",
+          "Help and support"
+        ],
+        "h3": [
+          "About the GraphQL API",
+          "Introduction to GraphQL",
+          "Forming calls with GraphQL",
+          "Actions",
+          "Activity",
+          "Branches",
+          "Breaking changes",
+          "Checks",
+          "Code scanning",
+          "Commits",
+          "Copilot",
+          "Was this Doc helpful?",
+          "Help us make GitHub Docs great!",
+          "Still need help?"
+        ]
+      },
+      "mainText": "GitHub GraphQL API documentation\n\nTo create integrations, retrieve data, and automate your workflows, use the GitHub GraphQL API. The GitHub GraphQL API offers more precise and flexible queries than the GitHub REST API.\n\nAbout the GraphQL API\n\nThe GitHub GraphQL API offers flexibility and the ability to define precisely the data you want to fetch.\n\nIntroduction to GraphQL\n\nLearn useful terminology and concepts for using the GitHub GraphQL API.\n\nForming calls with GraphQL\n\nLearn how to authenticate to the GraphQL API, then learn how to create and run queries and mutations.\n\nAbout the GraphQL API\n\nThe GitHub GraphQL API offers flexibility and the ability to define precisely the data you want to fetch.\n\nReference documentation for GraphQL schema types in the Actions category.\n\nReference documentation for GraphQL schema types in the Activity category.\n\nReference documentation for GraphQL schema types in the Branches category.\n\nLearn about recent and upcoming breaking changes to the GitHub GraphQL API.\n\nReference documentation for GraphQL schema types in the Checks category.\n\nReference documentation for GraphQL schema types in the Code scanning category.\n\nReference documentation for GraphQL schema types in the Commits category.\n\nReference documentation for GraphQL schema types in the Copilot category.",
+      "language": "en",
+      "category": "Programming",
+      "categoryConfidence": 0.74,
+      "categorySignals": [
+        "domain:github.com",
+        "title:github",
+        "title:api",
+        "heading:code",
+        "heading:github",
+        "heading:api",
+        "desc:github",
+        "desc:api",
+        "body:github(8)",
+        "body:api(11)"
+      ],
+      "contentLengthBytes": 151027,
+      "wordCount": 196,
+      "statusCode": 200,
+      "fetchTimeMs": 707,
+      "processedAt": "2026-09-24T07:10:40.061Z",
+      "chunkId": "chunk-013",
+      "retryCount": 0
+    },
+    {
+      "id": "doc-opensource_guide-767mc5",
+      "url": "https://opensource.guide/",
+      "canonicalUrl": "https://opensource.guide/",
+      "domain": "opensource.guide",
+      "title": "Open Source Guides | Learn how to launch and grow your project.",
+      "description": "Learn how to launch and grow your project.",
+      "headings": {
+        "h1": [
+          "Open Source Guides"
+        ],
+        "h2": [],
+        "h3": [
+          "Accessibility Best Practices for Your Project",
+          "Security Best Practices for your Project",
+          "Maintaining Balance for Open Source Maintainers",
+          "How to Contribute to Open Source",
+          "Starting an Open Source Project",
+          "Finding Users for Your Project",
+          "Building Welcoming Communities",
+          "Best Practices for Maintainers",
+          "Leadership and Governance",
+          "Getting Paid for Open Source Work",
+          "Your Code of Conduct",
+          "Open Source Metrics",
+          "The Legal Side of Open Source",
+          "Contribute",
+          "Stay in touch"
+        ]
+      },
+      "mainText": "العربية Беларуская Български Bangla Deutsch Ελληνικά English Español Farsi Français Hindi Magyar Indonesia Italiano 日本語 한국어 Malay Nederlands Pidgin Polski Português Romanian Русский संस्कृतम् Swahili தமிழ் Türkçe 简体中文 繁體中文\n\nOpen source software is made by people just like you. Learn how to launch and grow your project.\n\nIt's Friday! Invest a few hours contributing to the software you use and love: opensourcefriday.com\n\nAccessibility Best Practices for Your Project\n\nPractical, actionable steps to make your open source project usable by everyone, especially people with disabilities.\n\nSecurity Best Practices for your Project\n\nStrengthen your project’s future by building trust through essential security practices — from MFA and code scanning to safe dependency management and private vulnerability reporting.\n\nMaintaining Balance for Open Source Maintainers\n\nTips for self-care and avoiding burnout as a maintainer.\n\nHow to Contribute to Open Source\n\nWant to contribute to open source? A guide to making open source contributions, for first-timers and veterans.\n\nStarting an Open Source Project\n\nLearn more about the world of open source and get ready to launch your own project.\n\nFinding Users for Your Project\n\nHelp your open source project grow by getting it in the hands of happy users.\n\nBuilding Welcoming Communities\n\nBuilding a community that encourages people to use, contribute to, and evangelize your project.\n\nBest Practices for Maintainers\n\nMaking your life easier as an open source maintainer, from documenting processes to leveraging your community.\n\nLeadership and Governance\n\nGrowing open source projects can benefit from formal rules for making decisions.\n\nGetting Paid for Open Source Work\n\nSustain your work in open source by getting financial support for your time or your project.\n\nFacilitate healthy and constructive community behavior by adopting and enforcing a code of conduct.\n\nMake informed decisions to help your open source project thrive by measuring and tracking its success.\n\nThe Legal Side of Open Source\n\nEverything you’ve ever wondered about the legal side of open source, and a few things you didn’t.\n\nWant to make a suggestion? This content is open source. Help us improve it.\n\nBe the first to hear about GitHub's latest open source tips and resources.",
+      "language": "en",
+      "category": "Education",
+      "categoryConfidence": 0.35,
+      "categorySignals": [
+        "title:learn",
+        "desc:learn",
+        "body:learn(2)"
+      ],
+      "contentLengthBytes": 27754,
+      "wordCount": 348,
+      "statusCode": 200,
+      "fetchTimeMs": 407,
+      "processedAt": "2026-09-24T07:10:40.472Z",
+      "chunkId": "chunk-013",
+      "retryCount": 0
+    },
+    {
+      "id": "doc-linuxfoundation_org-2qq2x6",
+      "url": "https://www.linuxfoundation.org/",
+      "canonicalUrl": "https://www.linuxfoundation.org/",
+      "domain": "linuxfoundation.org",
+      "title": "Linux Foundation - Decentralized innovation, built with trust",
+      "description": "Helping open technology projects build world class open source software, communities and companies.",
+      "headings": {
+        "h1": [
+          "Decentralized innovation. Built on trust."
+        ],
+        "h2": [
+          "1300+",
+          "4M+",
+          "855K",
+          "89M",
+          "21K+",
+          "229+",
+          "100+",
+          "Getting started is easy.",
+          "Explore our projects.",
+          "Management & Best Practices",
+          "Security",
+          "Digital Trust",
+          "Sustainability",
+          "Open Source Summit Europe",
+          "ROI for Open Source Software Contribution",
+          "The latest from the Linux Foundation"
+        ],
+        "h3": [
+          "Become a Member",
+          "Host a Project",
+          "Stay Connected with the Linux Foundation"
+        ]
+      },
+      "mainText": "Decentralized innovation. Built on trust.\n\nThe Linux Foundation is a neutral, trusted hub for developers and organizations to code, manage, and scale open technology projects and ecosystems.\n\nMeet our members. Getting started is easy.\n\nSupercharge the future of open technology. Shape the ecosystem, drive collaboration, and measure your contributions.\n\nEnable your project to thrive in a neutral, trusted home, where we’ll help you scale your community with unmatched expertise, tools, and services.\n\nExplore our projects.\n\nThe Linux Foundation provides a neutral, trusted home for developers to collaborate on open software projects. See all open software projects .\n\nThe Linux Foundation provides a neutral, trusted home for developers to collaborate on open software projects. See all open software projects.\n\nThe Linux Foundation provides a neutral, trusted home for developers to collaborate on open hardware projects. See all open hardware projects .\n\nThe Linux Foundation provides a neutral, trusted home for developers to collaborate on open hardware projects. See all open hardware projects.\n\nThe Linux Foundation provides a neutral, trusted home for developers to collaborate on open standard projects. See all open standard projects .\n\nThe Linux Foundation provides a neutral, trusted home for developers to collaborate on open standards projects. See all open standards projects.\n\nThe Linux Foundation provides a neutral, trusted home for developers to collaborate on open data projects. See all open data projects .\n\nThe Linux Foundation provides a neutral, trusted home for developers to collaborate on open data projects. See all open data projects.\n\nManagement & Best Practices\n\nDiscover the Linux Foundation projects and resources that accelerate open source strategy, management, and best practices.\n\nReport security vulnerabilities, find guidance on emerging threats, and quickly find the security resources you need from across the Linux Foundation.\n\nDiscover LF projects enabling greater levels of trust in digital commerce and digital asset ecosystems.\n\nDiscover how LF projects are contributing to the UN Sustainable Development Goals.\n\nLive instructor learning is the gold standard From Linux and Kubernetes to Cybersecurity, PyTorch, Rust, and more, we offer the expert-led courses you need.  \n\nOpen Source Summit Europe\n\nOctober 7-9, 2026 | Prague, Czechia\n\nOpen Source Summit is the premier event for open source developers and contributors.\n\nROI for Open Source Software Contribution\n\nWhat is the benefit of contributing to open source? In this study, LF Research has tackled this question through the analysis of results from a survey and quantitative model on contribution ROI.  \n\nThe latest from the Linux Foundation\n\nLinux Foundation Announces the FAIR Package Manager Project for Open Source Content Management System Stability\n\nLinux Foundation Wins Not-For-Profit and Education Team of the Year at 2025 World Trademark Review Industry Awards\n\nLinux Foundation and OpenSSF Release Cybersecurity Skills Framework to Strengthen Enterprise Readiness",
+      "language": "en",
+      "category": "Technology",
+      "categoryConfidence": 0.8,
+      "categorySignals": [
+        "title:linux",
+        "heading:software",
+        "heading:linux",
+        "heading:security",
+        "desc:technology",
+        "desc:software",
+        "body:technology(2)",
+        "body:hardware(4)",
+        "body:software(5)",
+        "body:linux(16)"
+      ],
+      "contentLengthBytes": 141194,
+      "wordCount": 450,
+      "statusCode": 200,
+      "fetchTimeMs": 754,
+      "processedAt": "2026-09-24T07:10:41.234Z",
+      "chunkId": "chunk-013",
+      "retryCount": 0
+    },
+    {
+      "id": "doc-apache_org-hxmccg",
+      "url": "https://www.apache.org/",
+      "canonicalUrl": "https://www.apache.org/",
+      "domain": "apache.org",
+      "title": "Welcome to The Apache Software Foundation | Apache Software Foundation",
+      "description": "Software For The Public Good &para;\n\nThe Apache&reg; Software Foundation (ASF) provides software for the public good, guided by community over code. Like the enduring oak tree, our projects thrive thr...",
+      "headings": {
+        "h1": [
+          "Software For The Public Good &para;"
+        ],
+        "h2": [
+          "Our Impact &para;",
+          "Our Open Source Projects &para;",
+          "Our Incubating Projects &para;",
+          "Incubate a Project &para;",
+          "Everyone is Welcome &para;",
+          "Upcoming Events &para;",
+          "Thank You, Sponsors &para;",
+          "ASF Plus One &para;",
+          "Growing Together &para;",
+          "Subscribe to ASF Plus One, Our Monthly Newsletter"
+        ],
+        "h3": [
+          "Fluss Forward London &para;",
+          "Lakehouse Day &para;",
+          "Community Over Code Glasgow 2026 &para;",
+          "Community Over Code Sydney 2026 &para;",
+          "Most Recent Blog Posts &para;",
+          "Plus One Newsletter &para;",
+          "Plus One Podcast &para;"
+        ]
+      },
+      "mainText": "Software For The Public Good &para;\n\nThe Apache&reg; Software Foundation (ASF) provides software for the public good, guided by community over code. Like the enduring oak tree, our projects thrive through the contributions of thousands worldwide.\n\nOur Open Source Projects &para;\n\nThe ASF is the home of the world&rsquo;s most trusted open source projects in data, cloud, search, libraries, geospatial, IoT, and beyond.\n\nOur Incubating Projects &para;\n\nSee All Incubating Projects\n\nIncubate a Project &para;\n\nGive your project a neutral, trusted home where communities flourish &mdash; with the ASF&rsquo;s expertise, tools, and support to help you succeed.\n\nEveryone is Welcome &para;\n\nAt The ASF, contribution is for everyone. Whether code, docs, or ideas &mdash; your +1 makes a difference. Come contribute and grow with us.\n\nNew to The ASF? Start here\n\nUpcoming Events &para;\n\nFluss Forward London &para;\n\nSeptember 22-23, 2026\n\nApache Fluss is open-source, lakehouse-native streaming storage that makes your data lakehouse truly real-time. Fluss Forward is where the community that builds and runs it comes together. This isn't a vendor showcase. It's a community event.\n\nLakehLakehouse Day 2026 is an all-day, multi-track conference co-located with Community Over Code Glasgow 2026. Taking place on October 10, the event is dedicated to all things related to open lakehouse technologies under the Apache Software Foundation (ASF) umbrella, with content supporting Apache Iceberg&trade;, Apache Hudi, Apache Parquet&trade;, Apache Gravitino, Apache Polaris&trade;, and more.\n\nCommunity Over Code Glasgow 2026 &para;\n\nGlasgow, Scotland, UK &para;\n\nCommunity Over Code Glasgow 2026 features four in-person days of sessions at the Hilton Glasgow for ASF members, committers, and open source developers from around the world, focusing on Search, Big Data, Internet of Things, Community, Geospatial, Financial Tech, and many other topics.\n\nCommunity Over Code Sydney 2026 &para;\n\nSydney, Australia &para;\n\nCommunity Over Code Sydney 2026 is a two-day intimate conference running two streams of diverse and interesting talks.\n\nThank You, Sponsors &para;\n\nThe ASF is a 501(c)(3) nonprofit, supported by individual and corporate donors who believe in secure software for the public good and the power of community over code.\n\nExplore what&rsquo;s new at The ASF &mdash; from project news to community voices, all in one place.\n\nMost Recent Blog Posts &para;\n\nSecurity scanning at Foundation scale &para;\n\nASF Plus One Newsletter: August 2026 &para;\n\nThe Apache&reg; Software Foundation Announces Keynote Speakers for Community Over Code Glasgow 2026 &para;\n\nPlus One Newsletter &para;\n\nASF Plus One Newsletter: August 2026 &para;\n\nASF Plus One Newsletter: July 2026 &para;\n\nASF Plus One Newsletter: June 2026 &para;\n\nPlus One Podcast &para;\n\nPlusOne: Apache BuildStream &para;\n\nApache Polaris &mdash; with Jean-Baptiste Onofr&eacute; and Yufei Gu &para;\n\nApache Geode, with Jinwoo Hwang &para;\n\nGrowing Together &para;\n\nFrom first contributions to global impact, these stories show the strength of our community.",
+      "language": "en",
+      "category": "Technology",
+      "categoryConfidence": 0.44,
+      "categorySignals": [
+        "title:software",
+        "heading:software",
+        "desc:software",
+        "body:software(6)"
+      ],
+      "contentLengthBytes": 52441,
+      "wordCount": 458,
+      "statusCode": 200,
+      "fetchTimeMs": 253,
+      "processedAt": "2026-09-24T07:10:41.493Z",
+      "chunkId": "chunk-013",
+      "retryCount": 0
+    }
+  ]
+}

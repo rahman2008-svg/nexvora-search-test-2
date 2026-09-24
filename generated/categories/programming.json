@@ -1,60 +1,294 @@
 {
   "category": "Programming",
-  "documentCount": 8,
-  "updatedAt": "2026-09-24T05:08:13.746Z",
+  "documentCount": 90,
+  "updatedAt": "2026-09-24T07:14:30.539Z",
   "documentIds": [
-    "doc-developer_mozilla_org-70b7c7",
-    "doc-react_dev-is205l",
-    "doc-rust_lang_org-26j19l",
-    "doc-docs_python_org-3l1jff",
-    "doc-bun_sh-yx8j6q",
-    "doc-vite_dev-93k47h",
-    "doc-tailwindcss_com-f2u7ud",
-    "doc-signal_org-f2mu9z"
+    "doc-go_dev-tx37bx",
+    "doc-developer_apple_com-7b7js0",
+    "doc-learn_microsoft_com-mwvxlq",
+    "doc-developer_mozilla_org-w12y4d",
+    "doc-developer_mozilla_org-wabsgp",
+    "doc-developer_mozilla_org-6gwt20",
+    "doc-developer_mozilla_org-c1kjz2",
+    "doc-w3_org-1k2wks",
+    "doc-tc39_es-7gd87e",
+    "doc-deno_com-o8c9ip",
+    "doc-bun_sh-g02rex",
+    "doc-expressjs_com-1wru8v",
+    "doc-fastapi_tiangolo_com-64yh3b",
+    "doc-flask_palletsprojects_com-esccnf",
+    "doc-spring_io-5hlusj",
+    "doc-laravel_com-8i8opn",
+    "doc-rubyonrails_org-8njnmk",
+    "doc-nestjs_com-sxdeyo",
+    "doc-hono_dev-4e8jdw",
+    "doc-astro_build-60e7c7",
+    "doc-svelte_dev-co1sk0",
+    "doc-vuejs_org-jjiu71",
+    "doc-angular_dev-3i461g",
+    "doc-nextjs_org-mk9z60",
+    "doc-vite_dev-j62hwj",
+    "doc-webpack_js_org-vv7fih",
+    "doc-rollupjs_org-e80t1q",
+    "doc-esbuild_github_io-v54mgn",
+    "doc-babeljs_io-m7or8r",
+    "doc-eslint_org-nwr8cu",
+    "doc-prettier_io-l8hbqy",
+    "doc-jestjs_io-fbwgmq",
+    "doc-vitest_dev-zaqea9",
+    "doc-playwright_dev-q9mrte",
+    "doc-selenium_dev-ef4y3p",
+    "doc-developer_android_com-ytx0cf",
+    "doc-developer_android_com-dmnhfr",
+    "doc-developer_android_com-4dqt8k",
+    "doc-developer_android_com-56qvw5",
+    "doc-developer_android_com-xeb3h7",
+    "doc-developer_android_com-ev6m76",
+    "doc-developer_android_com-vaiuq6",
+    "doc-kotlinlang_org-onvaj5",
+    "doc-developer_android_com-fytcao",
+    "doc-developer_android_com-g3zv4u",
+    "doc-developer_android_com-78dkry",
+    "doc-developer_android_com-zdjb4p",
+    "doc-developer_android_com-1yzdpi",
+    "doc-developer_android_com-xxew78",
+    "doc-git_scm_com-yireld",
+    "doc-git_scm_com-deu2iq",
+    "doc-docs_github_com-xwlww4",
+    "doc-docs_github_com-pfezfh",
+    "doc-docs_github_com-ng5jqt",
+    "doc-docs_github_com-vv94lw",
+    "doc-docs_github_com-rkyjkw",
+    "doc-docs_github_com-gmw4t3",
+    "doc-python_org-5tzazd",
+    "doc-rust_lang_org-ywdi0u",
+    "doc-help_ubuntu_com-jmkzcx",
+    "doc-docs_ansible_com-07z2wc",
+    "doc-developer_hashicorp_com-iq8bha",
+    "doc-developer_hashicorp_com-er508k",
+    "doc-vercel_com-4h3ame",
+    "doc-render_com-hs1j4h",
+    "doc-docs_netlify_com-8q84qn",
+    "doc-opentelemetry_io-ntrdnz",
+    "doc-pandas_pydata_org-kr1mp2",
+    "doc-scipy_org-hnd3fv",
+    "doc-docs_python_org-e670jk",
+    "doc-docs_python_org-sq4v2k",
+    "doc-pytorch_org-uf1rgs",
+    "doc-keras_io-w9mrri",
+    "doc-huggingface_co-mo38xa",
+    "doc-nltk_org-nfwsy9",
+    "doc-spacy_io-7jfbk9",
+    "doc-xgboost_readthedocs_io-i8g5xe",
+    "doc-opencv_org-ipk141",
+    "doc-docs_opencv_org-4sxoro",
+    "doc-mlflow_org-50o3qr",
+    "doc-developers_google_com-mj27sp",
+    "doc-developers_google_com-1u2kw4",
+    "doc-ai_google_dev-xnl4ih",
+    "doc-gutenberg_org-9jyk6w",
+    "doc-archive_org-w4a9om",
+    "doc-jstor_org-pxalm7",
+    "doc-bl_uk-z1dm5x",
+    "doc-en_wikisource_org-5mucrs",
+    "doc-en_wiktionary_org-h8j26n",
+    "doc-archive_org-vcls11"
   ],
   "items": [
     {
-      "id": "doc-developer_mozilla_org-70b7c7",
-      "title": "JavaScript | MDN Web Docs",
-      "canonicalUrl": "https://developer.mozilla.org/en-US/docs/Web/JavaScript",
+      "id": "doc-go_dev-tx37bx",
+      "title": "Documentation - The Go Programming Language",
+      "canonicalUrl": "https://go.dev/doc/",
+      "domain": "go.dev",
+      "description": "The Go programming language is an open source project to make programmers more productive.\n\nGo is expressive, concise, clean, and efficient. Its concurrency mechanisms make it easy to write programs t...",
+      "confidence": 0.72
+    },
+    {
+      "id": "doc-developer_apple_com-7b7js0",
+      "title": "Featured | Apple Developer Documentation",
+      "canonicalUrl": "https://developer.apple.com/documentation",
+      "domain": "developer.apple.com",
+      "description": "Browse the latest sample code, articles, and API reference.",
+      "confidence": 0.64
+    },
+    {
+      "id": "doc-learn_microsoft_com-mwvxlq",
+      "title": ".NET documentation - .NET | Microsoft Learn",
+      "canonicalUrl": "https://learn.microsoft.com/en-us/dotnet/",
+      "domain": "learn.microsoft.com",
+      "description": "Learn to use .NET to create applications on any platform using C#, F#, and Visual Basic. Browse API reference, sample code, tutorials, and more.",
+      "confidence": 0.6
+    },
+    {
+      "id": "doc-developer_mozilla_org-w12y4d",
+      "title": "Learn web development | MDN",
+      "canonicalUrl": "https://developer.mozilla.org/en-US/docs/Learn_web_development",
       "domain": "developer.mozilla.org",
-      "description": "JavaScript (JS) is a lightweight interpreted or just-in-time compiled programming language with first-class functions for web development.",
-      "confidence": 0.84
+      "description": "Welcome to MDN Learning Web Development (also known as Learn). This resource provides a structured set of tutorials teaching the essential skills and practices for being a successful front-end developer, along with challenges and further recommended resources.",
+      "confidence": 0.59
     },
     {
-      "id": "doc-react_dev-is205l",
-      "title": "React 19 is now stable – React Official Blog",
-      "canonicalUrl": "https://react.dev/blog/2024/12/05/react-19",
-      "domain": "react.dev",
-      "description": "React 19 is now available on npm! Featuring Actions, Server Components, Document Metadata hooks, and asset preloading for frontend developers.",
-      "confidence": 0.81
+      "id": "doc-developer_mozilla_org-wabsgp",
+      "title": "CSS: Cascading Style Sheets | MDN",
+      "canonicalUrl": "https://developer.mozilla.org/en-US/docs/Web/CSS",
+      "domain": "developer.mozilla.org",
+      "description": "Cascading Style Sheets (CSS) is a stylesheet language used to describe the presentation of a document written in HTML or XML (including XML dialects such as SVG, MathML or XHTML). CSS describes how elements should be rendered on screen, on paper, in speech, or on other media.",
+      "confidence": 0.66
     },
     {
-      "id": "doc-rust_lang_org-26j19l",
-      "title": "Learn Rust – Rust Programming Language",
-      "canonicalUrl": "https://www.rust-lang.org/learn",
-      "domain": "rust-lang.org",
-      "description": "Empowering everyone to build reliable and efficient software. Learn Rust through interactive tutorials, the Rust Book, and compiler borrow checker guides.",
-      "confidence": 0.65
+      "id": "doc-developer_mozilla_org-6gwt20",
+      "title": "HTML: HyperText Markup Language | MDN",
+      "canonicalUrl": "https://developer.mozilla.org/en-US/docs/Web/HTML",
+      "domain": "developer.mozilla.org",
+      "description": "HTML (HyperText Markup Language) is the most basic building block of the Web. It defines the meaning and structure of web content. Other technologies besides HTML are generally used to describe a web page's appearance/presentation (CSS) or functionality/behavior (JavaScript).",
+      "confidence": 0.63
     },
     {
-      "id": "doc-docs_python_org-3l1jff",
-      "title": "The Python Tutorial — Python 3 Documentation",
-      "canonicalUrl": "https://docs.python.org/3/tutorial/",
-      "domain": "docs.python.org",
-      "description": "Python is an easy to learn, powerful programming language with efficient high-level data structures and an elegant syntax ideal for scripting and rapid application development.",
-      "confidence": 0.53
+      "id": "doc-developer_mozilla_org-c1kjz2",
+      "title": "Web APIs | MDN",
+      "canonicalUrl": "https://developer.mozilla.org/en-US/docs/Web/API",
+      "domain": "developer.mozilla.org",
+      "description": "When writing code for the Web, there are a large number of Web APIs available. Below is a list of all the APIs and interfaces (object types) that you may be able to use while developing your Web app or site.",
+      "confidence": 0.79
     },
     {
-      "id": "doc-bun_sh-yx8j6q",
-      "title": "Bun Documentation – Fast JavaScript Runtime & Package Manager",
-      "canonicalUrl": "https://bun.sh/docs",
+      "id": "doc-w3_org-1k2wks",
+      "title": "W3C standards and drafts | W3C",
+      "canonicalUrl": "https://www.w3.org/TR",
+      "domain": "w3.org",
+      "description": "The World Wide Web Consortium (W3C) is an international community where Member organizations, a full-time staff, and the public work together to develop Web standards.",
+      "confidence": 0.63
+    },
+    {
+      "id": "doc-tc39_es-7gd87e",
+      "title": "ECMAScript® 2027 Language Specification",
+      "canonicalUrl": "https://tc39.es/ecma262",
+      "domain": "tc39.es",
+      "description": "ECMAScript® 2027 Language Specification Toggle shortcuts help ?\n\nToggle \"can call user code\" annotations u\n\nToggle early exit annotations e\n\nNavigate to/from multipage m\n\nToggle pinning of the current...",
+      "confidence": 0.5
+    },
+    {
+      "id": "doc-deno_com-o8c9ip",
+      "title": "Get started with Deno | Deno Docs",
+      "canonicalUrl": "https://docs.deno.com/runtime/",
+      "domain": "deno.com",
+      "description": "Install Deno and build your first project: why Deno, install, create, run, test, add a dependency, and use the built-in toolchain. No build step, no config.",
+      "confidence": 0.79
+    },
+    {
+      "id": "doc-bun_sh-g02rex",
+      "title": "Bun Runtime | Bun Docs",
+      "canonicalUrl": "https://bun.com/docs/runtime",
       "domain": "bun.sh",
-      "description": "Bun is an all-in-one JavaScript runtime, bundler, test runner, and package manager written in Zig with native speed and Node.js compatibility.",
+      "description": "Execute JavaScript/TypeScript files, package.json scripts, and executable packages with Bun&#x27;s fast runtime.",
       "confidence": 0.89
     },
     {
-      "id": "doc-vite_dev-93k47h",
+      "id": "doc-expressjs_com-1wru8v",
+      "title": "Express.js · Node.js web application framework",
+      "canonicalUrl": "https://expressjs.com/",
+      "domain": "expressjs.com",
+      "description": "Fast, unopinionated, minimalist web framework for Node.js",
+      "confidence": 0.74
+    },
+    {
+      "id": "doc-fastapi_tiangolo_com-64yh3b",
+      "title": "FastAPI - FastAPI",
+      "canonicalUrl": "https://fastapi.tiangolo.com/",
+      "domain": "fastapi.tiangolo.com",
+      "description": "FastAPI framework, high performance, easy to learn, fast to code, ready for production",
+      "confidence": 0.77
+    },
+    {
+      "id": "doc-flask_palletsprojects_com-esccnf",
+      "title": "Welcome to Flask — Flask Documentation (3.1.x)",
+      "canonicalUrl": "https://flask.palletsprojects.com/en/stable/",
+      "domain": "flask.palletsprojects.com",
+      "description": "Flask Documentation (3.1.x) »\n\nWelcome to Flask’s documentation. Flask is a lightweight WSGI web application framework. It is designed to make getting started quick and easy, with the ability to scale...",
+      "confidence": 0.55
+    },
+    {
+      "id": "doc-spring_io-5hlusj",
+      "title": "Spring | Guides",
+      "canonicalUrl": "https://spring.io/guides",
+      "domain": "spring.io",
+      "description": "Level up your Java code and explore what Spring can do for you.",
+      "confidence": 0.43
+    },
+    {
+      "id": "doc-laravel_com-8i8opn",
+      "title": "Installation | Laravel 13.x - The clean stack for Artisans and agents",
+      "canonicalUrl": "https://laravel.com/framework/docs/installation",
+      "domain": "laravel.com",
+      "description": "Laravel is a framework for building modern web apps and AI agents. Expressive syntax, built-in tools, and everything you need to ship fast.",
+      "confidence": 0.63
+    },
+    {
+      "id": "doc-rubyonrails_org-8njnmk",
+      "title": "Ruby on Rails Documentation",
+      "canonicalUrl": "https://rubyonrails.org/docs",
+      "domain": "rubyonrails.org",
+      "description": "The official Rails documentation: installation guide, tutorials, and API reference docs.",
+      "confidence": 0.31
+    },
+    {
+      "id": "doc-nestjs_com-sxdeyo",
+      "title": "NestJS - A progressive Node.js framework",
+      "canonicalUrl": "https://nestjs.com/",
+      "domain": "nestjs.com",
+      "description": "NestJS is a framework for building efficient, scalable Node.js web applications. It uses modern JavaScript, is built with TypeScript and combines elements of OOP (Object Oriented Programming), FP (Functional Programming), and FRP (Functional Reactive Programming).",
+      "confidence": 0.71
+    },
+    {
+      "id": "doc-hono_dev-4e8jdw",
+      "title": "Hono - Web framework built on Web Standards",
+      "canonicalUrl": "https://hono.dev/docs",
+      "domain": "hono.dev",
+      "description": "Web framework built on Web Standards for Cloudflare Workers, Fastly Compute, Deno, Bun, Vercel, Node.js, and others. Fast, but not only fast.",
+      "confidence": 0.79
+    },
+    {
+      "id": "doc-astro_build-60e7c7",
+      "title": "Astro",
+      "canonicalUrl": "https://astro.build/",
+      "domain": "astro.build",
+      "description": "Astro builds fast content sites, powerful web applications, dynamic server APIs, and everything in-between.",
+      "confidence": 0.58
+    },
+    {
+      "id": "doc-svelte_dev-co1sk0",
+      "title": "Docs • Svelte",
+      "canonicalUrl": "https://svelte.dev/docs",
+      "domain": "svelte.dev",
+      "description": "Head to the Svelte or SvelteKit reference docs, or choose your adventure:\n\nWe recommend starting with the interactive tutorial, which will teach you how to use Svelte right here in your browser.\n\nI’m ...",
+      "confidence": 0.67
+    },
+    {
+      "id": "doc-vuejs_org-jjiu71",
+      "title": "Introduction | Vue.js",
+      "canonicalUrl": "https://vuejs.org/guide",
+      "domain": "vuejs.org",
+      "description": "Vue.js - The Progressive JavaScript Framework",
+      "confidence": 0.82
+    },
+    {
+      "id": "doc-angular_dev-3i461g",
+      "title": "What is Angular? • Angular",
+      "canonicalUrl": "https://angular.dev/overview",
+      "domain": "angular.dev",
+      "description": "The web development framework for building modern apps.",
+      "confidence": 0.68
+    },
+    {
+      "id": "doc-nextjs_org-mk9z60",
+      "title": "Next.js Docs | Next.js",
+      "canonicalUrl": "https://nextjs.org/docs",
+      "domain": "nextjs.org",
+      "description": "Welcome to the Next.js Documentation.",
+      "confidence": 0.59
+    },
+    {
+      "id": "doc-vite_dev-j62hwj",
       "title": "Getting Started | Vite Next Generation Frontend Tooling",
       "canonicalUrl": "https://vite.dev/guide/",
       "domain": "vite.dev",
@@ -62,20 +296,524 @@
       "confidence": 0.77
     },
     {
-      "id": "doc-tailwindcss_com-f2u7ud",
-      "title": "Upgrade Guide to Tailwind CSS v4 – Tailwind Documentation",
-      "canonicalUrl": "https://tailwindcss.com/docs/v4-upgrade-guide",
-      "domain": "tailwindcss.com",
-      "description": "Comprehensive guide for migrating your frontend styles to Tailwind CSS v4 featuring the new high-speed Rust-powered engine and CSS-first configuration.",
-      "confidence": 0.45
+      "id": "doc-webpack_js_org-vv7fih",
+      "title": "Concepts | webpack",
+      "canonicalUrl": "https://webpack.js.org/concepts/",
+      "domain": "webpack.js.org",
+      "description": "The core ideas behind webpack — entry, output, loaders, plugins, mode and the dependency graph.",
+      "confidence": 0.29
     },
     {
-      "id": "doc-signal_org-f2mu9z",
-      "title": "The Double Ratchet Algorithm – Signal Cryptographic Protocol",
-      "canonicalUrl": "https://signal.org/docs/specifications/doubleratchet/",
-      "domain": "signal.org",
-      "description": "Cryptographic specification of the Double Ratchet Algorithm: providing end-to-end encryption with forward secrecy and break-in recovery for messaging protocols.",
+      "id": "doc-rollupjs_org-e80t1q",
+      "title": "Introduction | Rollup",
+      "canonicalUrl": "https://rollupjs.org/introduction",
+      "domain": "rollupjs.org",
+      "description": "compile JS code",
+      "confidence": 0.7
+    },
+    {
+      "id": "doc-esbuild_github_io-v54mgn",
+      "title": "esbuild - An extremely fast bundler for the web",
+      "canonicalUrl": "https://esbuild.github.io/",
+      "domain": "esbuild.github.io",
+      "description": "An extremely fast bundler for the web\n\nOur current build tools for the web are 10-100x slower than they could be. The main goal of the esbuild bundler project is to bring about a new era of build tool...",
+      "confidence": 0.58
+    },
+    {
+      "id": "doc-babeljs_io-m7or8r",
+      "title": "What is Babel? · Babel",
+      "canonicalUrl": "https://babeljs.io/docs",
+      "domain": "babeljs.io",
+      "description": "Guides What is Babel? On this page What is Babel?\n\nBabel is a JavaScript compiler ​\n\nBabel is a toolchain that is mainly used to convert ECMAScript 2015+ code into a backwards compatible version of Ja...",
+      "confidence": 0.87
+    },
+    {
+      "id": "doc-eslint_org-nwr8cu",
+      "title": "Documentation - ESLint - Pluggable JavaScript Linter",
+      "canonicalUrl": "https://eslint.org/docs/latest/",
+      "domain": "eslint.org",
+      "description": "A pluggable and configurable linter tool for identifying and reporting on patterns in JavaScript. Maintain your code quality with ease.",
+      "confidence": 0.6
+    },
+    {
+      "id": "doc-prettier_io-l8hbqy",
+      "title": "What is Prettier? · Prettier",
+      "canonicalUrl": "https://prettier.io/docs",
+      "domain": "prettier.io",
+      "description": "Prettier is an opinionated code formatter with support for:\n\nJavaScript (including experimental features)\n\nMarkdown , including GFM and MDX v1\n\nLightning Web Components (LWC)\n\nIt removes all original ...",
+      "confidence": 0.66
+    },
+    {
+      "id": "doc-jestjs_io-fbwgmq",
+      "title": "Getting Started · Jest",
+      "canonicalUrl": "https://jestjs.io/docs/getting-started",
+      "domain": "jestjs.io",
+      "description": "Install Jest using your favorite package manager:",
+      "confidence": 0.86
+    },
+    {
+      "id": "doc-vitest_dev-zaqea9",
+      "title": "Getting Started | Guide | Vitest",
+      "canonicalUrl": "https://vitest.dev/guide",
+      "domain": "vitest.dev",
+      "description": "Next generation testing framework powered by Vite",
+      "confidence": 0.69
+    },
+    {
+      "id": "doc-playwright_dev-q9mrte",
+      "title": "Installation | Playwright",
+      "canonicalUrl": "https://playwright.dev/docs/intro",
+      "domain": "playwright.dev",
+      "description": "Getting Started Installation On this page Installation\n\nPlaywright Test is an end-to-end test framework for modern web apps. It bundles test runner, assertions, isolation, parallelization and rich too...",
+      "confidence": 0.8
+    },
+    {
+      "id": "doc-selenium_dev-ef4y3p",
+      "title": "The Selenium Browser Automation Project | Selenium",
+      "canonicalUrl": "https://www.selenium.dev/documentation",
+      "domain": "selenium.dev",
+      "description": "Selenium is an umbrella project for a range of tools and libraries that enable and support the automation of web browsers.\nIt provides extensions to emulate user interaction with browsers, a distribution server for scaling browser allocation, and the infrastructure for implementations of the W3C WebDriver specification that lets you write interchangeable code for all major web browsers.\nThis project is made possible by volunteer contributors who have put in thousands of hours of their own time, and made the source code freely available for anyone to use, enjoy, and improve.",
+      "confidence": 0.6
+    },
+    {
+      "id": "doc-developer_android_com-ytx0cf",
+      "title": "Erste App erstellen  |  Get started  |  Android Developers",
+      "canonicalUrl": "https://developer.android.com/get-started/overview?hl=de",
+      "domain": "developer.android.com",
+      "description": "Get started building your Android apps.",
+      "confidence": 0.54
+    },
+    {
+      "id": "doc-developer_android_com-dmnhfr",
+      "title": "Jetpack Compose UI App Development Toolkit - Android Developers",
+      "canonicalUrl": "https://developer.android.com/compose",
+      "domain": "developer.android.com",
+      "description": "Jetpack Compose is Android's recommended modern toolkit for building native UI. It simplifies and accelerates UI development on Android. Quickly bring your app to life with less code, powerful tools, and intuitive Kotlin APIs.",
+      "confidence": 0.38
+    },
+    {
+      "id": "doc-developer_android_com-4dqt8k",
+      "title": "Kotlin and Android  |  Android Developers",
+      "canonicalUrl": "https://developer.android.com/kotlin",
+      "domain": "developer.android.com",
+      "description": "Kotlin is Android's recommended programming language for modern android development.",
+      "confidence": 0.66
+    },
+    {
+      "id": "doc-developer_android_com-56qvw5",
+      "title": "Download Android Studio & App Tools - Android Developers",
+      "canonicalUrl": "https://developer.android.com/studio",
+      "domain": "developer.android.com",
+      "description": "Android Studio provides app builders with an integrated development environment (IDE) optimized for Android apps. Download Android Studio today.",
+      "confidence": 0.67
+    },
+    {
+      "id": "doc-developer_android_com-xeb3h7",
+      "title": "Develop UI  |  Jetpack Compose  |  Android Developers",
+      "canonicalUrl": "https://developer.android.com/develop/ui",
+      "domain": "developer.android.com",
+      "description": "Jetpack Compose is Android's recommended modern toolkit for building native UI. It simplifies and accelerates UI development on Android. Quickly bring your app to life with less code, powerful tools, and intuitive Kotlin APIs.",
+      "confidence": 0.59
+    },
+    {
+      "id": "doc-developer_android_com-ev6m76",
+      "title": "Panduan arsitektur aplikasi  |  App architecture  |  Android Developers",
+      "canonicalUrl": "https://developer.android.com/topic/architecture?hl=id",
+      "domain": "developer.android.com",
+      "description": "Menguraikan pentingnya arsitektur aplikasi yang tangguh untuk aplikasi Android, yang menjelaskan prinsip arsitektur umum seperti pemisahan fokus, aliran data searah, dan struktur berlayer yang terdiri dari lapisan UI, Data, dan Domain opsional.",
+      "confidence": 0.4
+    },
+    {
+      "id": "doc-developer_android_com-vaiuq6",
+      "title": "إنشاء تطبيقك الأول  |  Get started  |  Android Developers",
+      "canonicalUrl": "https://developer.android.com/get-started/overview?hl=ar",
+      "domain": "developer.android.com",
+      "description": "Get started building your Android apps.",
+      "confidence": 0.51
+    },
+    {
+      "id": "doc-kotlinlang_org-onvaj5",
+      "title": "Kotlin Docs | Kotlin Documentation",
+      "canonicalUrl": "https://kotlinlang.org/docs/home.html",
+      "domain": "kotlinlang.org",
+      "description": "...",
+      "confidence": 0.51
+    },
+    {
+      "id": "doc-developer_android_com-fytcao",
+      "title": "Jetpack Compose का इस्तेमाल शुरू करना  |  Android Developers",
+      "canonicalUrl": "https://developer.android.com/develop/ui/compose/documentation?hl=hi",
+      "domain": "developer.android.com",
+      "description": "Jetpack Compose, Android यूज़र इंटरफ़ेस (यूआई) बनाने के लिए एक आधुनिक टूलकिट है. इससे ऐसे ऐप्लिकेशन डेवलप करना आसान हो जाता है जो किसी भी डिसप्ले साइज़ के हिसाब से अडजस्ट हो जाते हैं.",
+      "confidence": 0.57
+    },
+    {
+      "id": "doc-developer_android_com-g3zv4u",
+      "title": "ภาพรวมของพื้นที่เก็บข้อมูลและไฟล์  |  App data and files  |  Android Developers",
+      "canonicalUrl": "https://developer.android.com/training/data-storage?hl=th",
+      "domain": "developer.android.com",
+      "description": "เอกสารนี้จะอธิบายตัวเลือกต่างๆ สำหรับการบันทึกข้อมูลแอปใน Android โดยจัดหมวดหมู่เป็นข้อมูลเฉพาะแอป ข้อมูลที่แชร์ ค่ากำหนด และฐานข้อมูล พร้อมทั้งอธิบายพื้นที่เก็บข้อมูลภายในและภายนอก สิทธิ์ และพื้นที่เก็บข้อมูลที่จำกัดขอบเขต",
+      "confidence": 0.62
+    },
+    {
+      "id": "doc-developer_android_com-78dkry",
+      "title": "Permissions on Android  |  Privacy  |  Android Developers",
+      "canonicalUrl": "https://developer.android.com/guide/topics/permissions/overview",
+      "domain": "developer.android.com",
+      "description": "This document provides an overview of how Android app permissions work, describing different permission types, the workflow for using them, and best practices for implementing them to protect user privacy and data.",
+      "confidence": 0.67
+    },
+    {
+      "id": "doc-developer_android_com-zdjb4p",
+      "title": "অ্যান্ড্রয়েড কানেক্টিভিটি  |  Connectivity  |  Android Developers",
+      "canonicalUrl": "https://developer.android.com/develop/connectivity?hl=bn",
+      "domain": "developer.android.com",
+      "description": "Connectivity describes how Android apps connect to and use network connections, including WiFi and Bluetooth.",
+      "confidence": 0.37
+    },
+    {
+      "id": "doc-developer_android_com-1yzdpi",
+      "title": "Pusat Developer Kamera & Media  |  Android media  |  Android Developers",
+      "canonicalUrl": "https://developer.android.com/media?hl=id",
+      "domain": "developer.android.com",
+      "description": "Temukan alat pengembangan aplikasi, update platform, pelatihan, dan dokumentasi terbaru untuk developer di setiap perangkat Android.",
+      "confidence": 0.75
+    },
+    {
+      "id": "doc-developer_android_com-xxew78",
+      "title": "Design for Safety  |  App quality  |  Android Developers",
+      "canonicalUrl": "https://developer.android.com/quality/privacy-and-security",
+      "domain": "developer.android.com",
+      "description": "Android is secure by default and private by design. And Google Play designs policies and guidelines to create a safe ecosystem.\n\nDesign for privacy by focusing on minimization. Minimize permission req...",
+      "confidence": 0.37
+    },
+    {
+      "id": "doc-git_scm_com-yireld",
+      "title": "Git",
+      "canonicalUrl": "https://git-scm.com/book/en/v2",
+      "domain": "git-scm.com",
+      "description": "The entire Pro Git book, written by Scott Chacon and Ben Straub and published by Apress, is available here. All content is licensed under the Creative Commons Attribution Non Commercial Share Alike 3....",
+      "confidence": 0.75
+    },
+    {
+      "id": "doc-git_scm_com-deu2iq",
+      "title": "Git - Reference",
+      "canonicalUrl": "https://git-scm.com/docs",
+      "domain": "git-scm.com",
+      "description": "Quick reference guide: Cheat Sheet\n\nGetting and Creating Projects\n\nBranching and Merging\n\nSharing and Updating Projects\n\nInspection and Comparison\n\nCommand-line interface conventions\n\nFrequently Asked...",
+      "confidence": 0.29
+    },
+    {
+      "id": "doc-docs_github_com-xwlww4",
+      "title": "Get started with GitHub documentation - GitHub Docs",
+      "canonicalUrl": "https://docs.github.com/en/get-started",
+      "domain": "docs.github.com",
+      "description": "Learn how to start building, shipping, and maintaining software with GitHub. Explore our products, sign up for an account, and connect with the world&#x27;s largest development community.",
+      "confidence": 0.77
+    },
+    {
+      "id": "doc-docs_github_com-pfezfh",
+      "title": "GitHub Actions documentation - GitHub Docs",
+      "canonicalUrl": "https://docs.github.com/en/actions",
+      "domain": "docs.github.com",
+      "description": "Automate, customize, and execute your software development workflows right in your repository with GitHub Actions. You can discover, create, and share actions to perform any job you&#x27;d like, including CI/CD, and combine actions in a completely customized workflow.",
+      "confidence": 0.76
+    },
+    {
+      "id": "doc-docs_github_com-ng5jqt",
+      "title": "Repositories documentation - GitHub Docs",
+      "canonicalUrl": "https://docs.github.com/en/repositories",
+      "domain": "docs.github.com",
+      "description": "Learn to use and manage the repositories that allow you to store and collaborate on your project&#x27;s code.",
+      "confidence": 0.81
+    },
+    {
+      "id": "doc-docs_github_com-vv94lw",
+      "title": "Pull requests documentation - GitHub Docs",
+      "canonicalUrl": "https://docs.github.com/en/pull-requests",
+      "domain": "docs.github.com",
+      "description": "Discover how to create, review, and merge pull requests, resolve merge conflicts, and work with forks.",
+      "confidence": 0.82
+    },
+    {
+      "id": "doc-docs_github_com-rkyjkw",
+      "title": "GitHub REST API documentation - GitHub Docs",
+      "canonicalUrl": "https://docs.github.com/en/rest",
+      "domain": "docs.github.com",
+      "description": "Create integrations, retrieve data, and automate your workflows with the GitHub REST API.",
+      "confidence": 0.82
+    },
+    {
+      "id": "doc-docs_github_com-gmw4t3",
+      "title": "GitHub GraphQL API documentation - GitHub Docs",
+      "canonicalUrl": "https://docs.github.com/en/graphql",
+      "domain": "docs.github.com",
+      "description": "To create integrations, retrieve data, and automate your workflows, use the GitHub GraphQL API. The GitHub GraphQL API offers more precise and flexible queries than the GitHub REST API.",
+      "confidence": 0.74
+    },
+    {
+      "id": "doc-python_org-5tzazd",
+      "title": "Our Community | Python.org",
+      "canonicalUrl": "https://www.python.org/community",
+      "domain": "python.org",
+      "description": "The official home of the Python Programming Language",
+      "confidence": 0.74
+    },
+    {
+      "id": "doc-rust_lang_org-ywdi0u",
+      "title": "Getting started - Rust Programming Language",
+      "canonicalUrl": "https://www.rust-lang.org/learn/get-started",
+      "domain": "rust-lang.org",
+      "description": "A language empowering everyone to build reliable and efficient software.",
+      "confidence": 0.8
+    },
+    {
+      "id": "doc-help_ubuntu_com-jmkzcx",
+      "title": "Official Ubuntu Documentation",
+      "canonicalUrl": "https://help.ubuntu.com/",
+      "domain": "help.ubuntu.com",
+      "description": "Official Documentation\n\nOfficial Ubuntu Documentation\n\nDocumentation developed and maintained by the Ubuntu Documentation Project.\n\nThe Server documentation source code has moved to github .\n\nThe Desk...",
+      "confidence": 0.29
+    },
+    {
+      "id": "doc-docs_ansible_com-07z2wc",
+      "title": "Ansible Community | Ansible documentation",
+      "canonicalUrl": "https://docs.ansible.com/",
+      "domain": "docs.ansible.com",
+      "description": "Ansible community documentation\n\nAnsible community documentation can help you configure most operating systems, deploy software, and orchestrate advanced workflows to support application deployment, s...",
+      "confidence": 0.49
+    },
+    {
+      "id": "doc-developer_hashicorp_com-iq8bha",
+      "title": "Vault product documentation | Vault | HashiCorp Developer",
+      "canonicalUrl": "https://developer.hashicorp.com/vault/docs",
+      "domain": "developer.hashicorp.com",
+      "description": "Vault product and reference documentation covering key concepts, guides for common tasks, and best practices.",
+      "confidence": 0.39
+    },
+    {
+      "id": "doc-developer_hashicorp_com-er508k",
+      "title": "Packer documentation | Packer | HashiCorp Developer",
+      "canonicalUrl": "https://developer.hashicorp.com/packer/docs",
+      "domain": "developer.hashicorp.com",
+      "description": "The Packer documentation describes how to use Packer and providers reference information for configuring Packer templates.",
+      "confidence": 0.52
+    },
+    {
+      "id": "doc-vercel_com-4h3ame",
+      "title": "Vercel Documentation",
+      "canonicalUrl": "https://vercel.com/docs",
+      "domain": "vercel.com",
+      "description": "Find guides and reference documentation for building, deploying, and managing applications with Vercel, including the CLI, SDKs, and APIs.",
+      "confidence": 0.73
+    },
+    {
+      "id": "doc-render_com-hs1j4h",
+      "title": "Docs + Quickstarts | Render",
+      "canonicalUrl": "https://render.com/docs",
+      "domain": "render.com",
+      "description": "Run your code in just a few clicks with Render. You decide what&#x27;s possible, and we&#x27;ll help bring it to life.",
+      "confidence": 0.63
+    },
+    {
+      "id": "doc-docs_netlify_com-8q84qn",
+      "title": "Netlify Documentation | Netlify Docs",
+      "canonicalUrl": "https://docs.netlify.com/",
+      "domain": "docs.netlify.com",
+      "description": "Build & deploy faster with any modern frontend stack or AI agent.",
+      "confidence": 0.76
+    },
+    {
+      "id": "doc-opentelemetry_io-ntrdnz",
+      "title": "Documentation | OpenTelemetry",
+      "canonicalUrl": "https://opentelemetry.io/docs",
+      "domain": "opentelemetry.io",
+      "description": "OpenTelemetry, also known as OTel, is a vendor-neutral open source Observability framework for instrumenting, generating, collecting, and exporting telemetry data such as traces, metrics, and logs.\nAs an industry-standard, OpenTelemetry is supported by more than 90 observability vendors, integrated by many libraries, services, and apps, and adopted by numerous end users.",
+      "confidence": 0.39
+    },
+    {
+      "id": "doc-pandas_pydata_org-kr1mp2",
+      "title": "pandas documentation — pandas 3.0.6 documentation",
+      "canonicalUrl": "https://pandas.pydata.org/docs",
+      "domain": "pandas.pydata.org",
+      "description": "pandas documentation #\n\nDate : Sep 17, 2026 Version : 3.0.6\n\nDownload documentation : Zipped HTML\n\nPrevious versions : Documentation of previous pandas versions is available at pandas.pydata.org .\n\nUs...",
+      "confidence": 0.24
+    },
+    {
+      "id": "doc-scipy_org-hnd3fv",
+      "title": "SciPy",
+      "canonicalUrl": "https://scipy.org/",
+      "domain": "scipy.org",
+      "description": "Why SciPy? Fundamental algorithms. Broadly applicable. Foundational. Interoperable. Performant. Open source.",
       "confidence": 0.42
+    },
+    {
+      "id": "doc-docs_python_org-e670jk",
+      "title": "The Python standard library — Python 3.14.7 documentation",
+      "canonicalUrl": "https://docs.python.org/3/library/index.html",
+      "domain": "docs.python.org",
+      "description": "This library reference manual describes the standard library distributed with Python. It also describes some of the optional components that are commonly included in Python distributions. Elsewhere...",
+      "confidence": 0.83
+    },
+    {
+      "id": "doc-docs_python_org-sq4v2k",
+      "title": "Python HOWTOs — Python 3.14.7 documentation",
+      "canonicalUrl": "https://docs.python.org/3/howto/index.html",
+      "domain": "docs.python.org",
+      "description": "Python HOWTOs are documents that cover a specific topic in-depth. Modeled on the Linux Documentation Project’s HOWTO collection, this collection is an effort to foster documentation that’s more det...",
+      "confidence": 0.73
+    },
+    {
+      "id": "doc-pytorch_org-uf1rgs",
+      "title": "Redirecting&hellip;",
+      "canonicalUrl": "https://pytorch.org/2.14/index.html",
+      "domain": "pytorch.org",
+      "description": "Redirecting&hellip; Continue to ../2.14/index.html...",
+      "confidence": 0.31
+    },
+    {
+      "id": "doc-keras_io-w9mrri",
+      "title": "Keras: Deep Learning for humans",
+      "canonicalUrl": "https://keras.io/",
+      "domain": "keras.io",
+      "description": "Keras documentation",
+      "confidence": 0.6
+    },
+    {
+      "id": "doc-huggingface_co-mo38xa",
+      "title": "Hugging Face - Documentation",
+      "canonicalUrl": "https://huggingface.co/docs",
+      "domain": "huggingface.co",
+      "description": "We’re on a journey to advance and democratize artificial intelligence through open source and open science.",
+      "confidence": 0.54
+    },
+    {
+      "id": "doc-nltk_org-nfwsy9",
+      "title": "NLTK :: Natural Language Toolkit",
+      "canonicalUrl": "https://www.nltk.org/",
+      "domain": "nltk.org",
+      "description": "Natural Language Toolkit ¶\n\nNLTK is a leading platform for building Python programs to work with human language data. It provides easy-to-use interfaces to over 50 corpora and lexical resources such a...",
+      "confidence": 0.65
+    },
+    {
+      "id": "doc-spacy_io-7jfbk9",
+      "title": "Install spaCy · spaCy Usage Documentation",
+      "canonicalUrl": "https://spacy.io/usage",
+      "domain": "spacy.io",
+      "description": "spaCy is a free open-source library for Natural Language Processing in Python. It features NER, POS tagging, dependency parsing, word vectors and more.",
+      "confidence": 0.8
+    },
+    {
+      "id": "doc-xgboost_readthedocs_io-i8g5xe",
+      "title": "XGBoost Documentation &mdash; xgboost 3.4.2 documentation",
+      "canonicalUrl": "https://xgboost.readthedocs.io/en/stable/index.html",
+      "domain": "xgboost.readthedocs.io",
+      "description": "XGBoost Documentation\n\nXGBoost Documentation \n\nXGBoost is an optimized distributed gradient boosting library designed to be highly efficient , flexible and portable . It implements machine learning a...",
+      "confidence": 0.66
+    },
+    {
+      "id": "doc-opencv_org-ipk141",
+      "title": "OpenCV - Open Computer Vision Library",
+      "canonicalUrl": "https://opencv.org/",
+      "domain": "opencv.org",
+      "description": "OpenCV provides a real-time optimized Computer Vision library, tools, and hardware. It also supports model execution for Machine Learning (ML) and Artificial Intelligence (AI).",
+      "confidence": 0.6
+    },
+    {
+      "id": "doc-docs_opencv_org-4sxoro",
+      "title": "OpenCV documentation — OpenCV Tutorials",
+      "canonicalUrl": "https://docs.opencv.org/",
+      "domain": "docs.opencv.org",
+      "description": "OpenCV documentation #\n\nOpenCV (Open Source Computer Vision Library) is an open-source computer vision and machine learning software library. It has more than 2,500 optimised algorithms, a comprehensi...",
+      "confidence": 0.65
+    },
+    {
+      "id": "doc-mlflow_org-50o3qr",
+      "title": "MLflow Documentation | MLflow AI Platform",
+      "canonicalUrl": "https://mlflow.org/docs/latest",
+      "domain": "mlflow.org",
+      "description": "Welcome to the MLflow Documentation. Our documentation is organized into two sections to help you find exactly what you need. Choose LLMs & Agents for agent and LLM application development, tracing, a...",
+      "confidence": 0.31
+    },
+    {
+      "id": "doc-developers_google_com-mj27sp",
+      "title": "Machine Learning  |  Google for Developers",
+      "canonicalUrl": "https://developers.google.com/machine-learning",
+      "domain": "developers.google.com",
+      "description": "Educational resources for machine learning.",
+      "confidence": 0.27
+    },
+    {
+      "id": "doc-developers_google_com-1u2kw4",
+      "title": "MediaPipe Solutions guide  |  Google AI Edge  |  Google for Developers",
+      "canonicalUrl": "https://developers.google.com/edge/mediapipe/solutions/guide",
+      "domain": "developers.google.com",
+      "description": "MediaPipe Solutions guide Stay organized with collections Save and categorize content based on your preferences.\n\nMediaPipe Solutions provides a suite of libraries and tools for you to quickly apply a...",
+      "confidence": 0.56
+    },
+    {
+      "id": "doc-ai_google_dev-xnl4ih",
+      "title": "Gemini API  |  Google AI for Developers",
+      "canonicalUrl": "https://ai.google.dev/gemini-api/docs?hl=sq",
+      "domain": "ai.google.dev",
+      "description": "Dokumentet dhe Referenca e API-t të Gemini",
+      "confidence": 0.8
+    },
+    {
+      "id": "doc-gutenberg_org-9jyk6w",
+      "title": "Free eBooks | Project Gutenberg",
+      "canonicalUrl": "https://www.gutenberg.org/",
+      "domain": "gutenberg.org",
+      "description": "Project Gutenberg is a library of free eBooks.",
+      "confidence": 0.35
+    },
+    {
+      "id": "doc-archive_org-w4a9om",
+      "title": "Internet Archive: Digital Library of Free & Borrowable Texts, Movies, Music & Wayback Machine",
+      "canonicalUrl": "https://archive.org/details/texts",
+      "domain": "archive.org",
+      "description": "...",
+      "confidence": 0.2
+    },
+    {
+      "id": "doc-jstor_org-pxalm7",
+      "title": "JSTOR Home",
+      "canonicalUrl": "https://www.jstor.org/",
+      "domain": "jstor.org",
+      "description": "JSTOR is a digital library of academic journals, books, and primary sources.",
+      "confidence": 0.2
+    },
+    {
+      "id": "doc-bl_uk-z1dm5x",
+      "title": "The British Library - the national Library of the UK",
+      "canonicalUrl": "https://www.bl.uk/",
+      "domain": "bl.uk",
+      "description": "Visit the national library of the UK. Explore our buildings, study, meet friends, attend an event and get free access to over 170 million items. Join us.",
+      "confidence": 0.59
+    },
+    {
+      "id": "doc-en_wikisource_org-5mucrs",
+      "title": "Wikisource, the free library",
+      "canonicalUrl": "https://en.wikisource.org/wiki/Main_Page",
+      "domain": "en.wikisource.org",
+      "description": "Multilingual Wikisource\n\nWikisource – The Free Library – is a Wikimedia Foundation project to create a growing free content library of source texts, as well as translations of source texts in any lang...",
+      "confidence": 0.5
+    },
+    {
+      "id": "doc-en_wiktionary_org-h8j26n",
+      "title": "Wiktionary, the free dictionary",
+      "canonicalUrl": "https://en.wiktionary.org/wiki/Wiktionary:Main_Page",
+      "domain": "en.wiktionary.org",
+      "description": "Wiktionary : Main Page\n\nMultilingual Wikisource\n\n10,302,779 entries with English definitions from over 5,200 languages\n\nBrowse: All languages • List of topics • Random word • New pages\n\nAppendices • T...",
+      "confidence": 0.36
+    },
+    {
+      "id": "doc-archive_org-vcls11",
+      "title": "Internet Archive: Digital Library of Free & Borrowable Texts, Movies, Music & Wayback Machine",
+      "canonicalUrl": "https://archive.org/",
+      "domain": "archive.org",
+      "description": "...",
+      "confidence": 0.2
     }
   ]
 }

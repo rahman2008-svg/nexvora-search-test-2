@@ -1,0 +1,275 @@
+{
+  "chunkId": "chunk-018",
+  "filename": "chunk-018.json",
+  "documentCount": 6,
+  "totalBytes": 560744,
+  "createdAt": "2026-09-24T07:15:54.831Z",
+  "documents": [
+    {
+      "id": "doc-helm_sh-qhgjem",
+      "url": "https://helm.sh/docs/",
+      "canonicalUrl": "https://helm.sh/docs",
+      "domain": "helm.sh",
+      "title": "Docs Home | Helm",
+      "description": "Docs Docs Home Version: 4.3.0 Welcome\n\nWelcome to the Helm documentation. Helm is the package manager for Kubernetes, and you can read detailed background information in the CNCF Helm Project Journey ...",
+      "headings": {
+        "h1": [
+          "Welcome"
+        ],
+        "h2": [
+          "📄️ Docs Home",
+          "📄️ Helm 4 Overview",
+          "📄️ Full Changelog",
+          "🗃 Introduction",
+          "🗃 How-to",
+          "🗃 Topics",
+          "🗃 Best Practices",
+          "🗃 Chart Template Guide",
+          "🗃 Plugins",
+          "🗃 Helm Commands",
+          "🗃 Go SDK",
+          "📄️ Glossary"
+        ],
+        "h3": []
+      },
+      "mainText": "Docs Docs Home Version: 4.3.0 Welcome\n\nWelcome to the Helm documentation. Helm is the package manager for Kubernetes, and you can read detailed background information in the CNCF Helm Project Journey report .\n\nEverything you need to know about how the documentation is organized.\n\nHelm v4 represents a significant evolution from v3, introducing breaking changes, new architectural patterns, and enhanced functionality while maintaining backwards compatibility for charts.\n\nScope: 568 PRs from (v4.3.0) compared to v3.19.0\n\n🗃 Chart Template Guide\n\nTerms used to describe components of Helm's architecture.",
+      "language": "en",
+      "category": "General",
+      "categoryConfidence": 0.53,
+      "categorySignals": [
+        "heading:overview",
+        "heading:introduction",
+        "heading:welcome",
+        "desc:welcome",
+        "body:welcome(2)"
+      ],
+      "contentLengthBytes": 30151,
+      "wordCount": 87,
+      "statusCode": 200,
+      "fetchTimeMs": 586,
+      "processedAt": "2026-09-24T07:11:42.797Z",
+      "chunkId": "chunk-018",
+      "retryCount": 0
+    },
+    {
+      "id": "doc-docs_ansible_com-07z2wc",
+      "url": "https://docs.ansible.com/",
+      "canonicalUrl": "https://docs.ansible.com/",
+      "domain": "docs.ansible.com",
+      "title": "Ansible Community | Ansible documentation",
+      "description": "Ansible community documentation\n\nAnsible community documentation can help you configure most operating systems, deploy software, and orchestrate advanced workflows to support application deployment, s...",
+      "headings": {
+        "h1": [
+          "Ansible community documentation"
+        ],
+        "h2": [
+          "Get started",
+          "Users",
+          "Developers",
+          "Maintainers",
+          "Grab the Bullhorn",
+          "Ansible ecosystem",
+          "Contribute"
+        ],
+        "h3": [
+          "Code that reads like documentation",
+          "Freedom from repetitive tasks",
+          "Ansible Core",
+          "Antsibull Nox",
+          "Ansible Builder",
+          "Ansible developer tools",
+          "You can contribute to Ansible in so many ways..."
+        ]
+      },
+      "mainText": "Ansible community documentation\n\nAnsible community documentation can help you configure most operating systems, deploy software, and orchestrate advanced workflows to support application deployment, system updates, and more!\n\nContribute to Ansible\n\nAnsible is open-source technology that can perform virtually any IT task and remove complexity from workflows.\n\nCode that reads like documentation\n\nAnsible is an automation language that can describe any IT environment, whether homelab or large scale infrastructure. It is easy to learn, beautiful code that reads like clear documentation.\n\nFreedom from repetitive tasks\n\nAs an automation engine, Ansible ensures that your IT environment stays exactly as you describe it, no matter the complexity. Not only that, you can automate any command with Ansible to eliminate drudgery from your daily routine. Ansible gives you tooling to be more productive and solve problems that really matter.\n\nReady to start automating?\n\nAutomate the management of remote systems and control their desired state.\n\nExtend automation with custom Ansible modules, add functionality to existing modules, or fix bugs to improve existing code.\n\nAnsible community maintainers are trusted contributors who oversee project lifecycle and overall health.\n\nThe Bullhorn is a weekly newsletter full of Ansible Community news and updates.\n\nExpand automation to an unlimited set of use cases with projects in the Ansible ecosystem.\n\nThe Ansible programming language, automation tooling, and architectural framework.\n\nA nox helper library that simplifies the process of testing Ansible collections through a common interface for various tools.\n\nAnsible Builder lets you create Execution Environments, which are container images that act as Ansible control nodes.\n\nAnsible developer tools\n\nAn integrated tool kit and framework for creating Ansible automation content, from bootstrapping new projects to setting up ci/cd pipelines.\n\nYou can contribute to Ansible in so many ways...\n\nOrganize meetups with other automation enthusiasts.\n\nHost Ansible workshops.\n\nCode a new module or fix a bug.\n\nImprove the documentation.\n\nWant to get involved? Check out our contributor resources and join the Ansible community - we'd love to have you.\n\nRed Hat Ansible Automation Platform provides everything needed to create, execute, and manage automation in a single subscription. From execution environments to certified collections to automation analytics, discover the features and benefits of Ansible Automation Platform.",
+      "language": "en",
+      "category": "Programming",
+      "categoryConfidence": 0.49,
+      "categorySignals": [
+        "heading:code",
+        "heading:developer",
+        "body:code(4)",
+        "body:framework(2)"
+      ],
+      "contentLengthBytes": 23586,
+      "wordCount": 362,
+      "statusCode": 200,
+      "fetchTimeMs": 1177,
+      "processedAt": "2026-09-24T07:11:43.980Z",
+      "chunkId": "chunk-018",
+      "retryCount": 0
+    },
+    {
+      "id": "doc-developer_hashicorp_com-u0ph6s",
+      "url": "https://developer.hashicorp.com/terraform/docs",
+      "canonicalUrl": "https://developer.hashicorp.com/terraform/docs",
+      "domain": "developer.hashicorp.com",
+      "title": "Terraform overview | Terraform | HashiCorp Developer",
+      "description": "Terraform enables you to provision infrastructure safely and efficiently. Review Terraform&#x27;s ecosystem and workflows, including the Terraform CLI, HCP Terraform, and Terraform Enterprise.",
+      "headings": {
+        "h1": [
+          "Terraform Documentation"
+        ],
+        "h2": [
+          "Documentation",
+          "Introduction",
+          "Manage Infrastructure",
+          "Collaborate",
+          "Develop and Share"
+        ],
+        "h3": [
+          "Resources"
+        ]
+      },
+      "mainText": "Terraform Documentation\n\nTerraform is an infrastructure as code tool that lets you build, change, and version infrastructure safely and efficiently. This includes low-level components like compute instances, storage, and networking, as well as high-level components like DNS entries and SaaS features.\n\nWhat is Terraform? How Terraform solves infrastructure challenges.\n\nUse Cases Popular use cases and related documentation you can use to create Terraform configurations and workflows.\n\nTerraform vs. Alternatives Learn how Terraform compares to other tools and services.\n\nPhases of Terraform adoption Design your Terraform workflows for scale.\n\nManage Infrastructure\n\nConfiguration Language Describe infrastructure on various providers with Terraform&#x27;s configuration language.\n\nTerraform CLI Use the Terraform CLI to manage configuration, plugins, infrastructure, and state.\n\nHCP Terraform HCP Terraform helps teams use Terraform together, with version control, state sharing, governance, and more.\n\nTerraform Enterprise Terraform Enterprise is a self-hosted instance of HCP Terraform, which is ideal for organizations that have strict security and compliance requirements.\n\nPlugin Development Create a provider to allow Terraform to interact with a service.\n\nModules Create reusable configurations with modules.\n\nRegistry Publishing Publish a provider or module to the Terraform Registry to make it publicly available.",
+      "language": "en",
+      "category": "Technology",
+      "categoryConfidence": 0.33,
+      "categorySignals": [
+        "heading:infrastructure",
+        "desc:infrastructure",
+        "body:infrastructure(6)"
+      ],
+      "contentLengthBytes": 103945,
+      "wordCount": 189,
+      "statusCode": 200,
+      "fetchTimeMs": 736,
+      "processedAt": "2026-09-24T07:11:44.724Z",
+      "chunkId": "chunk-018",
+      "retryCount": 0
+    },
+    {
+      "id": "doc-developer_hashicorp_com-iq8bha",
+      "url": "https://developer.hashicorp.com/vault/docs",
+      "canonicalUrl": "https://developer.hashicorp.com/vault/docs",
+      "domain": "developer.hashicorp.com",
+      "title": "Vault product documentation | Vault | HashiCorp Developer",
+      "description": "Vault product and reference documentation covering key concepts, guides for common tasks, and best practices.",
+      "headings": {
+        "h1": [
+          "Vault Documentation"
+        ],
+        "h2": [
+          "Documentation",
+          "Use Vault with agentic AI",
+          "Run Vault on the HashiCorp Cloud Platform",
+          "Why use Vault?",
+          "Work with Vault"
+        ],
+        "h3": [
+          "OPERATIONS",
+          "VAULT + AI",
+          "Resources"
+        ]
+      },
+      "mainText": "No versions of this document exist before v1.16.x. Click below to redirect to the version homepage.\n\nCentralize secret management, rotate old credentials, generate credentials on demand, audit client interactions, and support regulatory compliance.\n\nUse Vault with agentic AI\n\nRun Vault on the HashiCorp Cloud Platform\n\nManage static secrets Store, rotate, and encrypt arbitrary strings as key-value pairs\n\nManage certificates Integrate with certificate authorities like KMIP and PKI to manage certificate life cycles and authenticate clients\n\nManage identities and authentication Control client access to sensitive information with managed entities, identity tokens, OIDC workflows, and workload identity federation (WIF)\n\nManage 3rd-party secrets Generate and revoke on-demand credentials and control access to external encryption keys and cloud credentials\n\nManage sensitive data Encrypt or tokenize sensitive data in transit and at rest\n\nSupport regulatory compliance Use Vault as part of an HSM solution, FIPS compliant architecture, or PKCS11 authN workflow",
+      "language": "en",
+      "category": "Programming",
+      "categoryConfidence": 0.39,
+      "categorySignals": [
+        "url_pattern:\\/developer",
+        "title:developer"
+      ],
+      "contentLengthBytes": 241834,
+      "wordCount": 146,
+      "statusCode": 200,
+      "fetchTimeMs": 149,
+      "processedAt": "2026-09-24T07:11:44.880Z",
+      "chunkId": "chunk-018",
+      "retryCount": 0
+    },
+    {
+      "id": "doc-developer_hashicorp_com-er508k",
+      "url": "https://developer.hashicorp.com/packer/docs",
+      "canonicalUrl": "https://developer.hashicorp.com/packer/docs",
+      "domain": "developer.hashicorp.com",
+      "title": "Packer documentation | Packer | HashiCorp Developer",
+      "description": "The Packer documentation describes how to use Packer and providers reference information for configuring Packer templates.",
+      "headings": {
+        "h1": [
+          "Packer Documentation"
+        ],
+        "h2": [
+          "Documentation",
+          "Build Images",
+          "Use Plugins",
+          "Collaborate and Integrate"
+        ],
+        "h3": [
+          "Resources"
+        ]
+      },
+      "mainText": "No versions of this document exist before v1.13.x. Click below to redirect to the version homepage.\n\nPacker lets you create identical machine images for multiple platforms from a single source configuration. A common use case is creating golden images for organizations to use in cloud infrastructure.\n\nStandardize and automate your workflow.\n\nTemplates Define the images Packer should build and the plugins it should use during the build process.\n\nPacker CLI Use the Packer CLI to build images, validate templates, and manage plugins.\n\nUse built-in and external plugins to perform tasks during each build.\n\nPlugin Overview Use builders, data sources, provisioners, and post-processors.\n\nInstall External Plugins Add external plugins to your template and install plugin binaries.\n\nExternal Plugins Find documentation for available external plugins.\n\nCollaborate and Integrate\n\nManage images for your organization and extend Packer functionality.\n\nHCP Packer Centrally track image metadata and enforce up-to-date image versions.\n\nPlugin Development Create custom builders, provisioners, post-processors, and data sources.",
+      "language": "en",
+      "category": "Programming",
+      "categoryConfidence": 0.52,
+      "categorySignals": [
+        "url_pattern:\\/developer",
+        "title:developer"
+      ],
+      "contentLengthBytes": 132823,
+      "wordCount": 156,
+      "statusCode": 200,
+      "fetchTimeMs": 824,
+      "processedAt": "2026-09-24T07:11:45.754Z",
+      "chunkId": "chunk-018",
+      "retryCount": 0
+    },
+    {
+      "id": "doc-docs_gitlab_com-hrgc0x",
+      "url": "https://docs.gitlab.com/",
+      "canonicalUrl": "https://docs.gitlab.com/",
+      "domain": "docs.gitlab.com",
+      "title": "GitLab Docs",
+      "description": "Find GitLab answers fast\n\nPersonal access tokens\n\nGet to know the GitLab end-to-end workflow.\n\nHelp learn key GitLab workflows by following guided instructions.\n\nChoose and manage the subscription tha...",
+      "headings": {
+        "h1": [
+          "Find GitLab answers fast"
+        ],
+        "h2": [
+          "Get started with GitLab",
+          "Reference architectures",
+          "Install GitLab Self-Managed"
+        ],
+        "h3": [
+          "Get started with Git",
+          "Get started with the GitLab Duo Agent Platform",
+          "Get started organizing work with projects",
+          "Get started planning work",
+          "Get started managing code",
+          "Get started with GitLab CI/CD",
+          "Get started securing your application",
+          "Get started deploying and releasing your application",
+          "Get started managing your infrastructure",
+          "Get started with monitoring your application in GitLab",
+          "Get started extending GitLab",
+          "Install on Linux",
+          "Install on Kubernetes",
+          "Install with Docker",
+          "Self-compile",
+          "Install from cloud provider"
+        ]
+      },
+      "mainText": "Find GitLab answers fast\n\nPersonal access tokens\n\nGet to know the GitLab end-to-end workflow.\n\nHelp learn key GitLab workflows by following guided instructions.\n\nChoose and manage the subscription that's right for you and your organization.\n\nGet help from a suite of AI-native features while you work in GitLab.\n\nLearn how to install, configure, update, and maintain your GitLab instance.\n\nConnect GitLab to your tools and workflows to build a customized development environment.\n\nUse these reference solutions to integrate GitLab with your people, process, and technology.\n\nLearn how to contribute to the development of the GitLab product.\n\nGitLab release announcements and feature highlights.\n\nGet started with GitLab\n\nIf you’re new to GitLab, get started learning about how GitLab works.\n\nWork with the Git version control system.\n\nGet started with the GitLab Duo Agent Platform\n\nUse AI-native features throughout your development lifecycle.\n\nGet started organizing work with projects\n\nConfigure projects to suit your organization.\n\nGet started planning work\n\nPlan and execute on work.\n\nGet started managing code\n\nBuild, track, and deliver the code for your project.\n\nGet started with GitLab CI/CD\n\nBuild and test your application.\n\nGet started securing your application\n\nTest your application and resolve vulnerabilities.\n\nGet started deploying and releasing your application\n\nDeploy and manage dependencies.\n\nGet started managing your infrastructure\n\nEmploy best practices for managing your infrastructure.\n\nGet started with monitoring your application in GitLab\n\nMonitor your app and respond to incidents.\n\nGet started extending GitLab\n\nInteract programmatically with GitLab.\n\nReference architectures\n\nScale your GitLab installation by using the recommended configurations.\n\nInstall GitLab Self-Managed\n\nYou've got options. See them all\n\nThe Linux package includes services and tools to install GitLab without laborious configuration.\n\nInstall on Kubernetes\n\nIf you're using cluster management, we recommend the Helm chart or the Operator for installing cloud-native GitLab.\n\nGitLab maintains a set of official Docker images based on the Linux package.\n\nIf the Linux package isn't available for your distribution, you can self-compile GitLab.\n\nInstall from cloud provider\n\nInstall directly from platforms like AWS, Azure, and GCP.",
+      "language": "en",
+      "category": "Technology",
+      "categoryConfidence": 0.47,
+      "categorySignals": [
+        "heading:cloud",
+        "heading:infrastructure",
+        "heading:kubernetes",
+        "heading:docker",
+        "heading:linux",
+        "body:infrastructure(2)",
+        "body:linux(3)"
+      ],
+      "contentLengthBytes": 28405,
+      "wordCount": 333,
+      "statusCode": 200,
+      "fetchTimeMs": 307,
+      "processedAt": "2026-09-24T07:11:46.068Z",
+      "chunkId": "chunk-018",
+      "retryCount": 0
+    }
+  ]
+}

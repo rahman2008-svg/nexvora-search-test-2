@@ -1,18 +1,18 @@
 {
   "category": "Sports",
   "documentCount": 1,
-  "updatedAt": "2026-09-24T05:08:13.967Z",
+  "updatedAt": "2026-09-24T07:14:23.772Z",
   "documentIds": [
-    "doc-espn_com-6fulrx"
+    "doc-en_wikinews_org-uryt50"
   ],
   "items": [
     {
-      "id": "doc-espn_com-6fulrx",
-      "title": "FIFA World Cup Qualifiers Scores and Match Highlights – ESPN Sports",
-      "canonicalUrl": "https://www.espn.com/football/fifa-world-cup-qualifiers",
-      "domain": "espn.com",
-      "description": "Get live match scores, standings, team results, and player statistics from the international FIFA World Cup championship qualification rounds.",
-      "confidence": 0.81
+      "id": "doc-en_wikinews_org-uryt50",
+      "title": "Wikinews, the free news source",
+      "canonicalUrl": "https://en.wikinews.org/wiki/Main_Page",
+      "domain": "en.wikinews.org",
+      "description": "Upload fair use media\n\nMultilingual Wikisource\n\nThe Board of Trustees of the Wikimedia Foundation announced on March 30 its decision to close all language editions of the project. In the announcement,...",
+      "confidence": 0.48
     }
   ]
 }

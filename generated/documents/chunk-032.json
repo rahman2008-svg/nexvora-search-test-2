@@ -1,0 +1,315 @@
+{
+  "chunkId": "chunk-032",
+  "filename": "chunk-032.json",
+  "documentCount": 6,
+  "totalBytes": 4126004,
+  "createdAt": "2026-09-24T07:15:54.831Z",
+  "documents": [
+    {
+      "id": "doc-openstax_org-lhpyl2",
+      "url": "https://openstax.org/",
+      "canonicalUrl": "https://openstax.org/",
+      "domain": "openstax.org",
+      "title": "OpenStax",
+      "description": "OpenStax offers free college textbooks for all types of students, making education accessible & affordable for everyone. Browse our list of available subjects!",
+      "headings": {
+        "h1": [],
+        "h2": [],
+        "h3": []
+      },
+      "mainText": "",
+      "language": "en",
+      "category": "Education",
+      "categoryConfidence": 0.49,
+      "categorySignals": [
+        "desc:education",
+        "desc:college"
+      ],
+      "contentLengthBytes": 12343,
+      "wordCount": 0,
+      "statusCode": 200,
+      "fetchTimeMs": 209,
+      "processedAt": "2026-09-24T07:13:24.673Z",
+      "chunkId": "chunk-032",
+      "retryCount": 0
+    },
+    {
+      "id": "doc-edx_org-iirl2p",
+      "url": "https://www.edx.org/",
+      "canonicalUrl": "https://www.edx.org/",
+      "domain": "edx.org",
+      "title": "edX | Online Courses, Certificates & Degrees from Leading Institutions",
+      "description": "Find the online learning path for you, delivered by world-class institutions like Harvard, Google, Amazon, and more.",
+      "headings": {
+        "h1": [],
+        "h2": [
+          "FLASH SALE: Save 30% this week only",
+          "Explore top courses",
+          "Executive Access Week is LIVE",
+          "Learn something new with edX",
+          "Hear what other learners have to say",
+          "Empower every member of your team",
+          "Popular topics",
+          "Discover more than a classroom — join a global community.",
+          "Register for a free account"
+        ],
+        "h3": []
+      },
+      "mainText": "FLASH SALE: Save 30% this week only\n\nOne week. Zero excuses. Take 30% off select courses and programs with code 30OFFEDXFLASH2026 . Offer ends September 30.\n\nExecutive Access Week is LIVE\n\nYou&#x27;ve unlocked 20% off executive education courses . One week only. Use code EXECWEEK2026 before September 29.\n\nLearn something new with edX\n\nedX helps learners around the world grow their skills and careers. Join our learning community today!\n\nHear what other learners have to say\n\nI&#x27;m a fan of edX&#x27;s new way of learning. Thousands of people can study from anywhere in the world. It&#x27;s a wonderful idea.\n\nThe edX experience is the most valuable experience I have ever had. It gives me the opportunity to learn from universities across continents and languages.\n\nI’m hard of hearing, which makes it difficult and exhausting to follow regular courses. Thanks to edX lectures have captions, I can follow the courses without any problems.\n\nLiving in this explosion of information — it&#x27;s hugely rewarding to see it ‘democratized’ in this way.\n\nedX has enriched my life. I have truly found my passion, and now I am determined to pursue my career as an electrical engineer after I go to college.\n\nEven though I have a formal and practical education and have working experience in electronics, the course was challenging sometimes, but always rewarding.\n\nEmpower every member of your team\n\nDiscover edX Enterprise Subscriptions\n\nGive your employees unlimited access to courses and certificate programs in topics like AI, sustainability, and leadership.\n\nDiscover more than a classroom — join a global community.\n\nAccess world-class education from institutions like Harvard , MIT , and Cambridge .\n\nLearn from anywhere in the world with online courses, certificates, and degrees.\n\nConnect with edX&#x27;s global network of ambitious learners.\n\nFind a range of programs covering diverse topics for all types of students.\n\nEngage with expert-led curricula via flexible, hybrid, and 100% online options.\n\nRegister for a free account",
+      "language": "en",
+      "category": "Education",
+      "categoryConfidence": 0.75,
+      "categorySignals": [
+        "domain:edx.org",
+        "title:degrees",
+        "heading:learn",
+        "heading:classroom",
+        "body:education(3)",
+        "body:learn(3)"
+      ],
+      "contentLengthBytes": 2563754,
+      "wordCount": 320,
+      "statusCode": 200,
+      "fetchTimeMs": 724,
+      "processedAt": "2026-09-24T07:13:25.440Z",
+      "chunkId": "chunk-032",
+      "retryCount": 0
+    },
+    {
+      "id": "doc-coursera_org-9lj0tf",
+      "url": "https://www.coursera.org/",
+      "canonicalUrl": "https://www.coursera.org/",
+      "domain": "coursera.org",
+      "title": "Coursera | Online Courses, Certificates, & Degrees",
+      "description": "Learn job-ready skills with online courses, Professional Certificates, Specializations, and degrees from Google, Meta, Anthropic, DeepLearning.AI, Stanford, and more. Start learning today.",
+      "headings": {
+        "h1": [
+          "Learn without limits"
+        ],
+        "h2": [
+          "Start, switch, or advance your career",
+          "Drive your business forward and empower your talent",
+          "Unlock 3 months of Google AI Pro when you enroll in any Google Career Certificate",
+          "New and popular",
+          "AI for the work you do—and the career you want",
+          "Learn from 350+ leading universities and companies",
+          "Launch a new career",
+          "Try Coursera for Business",
+          "Earn a degree",
+          "Explore categories",
+          "Get job-ready for an in-demand career",
+          "Trending searches",
+          "What brings you to Coursera today?",
+          "Free courses from Anthropic, AWS, Microsoft, and more.",
+          "Why people choose Coursera",
+          "Frequently asked questions",
+          "Skills",
+          "Professional Certificates",
+          "Courses & Specializations",
+          "Career Resources",
+          "Coursera",
+          "Community",
+          "More"
+        ],
+        "h3": [
+          "Unlock 10,000+ courses with a subscription",
+          "Drive your business forward and empower your teams",
+          "91% of learners achieved a positive career outcome",
+          "Sarah W.",
+          "Noeris B.",
+          "Abdullahi M.",
+          "Anas A.",
+          "Is Coursera accredited, and are Coursera certificates recognized by employers?",
+          "Is a Coursera certificate worth it?",
+          "What is Coursera Plus, and is it worth it?",
+          "Does Coursera offer free online courses?",
+          "What are the most popular courses on Coursera?",
+          "How can Coursera help me get a job or advance my career?",
+          "What is Coursera for Business, and how much does it cost?"
+        ]
+      },
+      "mainText": "Start, switch, or advance your career\n\nGrow with courses from top organizations\n\nDrive your business forward and empower your talent\n\nTrain your team with industry-leading experts\n\nUnlock 3 months of Google AI Pro when you enroll in any Google Career Certificate\n\nUse Google&#x27;s most capable AI tools to study faster, build your portfolio, and jumpstart your job search.\n\nPrevious Next Go to item 1 Go to item 2 Go to item 3 New and popular\n\nAI for the work you do—and the career you want\n\nChoose your field. Learn the workflows, judgment and tools reshaping it.\n\nUnlock 10,000+ courses with a subscription\n\nDrive your business forward and empower your teams\n\nLearn from 350+ leading universities and companies\n\nTry Coursera for Business\n\nGet job-ready for an in-demand career\n\nNo prior experience needed to get started.\n\nWhat brings you to Coursera today?\n\nGrow in my current role\n\nExplore topics outside of work\n\nFree courses from Anthropic, AWS, Microsoft, and more.\n\n91% of learners achieved a positive career outcome\n\nWhy people choose Coursera\n\nFrequently asked questions\n\nIs Coursera accredited, and are Coursera certificates recognized by employers?\n\nCoursera partners with accredited universities and leading companies such as Google and IBM to offer courses, Specializations, and Professional Certificates. Employers widely recognize these credentials because they are issued directly by trusted institutions. Learners can build job-ready skills with the Google Data Analytics Professional Certificate , the IBM Data Analyst Professional Certificate , or start with accredited university content in high-demand fields like data analytics and cybersecurity .\n\nIs a Coursera certificate worth it?\n\nFor many learners, a Coursera certificate is worth it because it provides job-ready skills and a verifiable credential from respected universities and companies. Learners commonly transition into roles in project management, UX design, and data science through programs such as the Google Project Management Professional Certificate , the Google UX Design Professional Certificate , and the IBM Data Science Professional Certificate . Others enter technical fields by starting with beginner-friendly Python or generative AI courses.\n\nWhat is Coursera Plus, and is it worth it?\n\nCoursera Plus is an annual subscription that gives learners unlimited access to thousands of courses, Specializations, and Professional Certificates. It’s a substantial value for anyone planning to complete multiple programs in a year. Learners often use Coursera Plus to explore in-demand areas, such as AI and analytics, through programs like the AI Essentials Specialization , the IBM Data Analyst Professional Certificate , or the Google Cybersecurity Professional Certificate .\n\nDoes Coursera offer free online courses?\n\nYes. Coursera offers thousands of courses that you can preview for free, including access to the first module, allowing you to explore the content before committing. Learners who want full course access or a certificate can join with a 7-day free trial through Coursera Plus or a subscription-based program. Many learners begin with introductory topics, such as Python , digital marketing , or English speaking , and later move into job-focused programs, like the Google IT Support Professional Certificate , when they’re ready to complete a credential.\n\nWhat are the most popular courses on Coursera?\n\nCoursera’s best-known courses and certificates are offered by leading universities and companies in the fields of AI, data science, cybersecurity, and software engineering. Many learners begin with the Machine Learning Specialization or the Deep Learning Specialization . In contrast, others opt for job-aligned pathways, such as the Google Cybersecurity Professional Certificate or the AI Engineer Professional Certificate . You can also browse broad areas, such as artificial intelligence , SQL , or web development , to find highly rated options.\n\nHow can Coursera help me get a job or advance my career?\n\nCoursera offers job-aligned Professional Certificates and Specializations designed in collaboration with employers and universities to help learners qualify for roles in fields such as cybersecurity, UX, data analytics, AI, and business. Programs such as the Google Cybersecurity Professional Certificate , the Data Analysis with Python Specialization , and the UI/UX Design Specialization help learners build employer-relevant skills. At the same time, many career changers explore areas such as product management or business analysis as pathways into business and technology roles. Coursera also offers online bachelor’s and master’s degrees from accredited universities, which can support long-term career advancement in business, computer science, data, and other high-growth fields. Learners exploring formal education pathways can browse online degrees or view available bachelor’s programs to find a degree aligned to their career goals.\n\nWhat is Coursera for Business, and how much does it cost?\n\nCoursera for Business is Coursera’s enterprise learning platform designed to help organizations reskill and upskill employees with job-relevant training from top universities and companies. It comes in two versions:\n\nCoursera for Teams – Designed for small teams and growing businesses. It offers access to thousands of courses and Professional Certificates for a fixed price per user.\n\nCoursera for Enterprise – Built for large organizations that need advanced features, including analytics, integrations, skills benchmarking, and scalable workforce training programs tailored to specific roles.\n\nPricing varies depending on the size of your team and the learning needs of your organization. Small businesses can purchase Coursera for Teams directly online, while Coursera for Enterprise pricing is custom and available through a sales consultation.\n\n¹ Median salary and job opening data are sourced from Lightcast™ Job Postings Report. Content Creator, Machine Learning Engineer and Salesforce Development Representative (1/1/2024 - 12/31/2024) All other job roles (9/1/2025 - 9/1/2026)",
+      "language": "en",
+      "category": "Education",
+      "categoryConfidence": 0.58,
+      "categorySignals": [
+        "domain:coursera.org",
+        "title:degrees",
+        "heading:learn",
+        "desc:learn",
+        "desc:degrees",
+        "body:learn(2)",
+        "body:degrees(2)",
+        "body:training(2)"
+      ],
+      "contentLengthBytes": 795328,
+      "wordCount": 896,
+      "statusCode": 200,
+      "fetchTimeMs": 2157,
+      "processedAt": "2026-09-24T07:13:27.636Z",
+      "chunkId": "chunk-032",
+      "retryCount": 0
+    },
+    {
+      "id": "doc-classcentral_com-13yqa2",
+      "url": "https://www.classcentral.com/",
+      "canonicalUrl": "https://www.classcentral.com/",
+      "domain": "classcentral.com",
+      "title": "Class Central • Find the best courses, wherever they exist.",
+      "description": "Class Central aggregates courses from many providers to help you find the best courses on almost any subject, wherever they exist.",
+      "headings": {
+        "h1": [],
+        "h2": [
+          "Find your next course.",
+          "Find the best courses, wherever they exist",
+          "Rankings",
+          "As seen in",
+          "Get the most out of Class Central with a free account",
+          "Get the latest news and analysis in online education.",
+          "7 Best Online First Aid Courses and Sites for 2026: CPR, AED, and Emergency Response",
+          "7 Best Node.js Courses in 2026: Build APIs in JavaScript",
+          "12 Best Data Analysis Courses for 2026: From Data to Insights",
+          "9 Best Low-Code/No-Code Development Courses for Beginners in 2026",
+          "8 Best Cyber Threat Intelligence (CTI) Courses for 2026",
+          "Browse our popular curated collections"
+        ],
+        "h3": [
+          "Featured",
+          "1300+ Universities",
+          "100 Providers",
+          "1700+ Institutions",
+          "Recent articles RSS Feed",
+          "How to Take Better Notes",
+          "Chasing 100M Daily Users, Duolingo Reconsiders Ads, Paying Influencers, and Its Most Expensive Plan",
+          "Coursera’s $100 Million Thesis: Andrew Ng Will Think of Something",
+          "2U Lays Off Staff for the Sixth Time Since its $800M edX Acquisition",
+          "The Best Apps to Learn Indonesian in 2026",
+          "The ‘Joies’ of Learning French from Ellie; One Word A Month",
+          "[2026] 20+ Back to School Discounts & Online Learning Deals",
+          "Study Smarter: How to Focus, Beat Distraction, and Learn Faster",
+          "Coursera Lays Off ~150 Staff After Udemy Merger",
+          "Best Courses Guides"
+        ]
+      },
+      "mainText": "Find your next course.\n\n600 Free Google Certifications\n\nExploring English: Language and Culture\n\nLearning How to Learn: Powerful mental tools to help you master tough subjects\n\nIntroduction to Research Ethics: Working with People\n\nOr browse by  subject  or  university Learn more\n\nGoogle Job-Ready Certificates\n\nFinance Certifications\n\nAddictive Python Courses\n\nFind the best courses, wherever they exist\n\nOver 250,000 reviews written by Class Central users help you pick the best course.\n\nGet the most out of Class Central with a free account\n\n10,003 sign ups in the past 7 days\n\n35M follows 31,573 follows in the past 7 days\n\n20M bookmarks 39,217 courses bookmarked in the past 7 days\n\n2M lists created 10,077 lists created in the past 7 days\n\nGet the latest news and analysis in online education.\n\nRecent articles RSS Feed\n\nHow to Take Better Notes\n\nChasing 100M Daily Users, Duolingo Reconsiders Ads, Paying Influencers, and Its Most Expensive Plan\n\nCoursera’s $100 Million Thesis: Andrew Ng Will Think of Something\n\n2U Lays Off Staff for the Sixth Time Since its $800M edX Acquisition\n\nThe Best Apps to Learn Indonesian in 2026\n\nThe ‘Joies’ of Learning French from Ellie; One Word A Month\n\n[2026] 20+ Back to School Discounts & Online Learning Deals\n\nStudy Smarter: How to Focus, Beat Distraction, and Learn Faster\n\nCoursera Lays Off ~150 Staff After Udemy Merger\n\n7 Best Online First Aid Courses and Sites for 2026: CPR, AED, and Emergency Response\n\nPat Bowden Sep 22nd, 2026\n\n7 Best Node.js Courses in 2026: Build APIs in JavaScript\n\nZoë Davidson Sep 17th, 2026\n\n12 Best Data Analysis Courses for 2026: From Data to Insights\n\nElham Nazif Sep 17th, 2026\n\n9 Best Low-Code/No-Code Development Courses for Beginners in 2026\n\nArchit Shukla Sep 15th, 2026\n\n8 Best Cyber Threat Intelligence (CTI) Courses for 2026\n\nV.P. Singh Sep 15th, 2026\n\nBrowse our popular curated collections",
+      "language": "en",
+      "category": "Education",
+      "categoryConfidence": 0.52,
+      "categorySignals": [
+        "heading:education",
+        "heading:course",
+        "heading:learn",
+        "heading:school",
+        "heading:study",
+        "body:course(2)",
+        "body:learn(4)"
+      ],
+      "contentLengthBytes": 605811,
+      "wordCount": 305,
+      "statusCode": 200,
+      "fetchTimeMs": 1250,
+      "processedAt": "2026-09-24T07:13:30.422Z",
+      "chunkId": "chunk-032",
+      "retryCount": 0
+    },
+    {
+      "id": "doc-open_umn_edu-vxglz4",
+      "url": "https://open.umn.edu/opentextbooks/",
+      "canonicalUrl": "https://open.umn.edu/opentextbooks",
+      "domain": "open.umn.edu",
+      "title": "Open Textbook Library",
+      "description": "Open textbooks are licensed by authors and publishers to be freely used and adapted. Download, edit and distribute them at no cost.",
+      "headings": {
+        "h1": [
+          "Transform Higher Education and Student Learning"
+        ],
+        "h2": [
+          "New Books",
+          "Coming Soon"
+        ],
+        "h3": [
+          "Foundations of Information Systems",
+          "Athletic Therapy Skills: Support Techniques",
+          "The Linguistic Analysis of Word and Sentence Structures",
+          "Generational Intelligence: Communications from Boomers to Gen Alpha",
+          "Technical Documentation and Data Tools for Engineers - A Practical Guide to Reports, Presentations, Spreadsheets, and AI Tools",
+          "Premiers Pas",
+          "Introductory Quantum Chemistry and Spectroscopy",
+          "Pasaporte laboral: curso de español para profesionales",
+          "Your Exercise Science Journey: Skills, Careers, and Research in Exercise Science",
+          "Music Therapy in Practice: A Step-by-Step Guide to the Clinical Process"
+        ]
+      },
+      "mainText": "Transform Higher Education and Student Learning\n\nOpen textbooks are licensed by authors and publishers to be freely used and adapted. Download, edit and distribute them at no cost.\n\nNow offering 1882 open textbooks, the Open Textbook Library is supported by the Open Education Network .\n\nFoundations of Information Systems\n\nAthletic Therapy Skills: Support Techniques\n\nThe Linguistic Analysis of Word and Sentence Structures\n\nGenerational Intelligence: Communications from Boomers to Gen Alpha\n\nTechnical Documentation and Data Tools for Engineers - A Practical Guide to Reports, Presentations, Spreadsheets, and AI Tools\n\nIntroductory Quantum Chemistry and Spectroscopy\n\nPasaporte laboral: curso de español para profesionales\n\nYour Exercise Science Journey: Skills, Careers, and Research in Exercise Science\n\nMusic Therapy in Practice: A Step-by-Step Guide to the Clinical Process\n\nSee textbooks being developed by OEN members",
+      "language": "en",
+      "category": "Education",
+      "categoryConfidence": 0.47,
+      "categorySignals": [
+        "domain:.edu",
+        "title:textbook",
+        "heading:education",
+        "heading:student",
+        "body:education(2)"
+      ],
+      "contentLengthBytes": 60548,
+      "wordCount": 129,
+      "statusCode": 200,
+      "fetchTimeMs": 1851,
+      "processedAt": "2026-09-24T07:13:34.831Z",
+      "chunkId": "chunk-032",
+      "retryCount": 0
+    },
+    {
+      "id": "doc-libretexts_org-so2iqi",
+      "url": "https://libretexts.org/",
+      "canonicalUrl": "https://libretexts.org/",
+      "domain": "libretexts.org",
+      "title": "Home | LibreTexts",
+      "description": "10 times the power at a fraction of the cost!\n\nSchools and Organizations\n\nLibreTexts is your go-to source for Training, Content, Development, and Technology for a ideal blend of Open Education Resourc...",
+      "headings": {
+        "h1": [
+          "10 times the power at a fraction of the cost!",
+          "Join a Global Community!"
+        ],
+        "h2": [
+          "LibreTexts is your go-to source for Training, Content, Development, and Technology for a ideal blend of Open Education Resources",
+          "Upcoming Events",
+          "What can LibreTexts Help with?",
+          "Check out our Latest Blogs",
+          "What Instructors say about us..."
+        ],
+        "h3": [
+          "500 +",
+          "75 M+",
+          "3000 +",
+          "300 K+",
+          "1500 K+",
+          "Upcoming Events"
+        ]
+      },
+      "mainText": "10 times the power at a fraction of the cost!\n\nSchools and Organizations\n\nLibreTexts is your go-to source for Training, Content, Development, and Technology for a ideal blend of Open Education Resources\n\nLibreTexts is the adaptable, user-friendly non-profit open education resource platform that educators trust for creating, customizing, and sharing accessible, interactive textbooks, adaptive homework, and ancillary materials. We collaborate with individuals and organizations to champion open education initiatives, support institutional publishing programs, drive curriculum development projects, and more.\n\nBuild, integrate, maintain, and distribute OER textbooks, homework, and ancillaries from \"Curatatories\" as centralized repositories for seamless creation, remixing, and discovery.\n\nDevelop and sustain the LibreVerse as a dynamic ecosystem of interconnected open-source technologies, driving and empowering all aspects of Open.\n\nSupport the community in successfully launching new projects through innovative content creation and technology development.\n\nUtilize specialized knowledge to provide professional development that equips the community with the skills and confidence to fully utilize the LibreVerse.\n\nMonthly Webinar Series\n\nWhat can LibreTexts Help with?\n\n17 subject field libraries available\n\nOver 2000 textbooks for various courses\n\nAbility to remix multiple different textbook chapters from different books and your own material to make a custom textbook\n\nCase Studies, Lab Experiments, Interactive modules\n\nInteractive Learning Materials\n\nYou can embed Jupyter Notebooks, ADAPT Homework Questions, 3D visualizations, Videos and more directly into textbook pages to create an interactive textbook that is more than just a text online.\n\nCheck out our Latest Blogs\n\nLibreTexts August 2026 Newsletter\n\nLibreTexts July 2026 Newsletter\n\nLibreTexts June 2026 Newsletter\n\nWhat Instructors say about us...\n\nThe power of LibreTexts and ADAPT has been transformative in my classroom and in OER development. These platforms have not only democratized access to quality educational resources but also fostered a collaborative and innovative spirit among educators. By eliminating the high costs associated with traditional textbooks and homework platforms, LibreTexts has enhanced the learning experience and empowered students to achieve their academic goals without the financial burden traditionally associated with higher education.\n\nSpanish Faculty and OER/ZTC Coordinator\n\nAs a full-time OER Librarian, I work with faculty across multiple disciplines, modalities, and platforms to support the adoption, curation, and creation of open educational resources. We recognize that faculty have limited time, and learning new software can be daunting. Most faculty default to Word, Google Docs, or Canvas to build OER, but these tools often result in cumbersome, difficult-to-navigate resources that can take 150–300 hours to develop. Faculty struggle to edit long documents and remix content effectively, and students find the final product less usable. Switching to LibreTexts transformed our workflow. Tasks that once required over 100 hours now take just one or two. The total time to remix and curate an OER dropped from 300 hours to just 20. LibreTexts streamlined our work breakdown structures, making the entire process more efficient, scalable, and sustainable. I’ve seen the results firsthand. Faculty love the flexibility, and students love having their materials in multiple formats—whether in print, on their phones, embedded in Canvas, or on the LibreTexts website. I’m all in. I’ve drunk the Kool-Aid. I’ve seen the power of LibreTexts, and it’s the software I promote the most.\n\nLibreTexts provides the key that unlocks the door to a world of possibilities for accessing, creating, and sharing educational resources that empower teachers and students to engage in authentic, meaningful learning and teaching opportunities. This inventive, innovative repository of open educational resources can help guide learners to success. Just as the protagonists in \"The Wizard of Oz\" discover their own potential abilities and strengths without needing to rely on traditional means, so, too, LibreTexts can serve as a pathway, similar to \"The Yellow Brick Road,\" to the discovery of skills, knowledge, and self-confidence.\" There's no place like LibreTexts for the exciting world of open education!\n\nProfessor of Communication, California State University, Humboldt\n\nLibreTexts has made my transition to using OER textbooks in all my math courses easy and enjoyable! I love the way I can customize existing OER content so easily into a coherent textbook that covers exactly the right topics and in the way I want them presented. If an explanation or an instruction is unclear, I can improve the wording quickly and easily. If additional examples are needed for a topic, I can easily add them. My students appreciate not having to pay for a textbook, and their performance has not been hindered. In fact, on topics for which I have added my own new explanations and examples, they have performed even better than before!\n\nProfessor, Lake Tahoe Community College\n\nI have moved to LibreTexts for all of my classes. It has allowed me to take full advantage of OER so that I was able to customize the textbook by remixing it and also directly embed my videos throughout and embed fully interactive activities allowing students to have mathematics learning materials that address all of their learning styles. My students have repeatedly thanked me for providing them with free materials that provide them the opportunity to succeed in their math classes.\n\nProfessor, Lake Tahoe Community College\n\nI have been using the LibreTexts ADAPT homework system for several years, and it has been an invaluable tool for student learning. The well-designed question banks provide engaging practice opportunities that help students deepen their understanding of course material. ADAPT has become an integral part of my teaching strategy to support student success.\n\nProfessor of Biology, City College San Francisco\n\nThe power of LibreTexts and ADAPT has been transformative in my classroom and in OER development. These platforms have not only democratized access to quality educational resources but also fostered a collaborative and innovative spirit among educators. By eliminating the high costs associated with traditional textbooks and homework platforms, LibreTexts has enhanced the learning experience and empowered students to achieve their academic goals without the financial burden traditionally associated with higher education. In the past 4 years, I have had the pleasure of co-authoring three Spanish OERs through LibreTexts and ADAPT. Through these projects, we are not only creating content for our classes, but also pioneering a new era of accessible and high-quality open resources. Our work exemplifies the potential of OER to revolutionize education by making it more inclusive and equitable. By having my Spanish OER textbooks in LibreTexts and using the free ADAPT homework, my students don’t have to worry about paying for the $200 textbook bundle anymore. LibreTexts has made this possible, and it stands as a testament to what we can achieve when we prioritize accessibility and innovation in education. Together, we are shaping a future where every student has the resources they need to succeed.\n\nInstructor, Chabot College\n\nDuring the 4 years that I have used it, the growth and development of ADAPT has been remarkable. It is an indispensable part of my pedagogy to enhance student success and learning.\n\nProfessor and Associate Department Head, Kansas State University College of Health and Human Sciences\n\nLibreTexts Founder and Executive Director, Delmar Larsen, provided an in-depth, hands-on workshop that covered everything our faculty needed to know to get started using ADAPT for their courses. We learned more about the open homework and assessment platform and how it can help take our campus OER efforts to the next level! We were excited by all the upcoming new features that will enhance the interactivity of OER for students and provide faculty with even more options for creating accessible, engaging content!\n\nQuality Online Inclusive Learning Design Coordinator at California State University, Fullerton\n\nDelmar's recent live presentation on the LibreTexts ADAPT homework system at West Los Angeles College was both informative and timely. Several of our faculty members, including those from the Spanish and Biotechnology departments, showed great interest in the training. This training was particularly relevant as they are in the process of converting their Spanish and Biotechnology Lab Technician educational pathways to OER/ZTC. in addition, the discussion about the new AI tutoring tool that Delmar and his team are developing this summer for integration into the ADAPT system was especially fascinating!\n\nSystems/Electronic Resources/OER Librarian, West Los Angeles College\n\nLibreTexts has helped revolutionize Open Educational Resources on our campus. Our faculty have found community with other educators who are also freeing their courses, and they have embraced the academic freedom inherent in curating and creating their own materials. We couldn't have accomplished so much, so quickly, without their support.\n\nOER Librarian, Coalinga College\n\nLibreTexts has redefined equity in education, providing free, high-quality resources that break down barriers for California students and beyond. Under Dr. Delmar Larsen’s leadership, the team consistently delivers exceptional support—technical, managerial, and accessibility-focused—while addressing the diverse needs of disciplines and learners, from complex mathematical equations to vast art history visuals. Their powerful tools, including ADAPT for adaptive learning, the OER Remixer, Commons, Conductor, advanced visualization platforms, 3D molecular modeling, Jupyter Notebooks integration, and seamless LMS compatibility, alongside their integration of global best practices, ensure an unparalleled, adaptive learning experience. LibreTexts exemplifies what inclusive, cutting-edge education should be: accessible, responsive, and transformative.\n\nInstructor of Communication Studies, DeAnza College\n\nThe ADAPT platform allows nursing faculty from around the world to create and collaboratively share NCLEX Next-Generation style questions and case studies to help nursing students prepare for their licensure exam. To my knowledge, this is the only platform that promotes this level of faculty collaboration to promote student success.\n\nWisTech Open Nursing OER Lead Editor\n\nLibreTexts has redefined equity in education, providing free, high-quality resources that break down barriers for California students and beyond. Under Dr. Delmar Larsen’s leadership, the team consistently delivers exceptional support—technical, managerial, and accessibility-focused—while addressing the diverse needs of disciplines and learners, from complex mathematical equations to vast art history visuals. Their powerful tools, including ADAPT for adaptive learning, the OER Remixer, Commons, Conductor, advanced visualization platforms, 3D molecular modeling, Jupyter Notebooks integration, and seamless LMS compatibility, alongside their integration of global best practices, ensure an unparalleled, adaptive learning experience. LibreTexts exemplifies what inclusive, cutting-edge education should be: accessible, responsive, and transformative.\n\nInstructor, Communication Studies, De Anza College\n\nDr. Delmar Larsen, founder and executive director of LibreTexts, exemplifies visionary leadership and unwavering dedication to advancing Open Educational Resources (OER). His extensive knowledge across scientific disciplines, combined with a strong commitment to educational equity, has transformed the landscape of OER content creation and distribution. Through LibreTexts, Dr. Larsen has pioneered one of the most comprehensive and accessible platforms for high-quality, free textbooks and learning materials, empowering educators and students globally. His service to the academic community—characterized by innovation, collaboration, and a commitment to reducing educational barriers—has not only expanded access to knowledge but also cultivated a sustainable model for OER development that continues to inspire and uplift the open education movement.\n\nInstructor, Gavilan College\n\nJoin a Global Community!\n\nYou're in good company with over 400 organizations across the World building their OER initiatives on LibreTexts",
+      "language": "en",
+      "category": "Education",
+      "categoryConfidence": 0.83,
+      "categorySignals": [
+        "heading:education",
+        "heading:training",
+        "desc:education",
+        "desc:training",
+        "body:education(9)",
+        "body:university(3)",
+        "body:college(8)",
+        "body:student(4)",
+        "body:teaching(2)",
+        "body:professor(5)"
+      ],
+      "contentLengthBytes": 88220,
+      "wordCount": 1797,
+      "statusCode": 200,
+      "fetchTimeMs": 1610,
+      "processedAt": "2026-09-24T07:13:36.459Z",
+      "chunkId": "chunk-032",
+      "retryCount": 0
+    }
+  ]
+}

@@ -1,0 +1,286 @@
+{
+  "chunkId": "chunk-044",
+  "filename": "chunk-044.json",
+  "documentCount": 6,
+  "totalBytes": 459274,
+  "createdAt": "2026-09-24T07:15:54.831Z",
+  "documents": [
+    {
+      "id": "doc-nist_gov-7zztnz",
+      "url": "https://www.nist.gov/cybersecurity",
+      "canonicalUrl": "https://www.nist.gov/cybersecurity-and-privacy",
+      "domain": "nist.gov",
+      "title": "Cybersecurity and privacy | NIST",
+      "description": "NIST develops cybersecurity and privacy standards, guidelines, best practices, and resources to meet the needs of U.S",
+      "headings": {
+        "h1": [
+          "Cybersecurity and privacy"
+        ],
+        "h2": [
+          "Sign Up to Get NIST News",
+          "Cybersecurity and privacy Topics",
+          "News and Updates",
+          "Explainers",
+          "Videos",
+          "Blog Posts",
+          "Cybersecurity Insights Blog"
+        ],
+        "h3": [
+          "NIST Awards More Than $1.7 Million to Support Cybersecurity Workforce Development Across 8 States",
+          "NIST Finalizes Guidelines on Protecting Online Identity and Access Tokens From Misuse",
+          "Seeking Public Comment! Using Artificial Intelligence for Cybersecurity Framework 2.0 Analysis and Reporting",
+          "How Do I Create a Good Password?",
+          "What Is Quantum Cryptography?",
+          "What Is Post-Quantum Cryptography?",
+          "Protecting Your Small Business: Ransomware",
+          "Protecting Your Small Business: Phishing",
+          "The NIST Cybersecurity Framework (CSF) 2.0",
+          "Quantum Computers May Put Internet Traffic at Risk. NIST Is Safeguarding Computers With New Standards.",
+          "AI in the Doctor’s Office: How Standards Can Support Trustworthiness",
+          "Tap for ID: Your Next Driver’s License Might Also Live on Your Phone",
+          "Back to the Future: Why Agentic AI Needs a Strong Identity Foundation",
+          "NIST Releases Tips & Tactics for Building Automation & Control System Cybersecurity",
+          "Stronger Cybersecurity Programs Start with People: NIST Wants Your Input on the Path Forward for Human-Centered Cybersecurity",
+          "Shaping the NVD for the Future: We Need Your Feedback on AI-Enabled Vulnerability Management",
+          "HEADQUARTERS"
+        ]
+      },
+      "mainText": "Back to the Future: Why Agentic AI Needs a Strong Identity Foundation",
+      "language": "en",
+      "category": "Technology",
+      "categoryConfidence": 0.42,
+      "categorySignals": [
+        "title:cybersecurity",
+        "heading:cybersecurity",
+        "desc:cybersecurity"
+      ],
+      "contentLengthBytes": 113872,
+      "wordCount": 12,
+      "statusCode": 200,
+      "fetchTimeMs": 1332,
+      "processedAt": "2026-09-24T07:15:49.015Z",
+      "chunkId": "chunk-044",
+      "retryCount": 0
+    },
+    {
+      "id": "doc-csrc_nist_gov-rqifxc",
+      "url": "https://csrc.nist.gov/",
+      "canonicalUrl": "https://csrc.nist.gov/",
+      "domain": "csrc.nist.gov",
+      "title": "NIST Computer Security Resource Center | CSRC",
+      "description": "CSRC provides access to NIST",
+      "headings": {
+        "h1": [],
+        "h2": [],
+        "h3": [
+          "Shaping the NVD for the Future: Comment by 10/13",
+          "Review and comment on our Draft Publications",
+          "CPRT: Cybersecurity and Privacy Reference Tool",
+          "Recent News",
+          "Upcoming Events"
+        ]
+      },
+      "mainText": "You are viewing this page in an unauthorized frame window. This is a potential security issue, you are being redirected to https://csrc.nist.gov .\n\nOfficial websites use .gov A .gov website belongs to an official government organization in the United States.\n\nSecure .gov websites use HTTPS A lock ( ) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.\n\nPublications Expand or Collapse Drafts for Public Comment\n\nNIST Special Publications (SPs)\n\nNIST interagency/internal reports (NISTIRs)\n\nTopics Expand or Collapse Security & Privacy\n\nActivities & Products\n\nAbout CSRC Expand or Collapse Computer Security Division Cryptographic Technology\n\nSoftware Security Group\n\nHardware Security Group\n\nSecurity Engineering and Risk Management\n\nCybersecurity and Privacy Applications\n\nNational Cybersecurity Center of Excellence (NCCoE)\n\nNational Initiative for Cybersecurity Education (NICE)\n\nCybersecurity & Privacy Reference Tool (CPRT) Datasets\n\nNIST Risk Management Framework SP 800-53r5 ; SP 800-53 Controls & Baselines Site\n\nProtecting CUI ( SP 800-171 )\n\nPost-Quantum Cryptography\n\nCrypto Module Validation Program & Validated Modules Search\n\nNIST Cybersecurity Framework\n\nPublications /  Drafts  /  SP 800s\n\nCybersecurity Program History & Timeline\n\nHow to Engage with NIST\n\nShaping the NVD for the Future: Comment by 10/13\n\nReview and comment on our Draft Publications\n\nCPRT: Cybersecurity and Privacy Reference Tool\n\nShaping the NVD for the Future: Comment by 10/13\n\nReview and comment on our Draft Publications\n\nCPRT: Cybersecurity and Privacy Reference Tool\n\nThe Computer Security Resource Center (CSRC) has information on many of NIST's cybersecurity- and information security-related projects, publications, news and events. CSRC supports people and organizations in government, industry, and academia&mdash;both in the U.S. and internationally. \n\nLearn more about current projects and upcoming events\n\nSearch and browse our publications library of current and historical standards, guidelines, and other reports\n\nExplore content by topic\n\nSearch our glossary of terms defined in our publications\n\nSubscribe to CSRC email updates\n\nLearn more about NIST SP 800-53 Control Overlays for Securing AI Systems .\n\nThe Cybersecurity and Privacy Reference Tool (CPRT) offers a consistent format for accessing the reference data of NIST cybersecurity and privacy standards, guidelines, and frameworks.",
+      "language": "en",
+      "category": "Technology",
+      "categoryConfidence": 0.57,
+      "categorySignals": [
+        "title:security",
+        "heading:cybersecurity",
+        "body:security(7)",
+        "body:cybersecurity(10)"
+      ],
+      "contentLengthBytes": 48364,
+      "wordCount": 344,
+      "statusCode": 200,
+      "fetchTimeMs": 1223,
+      "processedAt": "2026-09-24T07:15:50.247Z",
+      "chunkId": "chunk-044",
+      "retryCount": 0
+    },
+    {
+      "id": "doc-rfc_editor_org-dk2rs6",
+      "url": "https://www.rfc-editor.org/",
+      "canonicalUrl": "https://www.rfc-editor.org/",
+      "domain": "rfc-editor.org",
+      "title": "RFC Editor",
+      "description": "The official home of RFCs. RFCs outline computer networking and Internet foundations, including Internet Standards and historical or informative content.",
+      "headings": {
+        "h1": [
+          "The official home of RFCs"
+        ],
+        "h2": [
+          "Primary navigation",
+          "Latest RFCs",
+          "Learn about RFCs",
+          "Browse RFCs",
+          "Start Participating",
+          "Footer"
+        ],
+        "h3": [
+          "RFC 10050 : Protocol-Specific Profiles for JSContact",
+          "RFC 10041 : Advertising Unreachable Links in OSPF",
+          "RFC 10032 : The AEGIS Authenticated Encryption Algorithms",
+          "What Is an RFC?",
+          "Errata in RFCs",
+          "About the RFC Editor",
+          "Standards",
+          "Best Current Practices",
+          "Download RFCs",
+          "Browse all RFCs",
+          "Internet Engineering Task Force",
+          "Internet Research Task Force",
+          "Internet Architecture Board",
+          "Independent Submissions",
+          "Useful links",
+          "Contact Us"
+        ]
+      },
+      "mainText": "The official home of RFCs\n\nRFCs outline computer networking and Internet foundations, including Internet Standards and historical or informative content. They are published by the RFC Editor for the IETF , IRTF , IAB , and ISE , which collectively form the authoritative source for RFCs.\n\nLooking for works in progress? Go to datatracker.ietf.org\n\nRFC 10050 : Protocol-Specific Profiles for JSContact\n\nApplications and Real-Time Area\n\nRFC 10041 : Advertising Unreachable Links in OSPF\n\nRFC 10032 : The AEGIS Authenticated Encryption Algorithms\n\nAn introduction to RFCs, the organizations that produce them, and common conventions in the series\n\nUnderstand errors and corrections in RFCs\n\nRFC Editor publishes and archives official RFCs\n\nStable or mature protocols and services\n\nBest Current Practices\n\nCommon guidelines for policies, operations, or procedures\n\nDownload, mirror or get a feed of RFCs\n\nInternet Engineering Task Force\n\nProtocol standards, best current practices, experimental, and informational documents\n\nInternet Research Task Force\n\nResearch issues related to the Internet\n\nInternet Architecture Board\n\nLong-range technical direction for Internet development\n\nIndependent Submissions\n\nHow the Independent Submission Stream works.",
+      "language": "en",
+      "category": "Technology",
+      "categoryConfidence": 0.41,
+      "categorySignals": [
+        "heading:encryption",
+        "heading:architecture"
+      ],
+      "contentLengthBytes": 179423,
+      "wordCount": 173,
+      "statusCode": 200,
+      "fetchTimeMs": 513,
+      "processedAt": "2026-09-24T07:15:50.782Z",
+      "chunkId": "chunk-044",
+      "retryCount": 0
+    },
+    {
+      "id": "doc-iana_org-ue5rsd",
+      "url": "https://www.iana.org/",
+      "canonicalUrl": "https://iana.org/",
+      "domain": "iana.org",
+      "title": "Internet Assigned Numbers Authority",
+      "description": "Management of the DNS Root Zone (assignments of ccTLDs and gTLDs) along with other functions such as the .int and .arpa zones.\n\nDatabase of Top Level Domains\n\nIDN Practices Repository\n\nCoordination of...",
+      "headings": {
+        "h1": [
+          "Internet Assigned Numbers Authority"
+        ],
+        "h2": [
+          "Domain Names",
+          "Number Resources",
+          "Protocol Assignments"
+        ],
+        "h3": []
+      },
+      "mainText": "Management of the DNS Root Zone (assignments of ccTLDs and gTLDs) along with other functions such as the .int and .arpa zones.\n\nDatabase of Top Level Domains\n\nIDN Practices Repository\n\nCoordination of the global IP and AS number spaces, such as allocations made to Regional Internet Registries.\n\nIP Addresses & AS Numbers\n\nNetwork abuse information\n\nThe central repository for protocol name and number registries used in many Internet protocols.\n\nApply for an assignment",
+      "language": "en",
+      "category": "Technology",
+      "categoryConfidence": 0.41,
+      "categorySignals": [
+        "heading:protocol",
+        "desc:database"
+      ],
+      "contentLengthBytes": 6253,
+      "wordCount": 73,
+      "statusCode": 200,
+      "fetchTimeMs": 566,
+      "processedAt": "2026-09-24T07:15:51.364Z",
+      "chunkId": "chunk-044",
+      "retryCount": 0
+    },
+    {
+      "id": "doc-icann_org-d4s2wq",
+      "url": "https://www.icann.org/resources/pages/what-2012-02-25-en",
+      "canonicalUrl": "https://www.icann.org/resources/pages/what-2012-02-25-en",
+      "domain": "icann.org",
+      "title": "What Does ICANN Do? - ICANN",
+      "description": "About ICANN Academic Engagement\n\nParticipate What ICANN Does\n\nEffect on the Internet\n\nFellowship Program Committee\n\nNextGen@ICANN Program\n\nICANN Management Organization Chart\n\nIn Focus ICANN Response ...",
+      "headings": {
+        "h1": [
+          "What Does ICANN Do?"
+        ],
+        "h2": [],
+        "h3": [
+          "This page is available in:",
+          "Who We Are",
+          "Contact Us",
+          "Accountability And Transparency",
+          "Governance",
+          "Help",
+          "Data Protection"
+        ]
+      },
+      "mainText": "About ICANN Academic Engagement\n\nParticipate What ICANN Does\n\nEffect on the Internet\n\nFellowship Program Committee\n\nNextGen@ICANN Program\n\nICANN Management Organization Chart\n\nIn Focus ICANN Response Planning Framework\n\nIANA DNSSEC Root Information\n\nMedia Resources ICANN News\n\nBoard Activities and Meetings\n\nAccountability Accountability Mechanisms Reconsideration\n\nIndependent Review Process Updating the IRP\n\nOmbuds About the Ombuds Office\n\nContact the Ombuds Office\n\nOmbuds Office Services\n\nComplaints About Unfairness\n\nComplaints About Harassment\n\nCollaborative Conflict Resolution\n\nRequest for Reconsideration\n\nResources for Community Members\n\nOmbuds Office Accountability\n\nEmpowered Community Empowered Community Administration\n\nEmpowered Community Administration Mailing List\n\nEmpowered Community Correspondence\n\nReviews Organizational Reviews ALAC\n\nTechnical Liaison Group\n\nSpecific Reviews Accountability & Transparency\n\nRegistration Directory Service\n\nSecurity, Stability, and Resiliency\n\nCompetition, Consumer Trust & Consumer Choice\n\nExpected Standards of Behavior\n\nEmployee Practices and Resources\n\nEnhancing ICANN Accountability – Work Stream 2 Implementation\n\nGovernance Governance Documents\n\nEvolving ICANN’s Multistakeholder Model\n\nAgreements NTIA IANA Functions' Stewardship Transition Call for Public Input: Draft Process to Develop the Proposal (8 April-8 May 2014\n\nProcess to Develop the Proposal and Next Steps\n\nAffirmation of Commitments AOC Tracking\n\nPartnership Memorandums of Understanding\n\nFinancials Financial Reports\n\nPolicies, Guidelines and Procedures\n\nAnnual Disclosure of Payments to Suppliers\n\nLobbying Disclosures & Contribution Reports\n\nPlanning Strategic Plan ICANN Strategic Plan for FY26-30 ICANN's Annual Strategy Review Program\n\nICANN Strategic Plan for FY21-25 Strategic Outlook Trends Program\n\nICANN Strategic Plan for FY16-20\n\nGroups 2023 ICANN CEO Search Committee\n\nTechnical Liaison Group Technical Experts Group (TEG)\n\nCustomer Standing Committee\n\nRoot Zone Evaluation Review Committee (RZERC)\n\nComplaints Office Complaints Report\n\nDomain Name System Abuse\n\nContractual Compliance About\n\nEnforcement of DNS Abuse Obligations\n\nFormal Enforcement Notices Archive\n\nContractual Compliance Metrics\n\nContractual Compliance Audit Program\n\nNotice of Bankruptcy, Convictions and Security Breaches\n\nContractual Compliance Reports Audit Reports\n\nEnforcement of DNS Abuse Mitigation Requirements: Periodic Reviews\n\nContractual Compliance Monthly Reports\n\ngTLD Registry Compliance\n\nAccredited Registrar Compliance\n\nContracted Parties (Registry Operators and Accredited Registrars)\n\nDomain Name Registrants About Domain Names\n\nRegistration Data Policies WHOIS and Registration Data Directory Services The Domain Name Registration Process Using Domain Name Registration Data\n\nKeeping Registration Data Accurate\n\nAccess and the Evolution of the WHOIS System\n\nRegistering Domain Names\n\nManaging Domain Names Contact Information and WDRP\n\nSecurely Managing Your Domain Name\n\nTransferring Domain Names\n\nRenewing Domain Names\n\nRights and Responsibilities\n\nSpam, Phishing, and Website Content\n\nTrademark Infringement\n\nIdentifier Systems Security, Stability and Resiliency (OCTO-SSR)\n\nccTLDs Background Materials\n\nInternationalized Domain Names Root Zone Label Generation Rules (LGR) Generation Panel Update\n\nMaximal Starting Repertoire\n\nProposals for Root Zone Label Generation Ruleset\n\nIDN Variant TLD Implementation\n\nIDN Implementation Guidelines\n\nSecond-Level LGR Reference\n\nAnnouncements and Blogs Posts\n\nUniversal Acceptance Initiative Make your systems UA-ready\n\nUA Readiness Evaluations\n\nAnnouncements and Blogs Posts\n\nPolicy Policy Mission\n\nGlobal Addressing IPv6 Allocation\n\nPost Exhaustion IPv4 Allocation\n\nOperational Design Phase (ODP)\n\nRoot Zone KSK Rollover\n\nTechnical Functions Tech Day Archive\n\nICANN Locations Report Security Issues\n\nCertificate Authority\n\nI Need Help Dispute Resolution\n\nDomain Name Dispute Resolution Charter Eligibility Dispute Resolution Policy Providers\n\nEligibility Requirements Dispute Resolution Policy Providers\n\nIntellectual Property Defensive Registration Challenge Policy Providers\n\nQualification Challenge Policy Providers\n\nRestrictions Dispute Resolution Policy Providers\n\nTransfer Dispute Resolution Policy Providers\n\nUniform Domain Name Dispute Resolution Policy Policy Document\n\nProvider Approval Process\n\nWhois Data Correction\n\nIndependent Review Process\n\nRequest for Reconsideration\n\nThis page is available in:\n\nTo reach another person on the Internet you have to type an address into your computer - a name or a number. That address has to be unique so computers know where to find each other. ICANN coordinates these unique identifiers across the world. Without that coordination we wouldn't have one global Internet.\n\nICANN was formed in 1998. It is a not-for-profit partnership of people from all over the world dedicated to keeping the Internet secure, stable and interoperable. It promotes competition and develops policy on the Internet's unique identifiers.\n\nICANN doesn't control content on the Internet. It cannot stop spam and it doesn't deal with access to the Internet. But through its coordination role of the Internet's naming system, it does have an important impact on the expansion and evolution of the Internet.\n\nWhat is the domain name system?\n\nThe domain name system, or DNS, is a system designed to make the Internet accessible to human beings. The main way computers that make up the Internet find one another is through a series of numbers, with each number (called an \"IP address\") correlating to a different device. However it is difficult for the human mind to remember long lists of numbers so the DNS uses letters rather than numbers, and then links a precise series of letters with a precise series of numbers.\n\nThe end result is that ICANN's website can be found at \"icann.org\" rather than \"192.0.32.7\" – which is how computers on the network know it. One advantage to this system – apart from making the network much easier to use for people – is that a particular domain name does not have to be tied to one particular computer because the link between a particular domain and a particular IP address can be changed quickly and easily. This change will then be recognised by the entire Internet within 48 hours thanks to the constantly updating DNS infrastructure. The result is an extremely flexible system.\n\nA domain name itself comprises two elements: before and after \"the dot\". The part to the right of the dot, such as \"com\", \"net\", \"org\" and so on, is known as a \"top-level domain\" or TLD. One company in each case (called a registry), is in charge of all domains ending with that particular TLD and has access to a full list of domains directly under that name, as well as the IP addresses with which those names are associated. The part before the dot is the domain name that you register and which is then used to provide online systems such as websites, email and so on. These domains are sold by a large number of \"registrars\", free to charge whatever they wish, although in each case they pay a set per-domain fee to the particular registry under whose name the domain is being registered.\n\nICANN draws up contracts with each registry * . It also runs an accreditation system for registrars. It is these contracts that provide a consistent and stable environment for the domain name system, and hence the Internet.\n\nIn summary then, the DNS provides an addressing system for the Internet so people can find particular websites. It is also the basis for email and many other online uses.\n\nWhat does ICANN have to do with IP addresses?\n\nICANN plays a similar administrative role with the IP addresses used by computers as it does with the domain names used by humans. In the same way that you cannot have two domain names the same (otherwise you never know where you would end up), for the same reason it is also not possible for there to be two IP addresses the same.\n\nAgain, ICANN does not run the system, but it does help co-ordinate how IP addresses are supplied to avoid repetition or clashes. ICANN is also the central repository for IP addresses, from which ranges are supplied to regional registries who in turn distribute them to network providers.\n\nWhat about root servers?\n\nRoot servers are a different case again. There are 13 root servers – or, more accurately, there are 13 IP addresses on the Internet where root servers can be found (the servers that have one of the 13 IP addresses can be in dozens of different physical locations). These servers all store a copy of the same file which acts as the main index to the Internet's address books. It lists an address for each top-level domain (.com, .de, etc) where that registry's own address book can be found.\n\nIn reality, the root servers are consulted fairly infrequently (considering the size of the Internet) because once computers on the network know the address of a particular top-level domain they retain it, checking back only occasionally to make sure the address hasn't changed. Nonetheless, the root servers remain vital for the Internet's smooth functioning.\n\nThe operators of the root servers remain largely autonomous, but at the same time work with one another and with ICANN to make sure the system stays up-to-date with the Internet's advances and changes.\n\nWhat is ICANN's role?\n\nAs mentioned earlier, ICANN's role is to oversee the huge and complex interconnected network of unique identifiers that allow computers on the Internet to find one another.\n\nThis is commonly termed \"universal resolvability\" and means that wherever you are on the network – and hence the world – that you receive the same predictable results when you access the network. Without this, you could end up with an Internet that worked entirely differently depending on your location on the globe.\n\nHow is ICANN structured?\n\nICANN is made up of a number of different groups, each of which represent a different interest on the Internet and all of which contribute to any final decisions that ICANN's makes.\n\nThere are three \"supporting organisations\" that represent:\n\nThe organisations that deal with IP addresses\n\nThe organisations that deal with domain names\n\nThe managers of country code top-level domains (a special exception as explained at the bottom).\n\nThen there are four \"advisory committees\" that provide ICANN with advice and recommendations. These represent:\n\nGovernments and international treaty organisations\n\nRoot server operators\n\nThose concerned with the Internet's security\n\nThe \"at large\" community, meaning average Internet users.\n\nAnd finally, there is a Technical Liaison Group, which works with the organisations that devise the basic protocols for Internet technologies.\n\nICANN's final decisions are made by a Board of Directors. The Board is made up of 20 members: 16 of which are Board members and four of which are non-voting liaisons. The majority of the voting members (eight of them) are chosen by an independent Nominating Committee and the remainder are nominated members from supporting organisations.\n\nICANN then has a President and CEO who is also a Board member and who directs the work of ICANN staff, who are based across the globe and help co-ordinate, manage and finally implement all the different discussions and decisions made by the supporting organisations and advisory committees. An ICANN Ombudsman acts as an independent reviewer of the work of the ICANN staff and Board.\n\nHow does ICANN make decisions?\n\nWhen it comes to making technical changes to the Internet, here is a simplified rundown of the process:\n\nAny issue of concern or suggested changes to the existing network is typically raised within one of the supporting organisations (often following a report by one of the advisory committees), where it is discussed and a report produced which is then put out for public review. If the suggested changes impact on any other group within ICANN's system, that group also reviews the suggested changes and makes its views known. The result is then put out for public review a second time.\n\nAt the end of that process, the ICANN Board is provided with a report outlining all the previous discussions and with a list of recommendations. The Board then discusses the matter and either approves the changes, approves some and rejects others, rejects all of them, or sends the issue back down to one of the supporting organisations to review, often with an explanation as to what the problems are that need to be resolved before it can be approved.\n\nThe process is then rerun until all the different parts of ICANN can agree a compromise or the Board of Directors make a decision on a report it is presented with.\n\nHow is ICANN held accountable?\n\nICANN has external as well as internal accountabilities.\n\nExternally, ICANN is an organisation incorporated under the law of the State of California in the United States. That means ICANN must abide by the laws of the United States and can be called to account by the judicial system i.e. ICANN can be taken to court.\n\nICANN is also a non-profit public benefit corporation and its directors are legally responsible for upholding their duties under corporation law.\n\nInternally, ICANN is accountable to the community through:\n\nThe representative composition of the ICANN Board from across the globe\n\nAn independent Nominating Committee that selects a majority of the voting Board members\n\nSenior staff who must be elected annually by the Board\n\nThree different dispute resolution procedures (Board reconsideration committee; Independent Review Panel; Ombudsman)\n\nThe full range of ICANN's accountability and transparency frameworks and principles are available online.\n\n* There is an important exception to this in the form of \"country code top-level domains\" (ccTLDs) such as .de for Germany or .uk for the United Kingdom. There are over 250 ccTLDs, some of which have a contract with ICANN; others of which have signed working agreements with ICANN; and some of which have yet to enter any formal agreement with ICANN. ICANN however does carry out what is known as the \"IANA function\" in which every ccTLD's main address is listed so the rest of the Internet can find it. ICANN is also in the position where it can add new TLDs to the wider system, as it did in 2000 and 2004 when seven and six new TLDs respectively were \"added to the root\".",
+      "language": "en",
+      "category": "General",
+      "categoryConfidence": 0.35,
+      "categorySignals": [
+        "desc:about",
+        "body:about(7)",
+        "body:directory(2)"
+      ],
+      "contentLengthBytes": 81755,
+      "wordCount": 2202,
+      "statusCode": 200,
+      "fetchTimeMs": 2308,
+      "processedAt": "2026-09-24T07:15:53.747Z",
+      "chunkId": "chunk-044",
+      "retryCount": 0
+    },
+    {
+      "id": "doc-w3_org-j584v2",
+      "url": "https://www.w3.org/Security/",
+      "canonicalUrl": "https://www.w3.org/Security",
+      "domain": "w3.org",
+      "title": "Web Security | Our mission | W3C",
+      "description": "This page gives a high-level introduction to web security.",
+      "headings": {
+        "h1": [
+          "Web Security"
+        ],
+        "h2": [
+          "Standards & groups",
+          "Get involved",
+          "Resources",
+          "News & events",
+          "Support us",
+          "About",
+          "Page contents",
+          "How W3C approaches Security",
+          "Developing security standards",
+          "Reviewing the security of web standards",
+          "Guiding Web Developers to design and develop in a secure manner",
+          "Sponsoring",
+          "Shape the Secure Web as a W3C Member",
+          "In this section"
+        ],
+        "h3": [
+          "Threat modeling",
+          "Web Application Security",
+          "Web Authentication",
+          "Federated Identity",
+          "Web Payment Security",
+          "Security Interest Group (SING)",
+          "Security Web Application Guidelines"
+        ]
+      },
+      "mainText": "How W3C approaches Security\n\nDeveloping security standards\n\nReviewing the security of web standards\n\nGuiding Web Developers to design and develop in a secure manner\n\nShape the Secure Web as a W3C Member\n\nPrivacy and security – integral to human rights and civil liberties – have long been important in the Web Consortium's agenda. For example, our work has been instrumental in improving Web security through the development of authentication technologies that can replace weak passwords and help mitigate threats from phishing and similar attacks.\n\nHowever, users rightly fear the misuse of their personal data and being tracked online, including browser fingerprinting, the spread of disinformation, and other online harms. These are difficult and urgent challenges. We have begun discussions about how to help users find trustworthy content on the Web without increasing censorship.\n\nSecurity at W3C, Simone Onofri, April 2024 (00:09:46). Privacy and security, fundamental to human rights and civil liberties, have always been key W3C agenda items. At the recent W3C member meeting in Hiroshima, Simone outlined a three-pillar approach to security: developing security standards, verifying those standards, and guiding developers to create a secure web.\n\nHow W3C approaches Security\n\nDevelop security technology standards\n\nReview the security of web standards\n\nGuide Web Developers to design and develop in a secure manner\n\nDeveloping security standards\n\nWe have several groups that develop security standards.\n\nThe  Threat Modeling Community Group  provides a venue for Security, Privacy, and Human Rights experts, along with technology domain experts, to create Threat Models, which are living documents that identify cross-areas threats and mitigations and provide information on residual risks.\n\nWeb Application Security\n\nThe  Web Application Security Working Group  develops security and policy mechanisms to improve the security of Web Applications, and enable secure cross-site communication.\n\nThe  Web Authentication Working Group  defined a client-side API providing strong authentication functionality to Web Applications.\n\nThe  Federated Identity Working Group  supports authentication and authorization flows without compromising security and privacy principles.\n\nThe  Web Payment Security Interest Group  enhances the security and interoperability of various Web payments technologies.\n\nReviewing the security of web standards\n\nSecurity reviews are done by a pool of volunteer reviewers coordinated by the Team. We welcome more people in that pool. Issues raised are tracked using  the same tooling used by PING .\n\nWe are creating a group to do horizontal security reviews with security researchers and cryptographers.\n\nSecurity Interest Group (SING)\n\nWith a mission to improve Security on the Web by advising groups developing standards on how to avoid and mitigate security issues with their technologies, the group will also suggest changes to existing standards and technologies to improve security.\n\nGuiding Web Developers to design and develop in a secure manner\n\nWe created a cross-organization group to guide web developers and ensure a holistic approach to security.\n\nSecurity Web Application Guidelines\n\nThe  Security Web Application Guidelines (SWAG) Community Group  increases the overall security of web application development, thereby making the web a more secure platform for web users, through the edition of web creators security best practices and providing a platform for stakeholder collaboration (e.g., OpenSSF, OWASP, Open Web Docs, etc.)\n\nThe group is developing \" Guidelines for developing more secure web applications \".\n\nOrganizations can become a Web for All Champion ; an option that is open to W3C Members as well as non-members.\n\nShape the Secure Web as a W3C Member\n\nW3C Members play a significant role in shaping the Web .\n\nContact W3C to learn more about the benefits of W3C Membership to play a significant role yourself!",
+      "language": "en",
+      "category": "Technology",
+      "categoryConfidence": 0.68,
+      "categorySignals": [
+        "url_pattern:\\/security",
+        "title:security",
+        "heading:security",
+        "desc:security",
+        "body:technology(2)",
+        "body:security(35)"
+      ],
+      "contentLengthBytes": 29607,
+      "wordCount": 585,
+      "statusCode": 200,
+      "fetchTimeMs": 743,
+      "processedAt": "2026-09-24T07:15:54.494Z",
+      "chunkId": "chunk-044",
+      "retryCount": 0
+    }
+  ]
+}

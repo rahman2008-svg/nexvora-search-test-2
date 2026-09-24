@@ -1,0 +1,204 @@
+{
+  "chunkId": "chunk-024",
+  "filename": "chunk-024.json",
+  "documentCount": 6,
+  "totalBytes": 161351,
+  "createdAt": "2026-09-24T07:15:54.831Z",
+  "documents": [
+    {
+      "id": "doc-numpy_org-du9sbb",
+      "url": "https://numpy.org/doc/",
+      "canonicalUrl": "https://numpy.org/doc",
+      "domain": "numpy.org",
+      "title": "NumPy Documentation",
+      "description": "Latest (development) documentation\n\nNumPy Enhancement Proposals\n\nNumPy 2.5 Manual [HTML+zip] [Reference Guide PDF] [User Guide PDF]\n\nNumPy 2.4 Manual [HTML+zip] [Reference Guide PDF] [User Guide PDF]\n...",
+      "headings": {
+        "h1": [
+          "NumPy Documentation"
+        ],
+        "h2": [],
+        "h3": []
+      },
+      "mainText": "Latest (development) documentation\n\nNumPy Enhancement Proposals\n\nNumPy 2.5 Manual [HTML+zip] [Reference Guide PDF] [User Guide PDF]\n\nNumPy 2.4 Manual [HTML+zip] [Reference Guide PDF] [User Guide PDF]\n\nNumPy 2.3 Manual [HTML+zip] [Reference Guide PDF] [User Guide PDF]\n\nNumPy 2.2 Manual [HTML+zip] [Reference Guide PDF] [User Guide PDF]\n\nNumPy 2.1 Manual [HTML+zip] [Reference Guide PDF] [User Guide PDF]\n\nNumPy 2.0 Manual [HTML+zip] [Reference Guide PDF] [User Guide PDF]\n\nNumPy 1.26 Manual [HTML+zip]\n\nNumPy 1.25 Manual [HTML+zip]\n\nNumPy 1.24 Manual [HTML+zip]\n\nNumPy 1.23 Manual [HTML+zip] [Reference Guide PDF] [User Guide PDF]\n\nNumPy 1.22 Manual [HTML+zip] [Reference Guide PDF] [User Guide PDF]\n\nNumPy 1.21 Manual [HTML+zip] [Reference Guide PDF] [User Guide PDF]\n\nNumPy 1.20 Manual [HTML+zip] [Reference Guide PDF] [User Guide PDF]\n\nNumPy 1.19 Manual [HTML+zip] [Reference Guide PDF] [User Guide PDF]\n\nNumPy 1.18 Manual [HTML+zip] [Reference Guide PDF] [User Guide PDF]\n\nNumPy 1.17 Manual [HTML+zip] [Reference Guide PDF] [User Guide PDF]\n\nNumPy 1.16 Manual [HTML+zip] [Reference Guide PDF] [User Guide PDF]\n\nNumPy 1.15 Manual [HTML+zip] [Reference Guide PDF] [User Guide PDF]\n\nNumPy 1.14 Manual [HTML+zip] [Reference Guide PDF] [User Guide PDF]\n\nNumPy 1.13 Manual [HTML+zip] [Reference Guide PDF] [User Guide PDF]\n\nOlder versions (on scipy.org)\n\n&copy; Copyright 2008-2025 NumPy. All rights reserved.",
+      "language": "en",
+      "category": "General",
+      "categoryConfidence": 0.66,
+      "categorySignals": [
+        "desc:reference",
+        "body:reference(17)"
+      ],
+      "contentLengthBytes": 9957,
+      "wordCount": 199,
+      "statusCode": 200,
+      "fetchTimeMs": 974,
+      "processedAt": "2026-09-24T07:12:17.722Z",
+      "chunkId": "chunk-024",
+      "retryCount": 0
+    },
+    {
+      "id": "doc-scipy_org-hnd3fv",
+      "url": "https://scipy.org/",
+      "canonicalUrl": "https://scipy.org/",
+      "domain": "scipy.org",
+      "title": "SciPy",
+      "description": "Why SciPy? Fundamental algorithms. Broadly applicable. Foundational. Interoperable. Performant. Open source.",
+      "headings": {
+        "h1": [],
+        "h2": [],
+        "h3": []
+      },
+      "mainText": "Install Documentation Community About Us Contribute English Português Español Japanese SciPy Fundamental algorithms for scientific computing in Python Get started SciPy 1.18.1 released! 2026-08-21 Fundamental algorithms SciPy provides algorithms for optimization, integration, interpolation, eigenvalue problems, algebraic equations, differential equations, statistics and many other classes of problems. Broadly applicable The algorithms and data structures provided by SciPy are broadly applicable across domains. Foundational Extends NumPy providing additional tools for array computing and provides specialized data structures, such as sparse matrices and k-dimensional trees. Performant SciPy wraps highly-optimized implementations written in low-level languages like Fortran, C, and C++. Enjoy the flexibility of Python with the speed of compiled code. Easy to use SciPy&rsquo;s high level syntax makes it accessible and productive for programmers from any background or experience level. Open source Distributed under a liberal BSD license , SciPy is developed and maintained publicly on GitHub by a vibrant, responsive, and diverse community . Install Documentation Citing SciPy Roadmap About Us Community SciPy Conference Contribute Code of Conduct FAQ Terms of Use Privacy Press Kit Social Media &copy; 2026 . All rights reserved.",
+      "language": "en",
+      "category": "Programming",
+      "categoryConfidence": 0.42,
+      "categorySignals": [
+        "body:code(2)",
+        "body:python(2)"
+      ],
+      "contentLengthBytes": 18744,
+      "wordCount": 181,
+      "statusCode": 200,
+      "fetchTimeMs": 338,
+      "processedAt": "2026-09-24T07:12:18.063Z",
+      "chunkId": "chunk-024",
+      "retryCount": 0
+    },
+    {
+      "id": "doc-matplotlib_org-idzoyx",
+      "url": "https://matplotlib.org/stable/users/index.html",
+      "canonicalUrl": "https://matplotlib.org/stable/users/index.html",
+      "domain": "matplotlib.org",
+      "title": "Using Matplotlib — Matplotlib 3.11.2 documentation",
+      "description": "Quick start guide A simple example\n\nTypes of inputs to plotting functions\n\nAxis scales and ticks\n\nWorking with multiple Figures and Axes\n\nFrequently Asked Questions\n\nFigures and backends Introduction ...",
+      "headings": {
+        "h1": [
+          "Using Matplotlib #"
+        ],
+        "h2": [],
+        "h3": []
+      },
+      "mainText": "Quick start guide A simple example\n\nTypes of inputs to plotting functions\n\nAxis scales and ticks\n\nWorking with multiple Figures and Axes\n\nFrequently Asked Questions\n\nFigures and backends Introduction to figures\n\nMatplotlib Application Interfaces (APIs)\n\nInteracting with figures\n\nInteractive figures and asynchronous programming\n\nWriting a backend -- the pyplot interface\n\nAxes and subplots Introduction to Axes (or Subplots)\n\nArranging multiple Axes in a Figure\n\nPlotting dates and strings\n\nConstrained layout guide\n\nTight layout guide (mildly discouraged)\n\nArtists Introduction to Artists\n\nAutomated color cycle\n\nOptimizing Artists for performance\n\nUnderstanding the extent keyword argument of imshow\n\nTransformations Tutorial\n\nMatplotlib configuration - rcParams\n\nCustomizing Matplotlib with style sheets and rcParams Runtime rc settings\n\nThe matplotlibrc file\n\nColors Customized Colorbars Tutorial\n\nCreating Colormaps in Matplotlib\n\nColormap normalization\n\nChoosing Colormaps in Matplotlib\n\nWriting mathematical expressions\n\nText rendering with XeLaTeX/LuaLaTeX via the pgf backend\n\nText properties and layout\n\nText rendering with LaTeX\n\nAnimations using Matplotlib Animations using Matplotlib\n\nFaster rendering by using blitting\n\nUser Toolkits The axisartist toolkit\n\nThe axes_grid1 toolkit",
+      "language": "en",
+      "category": "General",
+      "categoryConfidence": 0.48,
+      "categorySignals": [
+        "url_pattern:\\/index",
+        "desc:introduction",
+        "body:introduction(3)"
+      ],
+      "contentLengthBytes": 39713,
+      "wordCount": 165,
+      "statusCode": 200,
+      "fetchTimeMs": 584,
+      "processedAt": "2026-09-24T07:12:18.652Z",
+      "chunkId": "chunk-024",
+      "retryCount": 0
+    },
+    {
+      "id": "doc-jupyter_org-ssab0v",
+      "url": "https://jupyter.org/documentation",
+      "canonicalUrl": "https://docs.jupyter.org/",
+      "domain": "jupyter.org",
+      "title": "Redirecting&hellip;",
+      "description": "Redirecting&hellip; Redirecting&hellip; Click here if you are not redirected....",
+      "headings": {
+        "h1": [
+          "Redirecting&hellip;"
+        ],
+        "h2": [],
+        "h3": []
+      },
+      "mainText": "Redirecting&hellip; Redirecting&hellip; Click here if you are not redirected.",
+      "language": "en",
+      "category": "General",
+      "categoryConfidence": 0.5,
+      "categorySignals": [],
+      "contentLengthBytes": 445,
+      "wordCount": 9,
+      "statusCode": 200,
+      "fetchTimeMs": 506,
+      "processedAt": "2026-09-24T07:12:19.159Z",
+      "chunkId": "chunk-024",
+      "retryCount": 0
+    },
+    {
+      "id": "doc-docs_python_org-e670jk",
+      "url": "https://docs.python.org/3/library/",
+      "canonicalUrl": "https://docs.python.org/3/library/index.html",
+      "domain": "docs.python.org",
+      "title": "The Python standard library — Python 3.14.7 documentation",
+      "description": "This library reference manual describes the standard library distributed with Python. It also describes some of the optional components that are commonly included in Python distributions. Elsewhere...",
+      "headings": {
+        "h1": [
+          "The Python standard library ¶"
+        ],
+        "h2": [],
+        "h3": [
+          "This page",
+          "Navigation"
+        ]
+      },
+      "mainText": "3.14.7 Documentation »\n\nThe Python standard library\n\nTheme Auto Light Dark |\n\nThe Python standard library ¶\n\nThis library reference manual describes the standard library distributed with Python. It also describes some of the optional components that are commonly included in Python distributions.\n\nElsewhere, The Python Language Reference describes the exact syntax and semantics of the Python language, and Python built-ins reference describes the built-in functions.\n\nPython’s standard library is extensive, offering a wide range of facilities as indicated by the long table of contents listed below. The library contains built-in modules (written in C) that provide access to system functionality such as file I/O that would otherwise be inaccessible to Python programmers, as well as modules written in Python that provide standardized solutions for many problems that occur in everyday programming. Some of these modules are explicitly designed to encourage and enhance the portability of Python programs by abstracting away platform-specifics into platform-neutral APIs.\n\nThe Python installers for the Windows platform usually include the entire standard library and often also include many additional components. For Unix-like operating systems Python is normally provided as a collection of packages, so it may be necessary to use the packaging tools provided with the operating system to obtain some or all of the optional components.\n\nIn addition to the standard library, there is an active collection of hundreds of thousands of components (from individual programs and modules to packages and entire application development frameworks), available from the Python Package Index .\n\nIntroduction Notes on availability\n\nText Processing Services string — Common string operations\n\nstring.templatelib — Support for template string literals\n\nre — Regular expression operations\n\ndifflib — Helpers for computing deltas\n\ntextwrap — Text wrapping and filling\n\nunicodedata — Unicode Database\n\nstringprep — Internet String Preparation\n\nreadline — GNU readline interface\n\nrlcompleter — Completion function for GNU readline\n\nBinary Data Services struct — Interpret bytes as packed binary data\n\ncodecs — Codec registry and base classes\n\nData Types datetime — Basic date and time types\n\nzoneinfo — IANA time zone support\n\ncalendar — General calendar-related functions\n\ncollections — Container datatypes\n\ncollections.abc — Abstract Base Classes for Containers\n\nheapq — Heap queue algorithm\n\nbisect — Array bisection algorithm\n\narray — Efficient arrays of numeric values\n\nweakref — Weak references\n\ntypes — Dynamic type creation and names for built-in types\n\ncopy — Shallow and deep copy operations\n\npprint — Data pretty printer\n\nreprlib — Alternate repr() implementation\n\nenum — Support for enumerations\n\ngraphlib — Functionality to operate with graph-like structures\n\nNumeric and Mathematical Modules numbers — Numeric abstract base classes\n\nmath — Mathematical functions\n\ncmath — Mathematical functions for complex numbers\n\ndecimal — Decimal fixed-point and floating-point arithmetic\n\nfractions — Rational numbers\n\nrandom — Generate pseudo-random numbers\n\nstatistics — Mathematical statistics functions\n\nFunctional Programming Modules itertools — Functions creating iterators for efficient looping\n\nfunctools — Higher-order functions and operations on callable objects\n\noperator — Standard operators as functions\n\nFile and Directory Access pathlib — Object-oriented filesystem paths\n\nos.path — Common pathname manipulations\n\nstat — Interpreting stat() results\n\nfilecmp — File and Directory Comparisons\n\ntempfile — Generate temporary files and directories\n\nglob — Unix style pathname pattern expansion\n\nfnmatch — Unix filename pattern matching\n\nlinecache — Random access to text lines\n\nshutil — High-level file operations\n\nData Persistence pickle — Python object serialization\n\ncopyreg — Register pickle support functions\n\nshelve — Python object persistence\n\nmarshal — Internal Python object serialization\n\ndbm — Interfaces to Unix “databases”\n\nsqlite3 — DB-API 2.0 interface for SQLite databases\n\nData Compression and Archiving The compression package\n\ncompression.zstd — Compression compatible with the Zstandard format\n\nzlib — Compression compatible with gzip\n\ngzip — Support for gzip files\n\nbz2 — Support for bzip2 compression\n\nlzma — Compression using the LZMA algorithm\n\nzipfile — Work with ZIP archives\n\ntarfile — Read and write tar archive files\n\nFile Formats csv — CSV File Reading and Writing\n\nconfigparser — Configuration file parser\n\ntomllib — Parse TOML files\n\nnetrc — netrc file processing\n\nplistlib — Generate and parse Apple .plist files\n\nCryptographic Services hashlib — Secure hashes and message digests\n\nhmac — Keyed-Hashing for Message Authentication\n\nsecrets — Generate secure random numbers for managing secrets\n\nGeneric Operating System Services os — Miscellaneous operating system interfaces\n\nio — Core tools for working with streams\n\ntime — Time access and conversions\n\nlogging — Logging facility for Python\n\nlogging.config — Logging configuration\n\nlogging.handlers — Logging handlers\n\nplatform — Access to underlying platform’s identifying data\n\nerrno — Standard errno system symbols\n\nctypes — A foreign function library for Python\n\nCommand-line interface libraries argparse — Parser for command-line options, arguments and subcommands\n\noptparse — Parser for command line options\n\ngetpass — Portable password input\n\nfileinput — Iterate over lines from multiple input streams\n\ncurses — Terminal handling for character-cell displays\n\ncurses.textpad — Text input widget for curses programs\n\ncurses.ascii — Utilities for ASCII characters\n\ncurses.panel — A panel stack extension for curses\n\ncmd — Support for line-oriented command interpreters\n\nConcurrent Execution threading — Thread-based parallelism\n\nmultiprocessing — Process-based parallelism\n\nmultiprocessing.shared_memory — Shared memory for direct access across processes\n\nThe concurrent package\n\nconcurrent.futures — Launching parallel tasks\n\nconcurrent.interpreters — Multiple interpreters in the same process\n\nsubprocess — Subprocess management\n\nsched — Event scheduler\n\nqueue — A synchronized queue class\n\ncontextvars — Context Variables\n\n_thread — Low-level threading API\n\nNetworking and Interprocess Communication asyncio — Asynchronous I/O\n\nsocket — Low-level networking interface\n\nssl — TLS/SSL wrapper for socket objects\n\nselect — Waiting for I/O completion\n\nselectors — High-level I/O multiplexing\n\nsignal — Set handlers for asynchronous events\n\nmmap — Memory-mapped file support\n\nInternet Data Handling email — An email and MIME handling package\n\njson — JSON encoder and decoder\n\nmailbox — Manipulate mailboxes in various formats\n\nmimetypes — Map filenames to MIME types\n\nbase64 — Base16, Base32, Base64, Base85 Data Encodings\n\nbinascii — Convert between binary and ASCII\n\nquopri — Encode and decode MIME quoted-printable data\n\nStructured Markup Processing Tools html — HyperText Markup Language support\n\nhtml.parser — Simple HTML and XHTML parser\n\nhtml.entities — Definitions of HTML general entities\n\nXML Processing Modules\n\nxml.etree.ElementTree — The ElementTree XML API\n\nxml.dom — The Document Object Model API\n\nxml.dom.minidom — Minimal DOM implementation\n\nxml.dom.pulldom — Support for building partial DOM trees\n\nxml.sax — Support for SAX2 parsers\n\nxml.sax.handler — Base classes for SAX handlers\n\nxml.sax.saxutils — SAX Utilities\n\nxml.sax.xmlreader — Interface for XML parsers\n\nxml.parsers.expat — Fast XML parsing using Expat\n\nInternet Protocols and Support webbrowser — Convenient web-browser controller\n\nwsgiref — WSGI Utilities and Reference Implementation\n\nurllib — URL handling modules\n\nurllib.request — Extensible library for opening URLs\n\nurllib.response — Response classes used by urllib\n\nurllib.parse — Parse URLs into components\n\nurllib.error — Exception classes raised by urllib.request\n\nurllib.robotparser — Parser for robots.txt\n\nhttp.client — HTTP protocol client\n\nftplib — FTP protocol client\n\npoplib — POP3 protocol client\n\nimaplib — IMAP4 protocol client\n\nsmtplib — SMTP protocol client\n\nuuid — UUID objects according to RFC 9562\n\nsocketserver — A framework for network servers\n\nhttp.server — HTTP servers\n\nhttp.cookies — HTTP state management\n\nhttp.cookiejar — Cookie handling for HTTP clients\n\nxmlrpc — XMLRPC server and client modules\n\nxmlrpc.client — XML-RPC client access\n\nxmlrpc.server — Basic XML-RPC servers\n\nipaddress — IPv4/IPv6 manipulation library\n\nMultimedia Services wave — Read and write WAV files\n\ncolorsys — Conversions between color systems\n\nInternationalization gettext — Multilingual internationalization services\n\nlocale — Internationalization services\n\nGraphical user interfaces with Tk tkinter — Python interface to Tcl/Tk\n\ntkinter.colorchooser — Color choosing dialog\n\ntkinter.font — Tkinter font wrapper\n\ntkinter.messagebox — Tkinter message prompts\n\ntkinter.scrolledtext — Scrolled text widget\n\ntkinter.dnd — Drag and drop support\n\ntkinter.ttk — Tk themed widgets\n\nIDLE — Python editor and shell\n\nturtle — Turtle graphics\n\nDevelopment Tools typing — Support for type hints\n\npydoc — Documentation generator and online help system\n\nPython Development Mode\n\ndoctest — Test interactive Python examples\n\nunittest — Unit testing framework\n\nunittest.mock — mock object library\n\nunittest.mock — getting started\n\ntest — Regression tests package for Python\n\ntest.support — Utilities for the Python test suite\n\ntest.support.socket_helper — Utilities for socket tests\n\ntest.support.script_helper — Utilities for the Python execution tests\n\ntest.support.bytecode_helper — Support tools for testing correct bytecode generation\n\ntest.support.threading_helper — Utilities for threading tests\n\ntest.support.os_helper — Utilities for os tests\n\ntest.support.import_helper — Utilities for import tests\n\ntest.support.warnings_helper — Utilities for warnings tests\n\nDebugging and Profiling Audit events table\n\nbdb — Debugger framework\n\nfaulthandler — Dump the Python traceback\n\npdb — The Python Debugger\n\ntimeit — Measure execution time of small code snippets\n\ntrace — Trace or track Python statement execution\n\ntracemalloc — Trace memory allocations\n\nSoftware Packaging and Distribution ensurepip — Bootstrapping the pip installer\n\nvenv — Creation of virtual environments\n\nzipapp — Manage executable Python zip archives\n\nPython Runtime Services sys — System-specific parameters and functions\n\nsys.monitoring — Execution event monitoring\n\nsysconfig — Provide access to Python’s configuration information\n\nbuiltins — Built-in objects\n\n__main__ — Top-level code environment\n\nwarnings — Warning control\n\ndataclasses — Data Classes\n\ncontextlib — Utilities for with -statement contexts\n\nabc — Abstract Base Classes\n\natexit — Exit handlers\n\ntraceback — Print or retrieve a stack traceback\n\n__future__ — Future statement definitions\n\ngc — Garbage Collector interface\n\ninspect — Inspect live objects\n\nannotationlib — Functionality for introspecting annotations\n\nsite — Site-specific configuration hook\n\nCustom Python Interpreters code — Interpreter base classes\n\ncodeop — Compile Python code\n\nImporting Modules zipimport — Import modules from Zip archives\n\npkgutil — Package extension utility\n\nmodulefinder — Find modules used by a script\n\nrunpy — Locating and executing Python modules\n\nimportlib — The implementation of import\n\nimportlib.resources – Package resource reading, opening and access\n\nimportlib.resources.abc – Abstract base classes for resources\n\nimportlib.metadata – Accessing package metadata\n\nThe initialization of the sys.path module search path\n\nPython Language Services ast — Abstract syntax trees\n\nsymtable — Access to the compiler’s symbol tables\n\ntoken — Constants used with Python parse trees\n\nkeyword — Testing for Python keywords\n\ntokenize — Tokenizer for Python source\n\ntabnanny — Detection of ambiguous indentation\n\npyclbr — Python module browser support\n\npy_compile — Compile Python source files\n\ncompileall — Byte-compile Python libraries\n\ndis — Disassembler for Python bytecode\n\npickletools — Tools for pickle developers\n\nMS Windows Specific Services msvcrt — Useful routines from the MS VC++ runtime\n\nwinreg — Windows registry access\n\nwinsound — Sound-playing interface for Windows\n\nUnix-specific services shlex — Simple lexical analysis\n\nposix — The most common POSIX system calls\n\npwd — The password database\n\ngrp — The group database\n\ntermios — POSIX style tty control\n\ntty — Terminal control functions\n\npty — Pseudo-terminal utilities\n\nfcntl — The fcntl and ioctl system calls\n\nresource — Resource usage information\n\nsyslog — Unix syslog library routines\n\nModules command-line interface (CLI)\n\nSuperseded Modules getopt — C-style parser for command line options\n\nSecurity Considerations\n\nTime complexity of operations on built-in types\n\n3.14.7 Documentation »\n\nThe Python standard library\n\nTheme Auto Light Dark |",
+      "language": "en",
+      "category": "Programming",
+      "categoryConfidence": 0.83,
+      "categorySignals": [
+        "title:python",
+        "title:library",
+        "heading:python",
+        "heading:library",
+        "desc:python",
+        "desc:library",
+        "body:programming(2)",
+        "body:python(27)",
+        "body:function(2)",
+        "body:algorithm(3)"
+      ],
+      "contentLengthBytes": 73289,
+      "wordCount": 1784,
+      "statusCode": 200,
+      "fetchTimeMs": 544,
+      "processedAt": "2026-09-24T07:12:19.726Z",
+      "chunkId": "chunk-024",
+      "retryCount": 0
+    },
+    {
+      "id": "doc-docs_python_org-sq4v2k",
+      "url": "https://docs.python.org/3/howto/",
+      "canonicalUrl": "https://docs.python.org/3/howto/index.html",
+      "domain": "docs.python.org",
+      "title": "Python HOWTOs — Python 3.14.7 documentation",
+      "description": "Python HOWTOs are documents that cover a specific topic in-depth. Modeled on the Linux Documentation Project’s HOWTO collection, this collection is an effort to foster documentation that’s more det...",
+      "headings": {
+        "h1": [
+          "Python HOWTOs ¶"
+        ],
+        "h2": [],
+        "h3": [
+          "This page",
+          "Navigation"
+        ]
+      },
+      "mainText": "3.14.7 Documentation »\n\nTheme Auto Light Dark |\n\nPython HOWTOs are documents that cover a specific topic in-depth. Modeled on the Linux Documentation Project’s HOWTO collection, this collection is an effort to foster documentation that’s more detailed than the Python Library Reference.\n\nA Conceptual Overview of asyncio\n\nAnnotations Best Practices\n\nFunctional Programming HOWTO\n\nAn introduction to the ipaddress module\n\nRegular expression HOWTO\n\nHOWTO Fetch Internet Resources Using The urllib Package\n\nAdvanced development:\n\nCurses Programming with Python\n\nPython support for free threading\n\nC API Extension Support for Free Threading\n\nIsolating Extension Modules\n\nThe Python 2.3 Method Resolution Order\n\nSocket Programming HOWTO\n\ntimer file descriptor HOWTO\n\nPorting Extension Modules to Python 3\n\nDebugging and profiling:\n\nDebugging C API extensions and CPython Internals with GDB\n\nInstrumenting CPython with DTrace and SystemTap\n\nPython support for the Linux perf profiler\n\nRemote debugging attachment protocol\n\nInstalling Python modules\n\nA Conceptual Overview of asyncio\n\n3.14.7 Documentation »\n\nTheme Auto Light Dark |",
+      "language": "en",
+      "category": "Programming",
+      "categoryConfidence": 0.73,
+      "categorySignals": [
+        "title:python",
+        "heading:python",
+        "desc:python",
+        "body:programming(3)",
+        "body:python(8)",
+        "body:debugging(3)",
+        "body:api(2)"
+      ],
+      "contentLengthBytes": 19203,
+      "wordCount": 155,
+      "statusCode": 200,
+      "fetchTimeMs": 587,
+      "processedAt": "2026-09-24T07:12:20.316Z",
+      "chunkId": "chunk-024",
+      "retryCount": 0
+    }
+  ]
+}

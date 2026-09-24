@@ -1,18 +1,90 @@
 {
   "category": "Health",
-  "documentCount": 1,
-  "updatedAt": "2026-09-24T05:08:14.019Z",
+  "documentCount": 9,
+  "updatedAt": "2026-09-24T07:15:13.234Z",
   "documentIds": [
-    "doc-who_int-4vufe3"
+    "doc-epa_gov-i1hs7b",
+    "doc-who_int-uvi4k0",
+    "doc-cdc_gov-w0wooy",
+    "doc-medlineplus_gov-pqd4ky",
+    "doc-nhs_uk-h7o3qu",
+    "doc-fda_gov-vdvcdu",
+    "doc-nimh_nih_gov-ges97h",
+    "doc-nhlbi_nih_gov-sgih47",
+    "doc-unicef_org-54hyqw"
   ],
   "items": [
     {
-      "id": "doc-who_int-4vufe3",
-      "title": "Cardiovascular Diseases: Prevention and Clinical Guidelines – WHO Health",
-      "canonicalUrl": "https://www.who.int/news-room/fact-sheets/detail/cardiovascular-diseases",
+      "id": "doc-epa_gov-i1hs7b",
+      "title": "U.S. Environmental Protection Agency | US EPA",
+      "canonicalUrl": "https://www.epa.gov/home",
+      "domain": "epa.gov",
+      "description": "Website of the U.S. Environmental Protection Agency (EPA). EPA's mission is to protect human health and the environment.",
+      "confidence": 0.21
+    },
+    {
+      "id": "doc-who_int-uvi4k0",
+      "title": "Health topics",
+      "canonicalUrl": "https://www.who.int/health-topics",
       "domain": "who.int",
-      "description": "World Health Organization fact sheet on cardiovascular health, hypertension symptoms, clinical diagnosis, lifestyle therapy, and preventive medicine.",
-      "confidence": 0.88
+      "description": "Health topics",
+      "confidence": 0.84
+    },
+    {
+      "id": "doc-cdc_gov-w0wooy",
+      "title": "Centers for Disease Control and Prevention | CDC",
+      "canonicalUrl": "https://www.cdc.gov/index.html",
+      "domain": "cdc.gov",
+      "description": "Find diseases and conditions; healthy living; workplace safety; environmental health; injury, violence and safety; global health; travelers&rsquo; health and more.\n\n‎‎SEP ‎‎22 Annual Report to the Nat...",
+      "confidence": 0.64
+    },
+    {
+      "id": "doc-medlineplus_gov-pqd4ky",
+      "title": "MedlinePlus - Health Information from the National Library of Medicine",
+      "canonicalUrl": "https://medlineplus.gov/",
+      "domain": "medlineplus.gov",
+      "description": "Find information on health conditions, wellness issues, and more in easy-to-read language on MedlinePlus, the up-to-date, trusted health information site from the NIH and the National Library of Medicine.",
+      "confidence": 0.59
+    },
+    {
+      "id": "doc-nhs_uk-h7o3qu",
+      "title": "Conditions A to Z - NHS",
+      "canonicalUrl": "https://www.nhs.uk/conditions/",
+      "domain": "nhs.uk",
+      "description": "Find out about health conditions, including their symptoms and how they&#x27;re treated.",
+      "confidence": 0.58
+    },
+    {
+      "id": "doc-fda_gov-vdvcdu",
+      "title": "For Consumers | FDA",
+      "canonicalUrl": "https://www.fda.gov/consumers",
+      "domain": "fda.gov",
+      "description": "Science-based health and safety information you can trust.",
+      "confidence": 0.68
+    },
+    {
+      "id": "doc-nimh_nih_gov-ges97h",
+      "title": "Mental Health Information - National Institute of Mental Health (NIMH)",
+      "canonicalUrl": "https://www.nimh.nih.gov/health",
+      "domain": "nimh.nih.gov",
+      "description": "Explore NIMH resources on mental health topics, statistics, brochures and fact sheets, clinical trials, and how to find help for mental illnesses.",
+      "confidence": 0.8
+    },
+    {
+      "id": "doc-nhlbi_nih_gov-sgih47",
+      "title": "Health Topics | NHLBI, NIH",
+      "canonicalUrl": "https://www.nhlbi.nih.gov/health",
+      "domain": "nhlbi.nih.gov",
+      "description": "NHLBI’s health topics provide information to help you learn more about heart, lung, blood, and sleep conditions, diagnostic tests, and treatments.",
+      "confidence": 0.77
+    },
+    {
+      "id": "doc-unicef_org-54hyqw",
+      "title": "Health | UNICEF",
+      "canonicalUrl": "https://www.unicef.org/health",
+      "domain": "unicef.org",
+      "description": "Every child has the right to survive and thrive.",
+      "confidence": 0.74
     }
   ]
 }

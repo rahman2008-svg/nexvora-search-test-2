@@ -1,0 +1,271 @@
+{
+  "chunkId": "chunk-023",
+  "filename": "chunk-023.json",
+  "documentCount": 6,
+  "totalBytes": 228660,
+  "createdAt": "2026-09-24T07:15:54.831Z",
+  "documents": [
+    {
+      "id": "doc-docs_influxdata_com-4mkb91",
+      "url": "https://docs.influxdata.com/",
+      "canonicalUrl": "https://docs.influxdata.com/",
+      "domain": "docs.influxdata.com",
+      "title": "InfluxData Documentation",
+      "description": "Doc umentation Select product\n\nInfluxDB 3 Enterprise New\n\nInfluxDB Cloud Serverless\n\nInfluxDB Cloud Dedicated\n\nInfluxDB 3 Explorer New\n\nTelegraf Controller New\n\nTelegraf Enterprise New\n\nInfluxData Doc...",
+      "headings": {
+        "h1": [
+          "InfluxData Documentation"
+        ],
+        "h2": [
+          "InfluxDB 3",
+          "Collect data with Telegraf",
+          "InfluxDB 2",
+          "InfluxDB 1",
+          "Other Products"
+        ],
+        "h3": [
+          "InfluxDB 3 Core 3.11",
+          "InfluxDB 3 Enterprise 3.11",
+          "InfluxDB Clustered",
+          "InfluxDB Cloud Serverless",
+          "InfluxDB Cloud Dedicated",
+          "InfluxDB 3 Explorer 1.9",
+          "Telegraf 1.40",
+          "Telegraf Controller",
+          "Telegraf Enterprise",
+          "InfluxDB OSS 2.9",
+          "InfluxDB Cloud TSM",
+          "Flux 0.x",
+          "InfluxDB OSS 1.13",
+          "InfluxDB Enterprise 1.12",
+          "Chronograf 1.11",
+          "Kapacitor 1.8",
+          "Learn more",
+          "Where are you running InfluxDB?",
+          "Thank you for your feedback!",
+          "InfluxDB OSS 2.9.0: API tokens are hashed by default",
+          "Key enhancements in Explorer 1.9",
+          "InfluxDB 3.11 is now available",
+          "InfluxDB 3 Enterprise 3.11: A significant performance upgrade for complex time series workloads",
+          "Telegraf Controller 1.1 now available",
+          "InfluxDB OSS 1.13.0 is now available",
+          "InfluxDB Docker latest tag changing to InfluxDB 3 Core"
+        ]
+      },
+      "mainText": "Doc umentation Select product\n\nInfluxDB 3 Enterprise New\n\nInfluxDB Cloud Serverless\n\nInfluxDB Cloud Dedicated\n\nInfluxDB 3 Explorer New\n\nTelegraf Controller New\n\nTelegraf Enterprise New\n\nInfluxData Documentation\n\nInfluxDB 3 is the current generation of InfluxDB and the recommended platform for new time series workloads—built for high-speed, high-cardinality data from the edge to the cloud.\n\nNot sure which product fits your use case? See Which InfluxDB 3 should I use?\n\nThe open source recent data engine optimized for time series and event data.\n\nGet started with InfluxDB 3 Core\n\nInfluxDB 3 Enterprise 3.11\n\nThe scalable data engine built for recent and historical time series and event data.\n\nGet started with InfluxDB 3 Enterprise\n\nThe Kubernetes-enabled, highly-available InfluxDB 3 cluster built for high write and query workloads on your own infrastructure.\n\nGet started with InfluxDB Clustered\n\nInfluxDB Cloud Serverless\n\nThe fully-managed, multi-tenant InfluxDB 3 service deployed in the cloud.\n\nGet started with Cloud Serverless\n\nInfluxDB Cloud Dedicated\n\nThe fully-managed InfluxDB 3 cluster dedicated to your workload and deployed in the cloud.\n\nGet started with Cloud Dedicated\n\nInfluxDB 3 Explorer 1.9\n\nA standalone UI designed for visualizing, querying, and managing data in InfluxDB 3 Core and Enterprise.\n\nGet started with Explorer\n\nCollect data with Telegraf\n\nThe open source data collection agent with support for a large catalog of data sources and targets.\n\nGet started with Telegraf\n\nView Telegraf plugins\n\nCentralized Telegraf configuration management and agent observability with an intuitive UI.\n\nGet started with Telegraf Controller\n\nEnterprise support for Telegraf and Telegraf Controller, plus higher limits and enterprise features in Telegraf Controller.\n\nTelegraf Enterprise overview\n\nUpgrade to Telegraf Enterprise\n\nThe open source time series platform with support for Flux and InfluxQL, scheduled tasks, dashboards, and more.\n\nGet started with InfluxDB OSS 2.9\n\nThe fully-managed, multi-tenant InfluxDB v2 instance deployed in the cloud and powered by the TSM storage engine.\n\nGet started with InfluxDB Cloud\n\nThe functional language specifically designed for querying and processing data.\n\nGet started with Flux\n\nView the Flux standard library\n\nThe open source single-node InfluxDB v1 instance designed for high write and query workloads.\n\nGet started with InfluxDB OSS 1.13\n\nInfluxDB Enterprise 1.12\n\nThe highly available InfluxDB v1 cluster built for high write and query workloads.\n\nGet started with InfluxDB Enterprise 1.12\n\nThe web UI that visualizes your InfluxDB time series data and easily creates alerting and automation rules.\n\nGet started with Chronograf 1.11\n\nThe data processing framework for creating alerts, running ETL jobs, and detecting anomalies.\n\nGet started with Kapacitor 1.8\n\nFree online training for InfluxDB and more.\n\nGo to InfluxDB University\n\nFree online book about using InfluxDB v2 and Flux.\n\nLearn about real world use cases and InfluxDB in the wild.\n\n© 2026 InfluxData, Inc.\n\nWhere are you running InfluxDB?\n\nSelect your InfluxDB Cloud region and cluster or your InfluxDB OSS URL and we&rsquo;ll customize code examples for you. Identify your InfluxDB Cloud cluster .\n\nInfluxDB OSS or Ent erprise\n\nWest Europe (Amsterdam)\n\nFor more information, see InfluxDB Cloud regions or InfluxDB OSS URLs .\n\nThank you for your feedback!\n\nLet us know what we can do better:\n\nInfluxDB OSS 2.9.0: API tokens are hashed by default\n\nStronger token security in InfluxDB OSS 2.9.0 — tokens are hashed on disk by default. Existing tokens are hashed on first startup and can&rsquo;t be recovered afterward. Capture any plaintext tokens you still need before you upgrade.\n\nView InfluxDB OSS 2.9.0 release notes\n\nHashed tokens authenticate exactly like unhashed tokens — clients and integrations keep working.\n\nConfigurable backup compression\n\nRestore support for backups containing hashed tokens\n\nTighter Edge Data Replication queue validation\n\nCompaction reliability improvements\n\nKey enhancements in Explorer 1.9\n\nExplorer 1.9 is now available with InfluxQL support, an AI-assisted Flux to SQL converter (beta), and new live sample data simulators.\n\nView Explorer 1.9 release notes\n\nExplorer 1.9 includes new features and improvements that make it easier to query, visualize, and manage data.\n\nFlux to SQL converter (beta) : Convert Flux queries to SQL with an AI-assisted converter.\n\nInfluxQL support : Query data with InfluxQL in the Data Explorer and dashboards, and save and load InfluxQL queries.\n\nInfluxQL visualizations : Render line and bar charts from InfluxQL results with per-tag series grouping.\n\nQuery error history : Review a history of query errors in the query tool.\n\nLive sample data simulators : Generate continuous live sample data with new bird data and signal generator simulators.\n\nFor more details, see Explorer 1.9 release notes\n\nInfluxDB 3.11 is now available\n\nKey updates in InfluxDB 3 Core 3.11:\n\nProcessing engine trigger reliability improvements —capped async trigger concurrency, bounded retries for failed triggers, and WAL triggers that skip empty flushes.\n\nConfigurable graceful shutdown with the new --shutdown-timeout option.\n\nRead the announcement\n\nInfluxDB 3 Core release notes\n\nInfluxDB 3 Enterprise 3.11: A significant performance upgrade for complex time series workloads\n\nKey updates in InfluxDB 3 Enterprise 3.11:\n\nUpgraded storage engine reaches general availability. New clusters default to Parquet; upgrade with --upgrade-pacha-tree .\n\nIn-place and incremental backup and restore .\n\nIntegrated Explorer UI —run with --mode all,webui .\n\nBulk import : import from remote object store sources (for example, S3) with configurable concurrency.\n\nCompaction and query performance improvements .\n\nCatalog migration —back up your catalog before upgrading.\n\nRead the announcement\n\nInfluxDB 3 Enterprise release notes\n\nTelegraf Controller 1.1 now available\n\nTelegraf Controller 1.1 lets teams make fleet-wide configuration changes with a single edit using global constants , configuration groups , and configuration aliases . Configuration versioning makes every change traceable, comparable, and reversible. High availability , available with Telegraf Enterprise, automatically fails over between Controller instances so agents can continue pulling configurations and reporting health if an instance goes down.\n\nRead the announcement\n\nSee the release notes\n\nDownload and install Telegraf Controller 1.1\n\nInfluxDB OSS 1.13.0 is now available\n\nInfluxDB OSS 1.13.0 adds mTLS support, adaptive TSI cache sizing, and a hardening option to mitigate SSRF.\n\nView InfluxDB OSS 1.13.0 release notes\n\nKey updates in InfluxDB OSS 1.13.0:\n\nmTLS support for the HTTP, OpenTSDB, and subscriber services.\n\nAdaptive TSI cache sizing —the series ID set cache can grow and shrink based on measured query hit rate.\n\nhardening-enabled option to mitigate server-side request forgery (SSRF) in Flux HTTP requests.\n\nFor details, see the InfluxDB OSS 1.13.0 release notes .\n\nInfluxDB Docker latest tag changing to InfluxDB 3 Core\n\nIf using Docker to install and run InfluxDB, the latest tag will point to InfluxDB 3 Core. To avoid unexpected upgrades, use specific version tags in your Docker deployments. For example, if using Docker to run InfluxDB v2, replace the latest version tag with a specific version tag in your Docker pull command&ndash;for example:",
+      "language": "en",
+      "category": "Technology",
+      "categoryConfidence": 0.57,
+      "categorySignals": [
+        "heading:cloud",
+        "heading:docker",
+        "desc:cloud",
+        "body:cloud(14)",
+        "body:docker(5)",
+        "body:sql(3)"
+      ],
+      "contentLengthBytes": 41009,
+      "wordCount": 1091,
+      "statusCode": 200,
+      "fetchTimeMs": 723,
+      "processedAt": "2026-09-24T07:12:12.093Z",
+      "chunkId": "chunk-023",
+      "retryCount": 0
+    },
+    {
+      "id": "doc-neo4j_com-8fbb7w",
+      "url": "https://neo4j.com/docs/",
+      "canonicalUrl": "https://neo4j.com/docs/",
+      "domain": "neo4j.com",
+      "title": "Neo4j documentation - Neo4j Documentation",
+      "description": "Neo4j documentation - Neo4j Documentation",
+      "headings": {
+        "h1": [
+          "Neo4j documentation"
+        ],
+        "h2": [
+          "Getting started",
+          "CTA cards",
+          "Tailored for you",
+          "Tutorials & How-to guides",
+          "GraphAcademy courses",
+          "Other resources",
+          "Products",
+          "Developers",
+          "Learn",
+          "Company",
+          "Social Networks"
+        ],
+        "h3": [
+          "Deployment options",
+          "Cypher",
+          "Neo4j Tools",
+          "Graph Data Science",
+          "Create applications",
+          "Connect data sources",
+          "Developer",
+          "Database Admin",
+          "Data Scientist",
+          "Data Engineer",
+          "Join forums and discussions",
+          "Developer blogs, articles and books"
+        ]
+      },
+      "mainText": "Get started with Neo4j\n\nExplore the capabilities of graph databases.\n\nChoose from fully and self-managed local and cloud deployments. Run Neo4j on Docker or Kubernetes.\n\nLearn how to write Cypher&reg;, Neo4j’s declarative query language.\n\nUse Neo4j’s tools to explore, visualize, manage, monitor, and import data to your graph.\n\nDiscover the products\n\nRun graph algorithms and machine learning models to analyze your data at scale.\n\nGet insights from data\n\nDiscover the client libraries and APIs to develop applications with Neo4j and AuraDB.\n\nLearn how to use connectors and other tools to connect Neo4j with other data sources.\n\nChoose your deployment\n\nIntegrate GenAI functions\n\nImprove app performance\n\nDeploy and manage a cluster\n\nManage users, roles, and privileges\n\nMonitor your database\n\nUpgrade and migration\n\nSet up your deployment\n\nCreate data visualizations\n\nUse machine learning algorithms\n\nSet up a Python client\n\nGraph database concepts\n\nTutorials & How-to guides\n\nTutorials & How-to guides\n\nEmbedding & Vector Indexes Tutorial\n\nImport data from a relational database into Neo4j\n\nBuild a Cypher recommendation engine\n\nSet up and use a composite database\n\nCapture and track changes in real-time\n\nApply centrality algorithms to your graph\n\nIntroduction to Neo4j and graph databases\n\nCypher query language fundamentals\n\nHow to import data to Neo4j\n\nNeo4j & GenerativeAI Fundamentals\n\nVector indexes and unstructured data\n\nIntroduction to Graph Data Science\n\nJoin forums and discussions\n\nCommunity forum Discord\n\nDeveloper blogs, articles and books\n\nDeveloper blog Other resources",
+      "language": "en",
+      "category": "Technology",
+      "categoryConfidence": 0.37,
+      "categorySignals": [
+        "heading:database",
+        "body:database(4)"
+      ],
+      "contentLengthBytes": 50965,
+      "wordCount": 231,
+      "statusCode": 200,
+      "fetchTimeMs": 521,
+      "processedAt": "2026-09-24T07:12:12.619Z",
+      "chunkId": "chunk-023",
+      "retryCount": 0
+    },
+    {
+      "id": "doc-docs_oracle_com-jb24wh",
+      "url": "https://docs.oracle.com/en/database/",
+      "canonicalUrl": "https://docs.oracle.com/en/database",
+      "domain": "docs.oracle.com",
+      "title": "Database Documentation - Database Documentation",
+      "description": "Oracle AI Database Oracle Autonomous AI Database\n\nData Integration Oracle GoldenGate\n\nOracle Stream Analytics\n\nOracle Data Integrator\n\nOracle Enterprise Data Quality\n\nOther Databases Blockchain Platfo...",
+      "headings": {
+        "h1": [
+          "Database Documentation"
+        ],
+        "h2": [
+          "Get Started"
+        ],
+        "h3": [
+          "Oracle AI Database",
+          "Oracle Autonomous AI Database",
+          "Oracle Database Related Products",
+          "Database Cloud Services",
+          "Data Integration",
+          "Other Databases",
+          "Big Data",
+          "Enterprise Manager"
+        ]
+      },
+      "mainText": "Oracle AI Database Oracle Autonomous AI Database\n\nData Integration Oracle GoldenGate\n\nOracle Stream Analytics\n\nOracle Data Integrator\n\nOracle Enterprise Data Quality\n\nOther Databases Blockchain Platform Enterprise Edition\n\nTimesTen In-Memory Database\n\nDatabase Mobile Server\n\nDatabase Documentation\n\nOracle provides a range of industry-leading on-premises and cloud-based solutions to meet the data management requirements from small and medium sized businesses to large global enterprises.\n\nOracle Autonomous AI Database\n\nOracle Database Related Products\n\nDatabase Cloud Services",
+      "language": "en",
+      "category": "Technology",
+      "categoryConfidence": 0.69,
+      "categorySignals": [
+        "url_pattern:\\/database",
+        "title:database",
+        "heading:cloud",
+        "heading:database",
+        "desc:database",
+        "body:database(8)"
+      ],
+      "contentLengthBytes": 29868,
+      "wordCount": 72,
+      "statusCode": 200,
+      "fetchTimeMs": 684,
+      "processedAt": "2026-09-24T07:12:13.306Z",
+      "chunkId": "chunk-023",
+      "retryCount": 0
+    },
+    {
+      "id": "doc-elastic_co-o9gyuo",
+      "url": "https://www.elastic.co/docs",
+      "canonicalUrl": "https://www.elastic.co/docs",
+      "domain": "elastic.co",
+      "title": "Elastic Docs | Elastic Docs",
+      "description": "Official Elastic documentation. Explore guides for Elastic Cloud (Hosted and Serverless) or on-prem deployments. Find product documentation, how-to guides, troubleshooting tips, release notes, and more.",
+      "headings": {
+        "h1": [
+          "Elastic Docs"
+        ],
+        "h2": [
+          "Solutions and use cases",
+          "How-to guides",
+          "Reference",
+          "Product resources",
+          "Welcome to our community of developers",
+          "Looking for more?"
+        ],
+        "h3": []
+      },
+      "mainText": "Welcome to the technical documentation for Elastic Stack 9.0.0 and later, and Elastic Cloud Serverless . Deploy, operate, and scale with step-by-step guides, API references, examples, and best practices.\n\nUpgrading from an earlier version? Follow the upgrade guide to plan and complete your upgrade.\n\nBuild with Elasticsearch Vector Database\n\nCreate a project, then use your preferred language to index data and run semantic and hybrid searches in 10 minutes.\n\nSolutions and use cases\n\nBuild search and analytics for mixed use cases across structured data, logs, metrics, documents, and vectors.\n\nBuild vector-centric applications for semantic search, RAG, or AI retrieval, with built-in inference and vector-optimized defaults.\n\nResolve problems with open, flexible, and unified observability powered by advanced machine learning and analytics.\n\nDetect, investigate, and respond to threats with AI-driven security analytics to protect your organization at scale.\n\nLearn how to ingest, enrich, and manage your data in Elastic.\n\nDiscover the tools of Elasticsearch and Kibana.\n\nLearn how to deploy and manage all aspects of your Elastic environment.\n\nManage your profile information, preferences, and personal settings.\n\nBrowse the API docs for Elasticsearch, Kibana, Elastic Cloud, and more.\n\nElasticsearch clients\n\nBrowse the Elasticsearch client libraries for Java, .Net, Python, and more.\n\nBrowse the docs for the Elastic Distributions of OpenTelemetry (EDOT).\n\nBrowse the docs for Query DSL, ES|QL , KQL, and more.\n\nExplore the latest features and changes in Elastic.\n\nExtend and contribute\n\nLearn how to contribute to Elastic products and extend capabilities.\n\nCheck troubleshooting guides for common fixes.\n\nBrowse the docs for previous Elastic product versions.\n\nWelcome to our community of developers\n\nLearn from your peers and share code examples.\n\nWe'll show you how to solve toughest challenges with Search AI. Join us at an Elastic{ON} event near you!",
+      "language": "en",
+      "category": "General",
+      "categoryConfidence": 0.36,
+      "categorySignals": [
+        "heading:welcome",
+        "heading:reference",
+        "body:welcome(2)"
+      ],
+      "contentLengthBytes": 29516,
+      "wordCount": 287,
+      "statusCode": 200,
+      "fetchTimeMs": 580,
+      "processedAt": "2026-09-24T07:12:13.890Z",
+      "chunkId": "chunk-023",
+      "retryCount": 0
+    },
+    {
+      "id": "doc-opensearch_org-5mtn9n",
+      "url": "https://opensearch.org/docs/latest/",
+      "canonicalUrl": "https://docs.opensearch.org/latest/",
+      "domain": "opensearch.org",
+      "title": "OpenSearch documentation and user guides | OpenSearch Documentation",
+      "description": "Documentation for OpenSearch, the Apache 2.0 search, analytics, and visualization suite with advanced security, alerting, SQL support, automated index management, deep performance analysis, and more.",
+      "headings": {
+        "h1": [
+          "OpenSearch Links"
+        ],
+        "h2": [],
+        "h3": []
+      },
+      "mainText": "OpenSearch documentation and user guides | OpenSearch Documentation OpenSearch Menu About Releases\n\nPerformance Benchmarks\n\nDocumentation OpenSearch and Dashboards\n\nOpenSearch and OpenSearch Dashboards\n\nBuild your OpenSearch solution using core tooling and visualizations.\n\nDocumentation &#x2192;\n\nUse vector database capabilities for more relevant search results.\n\nDocumentation &#x2192;\n\nPower your applications with machine learning model integration.\n\nDocumentation &#x2192;\n\nOpenSearch Dashboards\n\nExplore and visualize your data using interactive dashboards.\n\nDocumentation &#x2192;\n\nFilter, mutate, and sample your data for ingestion into OpenSearch.\n\nDocumentation &#x2192;\n\nInteract with OpenSearch from your application using language APIs.\n\nDocumentation &#x2192;\n\nMeasure OpenSearch cluster performance metrics.\n\nDocumentation &#x2192;\n\nSimplify your upgrade or migration to OpenSearch.\n\nDocumentation &#x2192;\n\nTrademark and Brand Policy",
+      "language": "en",
+      "category": "Technology",
+      "categoryConfidence": 0.22,
+      "categorySignals": [
+        "desc:sql",
+        "desc:security"
+      ],
+      "contentLengthBytes": 55256,
+      "wordCount": 109,
+      "statusCode": 200,
+      "fetchTimeMs": 1922,
+      "processedAt": "2026-09-24T07:12:15.816Z",
+      "chunkId": "chunk-023",
+      "retryCount": 0
+    },
+    {
+      "id": "doc-pandas_pydata_org-kr1mp2",
+      "url": "https://pandas.pydata.org/docs/",
+      "canonicalUrl": "https://pandas.pydata.org/docs",
+      "domain": "pandas.pydata.org",
+      "title": "pandas documentation — pandas 3.0.6 documentation",
+      "description": "pandas documentation #\n\nDate : Sep 17, 2026 Version : 3.0.6\n\nDownload documentation : Zipped HTML\n\nPrevious versions : Documentation of previous pandas versions is available at pandas.pydata.org .\n\nUs...",
+      "headings": {
+        "h1": [
+          "pandas documentation #"
+        ],
+        "h2": [],
+        "h3": []
+      },
+      "mainText": "pandas documentation #\n\nDate : Sep 17, 2026 Version : 3.0.6\n\nDownload documentation : Zipped HTML\n\nPrevious versions : Documentation of previous pandas versions is available at pandas.pydata.org .\n\nUseful links : Binary Installers | Source Repository | Issues & Ideas | Q&A Support | Mailing List\n\npandas is an open source, BSD-licensed library providing high-performance, easy-to-use data structures and data analysis tools for the Python programming language.\n\nNew to pandas ? Check out the getting started guides. They contain an introduction to pandas’ main concepts and links to additional tutorials.\n\nTo the getting started guides\n\nThe user guide provides in-depth information on the key concepts of pandas with useful background information and explanation.\n\nThe reference guide contains a detailed description of the pandas API. The reference describes how the methods work and which parameters can be used. It assumes that you have an understanding of the key concepts.\n\nTo the reference guide\n\nSaw a typo in the documentation? Want to improve existing functionalities? The contributing guidelines will guide you through the process of improving pandas.\n\nTo the development guide",
+      "language": "en",
+      "category": "Programming",
+      "categoryConfidence": 0.24,
+      "categorySignals": [],
+      "contentLengthBytes": 22046,
+      "wordCount": 180,
+      "statusCode": 200,
+      "fetchTimeMs": 923,
+      "processedAt": "2026-09-24T07:12:16.745Z",
+      "chunkId": "chunk-023",
+      "retryCount": 0
+    }
+  ]
+}

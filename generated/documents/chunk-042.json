@@ -1,0 +1,246 @@
+{
+  "chunkId": "chunk-042",
+  "filename": "chunk-042.json",
+  "documentCount": 6,
+  "totalBytes": 1035278,
+  "createdAt": "2026-09-24T07:15:54.831Z",
+  "documents": [
+    {
+      "id": "doc-investopedia_com-5ymu4a",
+      "url": "https://www.investopedia.com/",
+      "canonicalUrl": "https://www.investopedia.com/",
+      "domain": "investopedia.com",
+      "title": "Investopedia",
+      "description": "Investopedia is the world's leading source of financial content on the web, ranging from market news to retirement strategies, investing education to insights from advisors.",
+      "headings": {
+        "h1": [],
+        "h2": [
+          "Find the Best Financial Products",
+          "OUR TOP PICKS FOR SEPTEMBER:",
+          "Investopedia for Advisors",
+          "Our Mission",
+          "Advisor Council"
+        ],
+        "h3": [
+          "Inclusive Content"
+        ]
+      },
+      "mainText": "Find the Best Financial Products\n\nOUR TOP PICKS FOR SEPTEMBER:\n\nToday's Best CD Rates\n\nToday's Best Mortgage Rates\n\nBest Brokers and Trading Platforms\n\nBest Loans for Low Income: Flexible Terms and Fast Funding Updated Sep 23, 2026\n\nBest Mortgage Lenders: Compare Top Picks for 2026 Updated Sep 23, 2026\n\nBest Personal Loans for Poor Credit for September 2026 Updated Sep 23, 2026\n\n5 Best Universal Life Insurance Companies of September 2026 Updated Sep 23, 2026\n\nEdward Jones CD Rates: September 2026 Updated Sep 23, 2026\n\nUnderstanding Financial Institutions: Banks, Loans, and Investments Explained Updated Sep 23, 2026\n\nStudent Loan Borrowers: Only One Week Remains to Lock in Reduced Interest Rates Sep 23, 2026\n\nThe FAFSA Opened Today. Here’s What You Need Before Applying for Financial Aid Sep 23, 2026\n\nBest Small Business Insurance for September 2026 Updated Sep 23, 2026\n\nBest Commercial Insurance for Small Businesses Updated Sep 23, 2026\n\nBest Handyman Insurance Providers of 2026 Updated Sep 23, 2026\n\nBest Mortgage Lenders for Bad Credit in 2026: Top Picks for Low Scores Updated Sep 23, 2026\n\nBest Peer-to-Peer Loans for 2026: Compare Top Lenders Updated Sep 23, 2026\n\nThe Best Online Banks for September 2026 Updated Sep 23, 2026\n\nBask Bank Savings Account Interest Rates: September 2026 Updated Sep 23, 2026\n\nBask Bank Review Updated Sep 23, 2026\n\nHSBC Bank Review Updated Sep 23, 2026\n\nBest Tenant Screening Services for Landlords: Comprehensive & FCRA Compliant Updated Sep 23, 2026\n\nBest Reverse Mortgage Companies: 2026’s Top Picks Updated Sep 23, 2026\n\nInvestopedia for Advisors\n\nInvestopedia was founded in 1999 with the mission of helping people improve their financial outcomes. Our readers come to us from all over the world and from all walks of life. Some are learning about money and investing for the first time, while others are experienced investors, business owners, professionals, financial advisors, and executives looking to improve their knowledge and skills. No matter who you are, we are here to help.\n\nFinancial education needs to serve readers of all backgrounds. We aspire for our content, staff, contributors, and partner organizations to further the financial empowerment of those from all ethnicities, genders, generations, sexual orientations, abilities, and socioeconomic backgrounds, particularly those who may be disadvantaged. Read more details\n\nThe Investopedia Advisor Council brings together independent financial advisors with decades of real-world client experience and more than 50 professional certifications and advanced degrees, helping ensure our content is practical, trustworthy, and grounded in expert advice.\n\nMeet the Advisor Council",
+      "language": "en",
+      "category": "Business",
+      "categoryConfidence": 0.52,
+      "categorySignals": [
+        "domain:investopedia.com",
+        "desc:market",
+        "body:business(2)"
+      ],
+      "contentLengthBytes": 569457,
+      "wordCount": 411,
+      "statusCode": 200,
+      "fetchTimeMs": 654,
+      "processedAt": "2026-09-24T07:15:38.653Z",
+      "chunkId": "chunk-042",
+      "retryCount": 0
+    },
+    {
+      "id": "doc-economicshelp_org-n212pb",
+      "url": "https://www.economicshelp.org/",
+      "canonicalUrl": "https://www.economicshelp.org/",
+      "domain": "economicshelp.org",
+      "title": "Economics Help",
+      "description": "Economics Help.org has over 2,000 articles and revision notes for economics students. Latest economic news, videos, blog and graphs. All the resources for helping to improve your economics.",
+      "headings": {
+        "h1": [
+          "Economics Help.org"
+        ],
+        "h2": [
+          "The German Economic Model is Broken",
+          "The Free Money Era Is Over — Here’s What Replaces It",
+          "The 2026 Oil Crisis",
+          "Books by Tejvan Pettinger",
+          "Economics Help A-Level",
+          "About"
+        ],
+        "h3": [
+          "Sections",
+          "Popular Revision e-books",
+          "Macro Economics Revision Notes",
+          "Micro Economics Revision Notes",
+          "Latest Blog Posts",
+          "Economic Tuition",
+          "Selection of videos explaining economics"
+        ]
+      },
+      "mainText": "Resources for those looking to understand economics. Essays, e-books, blog posts and latest developments on the UK and global economy.\n\nA-level Revision Products | Glossary of terms | Microeconomics | Macroeconomics | Recent Articles\n\nPopular Revision e-books\n\nEconomics Revision Guide &pound; 8.95 5.00 out of 5 Add to basket\n\nA-Level Economics Essays &pound; 11.50 &ndash; &pound; 125.00 Price range: &pound;11.50 through &pound;125.00 5.00 out of 5 Select options\n\nGCSE Economics revision guide &pound; 8.49 Add to basket\n\nEvaluation and Essay Writing Skills – Economics A-Level &pound; 8.50 &ndash; &pound; 95.00 Price range: &pound;8.50 through &pound;95.00 5.00 out of 5 Select options\n\nA* Answers for A-level Micro Economics &pound; 6.00 &ndash; &pound; 80.00 Price range: &pound;6.00 through &pound;80.00 5.00 out of 5 Select options\n\nMacro Economics Revision Notes\n\nInternational trade/globalisation\n\nMore – Macro economics topics\n\nMicro Economics Revision Notes\n\nGovernment intervention\n\nBehavioural economics\n\nMore – Micro economics topics\n\nThe German Economic Model is Broken\n\nFor decades, Germany was Europe’s economic miracle. Low inflation, high growth and a reputation for the best manufactured goods in the world. German engineering was part of the national identity. But, in recent years, it has really struggled, and the political fallout is becoming quite serious. Germany is at the heart of European economy and&hellip;\n\nThe Free Money Era Is Over — Here’s What Replaces It\n\n  “I used to think that if there was reincarnation, I wanted to come back as the President or the Pope… But now I would like to come back as the bond market. You can intimidate everybody.” This was said in the early 1990s, by an adviser to Bill Clinton. Thirty years later, rising bond&hellip;\n\nBack in early March, in anticipation of rising jet fuel prices, I rushed to buy two air tickets to New York (August and October). The cheapest was Norse Air £500 August (very good deal) and £400 for October with a 3% discount for paying by bank transfer. I did buy with bank transfer but for&hellip;\n\nI can offer economic tuition either in Oxford or online. For more details, feel free to enquire\n\nReviews about Economicshelp.org products\n\nBooks by Tejvan Pettinger\n\nAn easy to read an overview of economics. ‘Cracking Economics’ gives explanations of main topics with images and diagrams to bring economics to life.\n\nThe book is aimed at anyone with a general interest in economics but would like a better understanding. Available in hardback at major bookshops and online. Read More\n\nEconomics without the Boring bits\n\nAn Enlightening Guide to the Dismal Science – published by Wellbeck.\n\nIt includes topics such as common economic fallacies, middlemen, recycling, debt, finance, trade, money, taxation and why some people get rich and others don’t.\n\nSelection of videos explaining economics",
+      "language": "en",
+      "category": "General",
+      "categoryConfidence": 0.26,
+      "categorySignals": [
+        "heading:about"
+      ],
+      "contentLengthBytes": 219825,
+      "wordCount": 450,
+      "statusCode": 200,
+      "fetchTimeMs": 1400,
+      "processedAt": "2026-09-24T07:15:40.064Z",
+      "chunkId": "chunk-042",
+      "retryCount": 0
+    },
+    {
+      "id": "doc-khanacademy_org-eueo7y",
+      "url": "https://www.khanacademy.org/economics-finance-domain",
+      "canonicalUrl": "https://www.khanacademy.org/economics-finance-domain",
+      "domain": "khanacademy.org",
+      "title": "Client Challenge",
+      "description": "A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings. Please check your connection, disable any ad blockers, or try using a different...",
+      "headings": {
+        "h1": [],
+        "h2": [],
+        "h3": []
+      },
+      "mainText": "A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings. Please check your connection, disable any ad blockers, or try using a different browser.",
+      "language": "en",
+      "category": "Education",
+      "categoryConfidence": 0.41,
+      "categorySignals": [
+        "domain:khanacademy.org"
+      ],
+      "contentLengthBytes": 3038,
+      "wordCount": 35,
+      "statusCode": 200,
+      "fetchTimeMs": 288,
+      "processedAt": "2026-09-24T07:15:40.354Z",
+      "chunkId": "chunk-042",
+      "retryCount": 0
+    },
+    {
+      "id": "doc-federalreserve_gov-di9v44",
+      "url": "https://www.federalreserve.gov/",
+      "canonicalUrl": "https://www.federalreserve.gov/",
+      "domain": "federalreserve.gov",
+      "title": "Federal Reserve Board - Home",
+      "description": "The Federal Reserve Board of Governors in Washington DC.",
+      "headings": {
+        "h1": [
+          "Board of Governors of the Federal Reserve System"
+        ],
+        "h2": [
+          "Upcoming Calendar",
+          "The Federal Reserve"
+        ],
+        "h3": [
+          "Federal Reserve's Renovation of Two Historic Buildings FAQs",
+          "Disaster Preparedness and Recovery Resources",
+          "FAQ: Damaged Currency",
+          "What is FedNow?",
+          "Principal Economic Indicators",
+          "Protect Yourself from Fraud and Scams",
+          "Proposals for Comment",
+          "Federal Reserve Consumer Help",
+          "The FOMC Calendar",
+          "U.S. Currency Education Program"
+        ]
+      },
+      "mainText": "Federal Reserve's Renovation of Two Historic Buildings FAQs\n\nThe Federal Reserve takes seriously the responsibility to be good stewards of public resources.",
+      "language": "en",
+      "category": "General",
+      "categoryConfidence": 0.41,
+      "categorySignals": [],
+      "contentLengthBytes": 105419,
+      "wordCount": 22,
+      "statusCode": 200,
+      "fetchTimeMs": 589,
+      "processedAt": "2026-09-24T07:15:40.946Z",
+      "chunkId": "chunk-042",
+      "retryCount": 0
+    },
+    {
+      "id": "doc-bls_gov-85ig2z",
+      "url": "https://www.bls.gov/",
+      "canonicalUrl": "https://www.bls.gov/",
+      "domain": "bls.gov",
+      "title": "U.S. Bureau of Labor Statistics : U.S. Bureau of Labor Statistics",
+      "description": "The Bureau of Labor Statistics is the principal fact-finding agency for the Federal Government in the broad field of labor economics and statistics.",
+      "headings": {
+        "h1": [
+          "U.S. Bureau of Labor Statistics"
+        ],
+        "h2": [
+          "Homepage Sections"
+        ],
+        "h3": [
+          "MONTHLY LABOR REVIEW",
+          "CAREER OUTLOOK",
+          "EMPLOYMENT PROJECTIONS",
+          "Latest Numbers"
+        ]
+      },
+      "mainText": "U.S. Bureau of Labor Statistics\n\nSystem maintenance scheduled for the weekend of September 26–27, 2026 .\n\nIn August, unemployment rates were lower in 8 states and the District of Columbia and stable in 42 states. Nonfarm payroll employment increased in 4 states and was essentially unchanged in 46 states and the District.\n\nHTML | PDF | RSS | Charts\n\nBLS offers many types of data for regions, states and local areas. To browse for available information, make a selection from the tabs or use the economic news release finder below.\n\nPrivate-sector estimates of unemployment in the 1930s\n\nHow concepts of unemployment and labor force arose from discussions between private sector, academia, and the government. read more\n\nWondering whether it pays to stay in school? Take a look at data from BLS. More learning still leads to higher earnings—and lower unemployment. read more\n\nWhy is candy so expensive these days?\n\nA look at the rise in candy prices, the complex factors that influenced prices, and how consumer behavior has changed. read more\n\nDebunking common misconceptions about the JOLTS Survey\n\nBLS research disproves overcounting and other myths in the Job Openings and Labor Turnover Survey (JOLTS) data. read more\n\nEMPLOYMENT PROJECTIONS\n\nBLS Occupational Employment Projections 2025–35\n\nCheck out highlights, including the fastest growing occupations and occupations expected to have the most new jobs. read more\n\nConsumer Price Index (CPI): +0.4% in Aug 2026\n\nUnemployment Rate: 4.1% in Aug 2026\n\nPayroll Employment: +162,000(p) in Aug 2026\n\nAverage Hourly Earnings: +$0.10(p) in Aug 2026\n\nProducer Price Index - Final Demand: +0.4%(p) in Aug 2026\n\nEmployment Cost Index (ECI): +0.9% in 2nd Qtr of 2026\n\nProductivity: +1.4% in 2nd Qtr of 2026\n\nU.S. Import Price Index: +0.7% in Aug 2026\n\nU.S. Export Price Index: +0.6% in Aug 2026",
+      "language": "en",
+      "category": "General",
+      "categoryConfidence": 0.42,
+      "categorySignals": [
+        "body:index(5)"
+      ],
+      "contentLengthBytes": 79070,
+      "wordCount": 293,
+      "statusCode": 200,
+      "fetchTimeMs": 935,
+      "processedAt": "2026-09-24T07:15:41.892Z",
+      "chunkId": "chunk-042",
+      "retryCount": 0
+    },
+    {
+      "id": "doc-bea_gov-nggaak",
+      "url": "https://www.bea.gov/",
+      "canonicalUrl": "https://www.bea.gov/",
+      "domain": "bea.gov",
+      "title": "U.S. Bureau of Economic Analysis (BEA)",
+      "description": "U.S. Bureau of Economic Analysis (BEA) Skip to main content Bureau of Economic Analysis\n\nU.S. International Trade in Goods and Services, July 2026\n\nThe U.S. goods and services trade deficit increased ...",
+      "headings": {
+        "h1": [
+          "Bureau of Economic Analysis"
+        ],
+        "h2": [
+          "U.S. International Trade in Goods and Services, July 2026",
+          "Principal Federal Economic Indicators",
+          "Noteworthy",
+          "Information For",
+          "The Latest"
+        ],
+        "h3": [
+          "Main navigation",
+          "How BLS’ Quarterly Census of Employment and Wages Contributes to Higher Quality Stats for BEA",
+          "What’s the Economic Value of Mowing Your Own Lawn?",
+          "U.S. International Trade in Goods and Services, July 2026",
+          "GDP (Second Estimate) and Corporate Profits, 2nd Quarter 2026",
+          "Personal Income and Outlays, July 2026",
+          "Annual Update of GDP, Industry, and State Stats Publicly Available Starting Sept. 30",
+          "U.S. International Trade in Goods and Services, June 2026",
+          "GDP (Advance Estimate), 2nd Quarter 2026",
+          "Personal Income and Outlays, June 2026",
+          "Direct Investment by Country and Industry, 2025"
+        ]
+      },
+      "mainText": "U.S. Bureau of Economic Analysis (BEA) Skip to main content Bureau of Economic Analysis\n\nU.S. International Trade in Goods and Services, July 2026\n\nThe U.S. goods and services trade deficit increased in July 2026 according to the U.S. Bureau of Economic Analysis and the U.S. Census Bureau. The deficit increased from $71.2 billion in June (revised) to $88.6 billion in July, as imports increased and exports decreased. The goods deficit increased $17.6 billion in July to $119.6 billion. The services surplus increased $0.2 billion in July to $31.0 billion.\n\nGoods and Services Trade Deficit: Seasonally adjusted, July '26\n\nGoods and Services Trade Deficit: Seasonally adjusted, July '26\n\nPrincipal Federal Economic Indicators\n\n2026 News Release Schedule\n\nDistribution of State Personal Income   Updated\n\nData Tool: Income Distribution Analysis Tool   New\n\nHousehold production   Updated\n\nData Tool: Global Value Chain Analyzer\n\nNew RIMS II Multipliers\n\nR&D Economic Activity\n\nQuick Guide: Price Indexes\n\nHelp for Survey Respondents\n\nResources for Congressional Users\n\nResources for Developers\n\nHow BLS’ Quarterly Census of Employment and Wages Contributes to Higher Quality Stats for BEA\n\nA blog post from BEA Director Vipin Arora\n\n“The reporting system that has been developed under the Social Security and Railroad Retirement Acts approaches the ideal as a source for income estimates.”\n\nThat statement, tucked away on page 63 of the first methodological handbook for the national accounts, is as true today as it was in 1951.\n\nWhat’s the Economic Value of Mowing Your Own Lawn?\n\nA blog post from BEA Director Vipin Arora\n\nMy sons complain a lot about their chores—especially cutting the grass. I wonder if it would make them feel better to know that all their time sweating in the sun pushing a mower gets measured by BEA through our household production statistics. They might be even more excited to know the statistics are also capturing the other (unpaid) fun they have around the house like cleaning…\n\nU.S. International Trade in Goods and Services, July 2026\n\nThe U.S. goods and services trade deficit increased in July 2026 according to the U.S. Bureau of Economic Analysis and the U.S. Census Bureau. The deficit increased from $71.2 billion in June (revised) to $88.6 billion in July, as imports increased and exports decreased. The goods deficit increased $17.6 billion in July to $119.6 billion. The services surplus increased $0.2 billion in July to $31.0 billion.\n\nGDP (Second Estimate) and Corporate Profits, 2nd Quarter 2026\n\nReal gross domestic product (GDP) increased at an annual rate of 1.5 percent in the second quarter of 2026 (April, May, and June), according to the second estimate released today by the U.S. Bureau of Economic Analysis (BEA). In the first quarter, real GDP increased 2.1 percent. The contributors to the increase in real GDP in the second quarter were increases in consumer spending, exports, and investment that were partly offset by a decrease in…\n\nPersonal Income and Outlays, July 2026\n\nPersonal income increased $115.1 billion (0.4 percent at a monthly rate) in July, according to estimates released today by the U.S. Bureau of Economic Analysis (BEA). Disposable personal income (DPI)—personal income less personal current taxes—increased $125.9 billion (0.5 percent), and personal consumption expenditures (PCE) increased $36.3 billion (0.2 percent). Personal outlays—the sum of PCE, personal interest payments, and personal current…\n\nAnnual Update of GDP, Industry, and State Stats Publicly Available Starting Sept. 30\n\nBEA will release this year’s annual update of gross domestic product and related statistics beginning Sept. 30, part of our regular effort to better measure the U.S. economy. For the first time, updated state and county statistics will also start to flow to the public on the same day as the national and industry numbers. \n\nU.S. International Trade in Goods and Services, June 2026\n\nThe U.S. goods and services trade deficit decreased in June 2026 according to the U.S. Bureau of Economic Analysis and the U.S. Census Bureau. The deficit decreased from $77.6 billion in May (revised) to $73.3 billion in June, as imports decreased more than exports. The goods deficit decreased $3.9 billion in June to $102.1 billion. The services surplus increased $0.5 billion in June to $28.8 billion.\n\nGDP (Advance Estimate), 2nd Quarter 2026\n\nReal gross domestic product (GDP) increased at an annual rate of 1.5 percent in the second quarter of 2026 (April, May, and June), according to the advance estimate released today by the U.S. Bureau of Economic Analysis (BEA). In the first quarter, real GDP increased 2.1 percent. The contributors to the increase in real GDP in the second quarter were increases in consumer spending, investment, and exports that were partly offset by a decrease in…\n\nPersonal Income and Outlays, June 2026\n\nPersonal income increased $54.9 billion (0.2 percent at a monthly rate) in June, according to estimates released today by the U.S. Bureau of Economic Analysis (BEA). Disposable personal income (DPI)—personal income less personal current taxes—increased $48.3 billion (0.2 percent), and personal consumption expenditures (PCE) increased $65.2 billion (0.3 percent). Personal outlays—the sum of PCE, personal interest payments, and personal current…\n\nDirect Investment by Country and Industry, 2025\n\nThe U.S. direct investment abroad position, or cumulative level of investment, increased $438.1 billion to $7.14 trillion at the end of 2025, according to statistics released today by the U.S. Bureau of Economic Analysis. The increase was led by a $350.2 billion increase in the position in Europe, primarily in the United Kingdom and Luxembourg. By industry, manufacturing had the largest increase, led by chemical manufacturing. The foreign…",
+      "language": "en",
+      "category": "Business",
+      "categoryConfidence": 0.78,
+      "categorySignals": [
+        "heading:investment",
+        "heading:gdp",
+        "heading:quarterly",
+        "heading:corporate",
+        "body:investment(5)",
+        "body:gdp(9)"
+      ],
+      "contentLengthBytes": 58469,
+      "wordCount": 904,
+      "statusCode": 200,
+      "fetchTimeMs": 1656,
+      "processedAt": "2026-09-24T07:15:43.561Z",
+      "chunkId": "chunk-042",
+      "retryCount": 0
+    }
+  ]
+}

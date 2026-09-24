@@ -1,0 +1,52 @@
+{
+  "chunkId": "chunk-045",
+  "filename": "chunk-045.json",
+  "documentCount": 1,
+  "totalBytes": 158952,
+  "createdAt": "2026-09-24T07:15:54.831Z",
+  "documents": [
+    {
+      "id": "doc-developer_mozilla_org-s1aae4",
+      "url": "https://developer.mozilla.org/en-US/docs/Web/Security",
+      "canonicalUrl": "https://developer.mozilla.org/en-US/docs/Web/Security",
+      "domain": "developer.mozilla.org",
+      "title": "Security | MDN",
+      "description": "Web security is the practice of protecting websites and their users from damage caused by malicious third parties, who are generally called attackers.",
+      "headings": {
+        "h1": [
+          "Security"
+        ],
+        "h2": [
+          "In this article",
+          "Core security practices",
+          "Attacks",
+          "Defenses",
+          "Threat modeling",
+          "Authentication",
+          "HTTP Observatory",
+          "See also",
+          "Help improve MDN"
+        ],
+        "h3": []
+      },
+      "mainText": "Web security is the practice of protecting websites and their users from damage caused by malicious third parties, who are generally called attackers .\n\nThe kind of damage done can be reputational, financial, or even physical. It can target data that should be kept private to users, or actions that should be only made available to particular users. The motivations of attackers might be financial, political, or personal.\n\nIn this part of MDN we've written guides to help web developers understand how to protect their websites, and their users, against these attacks.\n\nThe documentation is organized into four main sections:\n\nIn this page we'll introduce each of these sections and list the guides they contain. First though, we'll list the core security practices that web developers should follow.\n\nCore security practices\n\nCore security practices\n\nWeb security can be overwhelming: there are a lot of potential threats, defenses are often complex and multilayered, and the set of threats you need to consider are highly dependent on what exactly your website is doing. In this section we'll summarize what we think are the most important things you can do, that will offer protection against most of the threats you will encounter.\n\nUse HTTPS to serve all your site's pages and subresources.\n\nSet a Content Security Policy (CSP) for your site.\n\nIf possible, set a strict CSP , but if not, at least set a policy that disallows inline JavaScript .\n\nSet the frame-ancestors CSP directive, to control whether pages can be embedded in nested browsing contexts.\n\nSet the require-trusted-types-for CSP directive, to help ensure that content has been sanitized before it is passed to potentially dangerous APIs.\n\nControl cross-origin requests : consider whether and in which circumstances you want to allow other origins to make requests to your site, and use fetch metadata to control this.\n\nLimit access to any cookies your site sets . In particular:\n\nSet the SameSite attribute to Strict if possible, or Lax otherwise.\n\nSet the Secure and HttpOnly attributes, if possible.\n\nMinimize the lifetime of cookies that are used to represent logged-in users.\n\nHandle input securely : if your site accepts input from the user or another system, validate it . Before integrating any input into your site's pages, perform output encoding or sanitization .\n\nUse Subresource Integrity for any scripts that you load from external sources (such as CDNs ).\n\nUse strong authentication methods : if you authenticate users on your site, don't use passwords alone. Passkeys are the most secure authentication method, but if you can't use them, then time-based one-time passwords (TOTP) are more secure than traditional passwords.\n\nFollow good operational security practices : control access to your project's source code, handle secrets securely, and control your dependencies.\n\nSee also the Secure Web Application Guidelines .\n\nThe Attacks section includes guides to common attacks on websites. An attack is a specific technique that an attacker can use to harm websites or their users.\n\nEach guide covers a specific attack (or class of related attacks), explaining how it works, the conditions under which a website becomes vulnerable, and how to defend against it.\n\nThe attacks described include:\n\nCross-site request forgery (CSRF)\n\nCross-site leaks (XS-Leaks)\n\nCross-site scripting (XSS)\n\nInsecure Direct Object Reference (IDOR)\n\nManipulator in the Middle (MITM)\n\nServer Side Request Forgery (SSRF)\n\nThe Defenses section includes guides to features or practices that you can use to protect yourself against various attacks. In general, there's a many-to-many relationship between attack and defenses. That is, a single defense can protect against multiple attacks, and defending against a single attack may require multiple defenses, so as to provide defense in depth.\n\nIn this section we document the following defenses:\n\nCertificate transparency\n\nMixed content blocking\n\nSubresource integrity\n\nTransport Layer Security (TLS)\n\nNote that not all defenses are described in this section: some, such as CSP or trusted types , are described inside the technology area of which they are a part.\n\nNot all websites are vulnerable to all attacks: which attacks a developer needs to worry about depends on the features that the site provides and how they are implemented.\n\nThreat modeling is a process that web developers can follow to develop a structured representation of the potential threats that their site faces, and the corresponding defenses that they should employ.\n\nThat is, threat modeling helps you understand which attacks you need to defend against, and how to defend against them.\n\nAuthentication is the process of verifying that an entity — such as a user of a website — is who they claim to be. You'll most likely need to think about authentication if you want users to sign into your website.\n\nIf users can log into your website, there are typically things logged-in users can do, or data they can access, that you don't want to make generally available. This makes user account access one of the most valuable targets for attackers.\n\nIn this set of guides we'll look at the main techniques available for authenticating users on the web, and good practices for them. We describe four methods:\n\nOne-time passwords (OTP)\n\nIn this section we also outline good practices for session management , which is how a website remembers the signed-in status of a user.\n\nThe HTTP Observatory tool enables you to scan your website to check whether it's following certain good security practices. Our Practical security implementation guides provide explanations of how to implement these practices, and the threats they defend against.\n\nLearn: Website security\n\nOWASP Cheat Sheet series\n\nThis page was last modified on Aug 14, 2026 by MDN contributors .",
+      "language": "en",
+      "category": "Technology",
+      "categoryConfidence": 0.49,
+      "categorySignals": [
+        "url_pattern:\\/security",
+        "title:security",
+        "heading:security",
+        "desc:security",
+        "body:security(11)"
+      ],
+      "contentLengthBytes": 158952,
+      "wordCount": 926,
+      "statusCode": 200,
+      "fetchTimeMs": 327,
+      "processedAt": "2026-09-24T07:15:54.830Z",
+      "chunkId": "chunk-045",
+      "retryCount": 0
+    }
+  ]
+}

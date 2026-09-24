@@ -1,0 +1,362 @@
+{
+  "chunkId": "chunk-012",
+  "filename": "chunk-012.json",
+  "documentCount": 6,
+  "totalBytes": 1430453,
+  "createdAt": "2026-09-24T07:15:54.831Z",
+  "documents": [
+    {
+      "id": "doc-developer_android_com-xxew78",
+      "url": "https://developer.android.com/topic/security",
+      "canonicalUrl": "https://developer.android.com/quality/privacy-and-security",
+      "domain": "developer.android.com",
+      "title": "Design for Safety  |  App quality  |  Android Developers",
+      "description": "Android is secure by default and private by design. And Google Play designs policies and guidelines to create a safe ecosystem.\n\nDesign for privacy by focusing on minimization. Minimize permission req...",
+      "headings": {
+        "h1": [],
+        "h2": [
+          "Best practices",
+          "Android privacy enhancements over time",
+          "Build apps to be private",
+          "Minimize permissions",
+          "Minimize location access",
+          "Minimize data",
+          "Give users control",
+          "Review what your users see",
+          "Design for security",
+          "Latest News",
+          "Latest Videos"
+        ],
+        "h3": [
+          "Design for Safety",
+          "Ensure user privacy",
+          "Ensure app security",
+          "Google Play requirements",
+          "SDK best practices",
+          "Minimize your permissions",
+          "New photos & videos",
+          "Existing photos & videos",
+          "App-specific data",
+          "Nearby devices",
+          "Permission downgrading",
+          "Location accuracy",
+          "Background location",
+          "Nearby Bluetooth devices",
+          "Nearby Wi-Fi devices",
+          "Package visibility",
+          "Device identifiers",
+          "In-context permission requests",
+          "Prominent disclosure",
+          "Permission rationale",
+          "Data access",
+          "Permission denials",
+          "Data collection & sharing",
+          "Camera & microphone indicators",
+          "Clipboard access",
+          "Privacy Dashboard",
+          "Permission auto-revoke",
+          "Build apps to be secure by default",
+          "Protect against fraud and abuse",
+          "Authenticate with Credential Manager",
+          "Authenticate with biometrics",
+          "Communicate securely",
+          "Encrypt your data",
+          "Be the first to know",
+          "Help us design privacy preserving APIs for advertising",
+          "Google Play Policy",
+          "More Android",
+          "Discover",
+          "Android Devices",
+          "Releases",
+          "Documentation and Downloads",
+          "Support"
+        ]
+      },
+      "mainText": "Android is secure by default and private by design. And Google Play designs policies and guidelines to create a safe ecosystem.\n\nDesign for privacy by focusing on minimization. Minimize permission requests, minimize location access, and minimize data visibility across apps.\n\nDesign for security by following best practices for encryption, integrity, and authentication.\n\nGoogle Play requirements\n\nAndroid privacy enhancements over time\n\nScoped storage enhancements\n\nSeparate request for background location\n\nBluetooth permissions\n\nNotification permission\n\nWi-Fi and storage permissions\n\nBuild apps to be private\n\nMinimize your permissions\n\nExisting photos & videos\n\nPermission downgrading\n\nMinimize location access\n\nNearby Bluetooth devices\n\nIn-context permission requests\n\nData collection & sharing\n\nReview what your users see\n\nCamera & microphone indicators\n\nPermission auto-revoke\n\nBuild apps to be secure by default\n\nAndroid’s goal is to be the safest mobile platform in the world. We consistently invest in technologies that bolster the security of the platform, its apps, and the global Android ecosystem.\n\nProtect against fraud and abuse\n\nAuthenticate with Credential Manager\n\nAuthenticate with biometrics\n\nHelp us design privacy preserving APIs for advertising\n\nFeatured Google Play Policy\n\nGoogle Play partners with you to deliver your apps and games safely to billions of people worldwide. Learn the latest policies, timeline, and implications for your apps.\n\nContent and code samples on this page are subject to the licenses described in the Content License . Java and OpenJDK are trademarks or registered trademarks of Oracle and/or its affiliates.\n\nLast updated 2025-01-14 UTC.",
+      "language": "en",
+      "category": "Programming",
+      "categoryConfidence": 0.37,
+      "categorySignals": [
+        "url_pattern:\\/developer",
+        "heading:sdk",
+        "heading:package"
+      ],
+      "contentLengthBytes": 322102,
+      "wordCount": 238,
+      "statusCode": 200,
+      "fetchTimeMs": 1530,
+      "processedAt": "2026-09-24T07:10:31.218Z",
+      "chunkId": "chunk-012",
+      "retryCount": 0
+    },
+    {
+      "id": "doc-git_scm_com-yireld",
+      "url": "https://git-scm.com/book/en/v2",
+      "canonicalUrl": "https://git-scm.com/book/en/v2",
+      "domain": "git-scm.com",
+      "title": "Git",
+      "description": "The entire Pro Git book, written by Scott Chacon and Ben Straub and published by Apress, is available here. All content is licensed under the Creative Commons Attribution Non Commercial Share Alike 3....",
+      "headings": {
+        "h1": [
+          "Book"
+        ],
+        "h2": [
+          "Download Ebook",
+          "1. Getting Started",
+          "2. Git Basics",
+          "3. Git Branching",
+          "4. Git on the Server",
+          "5. Distributed Git",
+          "6. GitHub",
+          "7. Git Tools",
+          "8. Customizing Git",
+          "9. Git and Other Systems",
+          "10. Git Internals",
+          "A1. Appendix A: Git in Other Environments",
+          "A2. Appendix B: Embedding Git in your Applications",
+          "A3. Appendix C: Git Commands"
+        ],
+        "h3": []
+      },
+      "mainText": "The entire Pro Git book, written by Scott Chacon and Ben Straub and published by Apress, is available here. All content is licensed under the Creative Commons Attribution Non Commercial Share Alike 3.0 license . Print versions of the book are available on Amazon.com .\n\nThe version found here has been updated with corrections and additions from hundreds of contributors . If you see an error or have a suggestion, patches and issues are welcome in its GitHub repository .\n\n1.1 About Version Control\n\n1.2 A Short History of Git\n\n1.6 First-Time Git Setup\n\n2.1 Getting a Git Repository\n\n2.2 Recording Changes to the Repository\n\n2.3 Viewing the Commit History\n\n2.5 Working with Remotes\n\n3.1 Branches in a Nutshell\n\n3.2 Basic Branching and Merging\n\n3.3 Branch Management\n\n3.4 Branching Workflows\n\n4.2 Getting Git on a Server\n\n4.3 Generating Your SSH Public Key\n\n4.4 Setting Up the Server\n\n4.9 Third Party Hosted Options\n\n5.1 Distributed Workflows\n\n5.2 Contributing to a Project\n\n5.3 Maintaining a Project\n\n6.1 Account Setup and Configuration\n\n6.2 Contributing to a Project\n\n6.3 Maintaining a Project\n\n6.4 Managing an organization\n\n7.1 Revision Selection\n\n7.2 Interactive Staging\n\n7.3 Stashing and Cleaning\n\n7.4 Signing Your Work\n\n7.6 Rewriting History\n\n7.7 Reset Demystified\n\n7.10 Debugging with Git\n\n7.14 Credential Storage\n\n8.1 Git Configuration\n\n8.4 An Example Git-Enforced Policy\n\n9. Git and Other Systems\n\n10.1 Plumbing and Porcelain\n\n10.6 Transfer Protocols\n\n10.7 Maintenance and Data Recovery\n\n10.8 Environment Variables\n\nA1. Appendix A: Git in Other Environments\n\nA1.1 Graphical Interfaces\n\nA1.2 Git in Visual Studio\n\nA1.3 Git in Visual Studio Code\n\nA1.4 Git in IntelliJ / PyCharm / WebStorm / PhpStorm / RubyMine\n\nA1.5 Git in Sublime Text\n\nA1.8 Git in PowerShell\n\nA2. Appendix B: Embedding Git in your Applications\n\nA2.1 Command-line Git\n\nA3. Appendix C: Git Commands\n\nA3.1 Setup and Config\n\nA3.2 Getting and Creating Projects\n\nA3.3 Basic Snapshotting\n\nA3.4 Branching and Merging\n\nA3.5 Sharing and Updating Projects\n\nA3.6 Inspection and Comparison\n\nA3.10 External Systems\n\nA3.12 Plumbing Commands",
+      "language": "en",
+      "category": "Programming",
+      "categoryConfidence": 0.75,
+      "categorySignals": [
+        "title:git",
+        "heading:github",
+        "heading:git",
+        "desc:git",
+        "body:repository(3)",
+        "body:git(17)"
+      ],
+      "contentLengthBytes": 121841,
+      "wordCount": 326,
+      "statusCode": 200,
+      "fetchTimeMs": 1146,
+      "processedAt": "2026-09-24T07:10:32.369Z",
+      "chunkId": "chunk-012",
+      "retryCount": 0
+    },
+    {
+      "id": "doc-git_scm_com-deu2iq",
+      "url": "https://git-scm.com/docs",
+      "canonicalUrl": "https://git-scm.com/docs",
+      "domain": "git-scm.com",
+      "title": "Git - Reference",
+      "description": "Quick reference guide: Cheat Sheet\n\nGetting and Creating Projects\n\nBranching and Merging\n\nSharing and Updating Projects\n\nInspection and Comparison\n\nCommand-line interface conventions\n\nFrequently Asked...",
+      "headings": {
+        "h1": [
+          "Reference"
+        ],
+        "h2": [],
+        "h3": [
+          "Setup and Config",
+          "Getting and Creating Projects",
+          "Basic Snapshotting",
+          "Branching and Merging",
+          "Sharing and Updating Projects",
+          "Inspection and Comparison",
+          "Patching",
+          "Debugging",
+          "Guides",
+          "Email",
+          "External Systems",
+          "Administration",
+          "Server Admin",
+          "Plumbing Commands"
+        ]
+      },
+      "mainText": "Quick reference guide: Cheat Sheet\n\nGetting and Creating Projects\n\nBranching and Merging\n\nSharing and Updating Projects\n\nInspection and Comparison\n\nCommand-line interface conventions\n\nFrequently Asked Questions (FAQ)",
+      "language": "en",
+      "category": "Programming",
+      "categoryConfidence": 0.29,
+      "categorySignals": [
+        "title:git",
+        "heading:debugging",
+        "desc:interface"
+      ],
+      "contentLengthBytes": 16130,
+      "wordCount": 26,
+      "statusCode": 200,
+      "fetchTimeMs": 33,
+      "processedAt": "2026-09-24T07:10:32.406Z",
+      "chunkId": "chunk-012",
+      "retryCount": 0
+    },
+    {
+      "id": "doc-docs_github_com-xwlww4",
+      "url": "https://docs.github.com/en/get-started",
+      "canonicalUrl": "https://docs.github.com/en/get-started",
+      "domain": "docs.github.com",
+      "title": "Get started with GitHub documentation - GitHub Docs",
+      "description": "Learn how to start building, shipping, and maintaining software with GitHub. Explore our products, sign up for an account, and connect with the world&#x27;s largest development community.",
+      "headings": {
+        "h1": [
+          "Get started with GitHub documentation"
+        ],
+        "h2": [
+          "Get started",
+          "Recommended",
+          "Articles",
+          "Help and support"
+        ],
+        "h3": [
+          "Start your journey",
+          "Learn to code with GitHub Copilot",
+          "Set up Git",
+          "About Git",
+          "About Git rebase",
+          "About Git subtree merges",
+          "About GitHub Advanced Security",
+          "About GitHub Certifications",
+          "About remote repositories",
+          "About saved replies",
+          "About tasklists",
+          "About versions of GitHub Docs",
+          "Was this Doc helpful?",
+          "Help us make GitHub Docs great!",
+          "Still need help?"
+        ]
+      },
+      "mainText": "Get started with GitHub documentation\n\nLearn how to start building, shipping, and maintaining software with GitHub. Explore our products, sign up for an account, and connect with the world&#x27;s largest development community.\n\nBrand new to GitHub? Learn the basics here.\n\nLearn to code with GitHub Copilot\n\nLearn how GitHub and Copilot can help you build programming skills, write better code, and ship secure projects.\n\nAt the heart of GitHub is an open-source version control system (VCS) called Git. Git is responsible for everything GitHub-related that happens locally on your computer.\n\nLearn about the version control system, Git, and how it works with GitHub.\n\nThe git rebase command allows you to easily change a series of commits, modifying the history of your repository. You can reorder, edit, or squash commits together.\n\nAbout Git subtree merges\n\nIf you need to manage multiple projects within a single repository, you can use a subtree merge to handle all the references.\n\nAbout GitHub Advanced Security\n\nGitHub makes extra security features available to customers who purchase GitHub Code Security or GitHub Secret Protection. Some features are enabled for public repositories by default.\n\nAbout GitHub Certifications\n\nEarn a GitHub Certification to showcase your expertise in GitHub technologies and workflows.\n\nAbout remote repositories\n\nGitHub&#x27;s collaborative approach to development depends on publishing commits from your local repository to GitHub for other people to view, fetch, and update.\n\nYou can use a saved reply to respond to an issue or pull request.\n\nYou can use tasklists to break the work for an issue or pull request into smaller tasks, then track the full set of work to completion.\n\nAbout versions of GitHub Docs\n\nYou can read documentation that reflects the GitHub product you&#x27;re currently using.",
+      "language": "en",
+      "category": "Programming",
+      "categoryConfidence": 0.77,
+      "categorySignals": [
+        "domain:github.com",
+        "title:github",
+        "heading:code",
+        "heading:github",
+        "heading:git",
+        "desc:github",
+        "body:code(3)",
+        "body:repository(3)",
+        "body:github(18)",
+        "body:git(5)"
+      ],
+      "contentLengthBytes": 252578,
+      "wordCount": 285,
+      "statusCode": 200,
+      "fetchTimeMs": 1232,
+      "processedAt": "2026-09-24T07:10:33.654Z",
+      "chunkId": "chunk-012",
+      "retryCount": 0
+    },
+    {
+      "id": "doc-docs_github_com-pfezfh",
+      "url": "https://docs.github.com/en/actions",
+      "canonicalUrl": "https://docs.github.com/en/actions",
+      "domain": "docs.github.com",
+      "title": "GitHub Actions documentation - GitHub Docs",
+      "description": "Automate, customize, and execute your software development workflows right in your repository with GitHub Actions. You can discover, create, and share actions to perform any job you&#x27;d like, including CI/CD, and combine actions in a completely customized workflow.",
+      "headings": {
+        "h1": [
+          "GitHub Actions documentation"
+        ],
+        "h2": [
+          "GitHub Actions",
+          "Recommended",
+          "Articles",
+          "Help and support"
+        ],
+        "h3": [
+          "Quickstart for GitHub Actions",
+          "Understanding GitHub Actions",
+          "Using GitHub-hosted runners",
+          "About Actions policies",
+          "About custom actions",
+          "About GitHub Actions metrics",
+          "Actions limits",
+          "Actions Runner Controller",
+          "Adding a workflow status badge",
+          "Adding labels to issues",
+          "Adding scripts to your workflow",
+          "Adding self-hosted runners",
+          "Was this Doc helpful?",
+          "Help us make GitHub Docs great!",
+          "Still need help?"
+        ]
+      },
+      "mainText": "GitHub Actions documentation\n\nAutomate, customize, and execute your software development workflows right in your repository with GitHub Actions. You can discover, create, and share actions to perform any job you&#x27;d like, including CI/CD, and combine actions in a completely customized workflow.\n\nQuickstart for GitHub Actions\n\nTry out the core features of GitHub Actions in minutes.\n\nUnderstanding GitHub Actions\n\nLearn the basics of core concepts and essential terminology in GitHub Actions.\n\nUsing GitHub-hosted runners\n\nYou can assign a job to run on a virtual machine hosted by GitHub.\n\nAbout Actions policies\n\nGovern how GitHub Actions workflows run within your repository, organization, or enterprise.\n\nActions are individual tasks that you can combine to create jobs and customize your workflow. You can create your own actions, or use and customize actions shared by the GitHub community.\n\nAbout GitHub Actions metrics\n\nLearn about the GitHub Actions metrics available for your organizations and repositories.\n\nThere are limits in GitHub Actions which you may hit as you scale up, some may be increased by contacting support.\n\nActions Runner Controller\n\nYou can host your own runners and customize the environment used to run jobs in your GitHub Actions workflows.\n\nAdding a workflow status badge\n\nYou can display a status badge in your repository to indicate the status of your workflows.\n\nAdding labels to issues\n\nYou can use GitHub Actions to automatically label issues.\n\nAdding scripts to your workflow\n\nYou can use GitHub Actions workflows to run scripts.\n\nAdding self-hosted runners\n\nYou can add a self-hosted runner to a repository, an organization, or an enterprise.",
+      "language": "en",
+      "category": "Programming",
+      "categoryConfidence": 0.76,
+      "categorySignals": [
+        "domain:github.com",
+        "title:github",
+        "heading:github",
+        "desc:repository",
+        "desc:github",
+        "body:repository(4)",
+        "body:github(15)"
+      ],
+      "contentLengthBytes": 432047,
+      "wordCount": 257,
+      "statusCode": 200,
+      "fetchTimeMs": 1651,
+      "processedAt": "2026-09-24T07:10:35.315Z",
+      "chunkId": "chunk-012",
+      "retryCount": 0
+    },
+    {
+      "id": "doc-docs_github_com-ng5jqt",
+      "url": "https://docs.github.com/en/repositories",
+      "canonicalUrl": "https://docs.github.com/en/repositories",
+      "domain": "docs.github.com",
+      "title": "Repositories documentation - GitHub Docs",
+      "description": "Learn to use and manage the repositories that allow you to store and collaborate on your project&#x27;s code.",
+      "headings": {
+        "h1": [
+          "Repositories documentation"
+        ],
+        "h2": [
+          "Repositories",
+          "Recommended",
+          "Articles",
+          "Help and support"
+        ],
+        "h3": [
+          "Quickstart for repositories",
+          "About repositories",
+          "Best practices for repositories",
+          "About archiving content and data on GitHub",
+          "About CITATION files",
+          "About code owners",
+          "About email notifications for pushes to your repository",
+          "About Git Large File Storage",
+          "About large files on GitHub",
+          "About merge methods on GitHub",
+          "About protected branches",
+          "About releases",
+          "Was this Doc helpful?",
+          "Help us make GitHub Docs great!",
+          "Still need help?"
+        ]
+      },
+      "mainText": "Repositories documentation\n\nLearn to use and manage the repositories that allow you to store and collaborate on your project&#x27;s code.\n\nQuickstart for repositories\n\nLearn how to create a new repository and commit your first change in 5 minutes.\n\nA repository contains all of your code, your files, and each file&#x27;s revision history. You can discuss and manage your work within the repository.\n\nBest practices for repositories\n\nLearn how to use repositories effectively and securely.\n\nAbout archiving content and data on GitHub\n\nYou can archive content and data for other people to view and reference.\n\nYou can add a CITATION file to your repository to help users correctly cite your software.\n\nYou can use a CODEOWNERS file to define individuals or teams that are responsible for code in a repository.\n\nAbout email notifications for pushes to your repository\n\nYou can choose to automatically send email notifications to a specific email address when anyone pushes to the repository.\n\nAbout Git Large File Storage\n\nGitHub limits the size of files allowed in repositories. To track files beyond this limit, you can use Git Large File Storage.\n\nAbout large files on GitHub\n\nGitHub limits the size of files you can track in regular Git repositories. Learn how to track or remove files that are beyond the limit.\n\nAbout merge methods on GitHub\n\nYou can allow contributors with push access to your repository to merge their pull requests with different merge options or enforce a specific merge method for all of your repository&#x27;s pull requests.\n\nAbout protected branches\n\nYou can protect important branches by setting branch protection rules, which define whether collaborators can delete or force push to the branch and set requirements for any pushes to the branch, such as passing status checks or a linear commit history.\n\nYou can create a release to package software, along with release notes and links to binary files, for other people to use.",
+      "language": "en",
+      "category": "Programming",
+      "categoryConfidence": 0.81,
+      "categorySignals": [
+        "domain:github.com",
+        "url_pattern:\\/repo",
+        "title:github",
+        "heading:code",
+        "heading:repository",
+        "heading:github",
+        "heading:git",
+        "desc:code",
+        "body:code(3)",
+        "body:repository(9)"
+      ],
+      "contentLengthBytes": 285755,
+      "wordCount": 316,
+      "statusCode": 200,
+      "fetchTimeMs": 1514,
+      "processedAt": "2026-09-24T07:10:36.841Z",
+      "chunkId": "chunk-012",
+      "retryCount": 0
+    }
+  ]
+}

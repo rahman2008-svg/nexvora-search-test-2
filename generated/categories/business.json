@@ -1,18 +1,54 @@
 {
   "category": "Business",
-  "documentCount": 1,
-  "updatedAt": "2026-09-24T05:08:13.935Z",
+  "documentCount": 5,
+  "updatedAt": "2026-09-24T07:15:44.872Z",
   "documentIds": [
-    "doc-bloomberg_com-z2mmfe"
+    "doc-mariadb_com-7g45ik",
+    "doc-wri_org-6vmp0f",
+    "doc-investopedia_com-5ymu4a",
+    "doc-bea_gov-nggaak",
+    "doc-census_gov-4yrg1m"
   ],
   "items": [
     {
-      "id": "doc-bloomberg_com-z2mmfe",
-      "title": "Global Stock Markets Rally Following Quarterly Earnings and Rate Forecast – Bloomberg",
-      "canonicalUrl": "https://www.bloomberg.com/news/articles/global-markets-rally",
-      "domain": "bloomberg.com",
-      "description": "Financial markets surge as corporate enterprise earnings beat quarterly expectations and central bank inflation forecasts indicate monetary easing.",
-      "confidence": 0.77
+      "id": "doc-mariadb_com-7g45ik",
+      "title": "MariaDB Documentation",
+      "canonicalUrl": "https://mariadb.com/docs",
+      "domain": "mariadb.com",
+      "description": "Comprehensive documentation, release notes and learning resources for all MariaDB products.",
+      "confidence": 0.29
+    },
+    {
+      "id": "doc-wri_org-6vmp0f",
+      "title": "World Resources Institute - Research for People & Planet",
+      "canonicalUrl": "https://www.wri.org/",
+      "domain": "wri.org",
+      "description": "WRI is a global research organization working to improve people’s lives, protect nature and halt climate change.",
+      "confidence": 0.39
+    },
+    {
+      "id": "doc-investopedia_com-5ymu4a",
+      "title": "Investopedia",
+      "canonicalUrl": "https://www.investopedia.com/",
+      "domain": "investopedia.com",
+      "description": "Investopedia is the world's leading source of financial content on the web, ranging from market news to retirement strategies, investing education to insights from advisors.",
+      "confidence": 0.52
+    },
+    {
+      "id": "doc-bea_gov-nggaak",
+      "title": "U.S. Bureau of Economic Analysis (BEA)",
+      "canonicalUrl": "https://www.bea.gov/",
+      "domain": "bea.gov",
+      "description": "U.S. Bureau of Economic Analysis (BEA) Skip to main content Bureau of Economic Analysis\n\nU.S. International Trade in Goods and Services, July 2026\n\nThe U.S. goods and services trade deficit increased ...",
+      "confidence": 0.78
+    },
+    {
+      "id": "doc-census_gov-4yrg1m",
+      "title": "U.S. Census Bureau Economic Indicators",
+      "canonicalUrl": "https://www.census.gov/economic-indicators",
+      "domain": "census.gov",
+      "description": "The U.S. Census Bureau",
+      "confidence": 0.35
     }
   ]
 }

@@ -1,0 +1,268 @@
+{
+  "chunkId": "chunk-008",
+  "filename": "chunk-008.json",
+  "documentCount": 6,
+  "totalBytes": 358629,
+  "createdAt": "2026-09-24T07:15:54.831Z",
+  "documents": [
+    {
+      "id": "doc-esbuild_github_io-v54mgn",
+      "url": "https://esbuild.github.io/",
+      "canonicalUrl": "https://esbuild.github.io/",
+      "domain": "esbuild.github.io",
+      "title": "esbuild - An extremely fast bundler for the web",
+      "description": "An extremely fast bundler for the web\n\nOur current build tools for the web are 10-100x slower than they could be. The main goal of the esbuild bundler project is to bring about a new era of build tool...",
+      "headings": {
+        "h1": [
+          "esbuild"
+        ],
+        "h2": [],
+        "h3": []
+      },
+      "mainText": "An extremely fast bundler for the web\n\nOur current build tools for the web are 10-100x slower than they could be. The main goal of the esbuild bundler project is to bring about a new era of build tool performance, and create an easy-to-use modern bundler along the way.\n\nExtreme speed without needing a cache\n\nJavaScript , CSS , TypeScript , and JSX built-in\n\nA straightforward API for CLI, JS, and Go\n\nBundles ESM and CommonJS modules\n\nBundles CSS including CSS modules\n\nTree shaking, minification , and source maps\n\nLocal server , watch mode , and plugins\n\nCheck out the getting started instructions if you want to give esbuild a try.",
+      "language": "en",
+      "category": "Programming",
+      "categoryConfidence": 0.58,
+      "categorySignals": [
+        "title:bundler",
+        "desc:bundler",
+        "body:bundler(3)"
+      ],
+      "contentLengthBytes": 23521,
+      "wordCount": 111,
+      "statusCode": 200,
+      "fetchTimeMs": 343,
+      "processedAt": "2026-09-24T07:09:37.297Z",
+      "chunkId": "chunk-008",
+      "retryCount": 0
+    },
+    {
+      "id": "doc-babeljs_io-m7or8r",
+      "url": "https://babeljs.io/docs/",
+      "canonicalUrl": "https://babeljs.io/docs",
+      "domain": "babeljs.io",
+      "title": "What is Babel? · Babel",
+      "description": "Guides What is Babel? On this page What is Babel?\n\nBabel is a JavaScript compiler ​\n\nBabel is a toolchain that is mainly used to convert ECMAScript 2015+ code into a backwards compatible version of Ja...",
+      "headings": {
+        "h1": [
+          "What is Babel?"
+        ],
+        "h2": [
+          "Babel is a JavaScript compiler ​",
+          "ES2015 and beyond ​",
+          "JSX and React ​",
+          "Type Annotations (Flow and TypeScript) ​",
+          "Pluggable ​",
+          "Debuggable ​",
+          "Spec Compliant ​",
+          "Compact ​"
+        ],
+        "h3": []
+      },
+      "mainText": "Guides What is Babel? On this page What is Babel?\n\nBabel is a JavaScript compiler ​\n\nBabel is a toolchain that is mainly used to convert ECMAScript 2015+ code into a backwards compatible version of JavaScript in current and older browsers or environments. Here are the main things Babel can do for you:\n\nPolyfill features that are missing in your target environment (through a third-party polyfill such as core-js )\n\nSource code transformations (codemods)\n\nAnd more! (check out these videos for inspiration)\n\n// Babel Input: ES2015 arrow function [ 1 , 2 , 3 ] . map ( n => n + 1 ) ; // Babel Output: ES5 equivalent [ 1 , 2 , 3 ] . map ( function ( n ) { return n + 1 ; } ) ; tip For an awesome tutorial on compilers, check out the-super-tiny-compiler , which also explains how Babel itself works on a high level. ES2015 and beyond ​\n\nBabel has support for the latest version of JavaScript through syntax transformers.\n\nThese plugins allow you to use new syntax, right now without waiting for browser support. Check out our usage guide to get started.\n\nBabel can convert JSX syntax! Check out our React preset to get started. Use it together with the babel-sublime package to bring syntax highlighting to a whole new level.\n\nYou can install this preset with\n\nnpm Yarn pnpm Bun npm install --save-dev @babel/preset-react yarn add --dev @babel/preset-react pnpm add --save-dev @babel/preset-react bun add --dev @babel/preset-react and add @babel/preset-react to your Babel configuration.\n\nexport default function DiceRoll ( ) { const getRandomNumber = ( ) => { return Math . ceil ( Math . random ( ) * 6 ) ; } ; const [ num , setNum ] = useState ( getRandomNumber ( ) ) ; const handleClick = ( ) => { const newNum = getRandomNumber ( ) ; setNum ( newNum ) ; } ; return ( < div > Your dice roll: { num } . < button onClick = { handleClick } > Click to get a new number </ button > </ div > ) ; } ; tip Learn more about JSX Type Annotations (Flow and TypeScript) ​\n\nBabel can strip out type annotations! Check out either our Flow preset or TypeScript preset to get started. Keep in mind that Babel doesn't do type checking ; you'll still have to install and use Flow or TypeScript to check types.\n\nYou can install the flow preset with\n\nnpm Yarn pnpm Bun npm install --save-dev @babel/preset-flow yarn add --dev @babel/preset-flow pnpm add --save-dev @babel/preset-flow bun add --dev @babel/preset-flow JavaScript // @flow function square ( n : number ) : number { return n * n ; } or the typescript preset with\n\nnpm Yarn pnpm Bun npm install --save-dev @babel/preset-typescript yarn add --dev @babel/preset-typescript pnpm add --save-dev @babel/preset-typescript bun add --dev @babel/preset-typescript JavaScript function Greeter ( greeting : string ) { this . greeting = greeting ; } tip Learn more about Flow and TypeScript ! Pluggable ​\n\nBabel is built out of plugins . Compose your own transformation pipeline using existing plugins or write your own. Easily use a set of plugins by using or creating a preset .\n\nCreate a plugin on the fly with astexplorer.net or use generator-babel-plugin to generate a plugin template.\n\n// A plugin is just a function export default function ( { types : t } ) { return { visitor : { Identifier ( path ) { let name = path . node . name ; // reverse the name: JavaScript -> tpircSavaJ path . node . name = [ ... name ] . reverse ( ) . join ( \"\" ) ; } , } , } ; } Debuggable ​\n\nSource map support so you can debug your compiled code with ease.\n\nBabel tries to stay true to the ECMAScript standard, as much as reasonably possible. It may also have specific options to be more spec compliant as a tradeoff to performance.\n\nBabel tries using the least amount of code possible with no dependence on a bulky runtime.",
+      "language": "en",
+      "category": "Programming",
+      "categoryConfidence": 0.87,
+      "categorySignals": [
+        "heading:typescript",
+        "heading:javascript",
+        "heading:react",
+        "heading:compiler",
+        "desc:code",
+        "desc:javascript",
+        "desc:compiler",
+        "body:code(4)",
+        "body:typescript(5)",
+        "body:javascript(6)"
+      ],
+      "contentLengthBytes": 56281,
+      "wordCount": 685,
+      "statusCode": 200,
+      "fetchTimeMs": 978,
+      "processedAt": "2026-09-24T07:09:38.284Z",
+      "chunkId": "chunk-008",
+      "retryCount": 0
+    },
+    {
+      "id": "doc-eslint_org-nwr8cu",
+      "url": "https://eslint.org/docs/latest/",
+      "canonicalUrl": "https://eslint.org/docs/latest/",
+      "domain": "eslint.org",
+      "title": "Documentation - ESLint - Pluggable JavaScript Linter",
+      "description": "A pluggable and configurable linter tool for identifying and reporting on patterns in JavaScript. Maintain your code quality with ease.",
+      "headings": {
+        "h1": [
+          "Documentation"
+        ],
+        "h2": [
+          "Table of Contents",
+          "Use ESLint in Your Project",
+          "Extend ESLint",
+          "Integrate ESLint",
+          "Contribute to ESLint",
+          "Maintain ESLint",
+          "Social Media",
+          "Theme Switcher"
+        ],
+        "h3": []
+      },
+      "mainText": "Use ESLint in Your Project\n\nWelcome to our documentation pages! What would you like to view?\n\nUse ESLint in Your Project\n\nIntended for end users of ESLint. Contains information about core rules, configuration, command line options, formatters, and integrations, as well as guides for migrating from earlier versions of ESLint.\n\nIntended for people who wish to extend ESLint. Contains information about creating custom rules, configurations, plugins, and formatters.\n\nIntended for people who wish to create integrations with ESLint. Contains information about creating integrations and using the Node.js API.\n\nIntended for people who wish to contribute to the ESLint project. Contains information about ways you can contribute, the project structure, and setting up the development environment.\n\nIntended for maintainers of ESLint.",
+      "language": "en",
+      "category": "Programming",
+      "categoryConfidence": 0.6,
+      "categorySignals": [
+        "url_pattern:\\/docs\\/",
+        "title:javascript",
+        "desc:code",
+        "desc:javascript"
+      ],
+      "contentLengthBytes": 72638,
+      "wordCount": 120,
+      "statusCode": 200,
+      "fetchTimeMs": 847,
+      "processedAt": "2026-09-24T07:09:39.142Z",
+      "chunkId": "chunk-008",
+      "retryCount": 0
+    },
+    {
+      "id": "doc-prettier_io-l8hbqy",
+      "url": "https://prettier.io/docs/",
+      "canonicalUrl": "https://prettier.io/docs",
+      "domain": "prettier.io",
+      "title": "What is Prettier? · Prettier",
+      "description": "Prettier is an opinionated code formatter with support for:\n\nJavaScript (including experimental features)\n\nMarkdown , including GFM and MDX v1\n\nLightning Web Components (LWC)\n\nIt removes all original ...",
+      "headings": {
+        "h1": [
+          "What is Prettier?"
+        ],
+        "h2": [],
+        "h3": []
+      },
+      "mainText": "Prettier is an opinionated code formatter with support for:\n\nJavaScript (including experimental features)\n\nMarkdown , including GFM and MDX v1\n\nLightning Web Components (LWC)\n\nIt removes all original styling * and ensures that all outputted code conforms to a consistent style. (See this blog post )\n\nPrettier takes your code and reprints it from scratch by taking the line length into account.\n\nFor example, take the following code:\n\nfoo ( arg1 , arg2 , arg3 , arg4 ) ; It fits in a single line so it’s going to stay as is. However, we've all run into this situation:\n\nfoo ( reallyLongArg ( ) , omgSoManyParameters ( ) , IShouldRefactorThis ( ) , isThereSeriouslyAnotherOne ( ) ) ; Suddenly our previous format for calling function breaks down because this is too long. Prettier is going to do the painstaking work of reprinting it like that for you:\n\nfoo ( reallyLongArg ( ) , omgSoManyParameters ( ) , IShouldRefactorThis ( ) , isThereSeriouslyAnotherOne ( ) , ) ; Prettier enforces a consistent code style (i.e. code formatting that won’t affect the AST) across your entire codebase because it disregards the original styling * by parsing it away and re-printing the parsed AST with its own rules that take the maximum line length into account, wrapping code when necessary.\n\nIf you want to learn more, these two conference talks are great introductions:",
+      "language": "en",
+      "category": "Programming",
+      "categoryConfidence": 0.66,
+      "categorySignals": [
+        "desc:code",
+        "desc:javascript",
+        "body:code(7)"
+      ],
+      "contentLengthBytes": 29365,
+      "wordCount": 230,
+      "statusCode": 200,
+      "fetchTimeMs": 1072,
+      "processedAt": "2026-09-24T07:09:40.219Z",
+      "chunkId": "chunk-008",
+      "retryCount": 0
+    },
+    {
+      "id": "doc-jestjs_io-fbwgmq",
+      "url": "https://jestjs.io/docs/getting-started",
+      "canonicalUrl": "https://jestjs.io/docs/getting-started",
+      "domain": "jestjs.io",
+      "title": "Getting Started · Jest",
+      "description": "Install Jest using your favorite package manager:",
+      "headings": {
+        "h1": [
+          "Getting Started"
+        ],
+        "h2": [
+          "Running from command line ​",
+          "Additional Configuration ​",
+          "Using with bundlers ​"
+        ],
+        "h3": [
+          "Generate a basic configuration file ​",
+          "Using Babel ​",
+          "Using webpack ​",
+          "Using Vite ​",
+          "Using Parcel ​",
+          "Using TypeScript ​",
+          "Using ESLint ​"
+        ]
+      },
+      "mainText": "Install Jest using your favorite package manager:\n\nnpm install --save-dev jest yarn add --dev jest pnpm add --save-dev jest bun add --dev jest Let&#x27;s get started by writing a test for a hypothetical function that adds two numbers. First, create a sum.js file:\n\nfunction sum ( a , b ) { return a + b ; } module . exports = sum ; Then, create a file named sum.test.js . This will contain our actual test:\n\nconst sum = require ( &#x27;./sum&#x27; ) ; test ( &#x27;adds 1 + 2 to equal 3&#x27; , ( ) => { expect ( sum ( 1 , 2 ) ) . toBe ( 3 ) ; } ) ; Add the following section to your package.json :\n\n{ \"scripts\" : { \"test\" : \"jest\" } } Finally, run yarn test or npm test and Jest will print this message:\n\nPASS ./sum.test.js ✓ adds 1 + 2 to equal 3 ( 5ms ) You just successfully wrote your first test using Jest!\n\nThis test used expect and toBe to test that two values were exactly identical. To learn about the other things that Jest can test, see Using Matchers .\n\nRunning from command line ​\n\nYou can run Jest directly from the CLI (if it&#x27;s globally available in your PATH , e.g. by yarn global add jest or npm install jest --global ) with a variety of useful options.\n\nHere&#x27;s how to run Jest on files matching my-test , using config.json as a configuration file and display a native OS notification after the run:\n\njest my-test --notify --config = config.json If you&#x27;d like to learn more about running jest through the command line, take a look at the Jest CLI Options page.\n\nAdditional Configuration ​\n\nGenerate a basic configuration file ​\n\nBased on your project, Jest will ask you a few questions and will create a basic configuration file with a short description for each option:\n\nnpm init jest@latest yarn create jest pnpm create jest bunx create-jest Using Babel ​\n\nTo use Babel , install required dependencies:\n\nnpm install --save-dev babel-jest @babel/core @babel/preset-env yarn add --dev babel-jest @babel/core @babel/preset-env pnpm add --save-dev babel-jest @babel/core @babel/preset-env bun add --dev babel-jest @babel/core @babel/preset-env Configure Babel to target your current version of Node by creating a babel.config.js file in the root of your project:\n\nmodule . exports = { presets : [ [ &#x27;@babel/preset-env&#x27; , { targets : { node : &#x27;current&#x27; } } ] ] , } ; The ideal configuration for Babel will depend on your project. See Babel&#x27;s docs for more details.\n\nJest will set process.env.NODE_ENV to &#x27;test&#x27; if it&#x27;s not set to something else. You can use that in your configuration to conditionally setup only the compilation needed for Jest, e.g.\n\nmodule . exports = api => { const isTest = api . env ( &#x27;test&#x27; ) ; // You can use isTest to determine what presets and plugins to use. return { // ... } ; } ; note babel-jest is automatically installed when installing Jest and will automatically transform files if a babel configuration exists in your project. To avoid this behavior, you can explicitly reset the transform configuration option:\n\nmodule . exports = { transform : { } , } ; Using with bundlers ​\n\nMost of the time you do not need to do anything special to work with different bundlers - the exception is if you have some plugin or configuration which generates files or have custom file resolution rules.\n\nJest can be used in projects that use webpack to manage assets, styles, and compilation. webpack does offer some unique challenges over other tools. Refer to the webpack guide to get started.\n\nJest is not supported by Vite due to incompatibilities with the Vite plugin system .\n\nThere are examples for Jest integration with Vite in the vite-jest library. However, this library is not compatible with versions of Vite later than 2.4.2.\n\nOne alternative is Vitest which has an API that is compatible with Jest.\n\nJest can be used in projects that use parcel-bundler to manage assets, styles, and compilation similar to webpack. Parcel requires zero configuration. Refer to the official docs to get started.\n\nJest supports TypeScript, via Babel. First, make sure you followed the instructions on using Babel above. Next, install the @babel/preset-typescript :\n\nnpm install --save-dev @babel/preset-typescript yarn add --dev @babel/preset-typescript pnpm add --save-dev @babel/preset-typescript bun add --dev @babel/preset-typescript Then add @babel/preset-typescript to the list of presets in your babel.config.js .\n\nmodule . exports = { presets : [ [ &#x27;@babel/preset-env&#x27; , { targets : { node : &#x27;current&#x27; } } ] , &#x27;@babel/preset-typescript&#x27; , ] , } ; However, there are some caveats to using TypeScript with Babel. Because TypeScript support in Babel is purely transpilation, Jest will not type-check your tests as they are run. If you want that, you can use ts-jest instead, or just run the TypeScript compiler tsc separately (or as part of your build process).\n\nts-jest is a TypeScript preprocessor with source map support for Jest that lets you use Jest to test projects written in TypeScript.\n\nnpm install --save-dev ts-jest yarn add --dev ts-jest pnpm add --save-dev ts-jest bun add --dev ts-jest In order for Jest to transpile TypeScript with ts-jest , you may also need to create a configuration file.\n\nThere are two ways to have Jest global APIs typed for test files written in TypeScript.\n\nYou can use type definitions which ships with Jest and will update each time you update Jest. Install the @jest/globals package:\n\nnpm install --save-dev @jest/globals yarn add --dev @jest/globals pnpm add --save-dev @jest/globals bun add --dev @jest/globals And import the APIs from it:\n\nimport { describe , expect , test } from &#x27;@jest/globals&#x27; ; import { sum } from &#x27;./sum&#x27; ; describe ( &#x27;sum module&#x27; , ( ) => { test ( &#x27;adds 1 + 2 to equal 3&#x27; , ( ) => { expect ( sum ( 1 , 2 ) ) . toBe ( 3 ) ; } ) ; } ) ; tip See the additional usage documentation of describe.each / test.each and mock functions .\n\nOr you may choose to install the @types/jest package. It provides types for Jest globals without a need to import them.\n\nnpm install --save-dev @types/jest yarn add --dev @types/jest pnpm add --save-dev @types/jest bun add --dev @types/jest info @types/jest is a third party library maintained at DefinitelyTyped , hence the latest Jest features or versions may not be covered yet. Try to match versions of Jest and @types/jest as closely as possible. For example, if you are using Jest 27.4.0 then installing 27.4.x of @types/jest is ideal.\n\nJest can be used with ESLint without any further configuration as long as you import the Jest global helpers ( describe , it , etc.) from @jest/globals before using them in your test file. This is necessary to avoid no-undef errors from ESLint, which doesn&#x27;t know about the Jest globals.\n\nIf you&#x27;d like to avoid these imports, you can configure your ESLint environment to support these globals by adding the jest environment:\n\nimport { defineConfig } from &#x27;eslint/config&#x27; ; import globals from &#x27;globals&#x27; ; export default defineConfig ( [ { files : [ &#x27;**/*.js&#x27; ] , languageOptions : { globals : { ... globals . jest , } , } , rules : { &#x27;no-unused-vars&#x27; : &#x27;warn&#x27; , &#x27;no-undef&#x27; : &#x27;warn&#x27; , } , } , ] ) ; Or use eslint-plugin-jest , which has a similar effect:\n\n{ \"overrides\" : [ { \"files\" : [ \"tests/**/*\" ] , \"plugins\" : [ \"jest\" ] , \"env\" : { \"jest/globals\" : true } } ] } Edit this page Last updated on Aug 28, 2026 by Simen Bekkhus Next Using Matchers Running from command line\n\nAdditional Configuration Generate a basic configuration file\n\nUsing with bundlers Using webpack",
+      "language": "en",
+      "category": "Programming",
+      "categoryConfidence": 0.86,
+      "categorySignals": [
+        "url_pattern:\\/docs\\/",
+        "heading:typescript",
+        "heading:vite",
+        "desc:package",
+        "body:typescript(8)",
+        "body:function(2)",
+        "body:npm(9)",
+        "body:vite(4)",
+        "body:library(3)",
+        "body:api(3)"
+      ],
+      "contentLengthBytes": 101580,
+      "wordCount": 1301,
+      "statusCode": 200,
+      "fetchTimeMs": 694,
+      "processedAt": "2026-09-24T07:09:40.923Z",
+      "chunkId": "chunk-008",
+      "retryCount": 0
+    },
+    {
+      "id": "doc-vitest_dev-zaqea9",
+      "url": "https://vitest.dev/guide/",
+      "canonicalUrl": "https://vitest.dev/guide",
+      "domain": "vitest.dev",
+      "title": "Getting Started | Guide | Vitest",
+      "description": "Next generation testing framework powered by Vite",
+      "headings": {
+        "h1": [
+          "Getting Started ​"
+        ],
+        "h2": [
+          "Introduction",
+          "Learn",
+          "Browser Mode",
+          "Authoring",
+          "Workflow",
+          "Quality & Debugging",
+          "Recipes",
+          "Advanced",
+          "Migration",
+          "Overview ​",
+          "Trying Vitest Online ​",
+          "Adding Vitest to Your Project ​",
+          "Writing Tests ​",
+          "Configuring Vitest ​",
+          "IDE Integrations ​",
+          "Examples ​",
+          "Community ​"
+        ],
+        "h3": [
+          "Mocking",
+          "Performance"
+        ]
+      },
+      "mainText": "Vitest (pronounced as \"veetest\" ) is a next generation testing framework powered by Vite.\n\nYou can learn more about the rationale behind the project in the Why Vitest section.\n\nTrying Vitest Online ​\n\nYou can try Vitest online on StackBlitz . It runs Vitest directly in the browser, and it is almost identical to the local setup but doesn't require installing anything on your machine.\n\nAdding Vitest to Your Project ​\n\nnpm install -D vitest bash yarn add -D vitest vite bash pnpm add -D vitest bash bun add -D vitest bash deno add -D vitest TIP\n\nVitest requires Vite >=v6.4.0 and Node >=v22.12.0\n\nIt is recommended that you install a copy of vitest in your package.json , using one of the methods listed above. However, if you would prefer to run vitest directly, you can use npx vitest (the npx tool comes with npm and Node.js).\n\nThe npx tool will execute the specified command. By default, npx will first check if the command exists in the local project's binaries. If it is not found there, npx will look in the system's $PATH and execute it if found. If the command is not found in either location, npx will install it in a temporary location prior to execution.\n\nVitest and third party integrations can use .vitest directory to store generated artifacts. It's recommended to add this in your .gitignore .\n\n# Vitest reports and artifacts .vitest/ Writing Tests ​\n\nAs an example, we will write a simple test that verifies the output of a function that adds two numbers.\n\nexport function sum ( a , b ) { return a + b } sum.test.js import { expect, test } from 'vitest' import { sum } from './sum.js' test ( 'adds 1 + 2 to equal 3' , () => { expect ( sum ( 1 , 2 )). toBe ( 3 ) }) TIP\n\nBy default, tests must contain .test. or .spec. in their file name.\n\nNext, in order to execute the test, add the following section to your package.json :\n\n{ \"scripts\" : { \"test\" : \"vitest\" } } Finally, run npm run test , yarn test or pnpm test , depending on your package manager, and Vitest will print this message:\n\n✓ sum.test.js (1) ✓ adds 1 + 2 to equal 3 Test Files 1 passed (1) Tests 1 passed (1) Start at 02:15:44 Duration 311ms WARNING\n\nIf you are using Bun as your package manager, make sure to use bun run test command instead of bun test , otherwise Bun will run its own test runner.\n\nYour first test is passing! Continue to Writing Tests to learn about organizing tests, reading test output, and the core testing patterns you'll use every day.\n\nTo run tests once without watching for file changes, use vitest run . You can also pass additional flags like --reporter or --coverage . For a full list of CLI options, run npx vitest --help or see the CLI guide .\n\nVitest reads your vite.config.* by default, so your existing Vite plugins and configuration work out-of-the-box. You can also create a dedicated vitest.config.* for test-specific settings. See the Config Reference for details.\n\nWe also provided an official extension for Visual Studio Code to enhance your testing experience with Vitest.\n\nInstall from VS Code Marketplace\n\nLearn more about IDE Integrations\n\nIf you have questions or need help, reach out to the community at Discord and GitHub Discussions .",
+      "language": "en",
+      "category": "Programming",
+      "categoryConfidence": 0.69,
+      "categorySignals": [
+        "heading:debugging",
+        "desc:vite",
+        "desc:framework",
+        "body:code(2)",
+        "body:function(2)",
+        "body:npm(3)",
+        "body:vite(5)",
+        "body:json(2)",
+        "body:package(4)",
+        "body:bun(5)"
+      ],
+      "contentLengthBytes": 75244,
+      "wordCount": 572,
+      "statusCode": 200,
+      "fetchTimeMs": 1485,
+      "processedAt": "2026-09-24T07:09:42.418Z",
+      "chunkId": "chunk-008",
+      "retryCount": 0
+    }
+  ]
+}

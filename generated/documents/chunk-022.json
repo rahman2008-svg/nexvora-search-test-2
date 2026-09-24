@@ -1,0 +1,257 @@
+{
+  "chunkId": "chunk-022",
+  "filename": "chunk-022.json",
+  "documentCount": 6,
+  "totalBytes": 3687406,
+  "createdAt": "2026-09-24T07:15:54.831Z",
+  "documents": [
+    {
+      "id": "doc-sqlite_org-f6dlt5",
+      "url": "https://www.sqlite.org/docs.html",
+      "canonicalUrl": "https://www.sqlite.org/docs.html",
+      "domain": "sqlite.org",
+      "title": "SQLite Documentation",
+      "description": "SQLite Documentation Small. Fast. Reliable. Choose any three. Home Menu About Documentation Download License Support Purchase Search About Documentation Download Support Purchase Search Documentation ...",
+      "headings": {
+        "h1": [],
+        "h2": [],
+        "h3": [
+          "Common Links"
+        ]
+      },
+      "mainText": "SQLite Documentation Small. Fast. Reliable. Choose any three. Home Menu About Documentation Download License Support Purchase Search About Documentation Download Support Purchase Search Documentation Search Changelog Common Links\n\nSQL Syntax Pragmas SQL functions Date & time functions Aggregate functions Window functions Math functions JSON functions\n\nC/C++ Interface Spec Introduction List of C-language APIs\n\nThe TCL Interface Spec Quirks and Gotchas\n\nFrequently Asked Questions",
+      "language": "en",
+      "category": "Technology",
+      "categoryConfidence": 0.61,
+      "categorySignals": [
+        "domain:sqlite.org",
+        "title:sqlite",
+        "desc:sqlite",
+        "body:sql(2)"
+      ],
+      "contentLengthBytes": 34488,
+      "wordCount": 63,
+      "statusCode": 200,
+      "fetchTimeMs": 1826,
+      "processedAt": "2026-09-24T07:12:07.524Z",
+      "chunkId": "chunk-022",
+      "retryCount": 0
+    },
+    {
+      "id": "doc-mongodb_com-ic7j2k",
+      "url": "https://www.mongodb.com/docs/",
+      "canonicalUrl": "https://www.mongodb.com/docs/",
+      "domain": "mongodb.com",
+      "title": "Welcome to the MongoDB Docs - MongoDB Documentation - MongoDB Docs",
+      "description": "Official MongoDB Documentation. Learn to store data in flexible documents, create an Atlas deployment, and use our tools and integrations.",
+      "headings": {
+        "h1": [
+          "Welcome to the MongoDB Docs"
+        ],
+        "h2": [
+          "How This Documentation is Organized"
+        ],
+        "h3": [
+          "MongoDB also offers"
+        ]
+      },
+      "mainText": "Welcome to the MongoDB Docs\n\nMongoDB is a document-oriented, operational database built from the ground up as an alternative to the relational database for modern applications. Unlike relational databases, MongoDB allows developers to store rich JSON-like documents that map naturally to the objects they use in their code:\n\n{ \"name\" : \"Grace Hopper\" , \"occupations\" : [ \"Computer Scientist\" , \"Mathematician\" , \"Professor\" ] , \"location\" : { \"city\" : \"Arlington\" , \"state\" : \"Virginia\" , \"zip\" : \"22202\" } } Which you can retrieve with queries such as:\n\ndb.people.find( { \"location.city\" : \"Arlington\" } ) MongoDB also offers\n\nStrong consistency with ACID transactions.\n\nModern additional built-in query capabilities such as geospatial search, lexical search, and vector search.\n\nServerless horizontal scaling with geography-aware fault tolerance across all major clouds.\n\nSecurity primitives that allow MongoDB to operate in the most demanding of enterprise environments.\n\nHow This Documentation is Organized\n\nStart here! This guide walks you through deploying your first database and downloading all the tools and libraries you need to start developing with MongoDB.\n\nChoose the deployment environment that best fits your operational, scalability, and management requirements.\n\nEverything you need to know to write apps with MongoDB, from connecting, CRUD, and the core query language, to index optimization and data modeling.\n\nLearn how to administer and manage MongoDB deployments, including provisioning, scaling, backup, monitoring, disaster recovery, and security.\n\nExplore the documentation for MongoDB&#x27;s catalog of client libraries, which are available in almost every modern programming language and compatible with most application frameworks. Each client library has detailed documentation and an API reference in that library&#x27;s native programming language.\n\nFind useful tools and integrations to aid in both development and management, including simplified database management, integration, migration, and data visualization.\n\nAtlas Architecture Center\n\nLearn best practices for designing scalable, secure, and resilient systems using MongoDB in enterprise environments. Guidance includes architecture fundamentals, MongoDB capabilities, and reference architectures.",
+      "language": "en",
+      "category": "General",
+      "categoryConfidence": 0.42,
+      "categorySignals": [
+        "title:welcome",
+        "heading:welcome",
+        "body:reference(2)"
+      ],
+      "contentLengthBytes": 711648,
+      "wordCount": 315,
+      "statusCode": 200,
+      "fetchTimeMs": 1109,
+      "processedAt": "2026-09-24T07:12:08.652Z",
+      "chunkId": "chunk-022",
+      "retryCount": 0
+    },
+    {
+      "id": "doc-redis_io-uwlhwo",
+      "url": "https://redis.io/docs/",
+      "canonicalUrl": "https://redis.io/docs/latest/",
+      "domain": "redis.io",
+      "title": "Docs",
+      "description": "Welcome to Redis Docs\n\nQuickly set up a Redis cache, primary, vector or custom database\n\nDevelop in your language\n\nRedis for AI and search\n\nGet started with vector databases\n\nBuild AI applications wit...",
+      "headings": {
+        "h1": [
+          "Welcome to Redis Docs"
+        ],
+        "h2": [
+          "Develop in your language",
+          "Redis for AI and search",
+          "From open source to production scale",
+          "Choose your next step",
+          "Data integration & observability",
+          "Explore additional resources",
+          "Contribute"
+        ],
+        "h3": [
+          "Vector database",
+          "AI development",
+          "JSON",
+          "Streams",
+          "Redis Open Source",
+          "Redis Software",
+          "Redis for Kubernetes",
+          "Redis Cloud",
+          "Build fast apps",
+          "Run Redis in production",
+          "Get Redis tools",
+          "RIOT",
+          "Redis Data Integration",
+          "Prometheus & Grafana",
+          "Datadog",
+          "Dynatrace",
+          "New Relic",
+          "Tutorials",
+          "Redis University",
+          "Blog",
+          "Redis Knowledge Base",
+          "Rate our pages",
+          "Contribute on GitHub",
+          "Improve our AI chatbot",
+          "AI Agent Resources",
+          "Compare",
+          "Company",
+          "Partners",
+          "Support"
+        ]
+      },
+      "mainText": "Welcome to Redis Docs\n\nQuickly set up a Redis cache, primary, vector or custom database\n\nDevelop in your language\n\nRedis for AI and search\n\nGet started with vector databases\n\nBuild AI applications with Redis\n\nStore and query JSON documents\n\nReal-time data streaming and event processing\n\nFrom open source to production scale\n\nExperimentation and local development\n\n• Core data structures\n\nEnterprise on-prem / hybrid\n\n• Active-Active geo-distribution\n\nEnterprise on Kubernetes\n\n• Cloud-native deployment\n\n• Kubernetes operator\n\nGlobal, managed, production workloads\n\n• Fully managed service\n\n• Fast cloud deployment\n\n• 24/7 support available\n\nSame Redis. Same APIs. Same data structures.\n\nChoose your next step\n\n→ Redis vector library\n\nRun Redis in production\n\nDeploy and scale Redis for production workloads\n\nExplore CLI, GUI, VS Code, and MCP tools. Get started with JSON and vector queries in the Redis Sandbox.\n\nData integration & observability\n\nRedis Input/Output Tools for data migration\n\nRedis Data Integration\n\nIngest live data from databases to Redis\n\nCollect and visualize Redis metrics\n\nMonitor Redis Cloud with Datadog\n\nMonitor Redis Cloud with Dynatrace\n\nMonitor Redis Cloud with New Relic\n\nExplore additional resources\n\nStep-by-step guides and examples\n\nFree courses and certifications\n\nLatest updates and insights\n\nSearch support articles\n\nYou can rate any page of our docs at the bottom and give us your feedback\n\nProvide feedback or contribute to our documentation\n\nImprove our AI chatbot\n\nProvide feedback on AI chatbot answers to help us improve\n\nDocumentation and guides for AI agents",
+      "language": "en",
+      "category": "Technology",
+      "categoryConfidence": 0.58,
+      "categorySignals": [
+        "heading:software",
+        "heading:cloud",
+        "heading:kubernetes",
+        "heading:database",
+        "desc:database",
+        "body:cloud(4)",
+        "body:kubernetes(2)"
+      ],
+      "contentLengthBytes": 119543,
+      "wordCount": 238,
+      "statusCode": 200,
+      "fetchTimeMs": 388,
+      "processedAt": "2026-09-24T07:12:09.045Z",
+      "chunkId": "chunk-022",
+      "retryCount": 0
+    },
+    {
+      "id": "doc-docs_cockroachlabs_com-zyb4ns",
+      "url": "https://docs.cockroachlabs.com/",
+      "canonicalUrl": "https://docs.cockroachlabs.com/",
+      "domain": "docs.cockroachlabs.com",
+      "title": "CockroachDB Docs - CockroachDB",
+      "description": "Start a Cloud cluster\n\nDownload the CockroachDB binary\n\nUse the Docs MCP server\n\nRecommended articles Get Started\n\nThe State of Resilience 2025\n\nCockroachDB is the SQL database for building global, sc...",
+      "headings": {
+        "h1": [
+          "CockroachDB Docs"
+        ],
+        "h2": [
+          "Documentation Index",
+          "On this page",
+          "​ Recommended articles",
+          "​ Cockroach University",
+          "​ The State of Resilience 2025"
+        ],
+        "h3": [
+          "Get Started",
+          "​ Download the CockroachDB binary",
+          "​ Get Started",
+          "​ CockroachDB and AI",
+          "​ Deploy",
+          "​ Migrate",
+          "​ Security",
+          "​ Reference"
+        ]
+      },
+      "mainText": "Start a Cloud cluster\n\nDownload the CockroachDB binary\n\nUse the Docs MCP server\n\nRecommended articles Get Started\n\nThe State of Resilience 2025\n\nCockroachDB is the SQL database for building global, scalable cloud services that survive disasters.\n\n​ Download the CockroachDB binary\n\n​ Recommended articles\n\n​ Cockroach University\n\nFree online learning platform covering distributed databases, cloud-native applications, general purpose SQL databases & much more!\n\n​ The State of Resilience 2025",
+      "language": "en",
+      "category": "Technology",
+      "categoryConfidence": 0.6,
+      "categorySignals": [
+        "heading:security",
+        "desc:cloud",
+        "desc:server",
+        "desc:database",
+        "desc:sql",
+        "body:cloud(2)",
+        "body:sql(2)"
+      ],
+      "contentLengthBytes": 798299,
+      "wordCount": 69,
+      "statusCode": 200,
+      "fetchTimeMs": 799,
+      "processedAt": "2026-09-24T07:12:09.856Z",
+      "chunkId": "chunk-022",
+      "retryCount": 0
+    },
+    {
+      "id": "doc-duckdb_org-vmbeyn",
+      "url": "https://duckdb.org/docs/",
+      "canonicalUrl": "https://duckdb.org/docs/current/",
+      "domain": "duckdb.org",
+      "title": "Redirecting&hellip;",
+      "description": "Redirecting&hellip; Redirecting&hellip; Click here if you are not redirected....",
+      "headings": {
+        "h1": [
+          "Redirecting&hellip;"
+        ],
+        "h2": [],
+        "h3": []
+      },
+      "mainText": "Redirecting&hellip; Redirecting&hellip; Click here if you are not redirected.",
+      "language": "en",
+      "category": "General",
+      "categoryConfidence": 0.5,
+      "categorySignals": [],
+      "contentLengthBytes": 834,
+      "wordCount": 9,
+      "statusCode": 200,
+      "fetchTimeMs": 493,
+      "processedAt": "2026-09-24T07:12:10.351Z",
+      "chunkId": "chunk-022",
+      "retryCount": 0
+    },
+    {
+      "id": "doc-clickhouse_com-m4ber2",
+      "url": "https://clickhouse.com/docs",
+      "canonicalUrl": "https://clickhouse.com/docs",
+      "domain": "clickhouse.com",
+      "title": "Home - ClickHouse Documentation",
+      "description": "Documentation Index Fetch the complete documentation index at: /docs/llms.txt Use this file to discover all available pages before exploring further. Skip to main content ClickHouse Documentation home...",
+      "headings": {
+        "h1": [],
+        "h2": [
+          "Documentation Index"
+        ],
+        "h3": []
+      },
+      "mainText": "Documentation Index Fetch the complete documentation index at: /docs/llms.txt Use this file to discover all available pages before exploring further. Skip to main content ClickHouse Documentation home page Search... ⌘ K English Home Database Solutions Integrations Resources ClickHouse Documentation home page English Search... ⌘ K Search... Navigation Home Database Solutions Integrations Resources ⌘ I",
+      "language": "en",
+      "category": "General",
+      "categoryConfidence": 0.48,
+      "categorySignals": [
+        "heading:index",
+        "desc:index",
+        "body:index(2)"
+      ],
+      "contentLengthBytes": 2022594,
+      "wordCount": 54,
+      "statusCode": 200,
+      "fetchTimeMs": 974,
+      "processedAt": "2026-09-24T07:12:11.354Z",
+      "chunkId": "chunk-022",
+      "retryCount": 0
+    }
+  ]
+}

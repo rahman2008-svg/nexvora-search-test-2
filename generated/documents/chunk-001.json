@@ -2,242 +2,264 @@
   "chunkId": "chunk-001",
   "filename": "chunk-001.json",
   "documentCount": 6,
-  "totalBytes": 6774,
-  "createdAt": "2026-09-24T05:08:14.281Z",
+  "totalBytes": 212266,
+  "createdAt": "2026-09-24T07:15:54.831Z",
   "documents": [
     {
-      "id": "doc-developer_mozilla_org-70b7c7",
-      "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript?utm_source=newsletter&utm_medium=email",
-      "canonicalUrl": "https://developer.mozilla.org/en-US/docs/Web/JavaScript",
-      "domain": "developer.mozilla.org",
-      "title": "JavaScript | MDN Web Docs",
-      "description": "JavaScript (JS) is a lightweight interpreted or just-in-time compiled programming language with first-class functions for web development.",
+      "id": "doc-go_dev-tx37bx",
+      "url": "https://go.dev/doc/",
+      "canonicalUrl": "https://go.dev/doc/",
+      "domain": "go.dev",
+      "title": "Documentation - The Go Programming Language",
+      "description": "The Go programming language is an open source project to make programmers more productive.\n\nGo is expressive, concise, clean, and efficient. Its concurrency mechanisms make it easy to write programs t...",
       "headings": {
         "h1": [
-          "JavaScript (JS) Overview"
+          "Documentation"
         ],
         "h2": [
-          "Core Language Features",
-          "Ecosystem & Tooling"
+          "Getting Started",
+          "Using and understanding Go",
+          "References",
+          "Accessing databases",
+          "Developing modules",
+          "Talks",
+          "Codewalks",
+          "Wiki",
+          "Non-English Documentation"
         ],
-        "h3": []
+        "h3": [
+          "Installing Go",
+          "Tutorial: Getting started",
+          "Tutorial: Create a module",
+          "Tutorial: Getting started with multi-module workspaces",
+          "Tutorial: Developing a RESTful API with Go and Gin",
+          "Tutorial: Getting started with generics",
+          "Tutorial: Getting started with fuzzing",
+          "Writing Web Applications",
+          "How to write Go code",
+          "A Tour of Go",
+          "Effective Go",
+          "Frequently Asked Questions (FAQ)",
+          "Editor plugins and IDEs",
+          "Diagnostics",
+          "A Guide to the Go Garbage Collector",
+          "Managing dependencies",
+          "Fuzzing",
+          "Coverage for Go applications",
+          "Profile-guided optimization",
+          "encoding/json/v2 Migration Guide",
+          "Package Documentation",
+          "Command Documentation",
+          "Language Specification",
+          "Go Modules Reference",
+          "go.mod file reference",
+          "The Go Memory Model",
+          "Contribution Guide",
+          "Release History",
+          "Tutorial: Accessing a relational database",
+          "Accessing relational databases",
+          "Opening a database handle",
+          "Executing SQL statements that don't return data",
+          "Querying for data",
+          "Using prepared statements",
+          "Executing transactions",
+          "Canceling in-progress database operations",
+          "Managing connections",
+          "Avoiding SQL injection risk",
+          "Developing and publishing modules",
+          "Module release and versioning workflow",
+          "Managing module source",
+          "Organizing a Go module",
+          "Developing a major version update",
+          "Publishing a module",
+          "Module version numbering",
+          "A Video Tour of Go",
+          "Code that grows with grace",
+          "Go Concurrency Patterns",
+          "Advanced Go Concurrency Patterns",
+          "Language",
+          "Packages",
+          "Modules",
+          "Tools"
+        ]
       },
-      "mainText": "JavaScript (JS) Overview\n\nJavaScript is a scripting or programming language that allows you to implement complex features on web pages. Whenever a web page does more than just sit there and display static information, JavaScript is likely involved.\n\nCore Language Features\n\nStandardized via ECMAScript, JavaScript features modern asynchronous syntax (async/await), typed arrays, modular imports, closures, and object prototypes for scalable frontend and backend runtime development.\n\nModern developers write TypeScript and JavaScript using package bundlers, Vite, Node.js, and frameworks like React to build interactive client-side web applications.",
+      "mainText": "The Go programming language is an open source project to make programmers more productive.\n\nGo is expressive, concise, clean, and efficient. Its concurrency mechanisms make it easy to write programs that get the most out of multicore and networked machines, while its novel type system enables flexible and modular program construction. Go compiles quickly to machine code yet has the convenience of garbage collection and the power of run-time reflection. It's a fast, statically typed, compiled language that feels like a dynamically typed, interpreted language.\n\nInstructions for downloading and installing Go.\n\nTutorial: Getting started\n\nA brief Hello, World tutorial to get started. Learn a bit about Go code, tools, packages, and modules.\n\nTutorial: Create a module\n\nA tutorial of short topics introducing functions, error handling, arrays, maps, unit testing, and compiling.\n\nTutorial: Getting started with multi-module workspaces\n\nIntroduces the basics of creating and using multi-module workspaces in Go. Multi-module workspaces are useful for making changes across multiple modules.\n\nTutorial: Developing a RESTful API with Go and Gin\n\nIntroduces the basics of writing a RESTful web service API with Go and the Gin Web Framework.\n\nTutorial: Getting started with generics\n\nWith generics, you can declare and use functions or types that are written to work with any of a set of types provided by calling code.\n\nTutorial: Getting started with fuzzing\n\nFuzzing can generate inputs to your tests that can catch edge cases and security issues that you may have missed.\n\nWriting Web Applications\n\nBuilding a simple web application.\n\nThis doc explains how to develop a simple set of Go packages inside a module, and it shows how to use the go  command to build and test packages.\n\nAn interactive introduction to Go in four sections. The first section covers basic syntax and data structures; the second discusses methods and interfaces; the third is about Generics; and the fourth introduces Go's concurrency primitives. Each section concludes with a few exercises so you can practice what you've learned. You can take the tour online or install it locally with:\n\n$ go install golang.org/x/website/tour@latest This will place the tour binary in your GOPATH 's bin directory.\n\nUsing and understanding Go\n\nA document that gives tips for writing clear, idiomatic Go code. A must read for any new Go programmer. It augments the tour and the language specification, both of which should be read first.\n\nFrequently Asked Questions (FAQ)\n\nAnswers to common questions about Go.\n\nEditor plugins and IDEs\n\nA document that summarizes commonly used editor plugins and IDEs with Go support.\n\nSummarizes tools and methodologies to diagnose problems in Go programs.\n\nA Guide to the Go Garbage Collector\n\nA document that describes how Go manages memory, and how to make the most of it.\n\nManaging dependencies\n\nWhen your code uses external packages, those packages (distributed as modules) become dependencies.\n\nMain documentation page for Go fuzzing.\n\nCoverage for Go applications\n\nMain documentation page for coverage testing of Go applications.\n\nProfile-guided optimization\n\nMain documentation page for profile-guided optimization (PGO) of Go applications.\n\nencoding/json/v2 Migration Guide\n\nGuide for safe step-by-step migration from encoding/json to encoding/json/v2.\n\nPackage Documentation\n\nThe documentation for the Go standard library.\n\nCommand Documentation\n\nThe documentation for the Go tools.\n\nLanguage Specification\n\nThe official Go Language specification.\n\nA detailed reference manual for Go's dependency management system.\n\ngo.mod file reference\n\nReference for the directives included in a go.mod file.\n\nA document that specifies the conditions under which reads of a variable in one goroutine can be guaranteed to observe values produced by writes to the same variable in a different goroutine.\n\nA summary of the changes between Go releases.\n\nTutorial: Accessing a relational database\n\nIntroduces the basics of accessing a relational database using Go and the database/sql package in the standard library.\n\nAccessing relational databases\n\nAn overview of Go's data access features.\n\nOpening a database handle\n\nYou use the Go database handle to execute database operations. Once you open a handle with database connection properties, the handle represents a connection pool it manages on your behalf.\n\nExecuting SQL statements that don't return data\n\nFor SQL operations that might change the database, including SQL INSERT , UPDATE , and DELETE , you use Exec methods.\n\nFor SELECT statements that return data from a query, using the Query or QueryRow method.\n\nUsing prepared statements\n\nDefining a prepared statement for repeated use can help your code run a bit faster by avoiding the overhead of re-creating the statement each time your code performs the database operation.\n\nExecuting transactions\n\nsql.Tx exports methods representing transaction-specific semantics, including Commit and Rollback , as well as methods you use to perform common database operations.\n\nCanceling in-progress database operations\n\nUsing context.Context , you can have your application's function calls and services stop working early and return an error when their processing is no longer needed.\n\nFor some advanced programs, you might need to tune connection pool parameters or work with connections explicitly.\n\nAvoiding SQL injection risk\n\nYou can avoid an SQL injection risk by providing SQL parameter values as sql package function arguments\n\nDeveloping and publishing modules\n\nYou can collect related packages into modules, then publish the modules for other developers to use. This topic gives an overview of developing and publishing modules.\n\nModule release and versioning workflow\n\nWhen you develop modules for use by other developers, you can follow a workflow that helps ensure a reliable, consistent experience for developers using the module. This topic describes the high-level steps in that workflow.\n\nManaging module source\n\nWhen you're developing modules to publish for others to use, you can help ensure that your modules are easier for other developers to use by following the repository conventions described in this topic.\n\nOrganizing a Go module\n\nWhat is the right way to organize the files and directories in a typical Go project? This topic discusses some common layouts depending on the kind of module you have.\n\nDeveloping a major version update\n\nA major version update can be very disruptive to your module's users because it includes breaking changes and represents a new module. Learn more in this topic.\n\nWhen you want to make a module available for other developers, you publish it so that it's visible to Go tools. Once you've published the module, developers importing its packages will be able to resolve a dependency on the module by running commands such as go get .\n\nModule version numbering\n\nA module's developer uses each part of a module's version number to signal the version’s stability and backward compatibility. For each new release, a module's release version number specifically reflects the nature of the module's changes since the preceding release.\n\nThree things that make Go fast, fun, and productive: interfaces, reflection, and concurrency. Builds a toy web crawler to demonstrate these.\n\nCode that grows with grace\n\nOne of Go's key design goals is code adaptability; that it should be easy to take a simple design and build upon it in a clean and natural way. In this talk Andrew Gerrand describes a simple \"chat roulette\" server that matches pairs of incoming TCP connections, and then use Go's concurrency mechanisms, interfaces, and standard library to extend it with a web interface and other features. While the function of the program changes dramatically, Go's flexibility preserves the original design as it grows.\n\nGo Concurrency Patterns\n\nConcurrency is the key to designing high performance network services. Go's concurrency primitives (goroutines and channels) provide a simple and efficient means of expressing concurrent execution. In this talk we see how tricky concurrency problems can be solved gracefully with simple Go code.\n\nAdvanced Go Concurrency Patterns\n\nThis talk expands on the Go Concurrency Patterns talk to dive deeper into Go's concurrency primitives.\n\nSee the Go Talks site and wiki page for more Go talks.\n\nGuided tours of Go programs.\n\nFirst-Class Functions in Go\n\nGenerating arbitrary text: a Markov chain algorithm\n\nShare Memory by Communicating\n\nJSON-RPC: a tale of interfaces\n\nGo's Declaration Syntax\n\nDefer, Panic, and Recover\n\nGo Concurrency Patterns: Timing out, moving on\n\nGo Slices: usage and internals\n\nA GIF decoder: an exercise in Go interfaces\n\nError Handling and Go\n\nWorking with JSON - using the json package.\n\nGobs of data - the design and use of the gob package.\n\nThe Laws of Reflection - the fundamentals of the reflect package.\n\nThe Go image package - the fundamentals of the image package.\n\nThe Go image/draw package - the fundamentals of the image/draw package.\n\nUsing Go Modules - an introduction to using modules in a simple project.\n\nMigrating to Go Modules - converting an existing project to use modules.\n\nPublishing Go Modules - how to make new versions of modules available to others.\n\nGo Modules: v2 and Beyond - creating and publishing major versions 2 and higher.\n\nKeeping Your Modules Compatible - how to keep your modules compatible with prior minor/patch versions.\n\nAbout the Go command - why we wrote it, what it is, what it's not, and how to use it.\n\nGo Doc Comments - writing good program documentation\n\nDebugging Go Code with GDB\n\nData Race Detector - a manual for the data race detector.\n\nA Quick Guide to Go's Assembler - an introduction to the assembler used by Go.\n\nC? Go? Cgo! - linking against C code with cgo .\n\nProfiling Go Programs - tools for measuring your code's CPU and memory usage\n\nIntroducing the Go Race Detector - an introduction to the race detector.\n\nGopls: The language server for Go - getting the most out your editor when working in Go.\n\nThe Go Wiki , maintained by the Go community, includes articles about the Go language, tools, and other resources.\n\nSee the Learn page at the Wiki for more Go learning resources.\n\nNon-English Documentation",
       "language": "en",
       "category": "Programming",
-      "categoryConfidence": 0.84,
+      "categoryConfidence": 0.72,
       "categorySignals": [
-        "domain:developer.mozilla.org",
-        "url_pattern:\\/docs\\/",
-        "url_pattern:\\/developer",
-        "url_pattern:\\/javascript",
-        "title:javascript",
-        "heading:javascript",
-        "desc:programming",
-        "desc:javascript",
-        "body:javascript(5)"
-      ],
-      "contentLengthBytes": 1235,
-      "wordCount": 86,
-      "statusCode": 200,
-      "fetchTimeMs": 32,
-      "processedAt": "2026-09-24T05:08:13.388Z",
-      "chunkId": "chunk-001",
-      "retryCount": 0
-    },
-    {
-      "id": "doc-react_dev-is205l",
-      "url": "https://react.dev/blog/2024/12/05/react-19?ref=hackernews",
-      "canonicalUrl": "https://react.dev/blog/2024/12/05/react-19",
-      "domain": "react.dev",
-      "title": "React 19 is now stable – React Official Blog",
-      "description": "React 19 is now available on npm! Featuring Actions, Server Components, Document Metadata hooks, and asset preloading for frontend developers.",
-      "headings": {
-        "h1": [
-          "React 19 Release Notes"
-        ],
-        "h2": [
-          "What is new in React 19?",
-          "Upgrading to React 19"
-        ],
-        "h3": []
-      },
-      "mainText": "React 19 Release Notes\n\nIn our React 19 release announcement, we shared that React 19 brings Actions, useActionState, Server Functions, ref as a prop, and automatic hydration improvements.\n\nWhat is new in React 19?\n\nActions handle pending states, optimistic updates, and form submissions natively. The new React compiler automates memoization for high performance user interfaces.\n\nUpgrading to React 19\n\nTo upgrade your web package dependencies, run npm install react@latest react-dom@latest. Most React 18 patterns are backwards compatible.",
-      "language": "en",
-      "category": "Programming",
-      "categoryConfidence": 0.81,
-      "categorySignals": [
-        "domain:react.dev",
-        "url_pattern:\\/react",
-        "title:react",
-        "heading:react",
-        "desc:react",
-        "desc:npm",
-        "desc:frontend",
-        "body:react(8)"
-      ],
-      "contentLengthBytes": 1050,
-      "wordCount": 77,
-      "statusCode": 200,
-      "fetchTimeMs": 21,
-      "processedAt": "2026-09-24T05:08:13.413Z",
-      "chunkId": "chunk-001",
-      "retryCount": 0
-    },
-    {
-      "id": "doc-rust_lang_org-26j19l",
-      "url": "https://www.rust-lang.org/learn",
-      "canonicalUrl": "https://www.rust-lang.org/learn",
-      "domain": "rust-lang.org",
-      "title": "Learn Rust – Rust Programming Language",
-      "description": "Empowering everyone to build reliable and efficient software. Learn Rust through interactive tutorials, the Rust Book, and compiler borrow checker guides.",
-      "headings": {
-        "h1": [
-          "Learn the Rust Programming Language"
-        ],
-        "h2": [
-          "Read the Book",
-          "Rustlings Course"
-        ],
-        "h3": []
-      },
-      "mainText": "Learn the Rust Programming Language\n\nRust offers memory safety without garbage collection, concurrency without data races, and zero-cost abstractions for systems programming.\n\nAffectionately nicknamed The Book, The Rust Programming Language gives you an overview of language syntax, ownership rules, lifetimes, and cargo package management.\n\nSmall exercises to get you used to reading and writing Rust code, fixing compiler errors, and understanding pattern matching.",
-      "language": "en",
-      "category": "Programming",
-      "categoryConfidence": 0.65,
-      "categorySignals": [
-        "domain:rust-lang.org",
         "title:programming",
-        "title:rust",
-        "heading:programming",
-        "heading:rust",
-        "desc:rust",
-        "desc:compiler",
-        "body:programming(3)",
-        "body:rust(4)"
-      ],
-      "contentLengthBytes": 997,
-      "wordCount": 63,
-      "statusCode": 200,
-      "fetchTimeMs": 38,
-      "processedAt": "2026-09-24T05:08:13.452Z",
-      "chunkId": "chunk-001",
-      "retryCount": 0
-    },
-    {
-      "id": "doc-docs_python_org-3l1jff",
-      "url": "https://docs.python.org/3/tutorial/",
-      "canonicalUrl": "https://docs.python.org/3/tutorial/",
-      "domain": "docs.python.org",
-      "title": "The Python Tutorial — Python 3 Documentation",
-      "description": "Python is an easy to learn, powerful programming language with efficient high-level data structures and an elegant syntax ideal for scripting and rapid application development.",
-      "headings": {
-        "h1": [
-          "The Python Tutorial"
-        ],
-        "h2": [
-          "An Informal Introduction to Python",
-          "Control Flow Tools",
-          "Data Structures"
-        ],
-        "h3": []
-      },
-      "mainText": "Python is an easy to learn, powerful programming language. It has efficient high-level data structures and a simple but effective approach to object-oriented programming. Python elegant syntax and dynamic typing, together with its interpreted nature, make it an ideal language for scripting and rapid application development in many areas on most platforms.\n\nAn Informal Introduction to Python\n\nIn the following examples, input and output are distinguished by the presence or absence of prompts. Python supports integers, floating point numbers, strings, lists, dictionaries, tuples, and sets.\n\nBesides the while statement, Python uses the usual flow control statements known from other languages, with some twists: if statements, for statements, the range function, break and continue statements, and match statements.\n\nThis chapter describes more about list methods, using lists as stacks and queues, list comprehensions, the del statement, tuples and sequences, sets, and dictionaries.",
-      "language": "en",
-      "category": "Programming",
-      "categoryConfidence": 0.53,
-      "categorySignals": [
-        "title:python",
-        "heading:python",
-        "desc:programming",
-        "desc:python",
-        "desc:syntax",
-        "body:programming(2)",
-        "body:python(5)"
-      ],
-      "contentLengthBytes": 1694,
-      "wordCount": 141,
-      "statusCode": 200,
-      "fetchTimeMs": 22,
-      "processedAt": "2026-09-24T05:08:13.474Z",
-      "chunkId": "chunk-001",
-      "retryCount": 0
-    },
-    {
-      "id": "doc-bun_sh-yx8j6q",
-      "url": "https://bun.sh/docs",
-      "canonicalUrl": "https://bun.sh/docs",
-      "domain": "bun.sh",
-      "title": "Bun Documentation – Fast JavaScript Runtime & Package Manager",
-      "description": "Bun is an all-in-one JavaScript runtime, bundler, test runner, and package manager written in Zig with native speed and Node.js compatibility.",
-      "headings": {
-        "h1": [
-          "Bun All-in-One JavaScript Runtime"
-        ],
-        "h2": [
-          "Package Manager Speed",
-          "Bundling & Serving"
-        ],
-        "h3": []
-      },
-      "mainText": "Bun All-in-One JavaScript Runtime\n\nBun was built from scratch using Zig and JavaScriptCore to focus on performance, developer ergonomics, and native TypeScript execution without transpilation steps.\n\nPackage Manager Speed\n\nBun installs npm packages orders of magnitude faster by utilizing system copy_file_range and hardlinks.\n\nBun includes a blazing-fast native bundler and HTTP web server module capable of handling millions of requests per second.",
-      "language": "en",
-      "category": "Programming",
-      "categoryConfidence": 0.89,
-      "categorySignals": [
-        "domain:bun.sh",
-        "title:javascript",
-        "title:package",
-        "title:runtime",
-        "title:bun",
-        "heading:javascript",
+        "heading:code",
+        "heading:api",
+        "heading:json",
         "heading:package",
-        "heading:runtime",
-        "heading:bun",
-        "desc:javascript"
+        "desc:programming",
+        "body:code(13)",
+        "body:function(3)",
+        "body:syntax(2)",
+        "body:library(3)"
       ],
-      "contentLengthBytes": 966,
-      "wordCount": 62,
+      "contentLengthBytes": 47871,
+      "wordCount": 1603,
       "statusCode": 200,
-      "fetchTimeMs": 38,
-      "processedAt": "2026-09-24T05:08:13.513Z",
+      "fetchTimeMs": 1539,
+      "processedAt": "2026-09-24T07:08:54.762Z",
       "chunkId": "chunk-001",
       "retryCount": 0
     },
     {
-      "id": "doc-vite_dev-93k47h",
-      "url": "https://vite.dev/guide/",
-      "canonicalUrl": "https://vite.dev/guide/",
-      "domain": "vite.dev",
-      "title": "Getting Started | Vite Next Generation Frontend Tooling",
-      "description": "Vite is a modern build tool that aims to provide a faster and leaner development experience for modern web projects using native ES modules.",
+      "id": "doc-go_dev-yoa2wo",
+      "url": "https://go.dev/tour/",
+      "canonicalUrl": "https://go.dev/tour",
+      "domain": "go.dev",
+      "title": "A Tour of Go",
+      "description": "A Tour of Go...",
       "headings": {
-        "h1": [
-          "Getting Started with Vite"
-        ],
-        "h2": [
-          "Lightning Fast Cold Starts"
-        ],
+        "h1": [],
+        "h2": [],
         "h3": []
       },
-      "mainText": "Getting Started with Vite\n\nVite consists of two major parts: a dev server that provides rich feature enhancements over native ES modules, and a build command that bundles your code with Rollup.\n\nLightning Fast Cold Starts\n\nBy pre-bundling dependencies with esbuild and serving source code over native ESM, Vite eliminates server bundling delays during development.",
+      "mainText": "A Tour of Go",
       "language": "en",
-      "category": "Programming",
-      "categoryConfidence": 0.77,
-      "categorySignals": [
-        "domain:vite.dev",
-        "title:vite",
-        "title:frontend",
-        "heading:vite",
-        "desc:vite",
-        "body:code(2)",
-        "body:vite(3)"
-      ],
-      "contentLengthBytes": 832,
-      "wordCount": 55,
+      "category": "General",
+      "categoryConfidence": 0.5,
+      "categorySignals": [],
+      "contentLengthBytes": 2566,
+      "wordCount": 4,
       "statusCode": 200,
-      "fetchTimeMs": 34,
-      "processedAt": "2026-09-24T05:08:13.547Z",
+      "fetchTimeMs": 795,
+      "processedAt": "2026-09-24T07:08:55.576Z",
+      "chunkId": "chunk-001",
+      "retryCount": 0
+    },
+    {
+      "id": "doc-php_net-cadlzs",
+      "url": "https://www.php.net/manual/en/",
+      "canonicalUrl": "https://www.php.net/manual/en/index.php",
+      "domain": "php.net",
+      "title": "PHP: Preface - Manual",
+      "description": "PHP Manual",
+      "headings": {
+        "h1": [
+          "PHP Manual"
+        ],
+        "h2": [],
+        "h3": [
+          "Found A Problem?",
+          "User Contributed Notes"
+        ]
+      },
+      "mainText": "Change language: English German Spanish French Italian Japanese Brazilian Portuguese Russian Turkish Ukrainian Chinese (Simplified) Other PHP Manual\n\nGetting Started Introduction — What is PHP and what can it do?\n\nInstallation and Configuration General Installation Considerations\n\nInstallation on Unix systems\n\nInstallation on macOS\n\nInstallation on Windows systems\n\nInstallation on Cloud Computing platforms\n\nFastCGI Process Manager (FPM)\n\nInstallation of PECL extensions\n\nIntroduction to Composer\n\nRuntime Configuration\n\nLanguage Reference Basic syntax\n\nPredefined Exceptions\n\nPredefined Interfaces and Classes\n\nPredefined Attributes\n\nContext options and parameters\n\nSupported Protocols and Wrappers\n\nSecurity Introduction\n\nGeneral considerations\n\nInstalled as CGI binary\n\nInstalled as an Apache module\n\nFeatures HTTP authentication with PHP\n\nHandling file uploads\n\nPersistent Database Connections\n\nCommand line usage — Using PHP from the command line\n\nDTrace Dynamic Tracing\n\nFunction Reference Affecting PHP's Behaviour\n\nAudio Formats Manipulation\n\nAuthentication Services\n\nCommand Line Specific Extensions\n\nCompression and Archive Extensions\n\nCryptography Extensions\n\nDate and Time Related Extensions\n\nFile System Related Extensions\n\nHuman Language and Character Encoding Support\n\nImage Processing and Generation\n\nMail Related Extensions\n\nMathematical Extensions\n\nProcess Control Extensions\n\nOther Basic Extensions\n\nSearch Engine Extensions\n\nServer Specific Extensions\n\nVariable and Type Related Extensions\n\nWindows Only Extensions\n\nFAQ — Frequently Asked Questions General Information\n\nPassword Hashing — Hashing passwords safely and securely\n\nMiscellaneous Questions\n\nAppendices History of PHP and Related Projects\n\nAbout manual examples\n\nMigrating from PHP 8.4.x to PHP 8.5.x\n\nMigrating from PHP 8.3.x to PHP 8.4.x\n\nMigrating from PHP 8.2.x to PHP 8.3.x\n\nMigrating from PHP 8.1.x to PHP 8.2.x\n\nMigrating from PHP 8.0.x to PHP 8.1.x\n\nMigrating from PHP 7.4.x to PHP 8.0.x\n\nMigrating from PHP 7.3.x to PHP 7.4.x\n\nMigrating from PHP 7.2.x to PHP 7.3.x\n\nMigrating from PHP 7.1.x to PHP 7.2.x\n\nMigrating from PHP 7.0.x to PHP 7.1.x\n\nMigrating from PHP 5.6.x to PHP 7.0.x\n\nMigrating from PHP 5.5.x to PHP 5.6.x\n\nExtension List/Categorization\n\nList of Function Aliases\n\nList of Reserved Words\n\nList of Resource Types\n\nList of Available Filters\n\nList of Supported Socket Transports\n\nPHP type comparison tables\n\nList of Parser Tokens\n\nUserland Naming Guide\n\nCreative Commons Attribution 3.0\n\nUser Contributed Notes",
+      "language": "en",
+      "category": "General",
+      "categoryConfidence": 0.44,
+      "categorySignals": [
+        "body:introduction(3)",
+        "body:general(3)",
+        "body:reference(2)"
+      ],
+      "contentLengthBytes": 31766,
+      "wordCount": 338,
+      "statusCode": 200,
+      "fetchTimeMs": 1105,
+      "processedAt": "2026-09-24T07:08:56.688Z",
+      "chunkId": "chunk-001",
+      "retryCount": 0
+    },
+    {
+      "id": "doc-ruby_lang_org-zav56a",
+      "url": "https://www.ruby-lang.org/en/documentation/",
+      "canonicalUrl": "https://www.ruby-lang.org/en/documentation/",
+      "domain": "ruby-lang.org",
+      "title": "Documentation | Ruby",
+      "description": "Guides, tutorials, and reference material to help you learn more about Ruby{: .summary}### Installing RubyAlthough you can easily [try Ruby in your browser][...",
+      "headings": {
+        "h1": [
+          "Documentation",
+          "Tools"
+        ],
+        "h2": [],
+        "h3": [
+          "Docs",
+          "Table of Contents",
+          "Installing Ruby",
+          "Official Ruby Documentation",
+          "Getting Started",
+          "Manuals / Books",
+          "Community Documentation",
+          "Style Guides",
+          "Editors and IDEs",
+          "Older Reading / Resources"
+        ]
+      },
+      "mainText": "Guides, tutorials, and reference material to help you learn more about Ruby\n\nAlthough you can easily try Ruby in your browser , you can also read the installation guide for help on installing Ruby.\n\nOfficial Ruby Documentation\n\ndocs.ruby-lang.org/en : List of documentation for all Ruby versions released after 2.1.\n\ndocs.ruby-lang.org/en/4.0 : Documentation for Ruby 4.0.\n\ndocs.ruby-lang.org/en/master : Documentation for Ruby’s master branch.\n\nC Extension Guide : In-depth guide for creating C extensions for Ruby.\n\nCommunity Documentation\n\nThese documentation sites are maintained by the Ruby community.\n\nFor coding in Ruby, you can use the default editor of your operating system. By the way, to be more effective in coding, it is worth choosing a source code editor with basic Ruby support (e.g. syntax-highlighting, file browsing) or an integrated development environment with advanced features (e.g. code completion, refactoring, testing support).\n\nHere is a list of popular editors used by Rubyists, broken up by learning curve:\n\nDays Sublime Text (paid)\n\nMonths RubyMine (paid)\n\n“Years” (as in, you’ll spend years still learning things about it) Emacs with Ruby mode or Enhanced Ruby mode\n\nVim with vim-ruby plugin\n\nAll of these editors support the Language Server Protocol (LSP), either by default or through their LSP plugins. Shopify’s ruby-lsp is one of the most popular language servers for Ruby and supports all of the above editors .\n\nOlder Reading / Resources\n\nThese links were more prominent but haven’t been updated in ages.",
+      "language": "en",
+      "category": "General",
+      "categoryConfidence": 0.41,
+      "categorySignals": [
+        "desc:about",
+        "desc:reference",
+        "body:about(2)"
+      ],
+      "contentLengthBytes": 50823,
+      "wordCount": 236,
+      "statusCode": 200,
+      "fetchTimeMs": 852,
+      "processedAt": "2026-09-24T07:08:57.544Z",
+      "chunkId": "chunk-001",
+      "retryCount": 0
+    },
+    {
+      "id": "doc-swift_org-4ukvor",
+      "url": "https://www.swift.org/documentation/",
+      "canonicalUrl": "https://docs.swift.org/latest/documentation/",
+      "domain": "swift.org",
+      "title": "Redirecting&hellip;",
+      "description": "Redirecting&hellip; Redirecting&hellip; Click here if you are not redirected....",
+      "headings": {
+        "h1": [
+          "Redirecting&hellip;"
+        ],
+        "h2": [],
+        "h3": []
+      },
+      "mainText": "Redirecting&hellip; Redirecting&hellip; Click here if you are not redirected.",
+      "language": "en",
+      "category": "General",
+      "categoryConfidence": 0.5,
+      "categorySignals": [],
+      "contentLengthBytes": 521,
+      "wordCount": 9,
+      "statusCode": 200,
+      "fetchTimeMs": 2046,
+      "processedAt": "2026-09-24T07:08:59.592Z",
+      "chunkId": "chunk-001",
+      "retryCount": 0
+    },
+    {
+      "id": "doc-dart_dev-jfe5lh",
+      "url": "https://dart.dev/guides",
+      "canonicalUrl": "https://dart.dev/guides",
+      "domain": "dart.dev",
+      "title": "Dart documentation",
+      "description": "Learn to use the Dart language and libraries.",
+      "headings": {
+        "h1": [
+          "Dart documentation"
+        ],
+        "h2": [],
+        "h3": []
+      },
+      "mainText": "Dart 3.13 is here! Clean and lightweight code across every layer of Dart. Read the announcement .\n\nLearn to use the Dart language and libraries.\n\ncontent_copy Copy link\n\nbug_report Report issue\n\nWelcome to the Dart documentation! For a list of changes to this site—new pages, new guidelines, and more—see the What's new page.\n\nHere are some of this site's most visited pages:\n\nUnless stated otherwise, the documentation on this site reflects Dart 3.13.3. Page last updated on 2026-08-24. View source or report an issue .",
+      "language": "en",
+      "category": "General",
+      "categoryConfidence": 0.26,
+      "categorySignals": [],
+      "contentLengthBytes": 78719,
+      "wordCount": 85,
+      "statusCode": 200,
+      "fetchTimeMs": 573,
+      "processedAt": "2026-09-24T07:09:00.172Z",
       "chunkId": "chunk-001",
       "retryCount": 0
     }

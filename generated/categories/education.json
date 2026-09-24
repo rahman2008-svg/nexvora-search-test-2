@@ -1,27 +1,270 @@
 {
   "category": "Education",
-  "documentCount": 2,
-  "updatedAt": "2026-09-24T05:08:13.868Z",
+  "documentCount": 29,
+  "updatedAt": "2026-09-24T07:15:40.354Z",
   "documentIds": [
-    "doc-khanacademy_org-p34of3",
-    "doc-ocw_mit_edu-cwo0j2"
+    "doc-learn_microsoft_com-6sn6cp",
+    "doc-learn_microsoft_com-7x79mn",
+    "doc-web_dev-fakp1o",
+    "doc-developer_android_com-0g55ol",
+    "doc-opensource_guide-767mc5",
+    "doc-docs_redhat_com-zqw5ki",
+    "doc-digitalocean_com-ume8s6",
+    "doc-tensorflow_org-nlpdai",
+    "doc-deeplearningbook_org-h6rxrh",
+    "doc-plato_stanford_edu-2l611p",
+    "doc-khanacademy_org-78czq1",
+    "doc-nctm_org-52xr9s",
+    "doc-openstax_org-9czbgz",
+    "doc-purplemath_com-dgrffw",
+    "doc-khanacademy_org-5c7ihj",
+    "doc-ocw_mit_edu-sdlcox",
+    "doc-openstax_org-lhpyl2",
+    "doc-edx_org-iirl2p",
+    "doc-coursera_org-9lj0tf",
+    "doc-classcentral_com-13yqa2",
+    "doc-open_umn_edu-vxglz4",
+    "doc-libretexts_org-so2iqi",
+    "doc-unesco_org-r7qubb",
+    "doc-unicef_org-7ehn02",
+    "doc-history_com-3sp6lk",
+    "doc-nationalarchives_gov_uk-jvm2q8",
+    "doc-historytoday_com-j7dg3p",
+    "doc-en_wikiversity_org-4md4ow",
+    "doc-khanacademy_org-eueo7y"
   ],
   "items": [
     {
-      "id": "doc-khanacademy_org-p34of3",
-      "title": "Calculus 1 Course & Practice Lessons | Khan Academy Education",
-      "canonicalUrl": "https://www.khanacademy.org/math/calculus-1",
-      "domain": "khanacademy.org",
-      "description": "Learn Calculus 1 with free interactive video lectures, practice exercises, syllabus guides, and student quizzes covering limits, derivatives, and integrals.",
-      "confidence": 0.88
+      "id": "doc-learn_microsoft_com-6sn6cp",
+      "title": "Microsoft C/C++ Documentation | Microsoft Learn",
+      "canonicalUrl": "https://learn.microsoft.com/en-us/cpp/?view=msvc-170",
+      "domain": "learn.microsoft.com",
+      "description": "Learn how to use C++ to develop applications, services, and tools for your platforms and devices.",
+      "confidence": 0.41
     },
     {
-      "id": "doc-ocw_mit_edu-cwo0j2",
-      "title": "Introduction to Algorithms | MIT OpenCourseWare Free Education",
-      "canonicalUrl": "https://ocw.mit.edu/courses/intro-to-algorithms/",
+      "id": "doc-learn_microsoft_com-7x79mn",
+      "title": "PowerShell Documentation - PowerShell | Microsoft Learn",
+      "canonicalUrl": "https://learn.microsoft.com/en-us/powershell/",
+      "domain": "learn.microsoft.com",
+      "description": "Official product documentation for PowerShell",
+      "confidence": 0.3
+    },
+    {
+      "id": "doc-web_dev-fakp1o",
+      "title": "Learn web development  |  web.dev",
+      "canonicalUrl": "https://web.dev/learn",
+      "domain": "web.dev",
+      "description": "Learn web development\n\nCourse Learn JavaScript\n\nCourse Learn Performance\n\nCourse Learn Accessibility...",
+      "confidence": 0.69
+    },
+    {
+      "id": "doc-developer_android_com-0g55ol",
+      "title": "Training  |  Get started  |  Android Developers",
+      "canonicalUrl": "https://developer.android.com/courses",
+      "domain": "developer.android.com",
+      "description": "Android Basics with Compose\n\nstop Training level: Beginner\n\nFor experienced Android developers\n\nJetpack Compose for Android developers\n\nstop Training level: Intermediate\n\nAndroid app architecture\n\nsto...",
+      "confidence": 0.65
+    },
+    {
+      "id": "doc-opensource_guide-767mc5",
+      "title": "Open Source Guides | Learn how to launch and grow your project.",
+      "canonicalUrl": "https://opensource.guide/",
+      "domain": "opensource.guide",
+      "description": "Learn how to launch and grow your project.",
+      "confidence": 0.35
+    },
+    {
+      "id": "doc-docs_redhat_com-zqw5ki",
+      "title": "Red Hat Documentation",
+      "canonicalUrl": "https://docs.redhat.com/",
+      "domain": "docs.redhat.com",
+      "description": "Red Hat Documentation",
+      "confidence": 0.37
+    },
+    {
+      "id": "doc-digitalocean_com-ume8s6",
+      "title": "Tutorials | DigitalOcean",
+      "canonicalUrl": "https://www.digitalocean.com/community/tutorials",
+      "domain": "digitalocean.com",
+      "description": "Follow along with one of our 8,000+ development and sysadmin tutorials.",
+      "confidence": 0.27
+    },
+    {
+      "id": "doc-tensorflow_org-nlpdai",
+      "title": "مقدمه ای بر TensorFlow، مقدمه ای بر TensorFlow",
+      "canonicalUrl": "https://www.tensorflow.org/learn?hl=fa",
+      "domain": "tensorflow.org",
+      "description": "TensorFlow ایجاد مدل های یادگیری ماشینی برای دسکتاپ، موبایل، وب و ابر را برای مبتدیان و متخصصان آسان می کند.",
+      "confidence": 0.51
+    },
+    {
+      "id": "doc-deeplearningbook_org-h6rxrh",
+      "title": "Deep Learning",
+      "canonicalUrl": "https://www.deeplearningbook.org/",
+      "domain": "deeplearningbook.org",
+      "description": "Ian Goodfellow and Yoshua Bengio and Aaron Courville\n\nThe Deep Learning textbook is a resource intended to help students and practitioners enter the field of machine learning in general and deep learn...",
+      "confidence": 0.27
+    },
+    {
+      "id": "doc-plato_stanford_edu-2l611p",
+      "title": "Stanford Encyclopedia of Philosophy",
+      "canonicalUrl": "https://plato.stanford.edu/",
+      "domain": "plato.stanford.edu",
+      "description": "Stanford Encyclopedia of Philosophy Menu Browse Table of Contents\n\nAbout Editorial Information\n\nSupport SEP Support the SEP\n\nWhat's New Archives Random Entry\n\nThe Stanford Encyclopedia of Philosophy o...",
+      "confidence": 0.4
+    },
+    {
+      "id": "doc-khanacademy_org-78czq1",
+      "title": "Client Challenge",
+      "canonicalUrl": "https://www.khanacademy.org/math",
+      "domain": "khanacademy.org",
+      "description": "A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings. Please check your connection, disable any ad blockers, or try using a different...",
+      "confidence": 0.41
+    },
+    {
+      "id": "doc-nctm_org-52xr9s",
+      "title": "Index - National Council of Teachers of Mathematics",
+      "canonicalUrl": "https://www.nctm.org/",
+      "domain": "nctm.org",
+      "description": "Founded in 1920, the National Council of Teachers of Mathematics (NCTM) is the largest organization in the world dedicated to improving mathematics education.,",
+      "confidence": 0.66
+    },
+    {
+      "id": "doc-openstax_org-9czbgz",
+      "title": "OpenStax",
+      "canonicalUrl": "https://openstax.org/subjects/math",
+      "domain": "openstax.org",
+      "description": "OpenStax offers free college textbooks for all types of students, making education accessible & affordable for everyone. Browse our list of available subjects!",
+      "confidence": 0.49
+    },
+    {
+      "id": "doc-purplemath_com-dgrffw",
+      "title": "Free and clear online algebra help! | Purplemath",
+      "canonicalUrl": "https://www.purplemath.com/",
+      "domain": "purplemath.com",
+      "description": "Free online lessons, loads of worked examples, clear and practical explainations, and no-nonsense advice. Purplemath is here to help!",
+      "confidence": 0.69
+    },
+    {
+      "id": "doc-khanacademy_org-5c7ihj",
+      "title": "Client Challenge",
+      "canonicalUrl": "https://www.khanacademy.org/",
+      "domain": "khanacademy.org",
+      "description": "A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings. Please check your connection, disable any ad blockers, or try using a different...",
+      "confidence": 0.41
+    },
+    {
+      "id": "doc-ocw_mit_edu-sdlcox",
+      "title": "MIT OpenCourseWare | Free Online Course Materials",
+      "canonicalUrl": "https://ocw.mit.edu/",
       "domain": "ocw.mit.edu",
-      "description": "Undergraduate MIT computer science curriculum featuring professor lecture notes, exam problems, syllabus, and study materials for algorithm analysis.",
+      "description": "MIT OpenCourseWare is a web based publication of virtually all MIT course content. OCW is open and available to the world and is a permanent MIT activity",
+      "confidence": 0.81
+    },
+    {
+      "id": "doc-openstax_org-lhpyl2",
+      "title": "OpenStax",
+      "canonicalUrl": "https://openstax.org/",
+      "domain": "openstax.org",
+      "description": "OpenStax offers free college textbooks for all types of students, making education accessible & affordable for everyone. Browse our list of available subjects!",
+      "confidence": 0.49
+    },
+    {
+      "id": "doc-edx_org-iirl2p",
+      "title": "edX | Online Courses, Certificates & Degrees from Leading Institutions",
+      "canonicalUrl": "https://www.edx.org/",
+      "domain": "edx.org",
+      "description": "Find the online learning path for you, delivered by world-class institutions like Harvard, Google, Amazon, and more.",
+      "confidence": 0.75
+    },
+    {
+      "id": "doc-coursera_org-9lj0tf",
+      "title": "Coursera | Online Courses, Certificates, & Degrees",
+      "canonicalUrl": "https://www.coursera.org/",
+      "domain": "coursera.org",
+      "description": "Learn job-ready skills with online courses, Professional Certificates, Specializations, and degrees from Google, Meta, Anthropic, DeepLearning.AI, Stanford, and more. Start learning today.",
+      "confidence": 0.58
+    },
+    {
+      "id": "doc-classcentral_com-13yqa2",
+      "title": "Class Central • Find the best courses, wherever they exist.",
+      "canonicalUrl": "https://www.classcentral.com/",
+      "domain": "classcentral.com",
+      "description": "Class Central aggregates courses from many providers to help you find the best courses on almost any subject, wherever they exist.",
+      "confidence": 0.52
+    },
+    {
+      "id": "doc-open_umn_edu-vxglz4",
+      "title": "Open Textbook Library",
+      "canonicalUrl": "https://open.umn.edu/opentextbooks",
+      "domain": "open.umn.edu",
+      "description": "Open textbooks are licensed by authors and publishers to be freely used and adapted. Download, edit and distribute them at no cost.",
+      "confidence": 0.47
+    },
+    {
+      "id": "doc-libretexts_org-so2iqi",
+      "title": "Home | LibreTexts",
+      "canonicalUrl": "https://libretexts.org/",
+      "domain": "libretexts.org",
+      "description": "10 times the power at a fraction of the cost!\n\nSchools and Organizations\n\nLibreTexts is your go-to source for Training, Content, Development, and Technology for a ideal blend of Open Education Resourc...",
+      "confidence": 0.83
+    },
+    {
+      "id": "doc-unesco_org-r7qubb",
+      "title": "Education transforms lives | UNESCO",
+      "canonicalUrl": "https://www.unesco.org/en/education",
+      "domain": "unesco.org",
+      "description": "Education is at the heart of UNESCO’s mission to build peace, eradicate poverty and drive sustainable development. It is a human right for all throughout life",
+      "confidence": 0.76
+    },
+    {
+      "id": "doc-unicef_org-7ehn02",
+      "title": "Education | UNICEF",
+      "canonicalUrl": "https://www.unicef.org/education",
+      "domain": "unicef.org",
+      "description": "Every child has the right to go to school and learn.",
       "confidence": 0.82
+    },
+    {
+      "id": "doc-history_com-3sp6lk",
+      "title": "HISTORY | Topics, Shows and This Day in History | HISTORY",
+      "canonicalUrl": "https://www.history.com/",
+      "domain": "history.com",
+      "description": "Fascinating stories from the past you can trust, plus hit shows.",
+      "confidence": 0.27
+    },
+    {
+      "id": "doc-nationalarchives_gov_uk-jvm2q8",
+      "title": "Welcome to The National Archives",
+      "canonicalUrl": "https://www.nationalarchives.gov.uk/",
+      "domain": "nationalarchives.gov.uk",
+      "description": "Explore 1,000 years of history with the official national archive of the UK Government.",
+      "confidence": 0.33
+    },
+    {
+      "id": "doc-historytoday_com-j7dg3p",
+      "title": "History Today | The World’s Leading History Magazine",
+      "canonicalUrl": "https://www.historytoday.com/",
+      "domain": "historytoday.com",
+      "description": "History Today is the world’s leading history magazine for in-depth articles, reviews, and research by the foremost historians in their fields. Subscriptions including our print magazine, digital archive and app are available.",
+      "confidence": 0.48
+    },
+    {
+      "id": "doc-en_wikiversity_org-4md4ow",
+      "title": "Wikiversity",
+      "canonicalUrl": "https://en.wikiversity.org/wiki/Wikiversity:Main_Page",
+      "domain": "en.wikiversity.org",
+      "description": "Wikiversity : Main Page\n\nMultilingual Wikisource\n\nWelcome to Wikiversity\n\nwith 37,494 learning resources and growing.\n\nArts • Humanities • Mathematics • Medicine • Science • Social Sciences • Technolo...",
+      "confidence": 0.43
+    },
+    {
+      "id": "doc-khanacademy_org-eueo7y",
+      "title": "Client Challenge",
+      "canonicalUrl": "https://www.khanacademy.org/economics-finance-domain",
+      "domain": "khanacademy.org",
+      "description": "A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings. Please check your connection, disable any ad blockers, or try using a different...",
+      "confidence": 0.41
     }
   ]
 }

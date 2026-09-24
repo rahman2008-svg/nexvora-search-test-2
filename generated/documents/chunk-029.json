@@ -1,0 +1,330 @@
+{
+  "chunkId": "chunk-029",
+  "filename": "chunk-029.json",
+  "documentCount": 6,
+  "totalBytes": 1151850,
+  "createdAt": "2026-09-24T07:15:54.831Z",
+  "documents": [
+    {
+      "id": "doc-nist_gov-9e7j9c",
+      "url": "https://www.nist.gov/",
+      "canonicalUrl": "https://www.nist.gov/",
+      "domain": "nist.gov",
+      "title": "National Institute of Standards and Technology",
+      "description": "NIST promotes U.S. innovation and industrial competitiveness by advancing measurement science, standards, and technology in ways that enhance economic security and improve our quality of life.",
+      "headings": {
+        "h1": [],
+        "h2": [
+          "125 Years of Driving Innovation",
+          "What we do",
+          "CHIPS for America",
+          "What’s new",
+          "America’s national measurement institute",
+          "NIST in your inbox"
+        ],
+        "h3": [
+          "When Scientists Become Accidental Detectives",
+          "NIST Finalizes Guidelines on Protecting Online Identity and Access Tokens From Misuse",
+          "NIST Awards More Than $1.7 Million to Support Cybersecurity Workforce Development Across 8 States",
+          "Lithium Batteries May Help Unravel Mystery of Ancient Papyrus Scrolls",
+          "NIST Awards More Than $30 Million for MEP Centers in 11 States and Puerto Rico",
+          "NIST-Developed Quantum Sensors Improve Nuclear Monitoring",
+          "Lasers and Math Can Help Doctors Deliver Just the Right Amount of Medicine",
+          "How Do You Measure Fuel at the Gas Pump?",
+          "HEADQUARTERS"
+        ]
+      },
+      "mainText": "NIST Awards More Than $30 Million for MEP Centers in 11 States and Puerto Rico",
+      "language": "en",
+      "category": "Technology",
+      "categoryConfidence": 0.52,
+      "categorySignals": [
+        "title:technology",
+        "heading:cybersecurity",
+        "desc:technology",
+        "desc:security"
+      ],
+      "contentLengthBytes": 97309,
+      "wordCount": 15,
+      "statusCode": 200,
+      "fetchTimeMs": 1083,
+      "processedAt": "2026-09-24T07:12:47.846Z",
+      "chunkId": "chunk-029",
+      "retryCount": 0
+    },
+    {
+      "id": "doc-energy_gov-n9sjl6",
+      "url": "https://www.energy.gov/science",
+      "canonicalUrl": "https://www.energy.gov/science/office-science",
+      "domain": "energy.gov",
+      "title": "Office of Science | Department of Energy",
+      "description": "Office of Science Summary",
+      "headings": {
+        "h1": [
+          "Office of Science"
+        ],
+        "h2": [
+          "Breadcrumb",
+          "Areas of Focus",
+          "Office of Science Leadership",
+          "Featured Articles",
+          "Office of Science News",
+          "Office of Science Programs",
+          "Research Summaries",
+          "Contact Us"
+        ],
+        "h3": [
+          "The Office of Science"
+        ]
+      },
+      "mainText": "To receive the latest news and updates about the Office of Science, submit your e-mail address.\n\nDepartment of Energy's Office of Science has a mission to deliver scientific discoveries and major scientific tools to transform our understanding of nature and advance the energy, economic, and national security of the United States. We are the nation’s largest federal sponsor of basic research in the physical sciences and are a major supporter of research in such key scientific fields as physics, materials science, computing, and chemistry. We are also the lead federal agency supporting fundamental scientific research related to energy.\n\nTo keep America in the forefront of discovery and innovation, we sponsor research at hundreds of universities, national laboratories, and other institutions across the country. We also build and maintain a vitally important array of large-scale scientific facilities at the DOE national laboratories, which are used by thousands of researchers every year.\n\nDiscovery Science Image courtesy of the Department of Energy Office of Science Discovery Science\n\nThe Office of Science supports the Nation’s best minds, using the world’s best facilities, to keep America at the forefront of discovery. From astronomy to zeolites, our researchers are unveiling secrets of the basic building blocks of life, matter, the universe, and energy.\n\nFunding Opportunities University Partners Department of Energy Explains Science Highlights Funded Science (PAMS)\n\nScientific Capabilities Scientific Capabilities\n\nCutting-edge technology and scientific tools drive world-shaping discoveries at DOE. The Office of Science accelerates discovery with the world’s largest array of major scientific user facilities that includes particle colliders, powerful X-ray light sources, supercomputers, and delicate sensors and optics.\n\nOffice of Science National Labs Office of Science User Facilities  \n\nBuilding the Scientific Community Building the Scientific Community\n\nThe Office of Science has long supported large teams who tackle science’s biggest problems. Today, we’re working to cultivate the students who will become the next generation of scientists, develop the scientific workforce, and foster safe work, research, and funding environments.\n\nNational Science Bowl Internships Office of Science Advisory Committee\n\nA Foundation for Innovation A Foundation for Innovation\n\nDiscovery research is the foundation for technological innovation and development. The Office of Science plays a central role in advancing the energy, economic, and national security of the United States.\n\nEarly Career profiles\n\nOffice of Science Leadership\n\nHarriet Kung Deputy Director for Science Programs\n\nJuston Fontaine Deputy Director for Operations\n\nEmma Quigg Chief of Staff of the U.S. Department of Energy's Office of Science\n\nThe Quantum Inflection Point: Charting a Science-First Roadmap for the Nation September 17, 2026\n\nHow Twisting Two-Dimensional Materials Led to a New Field of Research September 8, 2026\n\nLZ Sees Surprising Result in Search for Dark Matter September 1, 2026\n\nStories Behind the Science: Transforming Garbage into Glue August 5, 2026\n\nOffice of Science News\n\nDOE Launches Competition to Accelerate Development of World’s First Fault-Tolerant Quantum Computer September 17, 2026\n\nDepartment of Energy Issues Expressions of Interest and Request for Information Notice and Launches New Website for the Oak Ridge Institute for Science and Education (ORISE) Contract Competition September 16, 2026\n\nStudents to Join Research Teams this Fall at Department of Energy National Laboratories and a Fusion Facility August 24, 2026\n\nDOE’s Office of Science is now Accepting Applications for Graduate Student Research Awards August 12, 2026\n\nOffice of Science Programs\n\nAccelerator R&D and Production December 3, 2024\n\nAdvanced Scientific Computing Research February 25, 2026\n\nBasic Energy Sciences October 29, 2025\n\nBiological and Environmental Research December 3, 2024\n\nFusion Energy Sciences May 13, 2026\n\nHigh Energy Physics October 29, 2025\n\nIsotope R&D and Production (DOE IRP) September 16, 2026\n\nNuclear Physics October 29, 2025\n\nWorkforce Development for Teachers and Scientists March 9, 2026\n\nHops and Jumps Help Lithium Ions Flow Faster in a Solid-state Battery Material September 23, 2026\n\nDeveloping a System to Make X-ray Free Electron Lasers Even Brighter September 8, 2026\n\nHybrid Modeling Improves Predictions of How Water Moves from Land to Atmosphere September 2, 2026\n\nHarnessing the Power of Light and Statistics to Improve Handling of Chemicals and Nuclear Material August 25, 2026\n\nThe Office of Science\n\nU.S. Department of Energy 1000 Independence Ave., SW Washington, DC 20585",
+      "language": "en",
+      "category": "Science",
+      "categoryConfidence": 0.85,
+      "categorySignals": [
+        "url_pattern:\\/science",
+        "title:science",
+        "heading:science",
+        "heading:research",
+        "desc:science",
+        "body:science(26)",
+        "body:physics(3)",
+        "body:quantum(2)",
+        "body:research(11)",
+        "body:scientific(13)"
+      ],
+      "contentLengthBytes": 161559,
+      "wordCount": 685,
+      "statusCode": 200,
+      "fetchTimeMs": 817,
+      "processedAt": "2026-09-24T07:12:48.675Z",
+      "chunkId": "chunk-029",
+      "retryCount": 0
+    },
+    {
+      "id": "doc-home_cern-cv3s5g",
+      "url": "https://home.cern/science",
+      "canonicalUrl": "https://home.cern/science/",
+      "domain": "home.cern",
+      "title": "Science – Home | CERN",
+      "description": "CERN’s physics programme ranges from nuclear to high-energy physics and from studies of antimatter to the possible effects of cosmic rays on clouds.\n\nParticle accelerators propel sub-atomic particles ...",
+      "headings": {
+        "h1": [
+          "Physics",
+          "Accelerators",
+          "Experiments",
+          "Engineering",
+          "Computing"
+        ],
+        "h2": [],
+        "h3": []
+      },
+      "mainText": "CERN’s physics programme ranges from nuclear to high-energy physics and from studies of antimatter to the possible effects of cosmic rays on clouds.\n\nParticle accelerators propel sub-atomic particles to extremely high velocities for a variety of uses from high-energy physics research to medical scans and treatments.\n\nDiverse experiments at CERN investigate physics from the early universe to supersymmetry.\n\nEngineers at CERN build and test the machines and systems that physicists rely on, and technicians keep these systems running smoothly, performing repairs and upgrades where necessary.\n\nExperiments at CERN generate colossal amounts of data. The Data Centre stores these data sets and sends them around the world for analysis.",
+      "language": "en",
+      "category": "Science",
+      "categoryConfidence": 0.74,
+      "categorySignals": [
+        "url_pattern:\\/science",
+        "title:science",
+        "heading:physics",
+        "desc:physics",
+        "desc:particle",
+        "body:physics(4)"
+      ],
+      "contentLengthBytes": 238963,
+      "wordCount": 108,
+      "statusCode": 200,
+      "fetchTimeMs": 1815,
+      "processedAt": "2026-09-24T07:12:50.500Z",
+      "chunkId": "chunk-029",
+      "retryCount": 0
+    },
+    {
+      "id": "doc-home_cern-v4gzgf",
+      "url": "https://home.cern/science/physics",
+      "canonicalUrl": "https://home.cern/science/physics/",
+      "domain": "home.cern",
+      "title": "Physics – Home | CERN",
+      "description": "The research programme at CERN covers topics from the basic structure of matter to cosmic rays, and from the Standard Model to supersymmetry\n\nCERN’s main focus is particle physics – the study of the f...",
+      "headings": {
+        "h1": [
+          "Physics"
+        ],
+        "h2": [
+          "Particles and forces",
+          "Understanding our universe"
+        ],
+        "h3": [
+          "Standard model",
+          "Higgs Boson",
+          "W Boson",
+          "Z Boson",
+          "The early universe",
+          "Heavy Ions and Quark Gluon Plasma",
+          "Antimatter",
+          "Dark Matter",
+          "Cosmic rays: particles from outer space",
+          "Supersymmetry",
+          "Compositeness",
+          "Unified forces",
+          "Extra dimensions, gravitons, and tiny black holes"
+        ]
+      },
+      "mainText": "The research programme at CERN covers topics from the basic structure of matter to cosmic rays, and from the Standard Model to supersymmetry\n\nCERN’s main focus is particle physics – the study of the fundamental constituents of matter – but the physics programme at the laboratory is much broader, ranging from nuclear to high-energy physics, from studies of antimatter to the possible effects of cosmic rays on clouds.\n\nSince the 1970s, particle physicists have described the fundamental structure of matter using an elegant series of equations called the Standard Model . The model describes how everything that they observe in the universe is made from a few basic blocks called fundamental particles, governed by four forces. Physicists at CERN use the world’s most powerful particle accelerators and detectors to test the predictions and limits of the Standard Model. Over the years it has explained many experimental results and precisely predicted a range of phenomena, such that today it is considered a well-tested physics theory.\n\nBut the model only describes the 4% of the known universe, and questions remain. Will we see a unification of forces at the high energies of the Large Hadron Collider (LHC)? Why is gravity so weak? Why is there more matter than antimatter in the universe? Is there more exotic physics waiting to be discovered at higher energies? Will we discover evidence for a theory called supersymmetry at the LHC? Or understand  the Higgs boson that gives particles mass?\n\nPhysicists at CERN are looking for answers to these questions and more – find out more below.\n\nScientists at CERN are trying to find out what the smallest building blocks of matter are.\n\nAll matter except dark matter is made of molecules, which are themselves made of atoms. Inside the atoms, there are electrons spinning around the nucleus. The nucleus itself is generally made of protons and neutrons but even these are composite objects. Inside the protons and neutrons, we find the quarks, but these appear to be indivisible, just like the electrons.\n\nQuarks and electrons are some of the elementary particles we study at CERN and in other laboratories. But physicists have found more of these elementary particles in various experiments, so many in fact that researchers needed to organize them, just like Mendeleev did with his periodic table.\n\nThis is summarized in a concise theoretical model called the Standard Model . Today, we have a very good idea of what matter is made of, how it all holds together and how these particles interact with each other.\n\nUnderstanding our universe\n\nHeavy Ions and Quark Gluon Plasma\n\nCosmic rays: particles from outer space\n\nExtra dimensions, gravitons, and tiny black holes",
+      "language": "en",
+      "category": "Science",
+      "categoryConfidence": 0.83,
+      "categorySignals": [
+        "url_pattern:\\/science",
+        "url_pattern:\\/physics",
+        "title:physics",
+        "heading:physics",
+        "heading:space",
+        "heading:universe",
+        "desc:physics",
+        "desc:research",
+        "desc:particle",
+        "body:physics(5)"
+      ],
+      "contentLengthBytes": 259962,
+      "wordCount": 444,
+      "statusCode": 200,
+      "fetchTimeMs": 588,
+      "processedAt": "2026-09-24T07:12:51.098Z",
+      "chunkId": "chunk-029",
+      "retryCount": 0
+    },
+    {
+      "id": "doc-scientificamerican_com-g3he1b",
+      "url": "https://www.scientificamerican.com/",
+      "canonicalUrl": "https://www.scientificamerican.com/",
+      "domain": "scientificamerican.com",
+      "title": "Scientific American",
+      "description": "Scientific American is the essential guide to the most awe-inspiring advances in science and technology, explaining how they change our understanding of the world and shape our lives.",
+      "headings": {
+        "h1": [
+          "Scientific American"
+        ],
+        "h2": [
+          "The hunt for reality&rsquo;s smallest pieces",
+          "Blood test for multiple cancers clears crucial hurdle on track to FDA approval",
+          "See the Taurids light up the fall sky with brilliant shooting stars",
+          "Watch a robot dog run a marathon faster than the average human",
+          "Is football too dangerous for kids&rsquo; brains?",
+          "RFK, Jr., is focusing attention on electromagnetic fields. Here&rsquo;s what the science says about exposure",
+          "This year&rsquo;s El Ni&ntilde;o just broke another sobering record",
+          "Did OpenAI solve the wrong Navier-Stokes problem?",
+          "Is &lsquo;poop maxxing&rsquo; the key to health?",
+          "Mathematicians use AI to find mysterious symmetries, solving decades-old problem",
+          "9 &lsquo;boundaries&rsquo; keep Earth livable. We&rsquo;ve breached 7 of them",
+          "Scientists discover largest new impact crater in the solar system ever&mdash;on our moon",
+          "Why mathematicians are suddenly hiding research results",
+          "COVID cases are on the rise&mdash;here&rsquo;s what you need to know",
+          "Trump rejects AI regulation, citing parallels with climate change, in U.N. address",
+          "After brutal cuts, can this NASA center still build multibillion-dollar space telescopes?",
+          "Sign up for the Today in Science Newsletter",
+          "See the first new species of cat discovered in more than a century&mdash;it&rsquo;s adorable",
+          "Mathematician reveals the truth behind the Parthenon&rsquo;s optical illusion",
+          "What a Trump order to put political appointees in charge of NIH funding would mean for science",
+          "What does OpenAI&rsquo;s blockbuster Navier-Stokes proof mean for the real world?",
+          "U.S. space weapons, AI regulation debates and the EPA&rsquo;s carbon emissions rollback ",
+          "NASA&rsquo;s Nancy Grace Roman Telescope glimpses its first cosmic light",
+          "Discussions",
+          "Why human language may be intertwined with fire",
+          "Could brain-inspired computers run on the same amount of power as a human brain?",
+          "What changing &lsquo;Lake Ontario&rsquo; to &lsquo;Lake America&rsquo; means for weather forecasts",
+          "SciAm Games",
+          "AI is giving scientists more ideas than they can test",
+          "This dolphin terrifies fish until they puke&mdash;and then eats it",
+          "What your dog really thinks about the world",
+          "Scientific American Travel",
+          "T. rex was as warm-blooded as humans, new study finds",
+          "It&rsquo;s official: The U.S. has weapons in space",
+          "Japan just hit a new longevity milestone",
+          "What if &lsquo;consciousness&rsquo; isn&rsquo;t real?",
+          "How apple detectives solved the mystery of an ancient tree&mdash;and rewrote the history of fruit",
+          "AI steals mathematicians&rsquo; record for most complicated curve",
+          "Parasitic worms aren&rsquo;t just a gut problem&mdash;they can infest the brain, too",
+          "25 winners of math&rsquo;s &lsquo;Nobel Prize&rsquo; decry the AI invasion of their discipline",
+          "This is what an out-of-control measles outbreak looks like"
+        ],
+        "h3": [
+          "Newly discovered &lsquo;fire amoeba&rsquo; pushes the boundaries of life on Earth",
+          "It’s Time to Stand Up for Science",
+          "October 2026 Issue",
+          "Expert Sudoku",
+          "Winter in Yellowstone"
+        ]
+      },
+      "mainText": "The hunt for reality&rsquo;s smallest pieces\n\nPhysicists are searching for what lies underneath the particles we know\n\nBlood test for multiple cancers clears crucial hurdle on track to FDA approval\n\nSee the Taurids light up the fall sky with brilliant shooting stars\n\nWatch a robot dog run a marathon faster than the average human\n\nIs football too dangerous for kids&rsquo; brains?\n\nRFK, Jr., is focusing attention on electromagnetic fields. Here&rsquo;s what the science says about exposure\n\nThe research into how electromagnetic waves and radio frequency radiation influence health has been plagued by low-quality studies\n\nNewly discovered &lsquo;fire amoeba&rsquo; pushes the boundaries of life on Earth\n\nIt was thought that complex cells couldn&rsquo;t survive above a certain temperature, but a tiny amoeba has proven that assumption wrong\n\nThis year&rsquo;s El Ni&ntilde;o just broke another sobering record\n\n&ldquo;This is probably going to be the superlative El Ni&ntilde;o event of our lives so far,&rdquo; a climate scientist says\n\nDid OpenAI solve the wrong Navier-Stokes problem?\n\nOpenAI&rsquo;s proof seems eligible for a $1-million prize&mdash;but only by using a controversial loophole\n\nIs &lsquo;poop maxxing&rsquo; the key to health?\n\nIs it possible to optimize our poop?\n\nMathematicians use AI to find mysterious symmetries, solving decades-old problem\n\nIn parallel, a race by amateurs and mathematicians has found all 25,000 cases of one &ldquo;inverse Galois problem&rdquo;\n\nIt’s Time to Stand Up for Science\n\n9 &lsquo;boundaries&rsquo; keep Earth livable. We&rsquo;ve breached 7 of them\n\nEarth&rsquo;s annual checkup shows that we&rsquo;re at increasing risk of moving away from the environment we&rsquo;re adapted to\n\nScientists discover largest new impact crater in the solar system ever&mdash;on our moon\n\nThe crater, named after geologist and lunar surface expert Tom McGetchin, spans more than two football fields wide\n\nWhy mathematicians are suddenly hiding research results\n\nGoogle made a major breakthrough in quantum computing. To prevent the results from being misused, the company kept them secret. That backfired\n\nSome of the biggest questions in science&mdash;about the origins of space, life and consciousness&mdash;aren't just unanswered. They may be unanswerable. That doesn't stop scientists from trying.\n\nElsewhere in the issue: The Desperate Hunt for Dark Matter | The Battle over Elon Musk's Colossus Data Center | Rewriting the History of American Apples\n\nCOVID cases are on the rise&mdash;here&rsquo;s what you need to know\n\nThe virus is currently most prevalent in California and the southern U.S., but experts expect it to go national in the coming weeks\n\nTrump rejects AI regulation, citing parallels with climate change, in U.N. address\n\nThe president also said artificial intelligence should be rebranded as &ldquo;super intelligence&rdquo;\n\nAfter brutal cuts, can this NASA center still build multibillion-dollar space telescopes?\n\n2025 was a brutal year of budget cuts and workforce attrition at NASA&rsquo;s Goddard Space Flight Center, the home base for the Nancy Grace Roman Space Telescope. Experts worry Goddard&mdash;and NASA&rsquo;s space science&mdash;may never recover\n\nSign up for the Today in Science Newsletter\n\nDelivered free, every weekday\n\nThank you for signing up!\n\nCheck out our other newsletters\n\nSee the first new species of cat discovered in more than a century&mdash;it&rsquo;s adorable\n\nThe cat is smaller than a house cat but has the spots of a leopard\n\nMathematician reveals the truth behind the Parthenon&rsquo;s optical illusion\n\nThe Parthenon sits atop a platform that is curved into a subtle hill shape that some say makes the structure appear straighter&mdash;but is that true?\n\nWhat a Trump order to put political appointees in charge of NIH funding would mean for science\n\nAdvocates and scientists warn that giving political appointees power over research grants would &ldquo;upend&rdquo; U.S. science\n\nWhat does OpenAI&rsquo;s blockbuster Navier-Stokes proof mean for the real world?\n\nOpenAI&rsquo;s claimed proof of the Navier-Stokes problem is a mathematical tour de force, but any real-world applications may be years away&mdash;if they ever arrive at all\n\nU.S. space weapons, AI regulation debates and the EPA&rsquo;s carbon emissions rollback \n\nFrom orbital weapons to AI risks and weaker emissions rules\n\nNASA&rsquo;s Nancy Grace Roman Telescope glimpses its first cosmic light\n\nThe space telescope is set to reveal thousands of new exoplanets and scour the universe for signs of dark matter and energy\n\n“ Much as many of us may not like the notion that wealthy collectors can buy prized fossil specimens, as Dr. Kamat points out, there is at present no legal restriction for doing so. What should happen is that UNESCO or other world organizations should regulate such deals through international consent. That is unlikely to happen quickly nor universally given present… ” — Klaus R\n\nShould private buyers be allowed to own scientific specimens?\n\nWhy human language may be intertwined with fire\n\nUnderstanding how human language evolved is one of the hardest problems in science to unpick\n\nCould brain-inspired computers run on the same amount of power as a human brain?\n\nThe human brain uses about the same amount of wattage as a lightbulb\n\nWhat changing &lsquo;Lake Ontario&rsquo; to &lsquo;Lake America&rsquo; means for weather forecasts\n\nThe National Weather Service is speeding ahead with changing the name of the Great Lake\n\nPlay Expert Sudoku puzzles daily!\n\nAI is giving scientists more ideas than they can test\n\nA new report from Google, Google DeepMind and M.I.T. finds that researchers are using AI&mdash;a lot. It&rsquo;s just not helping as much in the lab\n\nThis dolphin terrifies fish until they puke&mdash;and then eats it\n\nDon&rsquo;t have the energy to catch your own meal? This dolphin has a gross solution\n\nWhat your dog really thinks about the world\n\nScience is helping to peel back the layers of how dogs process the world around them\n\nScientific American Travel\n\nWinter in Yellowstone\n\nT. rex was as warm-blooded as humans, new study finds\n\nThe dinosaurs were once considered reptilian, but the new results suggest we may need to rethink their evolution\n\nIt&rsquo;s official: The U.S. has weapons in space\n\nA high-ranking official announced yesterday that the U.S. military has deployed weapons into orbit to counter threats from Russia and China\n\nJapan just hit a new longevity milestone\n\nMore than 100,000 people in the country are over 100 years old\n\nWhat if &lsquo;consciousness&rsquo; isn&rsquo;t real?\n\nOur understanding of consciousness could be fundamentally wrong\n\nHow apple detectives solved the mystery of an ancient tree&mdash;and rewrote the history of fruit\n\nAnd how they might have helped save the future of American apples\n\nAI steals mathematicians&rsquo; record for most complicated curve\n\nA search for the most complex elliptic curves has taken mathematicians years. Claude beat the record in days\n\nParasitic worms aren&rsquo;t just a gut problem&mdash;they can infest the brain, too\n\nAfter months of headaches and visual hallucinations, a woman was finally revealed to have brain cysts filled with tapeworm larvae\n\n25 winners of math&rsquo;s &lsquo;Nobel Prize&rsquo; decry the AI invasion of their discipline\n\nA new declaration from winners of the Fields Medal reflects many mathematicians&rsquo; growing alarm over a &ldquo;severe misalignment&rdquo; between the tech industry and their field a week after AI toppled one of math&rsquo;s biggest open problems\n\nThis is what an out-of-control measles outbreak looks like\n\nAs Bangladesh faces a deadly measles outbreak, experts assess what it would take for the U.S. to reach similar levels",
+      "language": "en",
+      "category": "Science",
+      "categoryConfidence": 0.86,
+      "categorySignals": [
+        "domain:scientificamerican.com",
+        "title:scientific",
+        "heading:science",
+        "heading:space",
+        "heading:telescope",
+        "heading:nasa",
+        "heading:research",
+        "heading:scientific",
+        "desc:science",
+        "desc:scientific"
+      ],
+      "contentLengthBytes": 356006,
+      "wordCount": 1176,
+      "statusCode": 200,
+      "fetchTimeMs": 240,
+      "processedAt": "2026-09-24T07:12:57.544Z",
+      "chunkId": "chunk-029",
+      "retryCount": 0
+    },
+    {
+      "id": "doc-arxiv_org-u0spdr",
+      "url": "https://arxiv.org/",
+      "canonicalUrl": "https://arxiv.org/",
+      "domain": "arxiv.org",
+      "title": "arXiv.org e-Print archive",
+      "description": "arXiv is a free distribution service and an open-access archive for nearly 2.4 million scholarly articles in the fields of physics, mathematics, computer science, quantitative biology, quantitative fi...",
+      "headings": {
+        "h1": [],
+        "h2": [
+          "Physics",
+          "Mathematics",
+          "Computer Science",
+          "Quantitative Biology",
+          "Quantitative Finance",
+          "Statistics",
+          "Electrical Engineering and Systems Science",
+          "Economics",
+          "About arXiv"
+        ],
+        "h3": []
+      },
+      "mainText": "arXiv is a free distribution service and an open-access archive for nearly 2.4 million scholarly articles in the fields of physics, mathematics, computer science, quantitative biology, quantitative finance, statistics, electrical engineering and systems science, and economics. Materials on this site are not peer-reviewed by arXiv.\n\nAstrophysics ( astro-ph new , recent , search ) Astrophysics of Galaxies ; Cosmology and Nongalactic Astrophysics ; Earth and Planetary Astrophysics ; High Energy Astrophysical Phenomena ; Instrumentation and Methods for Astrophysics ; Solar and Stellar Astrophysics\n\nCondensed Matter ( cond-mat new , recent , search ) Disordered Systems and Neural Networks ; Materials Science ; Mesoscale and Nanoscale Physics ; Other Condensed Matter ; Quantum Gases ; Soft Condensed Matter ; Statistical Mechanics ; Strongly Correlated Electrons ; Superconductivity\n\nGeneral Relativity and Quantum Cosmology ( gr-qc new , recent , search )\n\nHigh Energy Physics - Experiment ( hep-ex new , recent , search )\n\nHigh Energy Physics - Lattice ( hep-lat new , recent , search )\n\nHigh Energy Physics - Phenomenology ( hep-ph new , recent , search )\n\nHigh Energy Physics - Theory ( hep-th new , recent , search )\n\nMathematical Physics ( math-ph new , recent , search )\n\nNonlinear Sciences ( nlin new , recent , search ) includes: Adaptation and Self-Organizing Systems ; Cellular Automata and Lattice Gases ; Chaotic Dynamics ; Exactly Solvable and Integrable Systems ; Pattern Formation and Solitons\n\nNuclear Experiment ( nucl-ex new , recent , search )\n\nNuclear Theory ( nucl-th new , recent , search )\n\nPhysics ( physics new , recent , search ) includes: Accelerator Physics ; Applied Physics ; Atmospheric and Oceanic Physics ; Atomic and Molecular Clusters ; Atomic Physics ; Biological Physics ; Chemical Physics ; Classical Physics ; Computational Physics ; Data Analysis, Statistics and Probability ; Fluid Dynamics ; General Physics ; Geophysics ; History and Philosophy of Physics ; Instrumentation and Detectors ; Medical Physics ; Optics ; Physics and Society ; Physics Education ; Plasma Physics ; Popular Physics ; Space Physics\n\nQuantum Physics ( quant-ph new , recent , search )\n\nMathematics ( math new , recent , search ) includes: (see detailed description ): Algebraic Geometry ; Algebraic Topology ; Analysis of PDEs ; Category Theory ; Classical Analysis and ODEs ; Combinatorics ; Commutative Algebra ; Complex Variables ; Differential Geometry ; Dynamical Systems ; Functional Analysis ; General Mathematics ; General Topology ; Geometric Topology ; Group Theory ; History and Overview ; Information Theory ; K-Theory and Homology ; Logic ; Mathematical Physics ; Metric Geometry ; Number Theory ; Numerical Analysis ; Operator Algebras ; Optimization and Control ; Probability ; Quantum Algebra ; Representation Theory ; Rings and Algebras ; Spectral Theory ; Statistics Theory ; Symplectic Geometry\n\nComputing Research Repository ( CoRR new , recent , search ) includes: (see detailed description ): Artificial Intelligence ; Computation and Language ; Computational Complexity ; Computational Engineering, Finance, and Science ; Computational Geometry ; Computer Science and Game Theory ; Computer Vision and Pattern Recognition ; Computers and Society ; Cryptography and Security ; Data Structures and Algorithms ; Databases ; Digital Libraries ; Discrete Mathematics ; Distributed, Parallel, and Cluster Computing ; Emerging Technologies ; Formal Languages and Automata Theory ; General Literature ; Graphics ; Hardware Architecture ; Human-Computer Interaction ; Information Retrieval ; Information Theory ; Logic in Computer Science ; Machine Learning ; Mathematical Software ; Multiagent Systems ; Multimedia ; Networking and Internet Architecture ; Neural and Evolutionary Computing ; Numerical Analysis ; Operating Systems ; Other Computer Science ; Performance ; Programming Languages ; Robotics ; Social and Information Networks ; Software Engineering ; Sound ; Symbolic Computation ; Systems and Control\n\nQuantitative Biology ( q-bio new , recent , search ) includes: (see detailed description ): Biomolecules ; Cell Behavior ; Genomics ; Molecular Networks ; Neurons and Cognition ; Other Quantitative Biology ; Populations and Evolution ; Quantitative Methods ; Subcellular Processes ; Tissues and Organs\n\nQuantitative Finance ( q-fin new , recent , search ) includes: (see detailed description ): Computational Finance ; Economics ; General Finance ; Mathematical Finance ; Portfolio Management ; Pricing of Securities ; Risk Management ; Statistical Finance ; Trading and Market Microstructure\n\nStatistics ( stat new , recent , search ) includes: (see detailed description ): Applications ; Computation ; Machine Learning ; Methodology ; Other Statistics ; Statistics Theory\n\nElectrical Engineering and Systems Science\n\nElectrical Engineering and Systems Science ( eess new , recent , search ) includes: (see detailed description ): Audio and Speech Processing ; Image and Video Processing ; Signal Processing ; Systems and Control\n\nEconomics ( econ new , recent , search ) includes: (see detailed description ): Econometrics ; General Economics ; Theoretical Economics\n\nHow to Submit to arXiv",
+      "language": "en",
+      "category": "Science",
+      "categoryConfidence": 0.82,
+      "categorySignals": [
+        "domain:arxiv.org",
+        "url_pattern:\\/arxiv",
+        "heading:science",
+        "heading:physics",
+        "heading:biology",
+        "desc:science",
+        "desc:physics",
+        "desc:biology",
+        "body:science(9)",
+        "body:physics(27)"
+      ],
+      "contentLengthBytes": 38051,
+      "wordCount": 805,
+      "statusCode": 200,
+      "fetchTimeMs": 200,
+      "processedAt": "2026-09-24T07:13:00.116Z",
+      "chunkId": "chunk-029",
+      "retryCount": 0
+    }
+  ]
+}

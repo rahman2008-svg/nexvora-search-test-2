@@ -1,0 +1,214 @@
+{
+  "chunkId": "chunk-030",
+  "filename": "chunk-030.json",
+  "documentCount": 6,
+  "totalBytes": 290942,
+  "createdAt": "2026-09-24T07:15:54.831Z",
+  "documents": [
+    {
+      "id": "doc-plato_stanford_edu-2l611p",
+      "url": "https://plato.stanford.edu/",
+      "canonicalUrl": "https://plato.stanford.edu/",
+      "domain": "plato.stanford.edu",
+      "title": "Stanford Encyclopedia of Philosophy",
+      "description": "Stanford Encyclopedia of Philosophy Menu Browse Table of Contents\n\nAbout Editorial Information\n\nSupport SEP Support the SEP\n\nWhat's New Archives Random Entry\n\nThe Stanford Encyclopedia of Philosophy o...",
+      "headings": {
+        "h1": [],
+        "h2": [
+          "Search",
+          "Browse"
+        ],
+        "h3": []
+      },
+      "mainText": "Stanford Encyclopedia of Philosophy Menu Browse Table of Contents\n\nAbout Editorial Information\n\nSupport SEP Support the SEP\n\nWhat's New Archives Random Entry\n\nThe Stanford Encyclopedia of Philosophy organizes scholars from around the world in philosophy and related disciplines to create and maintain an up-to-date reference work.\n\nCo-Principal Editors: Edward N. Zalta and Uri Nodelman\n\nMasthead | Editorial Board\n\nCurrent Operations Are Supported By:\n\nThe Offices of the Provost, the Dean of Humanities and Sciences, and the Dean of Research, Stanford University\n\nThe SEP Library Fund: containing contributions from the National Endowment for the Humanities and the membership dues of academic libraries that have joined SEPIA .\n\nThe O.C. Tanner SEP Fund: containing a gift from the O.C. Tanner Company.\n\nThe John Perry Fund and The SEP Fund: containing contributions from individual donors.\n\nThe Friends of the SEP Society Fund: containing membership dues from individuals who have joined the Friends of the SEP Society to obtain such member benefits as nicely formatted PDF versions of SEP entries.\n\nThe SEP gratefully acknowledges founding support from the National Endowment for the Humanities, the National Science Foundation, The American Philosophical Association/Pacific Division, The Canadian Philosophical Association, and the Philosophy Documentation Center. Fundraising efforts were supported by a grant from The William and Flora Hewlett Foundation.\n\nEditorial Information\n\nView this site from another server:\n\nInfo about mirror sites\n\nThe Stanford Encyclopedia of Philosophy is copyright &copy; 2026 by The Metaphysics Research Lab , Department of Philosophy, Stanford University\n\nLibrary of Congress Catalog Data: ISSN 1095-5054",
+      "language": "en",
+      "category": "Education",
+      "categoryConfidence": 0.4,
+      "categorySignals": [
+        "domain:.edu",
+        "domain:stanford.edu",
+        "body:university(2)"
+      ],
+      "contentLengthBytes": 11636,
+      "wordCount": 250,
+      "statusCode": 200,
+      "fetchTimeMs": 997,
+      "processedAt": "2026-09-24T07:13:01.117Z",
+      "chunkId": "chunk-030",
+      "retryCount": 0
+    },
+    {
+      "id": "doc-iep_utm_edu-ji3lrk",
+      "url": "https://iep.utm.edu/",
+      "canonicalUrl": "https://iep.utm.edu/",
+      "domain": "iep.utm.edu",
+      "title": "Internet Encyclopedia of Philosophy | An encyclopedia of philosophy articles written by professional philosophers.",
+      "description": "Featured Article: Jean-Paul Sartre: Existentialism\n\nJames Fieser , Ph.D., founder & general editor Bradley Dowden , Ph.D., general editor...",
+      "headings": {
+        "h1": [
+          "Internet Encyclopedia of Philosophy",
+          "Stay Connected",
+          "Browse by Topic"
+        ],
+        "h2": [
+          "An encyclopedia of philosophy articles written by professional philosophers."
+        ],
+        "h3": []
+      },
+      "mainText": "Featured Article: Jean-Paul Sartre: Existentialism\n\nJames Fieser , Ph.D., founder & general editor Bradley Dowden , Ph.D., general editor",
+      "language": "en",
+      "category": "General",
+      "categoryConfidence": 0.45,
+      "categorySignals": [
+        "title:encyclopedia",
+        "heading:encyclopedia",
+        "desc:general",
+        "body:general(2)"
+      ],
+      "contentLengthBytes": 24299,
+      "wordCount": 19,
+      "statusCode": 200,
+      "fetchTimeMs": 1559,
+      "processedAt": "2026-09-24T07:13:02.680Z",
+      "chunkId": "chunk-030",
+      "retryCount": 0
+    },
+    {
+      "id": "doc-khanacademy_org-78czq1",
+      "url": "https://www.khanacademy.org/math",
+      "canonicalUrl": "https://www.khanacademy.org/math",
+      "domain": "khanacademy.org",
+      "title": "Client Challenge",
+      "description": "A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings. Please check your connection, disable any ad blockers, or try using a different...",
+      "headings": {
+        "h1": [],
+        "h2": [],
+        "h3": []
+      },
+      "mainText": "A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings. Please check your connection, disable any ad blockers, or try using a different browser.",
+      "language": "en",
+      "category": "Education",
+      "categoryConfidence": 0.41,
+      "categorySignals": [
+        "domain:khanacademy.org"
+      ],
+      "contentLengthBytes": 3038,
+      "wordCount": 35,
+      "statusCode": 200,
+      "fetchTimeMs": 335,
+      "processedAt": "2026-09-24T07:13:03.016Z",
+      "chunkId": "chunk-030",
+      "retryCount": 0
+    },
+    {
+      "id": "doc-mathsisfun_com-mj07gp",
+      "url": "https://www.mathsisfun.com/",
+      "canonicalUrl": "https://www.mathsisfun.com/",
+      "domain": "mathsisfun.com",
+      "title": "Math is Fun",
+      "description": "Math explained in easy language, plus puzzles, games, worksheets and an illustrated dictionary. For K-12 kids, teachers and parents.",
+      "headings": {
+        "h1": [],
+        "h2": [],
+        "h3": [
+          "Times Tables"
+        ]
+      },
+      "mainText": "Inspire your class, read our suggestions!\n\nColorable Number Chart\n\nLast Updated 1 Jan 2026\n\nStarted 19th April 2000 See Recent Additions\n\nPrint out The Times Tables and stick them in your exercise book.\n\nTest Your Tables with an interactive quiz.\n\nPlay with the Properties of the equation of a straight line\n\nVisit the Math is Fun Forum\n\nMath Tools :: Math Links Mathematics is commonly called Math in the US and Maths in the UK.",
+      "language": "en",
+      "category": "News",
+      "categoryConfidence": 0.38,
+      "categorySignals": [
+        "heading:times"
+      ],
+      "contentLengthBytes": 22598,
+      "wordCount": 75,
+      "statusCode": 200,
+      "fetchTimeMs": 614,
+      "processedAt": "2026-09-24T07:13:03.632Z",
+      "chunkId": "chunk-030",
+      "retryCount": 0
+    },
+    {
+      "id": "doc-mathworld_wolfram_com-fdb5zl",
+      "url": "https://mathworld.wolfram.com/",
+      "canonicalUrl": "https://mathworld.wolfram.com/",
+      "domain": "mathworld.wolfram.com",
+      "title": "Wolfram MathWorld: The Web's Most Extensive Mathematics Resource",
+      "description": "Comprehensive encyclopedia of mathematics with 13,000 detailed entries.  Continually updated, extensively illustrated, and with interactive examples.",
+      "headings": {
+        "h1": [],
+        "h2": [],
+        "h3": [
+          "Algebra",
+          "Foundations of Mathematics",
+          "Probability and Statistics",
+          "Applied Mathematics",
+          "Geometry",
+          "Recreational Mathematics",
+          "Calculus and Analysis",
+          "History and Terminology",
+          "Topology",
+          "Discrete Mathematics",
+          "Number Theory",
+          "New in MathWorld"
+        ]
+      },
+      "mainText": "Foundations of Mathematics\n\nProbability and Statistics\n\nRecreational Mathematics\n\nCalculus and Analysis\n\nHistory and Terminology\n\nCreated, developed & nurtured by Eric Weisstein with contributions from the world's mathematical community\n\nOnline Integral Calculator\n\nOnline Derivative Calculator",
+      "language": "en",
+      "category": "General",
+      "categoryConfidence": 0.57,
+      "categorySignals": [
+        "title:resource",
+        "desc:encyclopedia"
+      ],
+      "contentLengthBytes": 29034,
+      "wordCount": 34,
+      "statusCode": 200,
+      "fetchTimeMs": 1504,
+      "processedAt": "2026-09-24T07:13:08.646Z",
+      "chunkId": "chunk-030",
+      "retryCount": 0
+    },
+    {
+      "id": "doc-nctm_org-52xr9s",
+      "url": "https://www.nctm.org/",
+      "canonicalUrl": "https://www.nctm.org/",
+      "domain": "nctm.org",
+      "title": "Index - National Council of Teachers of Mathematics",
+      "description": "Founded in 1920, the National Council of Teachers of Mathematics (NCTM) is the largest organization in the world dedicated to improving mathematics education.,",
+      "headings": {
+        "h1": [],
+        "h2": [
+          "Featured Classroom Resources",
+          "Adding It All Up Podcast",
+          "Journals",
+          "Featured Jobs",
+          "News"
+        ],
+        "h3": [
+          "Position Statements"
+        ]
+      },
+      "mainText": "Index - National Council of Teachers of Mathematics About\n\nClassroom Resources Notice and Wonder\n\nLessons and Interactives\n\nInnovative Lessons and Activities\n\nClassroom Conversations\n\n2027 TEAMS Competition\n\nPublications Mathematics Teacher: Learning and Teaching PK-12\n\nFeatured Books - Shop the NCTM Store\n\nJournal for Research in Mathematics Education\n\nEssential Understandings Made Easy Series\n\nMathematics Teacher Educator\n\nInstitutional Subscriptions\n\nRights and Permissions\n\nStandards & Positions Principles to Actions\n\nStandards for Mathematics Teacher Preparation\n\nHigh School Mathematics Reimagined\n\nCurriculum Focal Points\n\nAdvocacy Policies and Recommendations\n\nAdvocacy Infographics\n\nEvery Student Succeeds Act - ESSA Toolkit\n\nResearch Research Briefs & Clips\n\nLinking Research & Practice\n\nJournal for Research in Mathematics Education\n\nContinuing the Journey\n\nConferences & Professional Development NCTM Annual Meeting & Exposition\n\nLouisville 2027 Spring Conference\n\nSeattle 2027 Spring Conference\n\nSpeaking at NCTM Events\n\nProfessional Development Resources\n\nProfessional Learning Services\n\nNCTM District Solutions\n\nExhibit, Advertise, Sponsor\n\nGrants & Awards Funding Opportunities\n\nAbout Mathematics Education Trust\n\nLifetime Achievement Award\n\nSocial Justice and Mathematics\n\nCelebrating 50 Years of MET\n\nMembership Individuals\n\nGroup Memberships for Schools and Districts\n\nFeatured Classroom Resources\n\nDay-to-Day Teacher Tools\n\n9–12 | Homework Phone Pals\n\n\"Illuminations\" Lessons & Interactives\n\nFree Resource of the Week\n\n3–5 | Growing Patterns\n\nAdding It All Up Podcast\n\nSeptember 2026: Front & Center Amplifying Student Voice for Authentic Belonging\n\nGrades PK–2 Making Connections During Math Storytelling\n\nGrades 3–5 Teaching Math Through a Critical Literacy Lens\n\nGrades 6–8 Evaluating Affordances of Representations\n\nGrades 9–12 Caffeine, Energy Drinks, and Exponential Functions\n\nCall for Papers Write for MTLT. Learn more about submitting an article.\n\nFeatured Article Preservice Teachers’ Evolving Knowledge Around Technology for Teaching Mathematics\n\nFeatured Article Shifts in Forming Solids of Revolution: Characterizing a Student’s Attention Using Paper-and-Pencil Tasks and Manipulatives\n\nLog In Not a member? Join Now\n\nNCTM Position Statements define a particular problem, issue, or need and describe its relevance to mathematics education. These statements address important and timely policy issues relevant to mathematics education. Recent position statements include:\n\nNew! Advancing Excellence and Access in Mathematics Centering Joy, Powerful Teaching, and Equitable Assessment\n\nPreparing Math Teachers to Support Students with Learning Disabilities\n\nMaximizing the Impact of Universal Screeners to Support Student Learning\n\nChanging the Professional Culture of Teaching Mathematics\n\nOpen Educational Resources in Mathematics Education\n\nView all NCTM Position Statements.",
+      "language": "en",
+      "category": "Education",
+      "categoryConfidence": 0.66,
+      "categorySignals": [
+        "heading:classroom",
+        "desc:education",
+        "body:education(6)",
+        "body:student(4)",
+        "body:teaching(5)",
+        "body:classroom(3)"
+      ],
+      "contentLengthBytes": 200337,
+      "wordCount": 371,
+      "statusCode": 200,
+      "fetchTimeMs": 1006,
+      "processedAt": "2026-09-24T07:13:14.313Z",
+      "chunkId": "chunk-030",
+      "retryCount": 0
+    }
+  ]
+}

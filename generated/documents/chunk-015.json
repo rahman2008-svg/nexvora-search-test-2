@@ -1,0 +1,274 @@
+{
+  "chunkId": "chunk-015",
+  "filename": "chunk-015.json",
+  "documentCount": 6,
+  "totalBytes": 242427,
+  "createdAt": "2026-09-24T07:15:54.831Z",
+  "documents": [
+    {
+      "id": "doc-docs_kernel_org-w9rps2",
+      "url": "https://docs.kernel.org/",
+      "canonicalUrl": "https://docs.kernel.org/",
+      "domain": "docs.kernel.org",
+      "title": "The Linux Kernel documentation — The Linux Kernel documentation",
+      "description": "Working with the development community\n\nAll development-process docs\n\nDevelopment tools and processes\n\nWriting documentation\n\nUser-oriented documentation\n\nFirmware-related documentation\n\nFirmware and ...",
+      "headings": {
+        "h1": [
+          "The Linux Kernel",
+          "The Linux Kernel documentation ¶"
+        ],
+        "h2": [
+          "Working with the development community ¶",
+          "Internal API manuals ¶",
+          "Development tools and processes ¶",
+          "User-oriented documentation ¶",
+          "Firmware-related documentation ¶",
+          "Architecture-specific documentation ¶",
+          "Other documentation ¶",
+          "Translations ¶",
+          "Indices and tables ¶"
+        ],
+        "h3": [
+          "Quick search",
+          "Contents",
+          "This Page"
+        ]
+      },
+      "mainText": "Working with the development community\n\nAll development-process docs\n\nDevelopment tools and processes\n\nWriting documentation\n\nUser-oriented documentation\n\nFirmware-related documentation\n\nFirmware and Devicetree\n\nArchitecture-specific documentation\n\nUnsorted documentation\n\nChinese (Traditional)\n\nPortuguese (Brazilian)\n\nThe Linux Kernel documentation ¶\n\nThis is the top level of the kernel’s documentation tree. Kernel documentation, like the kernel itself, is very much a work in progress; that is especially true as we work to integrate our many scattered documents into a coherent whole. Please note that improvements to the documentation are welcome; join the linux-doc list at vger.kernel.org if you want to help out.\n\nWorking with the development community ¶\n\nThe essential guides for interacting with the kernel’s development community and getting your work upstream.\n\nWorking with the development community\n\nAll development-process docs\n\nInternal API manuals ¶\n\nManuals for use by developers working to interface with the rest of the kernel.\n\nDevelopment tools and processes ¶\n\nVarious other manuals with useful information for all kernel developers.\n\nDevelopment tools and processes\n\nWriting documentation\n\nUser-oriented documentation ¶\n\nThe following manuals are written for users of the kernel — those who are trying to get it to work optimally on a given system and application developers seeking information on the kernel’s user-space APIs.\n\nUser-oriented documentation\n\nSee also: the Linux man pages , which are kept separately from the kernel’s own documentation.\n\nFirmware-related documentation ¶\n\nThe following holds information on the kernel’s expectations regarding the platform firmware.\n\nFirmware-related documentation\n\nFirmware and Devicetree\n\nArchitecture-specific documentation ¶\n\nArchitecture-specific documentation\n\nCPU architectures ARC architecture\n\nLoongArch Architecture\n\nMIPS-specific Documentation\n\nNios II Specific Documentation\n\nOpenRISC Architecture\n\nSuperH Interfaces Guide\n\nx86-specific Documentation\n\nOther documentation ¶\n\nThere are several unsorted documents that don’t seem to fit on other parts of the documentation body, or may require some adjustments and/or conversion to reStructuredText format, or are simply too old.\n\nUnsorted documentation\n\nLa documentazione del kernel Linux\n\nDocumentação do Kernel Linux em Português\n\nTraducción al español",
+      "language": "en",
+      "category": "Technology",
+      "categoryConfidence": 0.8,
+      "categorySignals": [
+        "domain:kernel.org",
+        "title:linux",
+        "title:kernel",
+        "heading:linux",
+        "heading:kernel",
+        "body:linux(4)",
+        "body:kernel(14)",
+        "body:architecture(3)"
+      ],
+      "contentLengthBytes": 18375,
+      "wordCount": 314,
+      "statusCode": 200,
+      "fetchTimeMs": 366,
+      "processedAt": "2026-09-24T07:10:58.965Z",
+      "chunkId": "chunk-015",
+      "retryCount": 0
+    },
+    {
+      "id": "doc-ubuntu_com-vc49fh",
+      "url": "https://ubuntu.com/tutorials",
+      "canonicalUrl": "https://ubuntu.com/tutorials",
+      "domain": "ubuntu.com",
+      "title": "Tutorials | Ubuntu",
+      "description": "Ubuntu is an open source software operating system that runs from the desktop, to the cloud, to all your internet connected things.",
+      "headings": {
+        "h1": [
+          "Tutorials"
+        ],
+        "h2": [
+          "OpenStack OpenStack",
+          "Ceph Ceph",
+          "Kubernetes Kubernetes",
+          "Managed infrastructure Managed infrastructure",
+          "AI / ML AI / ML",
+          "Robotics Robotics",
+          "IoT IoT",
+          "Ubuntu Core Ubuntu Core",
+          "Ubuntu Desktop Ubuntu Desktop",
+          "Ubuntu Server Ubuntu Server",
+          "Cloud Cloud",
+          "Security Security",
+          "Landscape Landscape",
+          "Containers Containers",
+          "Downloads Downloads",
+          "Support Support",
+          "Pricing Pricing",
+          "Sectors"
+        ],
+        "h3": [
+          "Blocking Software Package Installation with Landscape",
+          "Audit UA Client ESM configurations at scale with Landscape",
+          "Manage Livepatch configurations at scale with Landscape",
+          "How to use AWS SSM Session Manager for accessing Ubuntu Pro instances",
+          "Install MicroK8s on Apple M1 silicon",
+          "How to run an Ubuntu Desktop virtual machine using VirtualBox 7",
+          "How to install Ubuntu Desktop on Raspberry Pi 4",
+          "How to build a highly available Kubernetes cluster with MicroK8s",
+          "How to create an Ubuntu Server SDcard for Raspberry Pi",
+          "The Linux command line for beginners",
+          "Install a local Kubernetes with MicroK8s",
+          "Install MicroK8s on macOS",
+          "Install the Java Runtime Environment",
+          "Apply kernel patches without rebooting",
+          "Install and Configure Samba"
+        ]
+      },
+      "mainText": "These tutorials provide a step-by-step process to doing development and dev-ops activities on Ubuntu machines, servers or devices.\n\nYou can write your own &rsaquo;\n\nlandscape, security, server, desktop\n\nBlocking Software Package Installation with Landscape\n\nGranular software restrictions are a trivial activity with Landscape.\n\nlandscape, esm, server, desktop, cloud\n\nAudit UA Client ESM configurations at scale with Landscape\n\nPatch vulnerabilities across your entire Ubuntu estate, even legacy workloads\n\nlandscape, livepatch, ubuntu, server, desktop\n\nManage Livepatch configurations at scale with Landscape\n\nEnable or disable live kernel patching on Ubuntu machines through the Landscape dashboard\n\nHow to use AWS SSM Session Manager for accessing Ubuntu Pro instances\n\nHow to use AWS SSM Session Manager for accessing Ubuntu instances without using a SSH connection\n\nInstall MicroK8s on Apple M1 silicon\n\nInstall Kubernetes on Apple M1 with Microk8s and Multipass\n\nHow to run an Ubuntu Desktop virtual machine using VirtualBox 7\n\nLearn how to run Ubuntu Desktop on any operating system using VirtualBox to set up a virtual machine with this quick start guide.\n\niot, desktop, raspberrypi\n\nHow to install Ubuntu Desktop on Raspberry Pi 4\n\nA complete guide to installing Ubuntu Desktop on a Raspberry Pi 4 (4GB or 8GB).\n\nHow to build a highly available Kubernetes cluster with MicroK8s\n\nLearn how to build and deploy a highly available Kubernetes cluster using the MicroK8s HA feature\n\nHow to create an Ubuntu Server SDcard for Raspberry Pi\n\nIn this tutorial, you will learn how to flash Ubuntu Server on a microSD card for Raspberry pi 2, 3 and 4\n\nThe Linux command line for beginners\n\nLearn about the Linux command line and some useful basic commands\n\nInstall a local Kubernetes with MicroK8s\n\nGet a local Kubernetes on your workstation or edge device with microk8s. Possibly the fastest path to this great open-source orchestration system, Kubernetes.\n\nInstall MicroK8s on macOS\n\nGet a local Kubernetes on MacOS with Microk8s and Multipass.\n\nInstall the Java Runtime Environment\n\nInstallation of Java Runtime Environment (JRE) on Ubuntu\n\nApply kernel patches without rebooting\n\nLearn how to install and run Ubuntu’s Livepatch service to get critical kernel patches without rebooting.\n\nInstall and Configure Samba\n\nInstall and configure Samba to share files across a network.",
+      "language": "en",
+      "category": "Technology",
+      "categoryConfidence": 0.78,
+      "categorySignals": [
+        "heading:software",
+        "heading:cloud",
+        "heading:server",
+        "heading:infrastructure",
+        "heading:kubernetes",
+        "heading:linux",
+        "heading:kernel",
+        "heading:security",
+        "desc:software",
+        "desc:cloud"
+      ],
+      "contentLengthBytes": 78197,
+      "wordCount": 362,
+      "statusCode": 200,
+      "fetchTimeMs": 1657,
+      "processedAt": "2026-09-24T07:11:00.635Z",
+      "chunkId": "chunk-015",
+      "retryCount": 0
+    },
+    {
+      "id": "doc-help_ubuntu_com-jmkzcx",
+      "url": "https://help.ubuntu.com/",
+      "canonicalUrl": "https://help.ubuntu.com/",
+      "domain": "help.ubuntu.com",
+      "title": "Official Ubuntu Documentation",
+      "description": "Official Documentation\n\nOfficial Ubuntu Documentation\n\nDocumentation developed and maintained by the Ubuntu Documentation Project.\n\nThe Server documentation source code has moved to github .\n\nThe Desk...",
+      "headings": {
+        "h1": [
+          "Ubuntu Documentation",
+          "Official Ubuntu Documentation"
+        ],
+        "h2": [],
+        "h3": []
+      },
+      "mainText": "Official Documentation\n\nOfficial Ubuntu Documentation\n\nDocumentation developed and maintained by the Ubuntu Documentation Project.\n\nThe Server documentation source code has moved to github .\n\nThe Desktop guide is being migrated to Ubuntu Desktop documentation , similar to the Server guide.\n\nThe Desktop links above are available in many different languages. They will be displayed in the preferred language specified by your browser. If the preferred language is not available they will be displayed in English. The Server guide is available solely in English.\n\nUnsupported releases are not shown here. See instructions for upgrading to a supported version .\n\nUseful information: LTS details and release & end-of-life dates (for all versions).\n\nMore Ubuntu documentation (MAAS, Juju, Cloud-init, ...)\n\nThe material in this document is available under a free license, see Legal for details. For information on contributing see the Ubuntu Documentation Team wiki page . To report errors in this documentation, file a bug .",
+      "language": "en",
+      "category": "Programming",
+      "categoryConfidence": 0.29,
+      "categorySignals": [
+        "desc:code",
+        "desc:github"
+      ],
+      "contentLengthBytes": 5557,
+      "wordCount": 154,
+      "statusCode": 200,
+      "fetchTimeMs": 1573,
+      "processedAt": "2026-09-24T07:11:02.212Z",
+      "chunkId": "chunk-015",
+      "retryCount": 0
+    },
+    {
+      "id": "doc-ubuntu_com-isltuf",
+      "url": "https://ubuntu.com/server/docs",
+      "canonicalUrl": "https://ubuntu.com/server/docs/",
+      "domain": "ubuntu.com",
+      "title": "Ubuntu Server documentation",
+      "description": "Official Ubuntu Server documentation - comprehensive guides for installation, configuration, security, networking, databases, virtualization, and system administration.",
+      "headings": {
+        "h1": [
+          "Ubuntu Server documentation ¶"
+        ],
+        "h2": [
+          "In this documentation ¶",
+          "How this documentation is organized ¶",
+          "Project and community ¶"
+        ],
+        "h3": [
+          "Getting started ¶",
+          "Networking ¶",
+          "Security ¶",
+          "Managing your system ¶",
+          "Data and storage ¶",
+          "Web and mail services ¶",
+          "Virtualisation and containers ¶",
+          "Performance ¶"
+        ]
+      },
+      "mainText": "Ubuntu Server documentation ¶\n\nUbuntu Server is a version of the Ubuntu operating system designed and engineered as a backbone for the internet.\n\nUbuntu Server brings economic and technical scalability to your data center, public or private. Whether you want to deploy an OpenStack cloud, a Kubernetes cluster or a 50,000-node render farm, Ubuntu Server delivers the best value scale-out performance available.\n\nThis documentation always targets the latest LTS version of Ubuntu. When there are differences towards older LTS releases, they are noted in the guide.\n\nIn this documentation ¶\n\nThe tutorial walks you through a fresh installation and the first steps of operating an Ubuntu Server.\n\nInstallation : System requirements • Basic installation • Ubuntu Pro subscription\n\nSystem basics : Managing software • Customizing package files • Third party repository usage\n\nThe Ubuntu command line : Welcome to the terminal • The command line in depth • Command-line cheat sheet\n\nConfigure network interfaces, provide name and address services, share resources, and synchronize time.\n\nUnderstanding networks : Key concepts • About Netplan • Time synchronization\n\nConfiguration : Using Netplan • Domain Name System (DNS) • Dynamic Host Configuration Protocol (DHCP)\n\nSecuring your network : Install OpenSSH • Firewalls • DNS Security Extensions (DNSSEC)\n\nHigh throughput : Open vSwitch with DPDK • About DPDK\n\nSharing : Files with NFS • Printers with CUPS\n\nWith Windows systems : Samba • Windows Active Directory\n\nProtect your system with access controls, firewalls, encrypted communications, and network authentication. For more general information about security in Ubuntu, refer also to the Ubuntu Security documentation .\n\nUnderstanding security : Introduction • Security suggestions\n\nBasic security : User management • AppArmor\n\nAuthentication : Install Kerberos • Set up SSSD with LDAP • Smart cards\n\nCryptography : Cryptographic libraries • About certificates • OpenSSL\n\nVPNs : OpenVPN • WireGuard VPN\n\nManaging your system ¶\n\nInstall, update, upgrade, and troubleshoot the software packages running on your system.\n\nManaging software : Package management • etckeeper • Get older package versions using snapshots\n\nUpdate considerations : Automatic updates • Phased updates • Testing updates in advance\n\nUpgrade Ubuntu version : Release upgrades\n\nTroubleshooting : Report a bug • Debugging with debuginfod • Kernel crash dump\n\nStore and manage data using directory services, databases, logical volumes, and backup tools.\n\nDatabases : MySQL • PostgreSQL\n\nDirectory services : Introduction to OpenLDAP • Install OpenLDAP • OpenLDAP replication\n\nDevice mapper multipathing : Intro to multipathing • Multipath configuration options and overview\n\nStorage : About LVM • Manage logical volumes • Sharing data storage with iSCSI\n\nVersion control : gitolite\n\nWeb and mail services ¶\n\nServe web content, proxy traffic, write server-side applications, and handle email.\n\nWeb servers : About web servers • Apache2 • nginx\n\nSquid proxy server : About Squid proxy • Install a Squid proxy server\n\nMail services : Postfix • Exim4 • Dovecot\n\nVirtualisation and containers ¶\n\nRun workloads in virtual machines and containers using lightweight and full-virtualisation tooling.\n\nUnderstand virtualization : Intro to virtualisation\n\nVirtual machines : Multipass • QEMU • QEMU microvm\n\nVM tooling : libvirt and virsh • virt-manager • Nested virtualization\n\nContainers : Docker for system admins • Docker storage, networking, and logging • Run rocks on your server\n\nDeployment : Find cloud images • About cloud-init • LXD\n\nConfidential computing : AMD SEV • Intel TDX\n\nSet up GPU resources and optimize system performance.\n\nGPU resources : Install Nvidia drivers • GPU virtualization\n\nPerformance : • CPU P-states • hwloc\n\nOptimization : CPU power management • TuneD • Profile-Guided Optimization\n\nHigh availability : Introduction to High Availability • Set up DRBD • Migrate from crmsh to pcs\n\nHow this documentation is organized ¶\n\nThis documentation uses the Diátaxis documentation structure .\n\nThe Tutorial takes you step-by-step through installing and setting up your first Ubuntu Server system.\n\nHow-to guides assume basic familiarity with Ubuntu Server and walk you through specific tasks.\n\nReference provides system requirements, a glossary, and other technical specifications.\n\nExplanation includes topic overviews, background and context, and detailed discussion of key concepts.\n\nProject and community ¶\n\nUbuntu Server is a member of the Ubuntu family. It’s an open source project that welcomes community projects, contributions, suggestions, fixes and constructive feedback.\n\nRead our Code of Conduct\n\nGet community support\n\nJoin the Discourse forum\n\nContribute to this documentation\n\nIf you find any errors or have suggestions for improvements, please use the “Give feedback” button at the top of every page. This will take you to GitHub where you can share your comments or let us know about bugs with any page.\n\nDownload Ubuntu Server\n\nCurrent PDF (for Ubuntu 20.04 LTS onward)\n\nUbuntu 18.04 LTS PDF (and earlier)\n\nThinking about using Ubuntu Server for your next project? Get in touch!",
+      "language": "en",
+      "category": "Technology",
+      "categoryConfidence": 0.75,
+      "categorySignals": [
+        "title:server",
+        "heading:server",
+        "heading:security",
+        "desc:server",
+        "desc:security",
+        "desc:virtualization",
+        "body:software(3)",
+        "body:cloud(2)",
+        "body:server(13)",
+        "body:docker(2)"
+      ],
+      "contentLengthBytes": 90559,
+      "wordCount": 781,
+      "statusCode": 200,
+      "fetchTimeMs": 885,
+      "processedAt": "2026-09-24T07:11:03.109Z",
+      "chunkId": "chunk-015",
+      "retryCount": 0
+    },
+    {
+      "id": "doc-docs_fedoraproject_org-qmelsd",
+      "url": "https://docs.fedoraproject.org/",
+      "canonicalUrl": "https://docs.fedoraproject.org/",
+      "domain": "docs.fedoraproject.org",
+      "title": "Untitled Document",
+      "description": "Continue to the English site....",
+      "headings": {
+        "h1": [],
+        "h2": [],
+        "h3": []
+      },
+      "mainText": "Continue to the English site.",
+      "language": "en",
+      "category": "General",
+      "categoryConfidence": 0.5,
+      "categorySignals": [],
+      "contentLengthBytes": 227,
+      "wordCount": 5,
+      "statusCode": 200,
+      "fetchTimeMs": 1406,
+      "processedAt": "2026-09-24T07:11:04.518Z",
+      "chunkId": "chunk-015",
+      "retryCount": 0
+    },
+    {
+      "id": "doc-wiki_archlinux_org-r9f49b",
+      "url": "https://wiki.archlinux.org/",
+      "canonicalUrl": "https://wiki.archlinux.org/",
+      "domain": "wiki.archlinux.org",
+      "title": "ArchWiki",
+      "description": "Welcome to the ArchWiki : your source for Arch Linux documentation on the web.\n\nVisit the Table of contents for a listing of article categories....",
+      "headings": {
+        "h1": [
+          "Main page"
+        ],
+        "h2": [
+          "The distribution",
+          "Our community",
+          "Wiki interaction"
+        ],
+        "h3": []
+      },
+      "mainText": "Welcome to the ArchWiki : your source for Arch Linux documentation on the web.\n\nVisit the Table of contents for a listing of article categories.",
+      "language": "en",
+      "category": "Technology",
+      "categoryConfidence": 0.53,
+      "categorySignals": [
+        "domain:linux.org",
+        "desc:linux"
+      ],
+      "contentLengthBytes": 49512,
+      "wordCount": 25,
+      "statusCode": 200,
+      "fetchTimeMs": 1574,
+      "processedAt": "2026-09-24T07:11:06.097Z",
+      "chunkId": "chunk-015",
+      "retryCount": 0
+    }
+  ]
+}

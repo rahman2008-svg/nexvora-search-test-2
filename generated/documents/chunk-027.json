@@ -1,0 +1,280 @@
+{
+  "chunkId": "chunk-027",
+  "filename": "chunk-027.json",
+  "documentCount": 6,
+  "totalBytes": 491189,
+  "createdAt": "2026-09-24T07:15:54.831Z",
+  "documents": [
+    {
+      "id": "doc-kaggle_com-07b835",
+      "url": "https://www.kaggle.com/docs",
+      "canonicalUrl": "https://www.kaggle.com/docs",
+      "domain": "kaggle.com",
+      "title": "Getting Started | Kaggle Documentation",
+      "description": "Guides and documentation for Kaggle competitions, hackathons, benchmarks, notebooks, datasets, and more.",
+      "headings": {
+        "h1": [],
+        "h2": [],
+        "h3": []
+      },
+      "mainText": "",
+      "language": "en",
+      "category": "General",
+      "categoryConfidence": 0.5,
+      "categorySignals": [],
+      "contentLengthBytes": 5504,
+      "wordCount": 0,
+      "statusCode": 200,
+      "fetchTimeMs": 554,
+      "processedAt": "2026-09-24T07:12:34.540Z",
+      "chunkId": "chunk-027",
+      "retryCount": 0
+    },
+    {
+      "id": "doc-developers_google_com-mj27sp",
+      "url": "https://developers.google.com/machine-learning",
+      "canonicalUrl": "https://developers.google.com/machine-learning",
+      "domain": "developers.google.com",
+      "title": "Machine Learning  |  Google for Developers",
+      "description": "Educational resources for machine learning.",
+      "headings": {
+        "h1": [
+          "Machine Learning"
+        ],
+        "h2": [
+          "Foundational courses",
+          "Advanced courses",
+          "Guides",
+          "Glossaries"
+        ],
+        "h3": [
+          "Introduction to Machine Learning",
+          "Machine Learning Crash Course",
+          "Problem Framing",
+          "Managing ML Projects",
+          "Decision Forests",
+          "Recommendation Systems",
+          "Clustering",
+          "Generative Adversarial Networks",
+          "Rules of ML",
+          "People + AI Guidebook",
+          "Text Classification",
+          "Good Data Analysis",
+          "Deep Learning Tuning Playbook",
+          "Data Traps",
+          "Intro to Responsible AI",
+          "Adversarial Testing for Generative AI",
+          "Fundamentals of machine learning",
+          "Decision forest",
+          "Full glossary",
+          "Engage",
+          "Connect",
+          "Build"
+        ]
+      },
+      "mainText": "The foundational courses cover machine learning fundamentals and core concepts.\n\nWe recommend taking them in the order below.\n\nIntroduction to Machine Learning\n\nNew Machine Learning Crash Course\n\nNew Managing ML Projects\n\nThe advanced courses teach tools and techniques for solving a variety of machine learning problems.\n\nThe courses are structured independently. Take them based on interest or problem domain.\n\nRecommendation Systems\n\nGenerative Adversarial Networks\n\nPeople + AI Guidebook\n\nDeep Learning Tuning Playbook\n\nIntro to Responsible AI\n\nAdversarial Testing for Generative AI\n\nNew Fundamentals of machine learning",
+      "language": "en",
+      "category": "Programming",
+      "categoryConfidence": 0.27,
+      "categorySignals": [
+        "url_pattern:\\/developer"
+      ],
+      "contentLengthBytes": 123295,
+      "wordCount": 86,
+      "statusCode": 200,
+      "fetchTimeMs": 1924,
+      "processedAt": "2026-09-24T07:12:36.476Z",
+      "chunkId": "chunk-027",
+      "retryCount": 0
+    },
+    {
+      "id": "doc-developers_google_com-1u2kw4",
+      "url": "https://developers.google.com/mediapipe",
+      "canonicalUrl": "https://developers.google.com/edge/mediapipe/solutions/guide",
+      "domain": "developers.google.com",
+      "title": "MediaPipe Solutions guide  |  Google AI Edge  |  Google for Developers",
+      "description": "MediaPipe Solutions guide Stay organized with collections Save and categorize content based on your preferences.\n\nMediaPipe Solutions provides a suite of libraries and tools for you to quickly apply a...",
+      "headings": {
+        "h1": [
+          "MediaPipe Solutions guide Stay organized with collections Save and categorize content based on your preferences."
+        ],
+        "h2": [
+          "Available solutions",
+          "Get started",
+          "Legacy solutions"
+        ],
+        "h3": [
+          "Engage",
+          "Connect",
+          "Build"
+        ]
+      },
+      "mainText": "MediaPipe Solutions guide Stay organized with collections Save and categorize content based on your preferences.\n\nMediaPipe Solutions provides a suite of libraries and tools for you to quickly apply artificial intelligence (AI) and machine learning (ML) techniques in your applications. You can plug these solutions into your applications immediately, customize them to your needs, and use them across multiple development platforms. MediaPipe Solutions is part of the MediaPipe open source project , so you can further customize the solutions code to meet your application needs. The MediaPipe Solutions suite includes the following:\n\nThese libraries and resources provide the core functionality for each MediaPipe Solution:\n\nMediaPipe Tasks : Cross-platform APIs and libraries for deploying solutions. Learn more\n\nMediaPipe Models : Pre-trained, ready-to-run models for use with each solution.\n\nThese tools let you customize and evaluate solutions:\n\nMediaPipe Model Maker : Customize models for solutions with your data. Learn more\n\nMediaPipe Studio : Visualize, evaluate, and benchmark solutions in your browser. Learn more\n\nMediaPipe Solutions are available across multiple platforms. Each solution includes one or more models, and you can customize models for some solutions as well. The following list shows what solutions are available for each supported platform and if you can use Model Maker to customize the model:\n\nYou can get started with MediaPipe Solutions by selecting any of the tasks listed in the left navigation tree, including vision , text , and audio tasks. If you need help setting up a development environment for use with MediaPipe Tasks, check out the setup guides for Android , web apps , and Python .\n\nWe have ended support for the MediaPipe Legacy Solutions listed below as of March 1, 2023. All other MediaPipe Legacy Solutions will be upgraded to a new MediaPipe Solution. See the list below for details. The code repository and prebuilt binaries for all MediaPipe Legacy Solutions will continue to be provided on an as-is basis.\n\nExcept as otherwise noted, the content of this page is licensed under the Creative Commons Attribution 4.0 License , and code samples are licensed under the Apache 2.0 License . For details, see the Google Developers Site Policies . Java is a registered trademark of Oracle and/or its affiliates.\n\nLast updated 2026-08-18 UTC.",
+      "language": "en",
+      "category": "Programming",
+      "categoryConfidence": 0.56,
+      "categorySignals": [
+        "url_pattern:\\/developer",
+        "body:code(3)"
+      ],
+      "contentLengthBytes": 134299,
+      "wordCount": 371,
+      "statusCode": 200,
+      "fetchTimeMs": 1673,
+      "processedAt": "2026-09-24T07:12:38.161Z",
+      "chunkId": "chunk-027",
+      "retryCount": 0
+    },
+    {
+      "id": "doc-ai_google_dev-xnl4ih",
+      "url": "https://ai.google.dev/gemini-api/docs",
+      "canonicalUrl": "https://ai.google.dev/gemini-api/docs?hl=sq",
+      "domain": "ai.google.dev",
+      "title": "Gemini API  |  Google AI for Developers",
+      "description": "Dokumentet dhe Referenca e API-t të Gemini",
+      "headings": {
+        "h1": [
+          "Gemini API"
+        ],
+        "h2": [
+          "Takoni modelet",
+          "Eksploro Aftësitë",
+          "Krijo agjentë",
+          "API-ja e Ndërveprimeve"
+        ],
+        "h3": [
+          "Python",
+          "JavaScript",
+          "Java",
+          "Shko",
+          "PUSHTIM"
+        ]
+      },
+      "mainText": "Dokumentet, Dokumentet\n\nAPI-ja Gemini është rruga më e shpejtë nga njoftimi në prodhim me Gemini, Veo, Nano Banana dhe të tjera. Ju lejon të integroni këto modele gjeneruese në aplikacionet tuaja për të gjeneruar tekst dhe imazhe, për të analizuar të dhënat multimodale dhe për të ndërtuar agjentë bisedorë.\n\nfrom google import genai client = genai . Client () interaction = client . interactions . create ( model = \"gemini-3.8-flash\" , input = \"Explain how AI works in a few words\" ) print ( interaction . output_text ) JavaScript\n\nimport { GoogleGenAI } from \"@google/genai\" ; const ai = new GoogleGenAI ({}); const interaction = await ai . interactions . create ({ model : \"gemini-3.8-flash\" , input : \"Explain how AI works in a few words\" , }); console . log ( interaction . output_text ); Java\n\nimport com.google.genai.Client ; import com.google.genai.gaos.models.interactions.CreateModelInteraction ; import com.google.genai.gaos.models.interactions.Interaction ; import com.google.genai.gaos.models.interactions.InteractionsInput ; import com.google.genai.gaos.models.interactions.Model ; import com.google.genai.gaos.models.operations.CreateInteractionRequestBody ; Client client = new Client (); CreateModelInteraction params = CreateModelInteraction . builder () . model ( Model . of ( \"gemini-3.7-flash\" )) . input ( InteractionsInput . of ( \"Explain how AI works in a few words\" )) . build (); Interaction interaction = client . interactions . create ( CreateInteractionRequestBody . of ( params )). interaction (). get (); System . out . println ( interaction . outputText (). orElse ( \"\" )); Shko\n\npackage main import ( \"context\" \"fmt\" \"log\" \"google.golang.org/genai\" \"google.golang.org/genai/interactions/models/interactions\" \"google.golang.org/genai/interactions/models/operations\" ) func main () { ctx := context . Background () client , err := genai . NewClient ( ctx , nil ) if err != nil { log . Fatal ( err ) } res , err := client . Interactions . Create ( ctx , operations . CreateInteractionRequest { Body : operations . NewCreateInteractionRequestBody ( interactions . CreateModelInteraction { Model : interactions . Model ( \"gemini-3.8-flash\" ), Input : interactions . NewInteractionsInput ( \"Explain how AI works in a few words\" ), }), }) if err != nil { log . Fatal ( err ) } if res . Interaction . OutputText != nil { fmt . Println ( * res . Interaction . OutputText ) } } PUSHTIM\n\ncurl -X POST \"https://generativelanguage.googleapis.com/v1beta/interactions\" \\ -H \"x-goog-api-key: $GEMINI_API_KEY \" \\ -H 'Content-Type: application/json' \\ -d '{ \"model\": \"gemini-3.8-flash\", \"input\": \"Explain how AI works in a few words\" }' Filloni Krijoni Çelësin API Takoni modelet\n\nModeli ynë më inteligjent Flash, i projektuar për inxhinieri softuerësh afatgjatë, agjentë autonomë dhe rrjedha pune komplekse të ndërmarrjeve.\n\nModel tekst-në-fjalë i nivelit studior me aktrim ekspresiv, dizajn zëri të personalizuar dhe replikim zëri.\n\nModel me vëllim të lartë dhe i ndjeshëm ndaj kostos, i optimizuar për detyra nën-agjentësh me latencë të ulët dhe rendiment të lartë.\n\nModeli ynë më inteligjent, më i miri në botë për të kuptuarit multimodal, i gjithi i ndërtuar mbi arsyetimin më të fundit.\n\nModele të gjenerimit dhe redaktimit të imazheve të teknologjisë së fundit.\n\nModeli ynë i gjenerimit dhe redaktimit të videove, i teknologjisë së fundit.\n\nModel i konvertimit të të folurit në tekst me latencë të ulët me zbulimin e gjuhës bazuar në shqiptim, diarizimin e folësit dhe vulat kohore të fjalëve.\n\nNjë model i gjuhës së vizionit (VLM) që sjell aftësitë agjentike të Gemini në robotikë dhe mundëson arsyetim të avancuar në botën fizike.\n\nGjeneroni dhe modifikoni imazhe me kontekst të lartë në mënyrë native me Nano Banana.\n\nFutni miliona tokena në modelet Gemini dhe nxirrni njohuri nga imazhe, video dhe dokumente të pastrukturuara.\n\nRezultatet e strukturuara\n\nKufizoni Gemini-n që të përgjigjet me JSON, një format të strukturuar të të dhënave i përshtatshëm për përpunim të automatizuar.\n\nNdërtoni rrjedha pune agjentësh duke lidhur Gemini me API dhe mjete të jashtme.\n\nGjenerimi i videos me Veo 3.1\n\nKrijoni përmbajtje video me cilësi të lartë nga tekst ose imazhe me modelin tonë të teknologjisë së fundit.\n\nAgjentë Zëri me API Live\n\nNdërtoni aplikacione dhe agjentë zanorë në kohë reale me Live API.\n\nLidhni Binjakët me botën përmes mjeteve të integruara si Kërkimi në Google, Konteksti i URL-së, Hartat e Google-it, Ekzekutimi i Kodit dhe Përdorimi i Kompjuterit.\n\nKuptimi i Dokumenteve\n\nPërpunoni deri në 1000 faqe skedarë PDF me kuptim të plotë multimodal ose lloje të tjera skedarësh të bazuar në tekst.\n\nEksploroni se si aftësitë e të menduarit përmirësojnë arsyetimin për detyra dhe agjentë kompleksë.\n\nAgjentët e Menaxhuar i japin Gemini një hapësirë ​​pune për të planifikuar dhe përfunduar detyrat më vete. Me një kërkesë të vetme, Gemini mund të shkruajë dhe ekzekutojë kod, të kërkojë në internet dhe të krijojë skedarë në një mjedis sandbox të hostuar. Filloni me agjentin tonë të parapërgatitur Antigravity ose personalizoni atë me udhëzimet dhe mjetet tuaja.\n\nfrom google import genai client = genai . Client () interaction = client . interactions . create ( agent = \"antigravity-preview-09-2026\" , input = ( \"Research the top 5 sustainable fashion brands, \" \"compare their materials and pricing tiers, and \" \"build an interactive dashboard in analysis.html.\" ), environment = \"remote\" ) print ( interaction . output_text ) JavaScript\n\nimport { GoogleGenAI } from \"@google/genai\" ; const ai = new GoogleGenAI ({}); const interaction = await ai . interactions . create ({ agent : \"antigravity-preview-09-2026\" , input : \"Research the top 5 sustainable fashion brands, \" + \"compare their materials and pricing tiers, and \" + \"build an interactive dashboard in analysis.html.\" , environment : \"remote\" , }); console . log ( interaction . output_text ); Java\n\nimport com.google.genai.Client ; import com.google.genai.gaos.models.interactions.AgentOption ; import com.google.genai.gaos.models.interactions.CreateAgentInteraction ; import com.google.genai.gaos.models.interactions.CreateAgentInteractionEnvironment ; import com.google.genai.gaos.models.interactions.Interaction ; import com.google.genai.gaos.models.interactions.InteractionsInput ; import com.google.genai.gaos.models.operations.CreateInteractionRequestBody ; Client client = new Client (); CreateAgentInteraction params = CreateAgentInteraction . builder () . agent ( AgentOption . of ( \"antigravity-preview-09-2026\" )) . input ( InteractionsInput . of ( \"Research the top 5 sustainable fashion brands, \" + \"compare their materials and pricing tiers, and \" + \"build an interactive dashboard in analysis.html.\" )) . environment ( CreateAgentInteractionEnvironment . of ( \"remote\" )) . build (); Interaction interaction = client . interactions . create ( CreateInteractionRequestBody . of ( params )) . interaction () . get (); System . out . println ( interaction . outputText (). orElse ( \"\" )); Shko\n\npackage main import ( \"context\" \"fmt\" \"log\" \"google.golang.org/genai\" \"google.golang.org/genai/interactions/models/interactions\" \"google.golang.org/genai/interactions/models/operations\" ) func main () { ctx := context . Background () client , err := genai . NewClient ( ctx , nil ) if err != nil { log . Fatal ( err ) } res , err := client . Interactions . Create ( ctx , operations . CreateInteractionRequest { Body : operations . NewCreateInteractionRequestBody ( interactions . CreateAgentInteraction { Agent : interactions . AgentOption ( \"antigravity-preview-09-2026\" ), Input : interactions . NewInteractionsInput ( \"Research the top 5 sustainable fashion brands, \" + \"compare their materials and pricing tiers, and \" + \"build an interactive dashboard in analysis.html.\" , ), Environment : genai . Ptr ( interactions . NewCreateAgentInteractionEnvironment ( \"remote\" )), }), }) if err != nil { log . Fatal ( err ) } if res . Interaction . OutputText != nil { fmt . Println ( * res . Interaction . OutputText ) } } PUSHTIM\n\ncurl -X POST \\ \"https://generativelanguage.googleapis.com/v1beta/interactions\" \\ -H \"x-goog-api-key: $GEMINI_API_KEY \" \\ -H 'Content-Type: application/json' \\ -d '{ \"agent\": \"antigravity-preview-09-2026\", \"input\": \"Research the top 5 sustainable fashion brands, compare their materials and pricing tiers, and build an interactive dashboard in analysis.html.\", \"environment\": \"remote\" }' Fillimi i shpejtë i agjentëve Provo në AI Studio API-ja e Ndërveprimeve\n\nAPI-ja e Interactions është bërë ndërfaqja jonë e parazgjedhur që nga qershori 2026 dhe është mënyra më e mirë për të ndërtuar me modelet dhe agjentët Gemini në të ardhmen. Nëse po filloni një projekt të ri, duhet të përdorni API-në e Interactions. Ndërsa mbetet e mbështetur, API-ja e generateContent tani konsiderohet e trashëguar.\n\nPërmbledhje e Ndërveprimeve\n\nMësoni se si API-ja e Ndërveprimeve menaxhon gjendjen e bisedës, mesazhet dhe formatet e daljes.\n\nUdhëzues për Migrimin\n\nUdhëzues hap pas hapi për të kaluar kodin tuaj nga generateContent në Interactions API.\n\nTransmetoni tokena në kohë reale, mendime graduale dhe ngjarje thirrjesh mjetesh.\n\nTestoni kërkesat, menaxhoni çelësat API, monitoroni përdorimin dhe ndërtoni prototipa.\n\nBëni pyetje dhe gjeni zgjidhje nga zhvillues të tjerë dhe inxhinierë të Google.\n\nGjeni informacion të detajuar rreth Gemini API në dokumentacionin zyrtar të referencës.\n\nKontrolloni statusin e Gemini API, Google AI Studio dhe shërbimeve tona model.\n\nPërveçse siç përcaktohet ndryshe, përmbajtja e kësaj faqeje është e licencuar sipas licencës së atribuimit 4.0 të Creative Commons dhe kampionët e kodit janë licencuar sipas licencës së Apache 2.0 . Për detaje, shiko Politikat e sajtit të Google Developers . Java është një markë tregtare e regjistruar e Oracle dhe/ose filialeve të tij.\n\nPërditësimi i fundit: 2026-09-24 UTC.",
+      "language": "sq",
+      "category": "Programming",
+      "categoryConfidence": 0.8,
+      "categorySignals": [
+        "title:api",
+        "heading:javascript",
+        "heading:python",
+        "heading:java",
+        "heading:api",
+        "body:javascript(2)",
+        "body:golang(6)",
+        "body:java(3)",
+        "body:api(8)",
+        "body:json(3)"
+      ],
+      "contentLengthBytes": 160122,
+      "wordCount": 1445,
+      "statusCode": 200,
+      "fetchTimeMs": 1380,
+      "processedAt": "2026-09-24T07:12:39.557Z",
+      "chunkId": "chunk-027",
+      "retryCount": 0
+    },
+    {
+      "id": "doc-deeplearningbook_org-h6rxrh",
+      "url": "https://www.deeplearningbook.org/",
+      "canonicalUrl": "https://www.deeplearningbook.org/",
+      "domain": "deeplearningbook.org",
+      "title": "Deep Learning",
+      "description": "Ian Goodfellow and Yoshua Bengio and Aaron Courville\n\nThe Deep Learning textbook is a resource intended to help students and practitioners enter the field of machine learning in general and deep learn...",
+      "headings": {
+        "h1": [
+          "Deep Learning"
+        ],
+        "h2": [
+          "An MIT Press book",
+          "Citing the book",
+          "Deep Learning",
+          "FAQ"
+        ],
+        "h3": [
+          "Ian Goodfellow and Yoshua Bengio and Aaron Courville"
+        ]
+      },
+      "mainText": "Ian Goodfellow and Yoshua Bengio and Aaron Courville\n\nThe Deep Learning textbook is a resource intended to help students and practitioners enter the field of machine learning in general and deep learning in particular. The online version of the book is now complete and will remain available online for free.\n\nThe deep learning textbook can now be ordered on Amazon . For up to date announcements, join our mailing list .\n\n@book{Goodfellow-et-al-2016, title={Deep Learning}, author={Ian Goodfellow and Yoshua Bengio and Aaron Courville}, publisher={MIT Press}, note={\\url{http://www.deeplearningbook.org}}, year={2016} } To write your own document using our LaTeX style, math notation, or to copy our notation page, download our template files.\n\nErrata in published editions\n\nPart I: Applied Math and Machine Learning Basics\n\n3 Probability and Information Theory\n\n4 Numerical Computation\n\n5 Machine Learning Basics\n\nPart II: Modern Practical Deep Networks\n\n6 Deep Feedforward Networks\n\n7 Regularization for Deep Learning\n\n8 Optimization for Training Deep Models\n\n9 Convolutional Networks\n\n10 Sequence Modeling: Recurrent and Recursive Nets\n\n11 Practical Methodology\n\nPart III: Deep Learning Research\n\n13 Linear Factor Models\n\n15 Representation Learning\n\n16 Structured Probabilistic Models for Deep Learning\n\n17 Monte Carlo Methods\n\n18 Confronting the Partition Function\n\n19 Approximate Inference\n\n20 Deep Generative Models\n\nCan I get a PDF of this book? No, our contract with MIT Press forbids distribution of too easily copied electronic formats of the book.\n\nWhy are you using HTML format for the web version of the book? This format is a sort of weak DRM required by our contract with MIT Press. It's intended to discourage unauthorized copying/editing of the book.\n\nWhat is the best way to print the HTML format? Printing seems to work best printing directly from the browser, using Chrome. Other browsers do not work as well.\n\nCan I translate the book into Chinese?\n\nPosts and Telecom Press has purchased the rights.\n\nIf you notice any typos (besides the known issues listed below) or have suggestions for exercises to add to the website, do not hesitate to contact the authors directly by e-mail at: feedback@deeplearningbook.org\n\nSince the book is complete and in print, we do not make large changes, only small corrections.\n\nKnown issues: In outdated versions of the Edge browser, the \"does not equal\" sign sometimes appears as the \"equals\" sign. This may be resolved by updating to the latest version.",
+      "language": "en",
+      "category": "Education",
+      "categoryConfidence": 0.27,
+      "categorySignals": [
+        "desc:learn",
+        "desc:textbook",
+        "body:textbook(2)"
+      ],
+      "contentLengthBytes": 5943,
+      "wordCount": 387,
+      "statusCode": 200,
+      "fetchTimeMs": 285,
+      "processedAt": "2026-09-24T07:12:39.846Z",
+      "chunkId": "chunk-027",
+      "retryCount": 0
+    },
+    {
+      "id": "doc-distill_pub-iz8xx4",
+      "url": "https://distill.pub/",
+      "canonicalUrl": "http://distill.pub/",
+      "domain": "distill.pub",
+      "title": "Distill — Latest articles about machine learning",
+      "description": "Articles about Machine Learning",
+      "headings": {
+        "h1": [],
+        "h2": [
+          "Understanding Convolutions on Graphs",
+          "A Gentle Introduction to Graph Neural Networks",
+          "Distill Hiatus",
+          "Multimodal Neurons in Artificial Neural Networks",
+          "Understanding RL Vision",
+          "Communicating with Interactive Articles",
+          "Thread: Differentiable Self-organizing Systems",
+          "Exploring Bayesian Optimization",
+          "Visualizing Neural Networks with the Grand Tour",
+          "Thread: Circuits",
+          "Visualizing the Impact of Feature Attribution Baselines",
+          "Computing Receptive Fields of Convolutional Neural Networks",
+          "The Paths Perspective on Value Learning",
+          "A Discussion of ‘Adversarial Examples Are Not Bugs, They Are Features’",
+          "Open Questions about Generative Adversarial Networks",
+          "A Visual Exploration of Gaussian Processes",
+          "Visualizing memorization in RNNs",
+          "Activation Atlas",
+          "AI Safety Needs Social Scientists",
+          "Distill Update 2018",
+          "Differentiable Image Parameterizations",
+          "Feature-wise transformations",
+          "The Building Blocks of Interpretability",
+          "Using Artificial Intelligence to Augment Human Intelligence",
+          "Sequence Modeling with CTC",
+          "Feature Visualization",
+          "Why Momentum Really Works",
+          "Research Debt",
+          "Experiments in Handwriting with a Neural Network",
+          "Deconvolution and Checkerboard Artifacts",
+          "How to Use t-SNE Effectively",
+          "Attention and Augmented Recurrent Neural Networks"
+        ],
+        "h3": []
+      },
+      "mainText": "Distill — Latest articles about machine learning Distill About Prize Submit Sept. 2, 2021 Peer-reviewed Understanding Convolutions on Graphs\n\nAmeya Daigavane, Balaraman Ravindran, and Gaurav Aggarwal\n\nUnderstanding the building blocks and design choices of graph neural networks.\n\nA Gentle Introduction to Graph Neural Networks\n\nBenjamin Sanchez-Lengeling, Emily Reif, Adam Pearce, and Alexander B. Wiltschko\n\nWhat components are needed for building learning algorithms that leverage the structure and properties of graphs?\n\nAfter five years, Distill will be taking a break.\n\nMultimodal Neurons in Artificial Neural Networks\n\nGabriel Goh, Nick Cammarata †, Chelsea Voss †, Shan Carter, Michael Petrov, Ludwig Schubert, Alec Radford, and Chris Olah\n\nWe report the existence of multimodal neurons in artificial neural networks, similar to those found in the human brain.\n\nUnderstanding RL Vision\n\nJacob Hilton, Nick Cammarata, Shan Carter, Gabriel Goh, and Chris Olah\n\nWith diverse environments, we can analyze, diagnose and edit deep reinforcement learning models using attribution.\n\nCommunicating with Interactive Articles\n\nFred Hohman, Matthew Conlen, Jeffrey Heer, and Duen Horng (Polo) Chau\n\nExamining the design of interactive articles by synthesizing theory from disciplines such as education, journalism, and visualization.\n\nThread: Differentiable Self-organizing Systems\n\nAlexander Mordvintsev, Ettore Randazzo, Eyvind Niklasson, Michael Levin, and Sam Greydanus\n\nA collection of articles and comments with the goal of understanding how to design robust and general purpose self-organizing systems.\n\nExploring Bayesian Optimization\n\nApoorv Agnihotri and Nipun Batra\n\nHow to tune hyperparameters for your machine learning model using Bayesian optimization.\n\nVisualizing Neural Networks with the Grand Tour\n\nMingwei Li, Zhenge Zhao, and Carlos Scheidegger\n\nBy focusing on linear dimensionality reduction, we show how to visualize many dynamic phenomena in neural networks.\n\nNick Cammarata, Shan Carter, Gabriel Goh, Chris Olah, Michael Petrov, Ludwig Schubert, Chelsea Voss, Ben Egan, and Swee Kiat Lim\n\nWhat can we learn if we invest heavily in reverse engineering a single neural network?\n\nVisualizing the Impact of Feature Attribution Baselines\n\nPascal Sturmfels, Scott Lundberg, and Su-In Lee\n\nExploring the baseline input hyperparameter, and how it impacts interpretations of neural network behavior.\n\nComputing Receptive Fields of Convolutional Neural Networks\n\nAndré Araujo, Wade Norris, and Jack Sim\n\nDetailed derivations and open-source code to analyze the receptive fields of convnets.\n\nThe Paths Perspective on Value Learning\n\nSam Greydanus and Chris Olah\n\nA closer look at how Temporal Difference Learning merges paths of experience for greater statistical efficiency\n\nA Discussion of ‘Adversarial Examples Are Not Bugs, They Are Features’\n\nLogan Engstrom, Justin Gilmer, Gabriel Goh, Dan Hendrycks, Andrew Ilyas, Aleksander Madry, Reiichiro Nakano, Preetum Nakkiran, Shibani Santurkar, Brandon Tran, Dimitris Tsipras, and Eric Wallace\n\nSix comments from the community and responses from the original authors\n\nOpen Questions about Generative Adversarial Networks\n\nWhat we’d like to find out about GANs that we don’t know yet.\n\nA Visual Exploration of Gaussian Processes\n\nJochen Görtler, Rebecca Kehlbeck, and Oliver Deussen\n\nHow to turn a collection of small building blocks into a versatile tool for solving regression problems.\n\nVisualizing memorization in RNNs\n\nInspecting gradient magnitudes in context can be a powerful tool to see when recurrent units use short-term or long-term contextual understanding.\n\nShan Carter, Zan Armstrong, Ludwig Schubert, Ian Johnson, and Chris Olah\n\nBy using feature inversion to visualize millions of activations from an image classification network, we create an explorable activation atlas of features the network has learned and what concepts it typically represents.\n\nAI Safety Needs Social Scientists\n\nGeoffrey Irving and Amanda Askell\n\nIf we want to train AI to do what humans want, we need to study humans.\n\nAn Update from the Editorial Team\n\nDifferentiable Image Parameterizations\n\nAlexander Mordvintsev, Nicola Pezzotti, Ludwig Schubert, and Chris Olah\n\nA powerful, under-explored tool for neural network visualizations and art.\n\nFeature-wise transformations\n\nVincent Dumoulin, Ethan Perez, Nathan Schucher, Florian Strub, Harm de Vries, Aaron Courville, and Yoshua Bengio\n\nA simple and surprisingly effective family of conditioning mechanisms.\n\nThe Building Blocks of Interpretability\n\nChris Olah, Arvind Satyanarayan, Ian Johnson, Shan Carter, Ludwig Schubert, Katherine Ye, and Alexander Mordvintsev\n\nInterpretability techniques are normally studied in isolation. We explore the powerful interfaces that arise when you combine them — and the rich structure of this combinatorial space.\n\nUsing Artificial Intelligence to Augment Human Intelligence\n\nShan Carter and Michael Nielsen\n\nBy creating user interfaces which let us work with the representations inside machine learning models, we can give people new tools for reasoning.\n\nSequence Modeling with CTC\n\nA visual guide to Connectionist Temporal Classification, an algorithm used to train deep neural networks in speech recognition, handwriting recognition and other sequence problems.\n\nFeature Visualization\n\nChris Olah, Alexander Mordvintsev, and Ludwig Schubert\n\nHow neural networks build up their understanding of images\n\nWhy Momentum Really Works\n\nWe often think of optimization with momentum as a ball rolling down a hill. This isn’t wrong, but there is much more to the story.\n\nChris Olah and Shan Carter\n\nScience is a human activity. When we fail to distill and explain research, we accumulate a kind of debt...\n\nExperiments in Handwriting with a Neural Network\n\nShan Carter, David Ha, Ian Johnson, and Chris Olah\n\nSeveral interactive visualizations of a generative model of handwriting. Some are fun, some are serious.\n\nDeconvolution and Checkerboard Artifacts\n\nAugustus Odena, Vincent Dumoulin, and Chris Olah\n\nWhen we look very closely at images generated by neural networks, we often see a strange checkerboard pattern of artifacts.\n\nHow to Use t-SNE Effectively\n\nMartin Wattenberg, Fernanda Viégas, and Ian Johnson\n\nAlthough extremely useful for visualizing high-dimensional data, t-SNE plots can sometimes be mysterious or misleading.\n\nAttention and Augmented Recurrent Neural Networks\n\nChris Olah and Shan Carter\n\nA visual overview of neural attention, and the powerful extensions of neural networks being built on top of it.",
+      "language": "en",
+      "category": "General",
+      "categoryConfidence": 0.51,
+      "categorySignals": [
+        "title:about",
+        "heading:about",
+        "heading:introduction",
+        "desc:about",
+        "body:about(4)"
+      ],
+      "contentLengthBytes": 62026,
+      "wordCount": 931,
+      "statusCode": 200,
+      "fetchTimeMs": 289,
+      "processedAt": "2026-09-24T07:12:40.145Z",
+      "chunkId": "chunk-027",
+      "retryCount": 0
+    }
+  ]
+}

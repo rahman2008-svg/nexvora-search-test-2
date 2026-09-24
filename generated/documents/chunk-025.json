@@ -1,0 +1,221 @@
+{
+  "chunkId": "chunk-025",
+  "filename": "chunk-025.json",
+  "documentCount": 6,
+  "totalBytes": 726227,
+  "createdAt": "2026-09-24T07:15:54.831Z",
+  "documents": [
+    {
+      "id": "doc-tensorflow_org-nlpdai",
+      "url": "https://www.tensorflow.org/learn",
+      "canonicalUrl": "https://www.tensorflow.org/learn?hl=fa",
+      "domain": "tensorflow.org",
+      "title": "مقدمه ای بر TensorFlow، مقدمه ای بر TensorFlow",
+      "description": "TensorFlow ایجاد مدل های یادگیری ماشینی برای دسکتاپ، موبایل، وب و ابر را برای مبتدیان و متخصصان آسان می کند.",
+      "headings": {
+        "h1": [
+          "مقدمه ای بر TensorFlow"
+        ],
+        "h2": [
+          "یک پلتفرم سرتاسر برای یادگیری ماشین",
+          "به دنبال گسترش دانش ML خود هستید؟",
+          "با TensorFlow شروع کنید"
+        ],
+        "h3": [
+          "داده ها را برای نتایج موفق ML آماده و بارگذاری کنید",
+          "مدل‌ها را با اکوسیستم TensorFlow بسازید و تنظیم کنید",
+          "مدل‌ها را روی دستگاه، در مرورگر، روی پرم یا در فضای ابری مستقر کنید",
+          "پیاده سازی MLOps برای تولید ML",
+          "مرتبط بمانید",
+          "پشتیبانی"
+        ]
+      },
+      "mainText": "مقدمه ای بر TensorFlow\n\nTensorFlow ایجاد مدل های یادگیری ماشینی برای دسکتاپ، موبایل، وب و ابر را برای مبتدیان و متخصصان آسان می کند. برای شروع به بخش های زیر مراجعه کنید.\n\nپایه های TensorFlow را با آموزش هایی برای مبتدیان و متخصصان بیاموزید تا به شما در ایجاد پروژه یادگیری ماشین بعدی خود کمک کنند.\n\nاز TensorFlow.js برای ایجاد مدل های جدید یادگیری ماشین و استقرار مدل های موجود با جاوا اسکریپت استفاده کنید.\n\nاستنتاج را با LiteRT روی دستگاه‌های تلفن همراه و جاسازی شده مانند Android، iOS، Edge TPU و Raspberry Pi اجرا کنید.\n\nیک خط لوله ML آماده تولید برای آموزش و استنتاج با استفاده از TFX مستقر کنید.\n\nیک پلتفرم سرتاسر برای یادگیری ماشین\n\nداده ها را برای نتایج موفق ML آماده و بارگذاری کنید\n\nداده ها می توانند مهم ترین عامل در موفقیت تلاش های شما برای ML باشند. TensorFlow چندین ابزار داده را برای کمک به شما در ادغام، تمیز کردن و پیش پردازش داده ها در مقیاس ارائه می دهد:\n\nمجموعه داده های استاندارد برای آموزش اولیه و اعتبار سنجی\n\nخطوط لوله داده بسیار مقیاس پذیر برای بارگذاری داده ها\n\nلایه های پیش پردازش برای تبدیل های ورودی رایج\n\nابزارهایی برای اعتبارسنجی و تبدیل مجموعه داده های بزرگ\n\nعلاوه بر این، ابزارهای هوش مصنوعی مسئول به شما کمک می‌کنند تا سوگیری در داده‌های خود را کشف کرده و از بین ببرید تا نتایج منصفانه و اخلاقی از مدل‌های خود ایجاد کنید.\n\nآن را در کولب امتحان کنید\n\nمدل‌ها را با اکوسیستم TensorFlow بسازید و تنظیم کنید\n\nکل اکوسیستم ساخته شده بر اساس چارچوب اصلی را که ساخت، آموزش و صادرات مدل را ساده می کند، کاوش کنید. TensorFlow از آموزش توزیع شده، تکرار مدل فوری و اشکال زدایی آسان با Keras و موارد دیگر پشتیبانی می کند. ابزارهایی مانند تجزیه و تحلیل مدل و TensorBoard به شما کمک می کنند تا توسعه و بهبود را از طریق چرخه عمر مدل خود پیگیری کنید. برای کمک به شما در شروع کار، مجموعه‌ای از مدل‌های از پیش آموزش‌دیده‌شده را در TensorFlow Hub از Google و انجمن پیدا کنید، یا پیاده‌سازی‌های مدل‌های تحقیقاتی پیشرفته را در باغ مدل پیدا کنید. این کتابخانه‌های مولفه‌های سطح بالا به شما امکان می‌دهند مدل‌های قدرتمندی بگیرید و آنها را روی داده‌های جدید تنظیم کنید یا آنها را برای انجام کارهای جدید سفارشی کنید.\n\nآن را در کولب امتحان کنید\n\nمدل‌ها را روی دستگاه، در مرورگر، روی پرم یا در فضای ابری مستقر کنید\n\nTensorFlow قابلیت‌های قوی را برای استقرار مدل‌های شما در هر محیطی - سرورها، دستگاه‌های لبه‌ای، مرورگرها، موبایل، میکروکنترلرها، پردازنده‌ها، پردازنده‌های گرافیکی، و FPGA ارائه می‌کند. سرویس TensorFlow می‌تواند مدل‌های ML را در مقیاس تولید روی پیشرفته‌ترین پردازنده‌های جهان، از جمله واحدهای پردازش تنسور سفارشی Google (TPU) اجرا کند. اگر برای کاهش تأخیر و بهبود حفظ حریم خصوصی داده‌ها نیاز به تجزیه و تحلیل داده‌های نزدیک به منبع آن دارید، چارچوب LiteRT به شما امکان می‌دهد مدل‌ها را روی دستگاه‌های تلفن همراه، دستگاه‌های محاسباتی لبه و حتی میکروکنترلرها اجرا کنید، و چارچوب TensorFlow.js به شما امکان می‌دهد یادگیری ماشینی را فقط با استفاده از آن اجرا کنید. یک مرورگر وب\n\nآن را در کولب امتحان کنید\n\nپیاده سازی MLOps برای تولید ML\n\nپلت فرم TensorFlow به شما کمک می کند تا بهترین شیوه ها را برای اتوماسیون داده، ردیابی مدل، نظارت بر عملکرد و آموزش مجدد مدل پیاده سازی کنید. استفاده از ابزارهای سطح تولید برای خودکارسازی و ردیابی آموزش مدل در طول عمر یک محصول، خدمات یا فرآیند تجاری برای موفقیت بسیار مهم است. TFX چارچوب‌های نرم‌افزاری و ابزارهایی را برای استقرار کامل MLOps فراهم می‌کند، و مشکلات را با تکامل داده‌ها و مدل‌های شما در طول زمان شناسایی می‌کند.\n\nآن را در کولب امتحان کنید\n\nبه دنبال گسترش دانش ML خود هستید؟\n\nاستفاده از TensorFlow با درک اولیه اصول یادگیری ماشین و مفاهیم اصلی آسان تر است. روش های اساسی یادگیری ماشین را بیاموزید و به کار ببرید تا مهارت های خود را توسعه دهید.\n\nبرای بهبود مهارت های خود در زمینه های اساسی ML با برنامه های درسی تنظیم شده شروع کنید.\n\nبا TensorFlow شروع کنید\n\nمقدمه ای بر TensorFlow\n\nTensorFlow ایجاد مدل های یادگیری ماشینی برای دسکتاپ، موبایل، وب و ابر را برای مبتدیان و متخصصان آسان می کند. برای شروع به بخش های زیر مراجعه کنید.\n\nپایه های TensorFlow را با آموزش هایی برای مبتدیان و متخصصان بیاموزید تا به شما در ایجاد پروژه یادگیری ماشین بعدی خود کمک کنند.\n\nاز TensorFlow.js برای ایجاد مدل های جدید یادگیری ماشین و استقرار مدل های موجود با جاوا اسکریپت استفاده کنید.\n\nاستنتاج را با LiteRT روی دستگاه‌های تلفن همراه و جاسازی شده مانند Android، iOS، Edge TPU و Raspberry Pi اجرا کنید.\n\nیک خط لوله ML آماده تولید برای آموزش و استنتاج با استفاده از TFX مستقر کنید.\n\nیک پلتفرم سرتاسر برای یادگیری ماشین\n\nداده ها را برای نتایج موفق ML آماده و بارگذاری کنید\n\nداده ها می توانند مهم ترین عامل در موفقیت تلاش های شما برای ML باشند. TensorFlow چندین ابزار داده را برای کمک به شما در ادغام، تمیز کردن و پیش پردازش داده ها در مقیاس ارائه می دهد:\n\nمجموعه داده های استاندارد برای آموزش اولیه و اعتبار سنجی\n\nخطوط لوله داده بسیار مقیاس پذیر برای بارگذاری داده ها\n\nلایه های پیش پردازش برای تبدیل های ورودی رایج\n\nابزارهایی برای اعتبارسنجی و تبدیل مجموعه داده های بزرگ\n\nعلاوه بر این، ابزارهای هوش مصنوعی مسئول به شما کمک می‌کنند تا سوگیری در داده‌های خود را کشف کرده و از بین ببرید تا نتایج منصفانه و اخلاقی از مدل‌های خود ایجاد کنید.\n\nآن را در کولب امتحان کنید\n\nمدل‌ها را با اکوسیستم TensorFlow بسازید و تنظیم کنید\n\nکل اکوسیستم ساخته شده بر اساس چارچوب اصلی را که ساخت، آموزش و صادرات مدل را ساده می کند، کاوش کنید. TensorFlow از آموزش توزیع شده، تکرار مدل فوری و اشکال زدایی آسان با Keras و موارد دیگر پشتیبانی می کند. ابزارهایی مانند تجزیه و تحلیل مدل و TensorBoard به شما کمک می کنند تا توسعه و بهبود را از طریق چرخه عمر مدل خود پیگیری کنید. برای کمک به شما در شروع کار، مجموعه‌ای از مدل‌های از پیش آموزش‌دیده‌شده را در TensorFlow Hub از Google و انجمن پیدا کنید، یا پیاده‌سازی‌های مدل‌های تحقیقاتی پیشرفته را در باغ مدل پیدا کنید. این کتابخانه‌های مولفه‌های سطح بالا به شما امکان می‌دهند مدل‌های قدرتمندی بگیرید و آنها را روی داده‌های جدید تنظیم کنید یا آنها را برای انجام کارهای جدید سفارشی کنید.\n\nآن را در کولب امتحان کنید\n\nمدل‌ها را روی دستگاه، در مرورگر، روی پرم یا در فضای ابری مستقر کنید\n\nTensorFlow قابلیت‌های قوی را برای استقرار مدل‌های شما در هر محیطی - سرورها، دستگاه‌های لبه‌ای، مرورگرها، موبایل، میکروکنترلرها، پردازنده‌ها، پردازنده‌های گرافیکی، و FPGA ارائه می‌کند. سرویس TensorFlow می‌تواند مدل‌های ML را در مقیاس تولید روی پیشرفته‌ترین پردازنده‌های جهان، از جمله واحدهای پردازش تنسور سفارشی Google (TPU) اجرا کند. اگر برای کاهش تأخیر و بهبود حفظ حریم خصوصی داده‌ها نیاز به تجزیه و تحلیل داده‌های نزدیک به منبع آن دارید، چارچوب LiteRT به شما امکان می‌دهد مدل‌ها را روی دستگاه‌های تلفن همراه، دستگاه‌های محاسباتی لبه و حتی میکروکنترلرها اجرا کنید، و چارچوب TensorFlow.js به شما امکان می‌دهد یادگیری ماشینی را فقط با استفاده از آن اجرا کنید. یک مرورگر وب\n\nآن را در کولب امتحان کنید\n\nپیاده سازی MLOps برای تولید ML\n\nپلت فرم TensorFlow به شما کمک می کند تا بهترین شیوه ها را برای اتوماسیون داده، ردیابی مدل، نظارت بر عملکرد و آموزش مجدد مدل پیاده سازی کنید. استفاده از ابزارهای سطح تولید برای خودکارسازی و ردیابی آموزش مدل در طول عمر یک محصول، خدمات یا فرآیند تجاری برای موفقیت بسیار مهم است. TFX چارچوب‌های نرم‌افزاری و ابزارهایی را برای استقرار کامل MLOps فراهم می‌کند، و مشکلات را با تکامل داده‌ها و مدل‌های شما در طول زمان شناسایی می‌کند.\n\nآن را در کولب امتحان کنید\n\nبه دنبال گسترش دانش ML خود هستید؟\n\nاستفاده از TensorFlow با درک اولیه اصول یادگیری ماشین و مفاهیم اصلی آسان تر است. روش های اساسی یادگیری ماشین را بیاموزید و به کار ببرید تا مهارت های خود را توسعه دهید.\n\nبرای بهبود مهارت های خود در زمینه های اساسی ML با برنامه های درسی تنظیم شده شروع کنید.\n\nبا TensorFlow شروع کنید",
+      "language": "fa",
+      "category": "Education",
+      "categoryConfidence": 0.51,
+      "categorySignals": [
+        "url_pattern:\\/learn"
+      ],
+      "contentLengthBytes": 451752,
+      "wordCount": 1342,
+      "statusCode": 200,
+      "fetchTimeMs": 1486,
+      "processedAt": "2026-09-24T07:12:21.813Z",
+      "chunkId": "chunk-025",
+      "retryCount": 0
+    },
+    {
+      "id": "doc-pytorch_org-uf1rgs",
+      "url": "https://pytorch.org/docs/stable/",
+      "canonicalUrl": "https://pytorch.org/2.14/index.html",
+      "domain": "pytorch.org",
+      "title": "Redirecting&hellip;",
+      "description": "Redirecting&hellip; Continue to ../2.14/index.html...",
+      "headings": {
+        "h1": [],
+        "h2": [],
+        "h3": []
+      },
+      "mainText": "Redirecting&hellip; Continue to ../2.14/index.html",
+      "language": "en",
+      "category": "Programming",
+      "categoryConfidence": 0.31,
+      "categorySignals": [
+        "url_pattern:\\/docs\\/"
+      ],
+      "contentLengthBytes": 1641,
+      "wordCount": 4,
+      "statusCode": 200,
+      "fetchTimeMs": 1682,
+      "processedAt": "2026-09-24T07:12:23.497Z",
+      "chunkId": "chunk-025",
+      "retryCount": 0
+    },
+    {
+      "id": "doc-scikit_learn_org-vo30r7",
+      "url": "https://scikit-learn.org/stable/user_guide.html",
+      "canonicalUrl": "https://scikit-learn.org/stable/user_guide.html",
+      "domain": "scikit-learn.org",
+      "title": "User Guide — scikit-learn 1.9.1 documentation",
+      "description": "Supervised learning- Linear Models- Ordinary Least Squares, Ridge regression and classification, Lasso, Multi-task Lasso, Elastic-Net, Multi-task Elastic-Net, Least Angle Regression, LARS Lasso, Or...",
+      "headings": {
+        "h1": [
+          "User Guide #"
+        ],
+        "h2": [],
+        "h3": []
+      },
+      "mainText": "1. Supervised learning 1.1. Linear Models 1.1.1. Ordinary Least Squares\n\n1.1.2. Ridge regression and classification\n\n1.1.4. Multi-task Lasso\n\n1.1.6. Multi-task Elastic-Net\n\n1.1.7. Least Angle Regression\n\n1.1.9. Orthogonal Matching Pursuit (OMP)\n\n1.1.10. Bayesian Regression\n\n1.1.11. Logistic regression\n\n1.1.12. Generalized Linear Models\n\n1.1.13. Stochastic Gradient Descent - SGD\n\n1.1.14. Robustness regression: outliers and modeling errors\n\n1.1.15. Quantile Regression\n\n1.1.16. Polynomial regression: extending linear models with basis functions\n\n1.2. Linear and Quadratic Discriminant Analysis 1.2.1. Dimensionality reduction using Linear Discriminant Analysis\n\n1.2.2. Mathematical formulation of the LDA and QDA classifiers\n\n1.2.3. Mathematical formulation of LDA dimensionality reduction\n\n1.2.4. Shrinkage and Covariance Estimator\n\n1.2.5. Estimation algorithms\n\n1.3. Kernel ridge regression\n\n1.4. Support Vector Machines 1.4.1. Classification\n\n1.4.3. Density estimation, novelty detection\n\n1.4.5. Tips on Practical Use\n\n1.4.6. Kernel functions\n\n1.4.7. Mathematical formulation\n\n1.4.8. Implementation details\n\n1.5. Stochastic Gradient Descent 1.5.1. Classification\n\n1.5.3. Online One-Class SVM\n\n1.5.4. Stochastic Gradient Descent for sparse data\n\n1.5.6. Stopping criterion\n\n1.5.7. Tips on Practical Use\n\n1.5.8. Mathematical formulation\n\n1.5.9. Implementation details\n\n1.6. Nearest Neighbors 1.6.1. Unsupervised Nearest Neighbors\n\n1.6.2. Nearest Neighbors Classification\n\n1.6.3. Nearest Neighbors Regression\n\n1.6.4. Nearest Neighbor Algorithms\n\n1.6.5. Nearest Centroid Classifier\n\n1.6.6. Nearest Neighbors Transformer\n\n1.6.7. Neighborhood Components Analysis\n\n1.7. Gaussian Processes 1.7.1. Gaussian Process Regression (GPR)\n\n1.7.2. Gaussian Process Classification (GPC)\n\n1.7.4. Kernels for Gaussian Processes\n\n1.8. Cross decomposition 1.8.1. PLSCanonical\n\n1.8.4. Canonical Correlation Analysis\n\n1.9. Naive Bayes 1.9.1. Gaussian Naive Bayes\n\n1.9.2. Multinomial Naive Bayes\n\n1.9.3. Complement Naive Bayes\n\n1.9.4. Bernoulli Naive Bayes\n\n1.9.5. Categorical Naive Bayes\n\n1.9.6. Out-of-core naive Bayes model fitting\n\n1.10. Decision Trees 1.10.1. Classification\n\n1.10.3. Multi-output problems\n\n1.10.5. Tips on practical use\n\n1.10.6. Tree algorithms: ID3, C4.5, C5.0 and CART\n\n1.10.7. Mathematical formulation\n\n1.10.8. Missing Values Support\n\n1.10.9. Minimal Cost-Complexity Pruning\n\n1.11. Ensembles: Gradient boosting, random forests, bagging, voting, stacking 1.11.1. Gradient-boosted trees\n\n1.11.2. Random forests and other randomized tree ensembles\n\n1.11.3. Bagging meta-estimator\n\n1.11.4. Voting Classifier\n\n1.11.5. Voting Regressor\n\n1.11.6. Stacked generalization\n\n1.12. Multiclass and multioutput algorithms 1.12.1. Multiclass classification\n\n1.12.2. Multilabel classification\n\n1.12.3. Multiclass-multioutput classification\n\n1.12.4. Multioutput regression\n\n1.13. Feature selection 1.13.1. Removing features with low variance\n\n1.13.2. Univariate feature selection\n\n1.13.3. Recursive feature elimination\n\n1.13.4. Feature selection using SelectFromModel\n\n1.13.5. Sequential Feature Selection\n\n1.13.6. Feature selection as part of a pipeline\n\n1.14. Semi-supervised learning 1.14.1. Self Training\n\n1.14.2. Label Propagation\n\n1.15. Isotonic regression\n\n1.16. Probability calibration 1.16.1. Calibration curves\n\n1.16.2. Calibrating a classifier\n\n1.17. Neural network models (supervised) 1.17.1. Multi-layer Perceptron\n\n1.17.2. Classification\n\n1.17.4. Regularization\n\n1.17.7. Tips on Practical Use\n\n1.17.8. More control with warm_start\n\n2. Unsupervised learning 2.1. Gaussian mixture models 2.1.1. Gaussian Mixture\n\n2.1.2. Variational Bayesian Gaussian Mixture\n\n2.2. Manifold learning 2.2.1. Introduction\n\n2.2.3. Locally Linear Embedding\n\n2.2.4. Modified Locally Linear Embedding\n\n2.2.5. Hessian Eigenmapping\n\n2.2.6. Spectral Embedding\n\n2.2.7. Local Tangent Space Alignment\n\n2.2.8. Multi-dimensional Scaling (MDS)\n\n2.2.9. t-distributed Stochastic Neighbor Embedding (t-SNE)\n\n2.2.10. Tips on practical use\n\n2.3. Clustering 2.3.1. Overview of clustering methods\n\n2.3.3. Affinity Propagation\n\n2.3.5. Spectral clustering\n\n2.3.6. Hierarchical clustering\n\n2.3.11. Clustering performance evaluation\n\n2.4. Biclustering 2.4.1. Spectral Co-Clustering\n\n2.4.2. Spectral Biclustering\n\n2.4.3. Biclustering evaluation\n\n2.5. Decomposing signals in components (matrix factorization problems) 2.5.1. Principal component analysis (PCA)\n\n2.5.2. Kernel Principal Component Analysis (kPCA)\n\n2.5.3. Truncated singular value decomposition and latent semantic analysis\n\n2.5.4. Dictionary Learning\n\n2.5.5. Factor Analysis\n\n2.5.6. Independent component analysis (ICA)\n\n2.5.7. Non-negative matrix factorization (NMF or NNMF)\n\n2.5.8. Latent Dirichlet Allocation (LDA)\n\n2.6. Covariance estimation 2.6.1. Empirical covariance\n\n2.6.2. Shrunk Covariance\n\n2.6.3. Sparse inverse covariance\n\n2.6.4. Robust Covariance Estimation\n\n2.7. Novelty and Outlier Detection 2.7.1. Overview of outlier detection methods\n\n2.7.2. Novelty Detection\n\n2.7.3. Outlier Detection\n\n2.7.4. Novelty detection with Local Outlier Factor\n\n2.8. Density Estimation 2.8.1. Density Estimation: Histograms\n\n2.8.2. Kernel Density Estimation\n\n2.9. Neural network models (unsupervised) 2.9.1. Restricted Boltzmann machines\n\n3. Model selection and evaluation 3.1. Cross-validation: evaluating estimator performance 3.1.1. Computing cross-validated metrics\n\n3.1.2. Cross validation iterators\n\n3.1.3. A note on shuffling\n\n3.1.4. Cross validation and model selection\n\n3.1.5. Permutation test score\n\n3.2. Tuning the hyper-parameters of an estimator 3.2.1. Exhaustive Grid Search\n\n3.2.2. Randomized Parameter Optimization\n\n3.2.3. Searching for optimal parameters with successive halving\n\n3.2.4. Tips for parameter search\n\n3.2.5. Alternatives to brute force parameter search\n\n3.3. Tuning the decision threshold for class prediction 3.3.1. Post-tuning the decision threshold\n\n3.4. Metrics and scoring: quantifying the quality of predictions 3.4.1. Which scoring function should I use?\n\n3.4.2. Scoring API overview\n\n3.4.3. The scoring parameter: defining model evaluation rules\n\n3.4.4. Classification metrics\n\n3.4.5. Multilabel ranking metrics\n\n3.4.6. Regression metrics\n\n3.4.7. Clustering metrics\n\n3.4.8. Dummy estimators\n\n3.5. Validation curves: plotting scores to evaluate models 3.5.1. Validation curve\n\n3.5.2. Learning curve\n\n4. Metadata Routing 4.1. Usage Examples 4.1.1. Weighted scoring and fitting\n\n4.1.2. Weighted scoring and unweighted fitting\n\n4.1.3. Unweighted feature selection\n\n4.1.4. Different scoring and fitting weights\n\n4.3. Metadata Routing Support Status\n\n5. Inspection 5.1. Partial Dependence and Individual Conditional Expectation plots 5.1.1. Partial dependence plots\n\n5.1.2. Individual conditional expectation (ICE) plot\n\n5.1.3. Mathematical Definition\n\n5.1.4. Computation methods\n\n5.2. Permutation feature importance 5.2.1. Outline of the permutation importance algorithm\n\n5.2.2. Relation to impurity-based importance in trees\n\n5.2.3. Misleading values on strongly correlated features\n\n6. Visualizations 6.1. Available Plotting Utilities 6.1.1. Display Objects\n\n7. Callbacks 7.1. Registering callbacks\n\n7.2. Callback invocation\n\n7.3. Usage with meta-estimators 7.3.1. Regular callbacks\n\n7.3.2. Auto-propagated callbacks\n\n7.4. Scikit-learn’s built-in callbacks\n\n7.5. Callback Support Status\n\n8. Dataset transformations 8.1. Pipelines and composite estimators 8.1.1. Pipeline: chaining estimators\n\n8.1.2. Transforming target in regression\n\n8.1.3. FeatureUnion: composite feature spaces\n\n8.1.4. ColumnTransformer for heterogeneous data\n\n8.1.5. Visualizing Composite Estimators\n\n8.2. Feature extraction 8.2.1. Loading features from dicts\n\n8.2.2. Feature hashing\n\n8.2.3. Text feature extraction\n\n8.2.4. Image feature extraction\n\n8.3. Preprocessing data 8.3.1. Standardization, or mean removal and variance scaling\n\n8.3.2. Non-linear transformation\n\n8.3.4. Encoding categorical features\n\n8.3.5. Discretization\n\n8.3.6. Imputation of missing values\n\n8.3.7. Generating polynomial features\n\n8.3.8. Custom transformers\n\n8.4. Imputation of missing values 8.4.1. Univariate vs. Multivariate Imputation\n\n8.4.2. Univariate feature imputation\n\n8.4.3. Multivariate feature imputation\n\n8.4.4. Nearest neighbors imputation\n\n8.4.5. Keeping the number of features constant\n\n8.4.6. Marking imputed values\n\n8.4.7. Estimators that handle NaN values\n\n8.5. Unsupervised dimensionality reduction 8.5.1. PCA: principal component analysis\n\n8.5.2. Random projections\n\n8.5.3. Feature agglomeration\n\n8.6. Random Projection 8.6.1. The Johnson-Lindenstrauss lemma\n\n8.6.2. Gaussian random projection\n\n8.6.3. Sparse random projection\n\n8.6.4. Inverse Transform\n\n8.7. Kernel Approximation 8.7.1. Nystroem Method for Kernel Approximation\n\n8.7.2. Radial Basis Function Kernel\n\n8.7.3. Additive Chi Squared Kernel\n\n8.7.4. Skewed Chi Squared Kernel\n\n8.7.5. Polynomial Kernel Approximation via Tensor Sketch\n\n8.7.6. Mathematical Details\n\n8.8. Pairwise metrics, Affinities and Kernels 8.8.1. Cosine similarity\n\n8.8.3. Polynomial kernel\n\n8.8.4. Sigmoid kernel\n\n8.8.6. Laplacian kernel\n\n8.8.7. Chi-squared kernel\n\n8.9. Transforming the prediction target ( y ) 8.9.1. Label binarization\n\n8.9.2. Label encoding\n\n9. Dataset loading utilities 9.1. Toy datasets 9.1.1. Iris plants dataset\n\n9.1.2. Diabetes dataset\n\n9.1.3. Optical recognition of handwritten digits dataset\n\n9.1.4. Linnerrud dataset\n\n9.1.5. Wine recognition dataset\n\n9.1.6. Breast cancer Wisconsin (diagnostic) dataset\n\n9.2. Real world datasets 9.2.1. The Olivetti faces dataset\n\n9.2.2. The 20 newsgroups text dataset\n\n9.2.3. The Labeled Faces in the Wild face recognition dataset\n\n9.2.4. Forest covertypes\n\n9.2.6. Kddcup 99 dataset\n\n9.2.7. California Housing dataset\n\n9.2.8. Species distribution dataset\n\n9.3. Generated datasets 9.3.1. Generators for classification and clustering\n\n9.3.2. Generators for regression\n\n9.3.3. Generators for manifold learning\n\n9.3.4. Generators for decomposition\n\n9.4. Loading other datasets 9.4.1. Sample images\n\n9.4.2. Datasets in svmlight / libsvm format\n\n9.4.3. Downloading datasets from the openml.org repository\n\n9.4.4. Loading from external datasets\n\n10. Computing with scikit-learn 10.1. Strategies to scale computationally: bigger data 10.1.1. Scaling with instances using out-of-core learning\n\n10.2. Computational Performance 10.2.1. Prediction Latency\n\n10.2.2. Prediction Throughput\n\n10.2.3. Tips and Tricks\n\n10.3. Parallelism and resource management 10.3.1. Parallelism\n\n11. Model persistence 11.1. Workflow Overview 11.1.1. Train and Persist the Model\n\n11.4. pickle , joblib , and cloudpickle\n\n11.5. Security & Maintainability Limitations 11.5.1. Replicating the training environment in production\n\n11.5.2. Serving the model artifact\n\n11.6. Summarizing the key points\n\n12. Common pitfalls and recommended practices 12.1. Inconsistent preprocessing\n\n12.2. Data leakage 12.2.1. How to avoid data leakage\n\n12.2.2. Data leakage during pre-processing\n\n12.3. Controlling randomness 12.3.1. Using None or RandomState instances, and repeated calls to fit and split\n\n12.3.2. Common pitfalls and subtleties\n\n12.3.3. General recommendations\n\n13. Data Interoperability 13.1. Pandas/Polars Output for Transformers with set_output API 13.1.1. Propagation of Feature Names\n\n13.1.2. Introducing the set_output API\n\n13.2. Array API support (experimental) 13.2.1. Supported array libraries\n\n13.2.2. Enabling array API support\n\n13.2.3. Example usage\n\n13.2.4. Support for array API compatible inputs\n\n13.2.5. Input and output array type handling\n\n13.2.6. Common estimator checks (for developers)\n\n14. Choosing the right estimator\n\n15. External Resources, Videos and Talks 15.1. The scikit-learn MOOC\n\n15.3. New to Scientific Python?\n\n15.4. External Tutorials\n\nInstalling scikit-learn\n\n1. Supervised learning\n\nscikit-learn is financially supported by Probabl and other institutions.\n\nEnterprise-grade solutions and services",
+      "language": "en",
+      "category": "Technology",
+      "categoryConfidence": 0.53,
+      "categorySignals": [
+        "body:kernel(14)",
+        "body:network(2)"
+      ],
+      "contentLengthBytes": 89649,
+      "wordCount": 1433,
+      "statusCode": 200,
+      "fetchTimeMs": 519,
+      "processedAt": "2026-09-24T07:12:24.031Z",
+      "chunkId": "chunk-025",
+      "retryCount": 0
+    },
+    {
+      "id": "doc-keras_io-w9mrri",
+      "url": "https://keras.io/",
+      "canonicalUrl": "https://keras.io/",
+      "domain": "keras.io",
+      "title": "Keras: Deep Learning for humans",
+      "description": "Keras documentation",
+      "headings": {
+        "h1": [
+          "A superpower for ML developers"
+        ],
+        "h2": [
+          "Welcome to multi-framework machine learning",
+          "Developer Guides",
+          "KerasHub",
+          "Code examples",
+          "Trusted for research and production",
+          "Stay in touch",
+          "Contributions welcome!"
+        ],
+        "h3": [
+          "The Functional API",
+          "Training & evaluation with the built-in methods",
+          "Making new layers and models via subclassing",
+          "Computer vision",
+          "Natural Language Processing",
+          "Generative Deep Learning"
+        ]
+      },
+      "mainText": "KERAS 3.0 RELEASED A superpower for ML developers\n\nKeras is a deep learning API designed for human beings, not machines. Keras focuses on debugging speed, code elegance & conciseness, maintainability, and deployability. When you choose Keras, your codebase is smaller, more readable, easier to iterate on.\n\ninputs = keras.Input(shape=(32, 32, 3)) x = layers.Conv2D(32, 3, activation=\"relu\")(inputs) x = layers.Conv2D(64, 3, activation=\"relu\")(x) residual = x = layers.MaxPooling2D(3)(x) x = layers.Conv2D(64, 3, padding=\"same\")(x) x = layers.Activation(\"relu\")(x) x = layers.Conv2D(64, 3, padding=\"same\")(x) x = layers.Activation(\"relu\")(x) x = x + residual x = layers.Conv2D(64, 3, activation=\"relu\")(x) x = layers.GlobalAveragePooling2D()(x) outputs = layers.Dense(10, activation=\"softmax\")(x) model = keras.Model(inputs, outputs, name=\"mini_resnet\") keras.utils.plot_model(model, \"mini_resnet.png\") model.fit(dataset, epochs=10) Run quickstart Copied causal_lm = keras_hub.models.CausalLM.from_preset( \"gemma2_instruct_2b_en\", dtype=\"float16\", ) prompt = \"\"\"<start_of_turn>user Write python code to print the first 100 primes. <end_of_turn> <start_of_turn>model \"\"\" text_output = causal_lm.generate(prompt, max_length=512) text_to_image = keras_hub.models.TextToImage.from_preset( \"stable_diffusion_3_medium\", dtype=\"float16\", ) prompt = \"Astronaut in a jungle, detailed\" image_output = text_to_image.generate(prompt) Run quickstart Welcome to multi-framework machine learning\n\nWith its multi-backend approach, Keras gives you the freedom to work with JAX, TensorFlow, and PyTorch. Build models that can move seamlessly across these frameworks and leverage the strengths of each ecosystem.\n\ninputs = keras.Input(shape=(28, 28, 1)) x = inputs x = layers.Conv2D(16, 3, activation=\"relu\")(x) x = layers.Conv2D(32, 3, activation=\"relu\")(x) x = layers.MaxPooling2D(3)(x) x = layers.Conv2D(32, 3, activation=\"relu\")(x) x = layers.Conv2D(16, 3, activation=\"relu\")(x) x = layers.GlobalMaxPooling2D()(x) x = layers.Dropout(0.5) outputs = layers.Dense(10) model = keras.Model(inputs, outputs) model.summary() The Functional API\n\nStarting from the beginning and learn how to build models using the functional building pattern.\n\nmodel.compile( optimizer=\"rmsprop\", loss=\"categorical_crossentropy\", metrics=[\"accuracy\"], ) history = model.fit( x_train, y_train, batch_size=64, epochs=2, validation_data=(x_val, y_val), ) Training & evaluation with the built-in methods\n\nTrain and evaluate your model using model.fit(...).\n\nclass MLPBlock(keras.layers.Layer): def __init__(self): super().__init__() self.dense_1 = layers.Dense(32) self.dense_2 = layers.Dense(32) self.dense_3 = layers.Dense(1) def call(self, inputs): x = self.dense_1(inputs) x = keras.activations.relu(x) x = self.dense_2(x) x = keras.activations.relu(x) return self.dense_3(x) Making new layers and models via subclassing\n\nLearn how to customize your model via subclassing Keras layers.\n\nThe KerasHub library provides Keras 3 implementations of popular model architectures, paired with a collection of pretrained checkpoints available on Kaggle Models. Models can be used for both training and inference, on any of the TensorFlow, JAX, and PyTorch backends.\n\nGoogle’s family of lightweight language models built from the same research and technology used to create Gemini.\n\nMeta’s flagship open text generation models available in a wide range of sizes and precisions.\n\nGenerate image content with this state of the art diffusion model from Stability AI.\n\nA generative language from the French company Mistral AI, making frontier models accessible to all.\n\nTake a look at our examples for doing image classification, object detection, video processing, and more.\n\nNatural Language Processing\n\nWe also have many guides for doing NLP including text classification, machine translation, and language modeling.\n\nGenerative Deep Learning\n\nGet started with generative deep learning with our wealth of guides involving state-of-the-art diffusion models, GANs, and transformer models.\n\nTrusted for research and production\n\nKeras is used by CERN, NASA, NIH, and many more scientific organizations around the world (and yes, Keras is used at the Large Hadron Collider). Keras is used by Waymo to power self-driving vehicles. Keras partners with Kaggle and HuggingFace to meet ML developers in the tools they use daily.\n\nSign up to our mailing list for regular updates and discussions about the Keras ecosystem. Listen in at our community meetings, and follow us on social media!\n\nContributions welcome!\n\nWe welcome your code, ideas, and feedback as we continue to grow. Visit our roadmap, contribution guide or GitHub for more information.",
+      "language": "en",
+      "category": "Programming",
+      "categoryConfidence": 0.6,
+      "categorySignals": [
+        "heading:code",
+        "heading:api",
+        "heading:developer",
+        "body:code(3)",
+        "body:api(2)"
+      ],
+      "contentLengthBytes": 28063,
+      "wordCount": 595,
+      "statusCode": 200,
+      "fetchTimeMs": 257,
+      "processedAt": "2026-09-24T07:12:24.306Z",
+      "chunkId": "chunk-025",
+      "retryCount": 0
+    },
+    {
+      "id": "doc-huggingface_co-mo38xa",
+      "url": "https://huggingface.co/docs",
+      "canonicalUrl": "https://huggingface.co/docs",
+      "domain": "huggingface.co",
+      "title": "Hugging Face - Documentation",
+      "description": "We’re on a journey to advance and democratize artificial intelligence through open source and open science.",
+      "headings": {
+        "h1": [
+          "Documentation"
+        ],
+        "h2": [],
+        "h3": []
+      },
+      "mainText": "Guides, references, and API docs for the Hugging Face ecosystem.\n\nHub & Client Libraries\n\nHost Git-based models, datasets, and Spaces on the HF Hub\n\nPython client to interact with the Hugging Face Hub\n\nTools for agents and humans to interact with all the Hugging Face services\n\nJavaScript libraries for Hugging Face with built-in TS types\n\nExplore demos, models, and datasets for any ML tasks\n\nAPI for metadata, stats, and content of HF Hub datasets\n\nDeployment & Inference\n\nCall 200k+ models hosted by our 10+ Inference partners\n\nInference Endpoints (dedicated)\n\nDeploy models on dedicated & fully managed infrastructure on HF\n\nTrain/deploy models from Hugging Face to AWS with DLCs\n\nText Generation Inference\n\nServe language models with TGI optimized toolkit\n\nText Embeddings Inference\n\nServe embeddings models with TEI optimized toolkit\n\nDeploy Hugging Face models on Microsoft Azure\n\nTrain and Deploy Hugging Face models on Google Cloud\n\nState-of-the-art AI models for PyTorch\n\nState-of-the-art Diffusion models in PyTorch\n\nAccess & share datasets for any ML tasks\n\nState-of-the-art ML running directly in your browser\n\nFast tokenizers optimized for research & production\n\nEvaluate and compare models performance\n\nState-of-the-art vision models: layers, optimizers, and utilities\n\nSentence Transformers\n\nEmbeddings, Retrieval, and Reranking\n\nLoad and run compute kernels from the Hugging Face Hub\n\nTraining & Optimization\n\nParameter-efficient finetuning for large language models\n\nTrain PyTorch models with multi-GPU, TPU, mixed precision\n\nOptimize HF Transformers for faster training/inference\n\nAWS Trainium & Inferentia\n\nTrain/deploy Transformers/Diffusers on AWS\n\nTrain and Deploy models on Google TPUs via Optimum.\n\nTrain transformers LMs with reinforcement learning\n\nCreate and deploy agentic RL execution environments\n\nSafe way to store/distribute neural network weights\n\nOptimize and quantize models with bitsandbytes\n\nAll-in-one toolkit to evaluate LLMs across multiple backends\n\nCollaboration & Extras\n\nBuild ML demos and web apps with a few lines of Python\n\nA lightweight, local-first, and free experiment tracking Python library\n\nSmol library to build great agents in Python\n\nMaking AI for Robotics more accessible with end-to-end learning\n\nOpen-source expressive robot SDK for hackers and AI builders\n\nAutoTrain API and UI for seamless model training\n\nOpen source chat frontend powering HuggingChat\n\nCreate custom Leaderboards on Hugging Face\n\nCollaboration tool for building high-quality datasets\n\nFramework for synthetic data generation and AI feedback\n\nXet Protocol Specification",
+      "language": "en",
+      "category": "Programming",
+      "categoryConfidence": 0.54,
+      "categorySignals": [
+        "body:python(4)",
+        "body:library(2)",
+        "body:api(3)"
+      ],
+      "contentLengthBytes": 143555,
+      "wordCount": 365,
+      "statusCode": 200,
+      "fetchTimeMs": 431,
+      "processedAt": "2026-09-24T07:12:24.746Z",
+      "chunkId": "chunk-025",
+      "retryCount": 0
+    },
+    {
+      "id": "doc-nltk_org-nfwsy9",
+      "url": "https://www.nltk.org/",
+      "canonicalUrl": "https://www.nltk.org/",
+      "domain": "nltk.org",
+      "title": "NLTK :: Natural Language Toolkit",
+      "description": "Natural Language Toolkit ¶\n\nNLTK is a leading platform for building Python programs to work with human language data. It provides easy-to-use interfaces to over 50 corpora and lexical resources such a...",
+      "headings": {
+        "h1": [
+          "NLTK",
+          "Documentation",
+          "Natural Language Toolkit ¶"
+        ],
+        "h2": [
+          "Some simple things you can do with NLTK ¶",
+          "Next Steps ¶"
+        ],
+        "h3": []
+      },
+      "mainText": "Natural Language Toolkit ¶\n\nNLTK is a leading platform for building Python programs to work with human language data. It provides easy-to-use interfaces to over 50 corpora and lexical resources such as WordNet, along with a suite of text processing libraries for classification, tokenization, stemming, tagging, parsing, and semantic reasoning, wrappers for industrial-strength NLP libraries, and an active discussion forum .\n\nThanks to a hands-on guide introducing programming fundamentals alongside topics in computational linguistics, plus comprehensive API documentation, NLTK is suitable for linguists, engineers, students, educators, researchers, and industry users alike. NLTK is available for Windows, macOS, and Linux. Best of all, NLTK is a free, open source, community-driven project.\n\nNLTK has been called “a wonderful tool for teaching, and working in, computational linguistics using Python,” and “an amazing library to play with natural language.”\n\nNatural Language Processing with Python provides a practical introduction to programming for language processing. Written by the creators of NLTK, it guides the reader through the fundamentals of writing Python programs, working with corpora, categorizing text, analyzing linguistic structure, and more. The online version of the book has been been updated for Python 3 and NLTK 3. (The original Python 2 version is still available at https://www.nltk.org/book_1ed .)\n\nSome simple things you can do with NLTK ¶\n\nTokenize and tag some text:\n\n>>> import nltk >>> sentence = \"\"\"At eight o'clock on Thursday morning ... Arthur didn't feel very good.\"\"\" >>> tokens = nltk . word_tokenize ( sentence ) >>> tokens ['At', 'eight', \"o'clock\", 'on', 'Thursday', 'morning', 'Arthur', 'did', \"n't\", 'feel', 'very', 'good', '.'] >>> tagged = nltk . pos_tag ( tokens ) >>> tagged [ 0 : 6 ] [('At', 'IN'), ('eight', 'CD'), (\"o'clock\", 'JJ'), ('on', 'IN'), ('Thursday', 'NNP'), ('morning', 'NN')] Identify named entities:\n\n>>> entities = nltk . chunk . ne_chunk ( tagged ) >>> entities Tree('S', [('At', 'IN'), ('eight', 'CD'), (\"o'clock\", 'JJ'), ('on', 'IN'), ('Thursday', 'NNP'), ('morning', 'NN'), Tree('PERSON', [('Arthur', 'NNP')]), ('did', 'VBD'), (\"n't\", 'RB'), ('feel', 'VB'), ('very', 'RB'), ('good', 'JJ'), ('.', '.')]) Display a parse tree:\n\n>>> from nltk.corpus import treebank >>> t = treebank . parsed_sents ( 'wsj_0001.mrg' )[ 0 ] >>> t . draw () NB. If you publish work that uses NLTK, please cite the NLTK book as follows:\n\nBird, Steven, Edward Loper and Ewan Klein (2009), Natural Language Processing with Python . O’Reilly Media Inc.\n\nSign up for release announcements\n\nJoin in the discussion",
+      "language": "en",
+      "category": "Programming",
+      "categoryConfidence": 0.65,
+      "categorySignals": [
+        "desc:python",
+        "body:programming(2)",
+        "body:python(7)"
+      ],
+      "contentLengthBytes": 11567,
+      "wordCount": 397,
+      "statusCode": 200,
+      "fetchTimeMs": 263,
+      "processedAt": "2026-09-24T07:12:25.012Z",
+      "chunkId": "chunk-025",
+      "retryCount": 0
+    }
+  ]
+}

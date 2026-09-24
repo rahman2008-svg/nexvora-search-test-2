@@ -1,0 +1,237 @@
+{
+  "chunkId": "chunk-031",
+  "filename": "chunk-031.json",
+  "documentCount": 6,
+  "totalBytes": 968730,
+  "createdAt": "2026-09-24T07:15:54.831Z",
+  "documents": [
+    {
+      "id": "doc-openstax_org-9czbgz",
+      "url": "https://openstax.org/subjects/math",
+      "canonicalUrl": "https://openstax.org/subjects/math",
+      "domain": "openstax.org",
+      "title": "OpenStax",
+      "description": "OpenStax offers free college textbooks for all types of students, making education accessible & affordable for everyone. Browse our list of available subjects!",
+      "headings": {
+        "h1": [],
+        "h2": [],
+        "h3": []
+      },
+      "mainText": "",
+      "language": "en",
+      "category": "Education",
+      "categoryConfidence": 0.49,
+      "categorySignals": [
+        "desc:education",
+        "desc:college"
+      ],
+      "contentLengthBytes": 12343,
+      "wordCount": 0,
+      "statusCode": 200,
+      "fetchTimeMs": 1039,
+      "processedAt": "2026-09-24T07:13:15.355Z",
+      "chunkId": "chunk-031",
+      "retryCount": 0
+    },
+    {
+      "id": "doc-purplemath_com-dgrffw",
+      "url": "https://www.purplemath.com/",
+      "canonicalUrl": "https://www.purplemath.com/",
+      "domain": "purplemath.com",
+      "title": "Free and clear online algebra help! | Purplemath",
+      "description": "Free online lessons, loads of worked examples, clear and practical explainations, and no-nonsense advice. Purplemath is here to help!",
+      "headings": {
+        "h1": [
+          "Purplemath"
+        ],
+        "h2": [
+          "Purplemath",
+          "What are Purplemath's lessons like?",
+          "MathHelp.com",
+          "How much do these lessons cost?",
+          "How can I use Purplemath's lessons?",
+          "How should I be formatting my homework?",
+          "How can I measure my study skills?"
+        ],
+        "h3": [
+          "Select a Course Below",
+          "Share This Page",
+          "Visit Our Profiles"
+        ]
+      },
+      "mainText": "Select a Course Below\n\nStandardized Test Prep ACCUPLACER Math\n\nK12 Math 5th Grade Math\n\nCollege Math College Pre-Algebra\n\nHomeschool Math Pre-Algebra\n\nLessons HW Guidelines Skills Survey\n\nNeed help with math? Start browsing Purplemath's free resources below!\n\nWhat are Purplemath's lessons like?\n\nContent Continues Below\n\nNeed a custom math course? K12 | College | Test Prep\n\nHow much do these lessons cost?\n\nPurplemath's lessons cost nothing! These lessons are free, are intended for students (rather than for instructors), and are interlinked to help you find related material. There is a \"Search\" box on every page to help you find whatever math content you're looking for &mdash; without encountering ads masquerading as search results. Whether you're in middle school, high school, college, or university, these free algebra lessons can help you out!\n\nHow can I use Purplemath's lessons?\n\nPurplemath's math lessons can be used in many ways:\n\nRead the lesson that relates to what you're about to study in class, so you get to class at least somewhat prepared.\n\nPrint out the lesson that relates to what you're about to study in class, and use the margins, white space, or the backs of pages for taking notes in class.\n\nWhen the homework seems impossible and the textbook and your class notes aren't helping much, come to Purplemath for clarification.\n\nLet Purplemath help you always be prepared!\n\nHow should I be formatting my homework?\n\nNeat homework can aid your comprehension and might make your teacher like you better. Purplemath's \" Homework Guidelines for Mathematics \" will give you a leg up, explaining in clear terms what your math teacher is looking for. The Guidelines link to examples of common errors, and demonstrate techniques that your instructors will love! In addition, students who get in the habit of explaining themselves clearly in their homework gain greater understanding of what they're doing, and therefore tend to do much better on their tests.\n\nEnglish teachers tell their students explicitly how to format their papers: what fonts, what page margins, what style guides, etc. Math teachers, on the other hand, frequently just complain amongst themselves in the faculty lounge about how messy their students' work is. Meanwhile, their students wonder why they've lost points on homework and tests.\n\nStudy these Guidelines , print out this \" formatting \" PDF, and improve your learning, retention, and test scores. Don't leave easy points on the table!\n\nGo to the Guidelines!\n\nHow can I measure my study skills?\n\nMany students, from time to time, wonder, \"Do I have what it takes to succeed in math?\" Much of one's success or failure in algebra can be laid at the feet of one's study habits. Do you have good math study habits? Take this survey and find out.\n\nGo to the study-skills self-survey!\n\nPersonalized Help ($): Investigate hiring a qualified tutor in your local area (US only), or try e-mail tutoring from Purplemath's author. But for in-depth, quality, video-supported, at-home help, including self-testing and immediate feedback, try MathHelp.com . MathHelp.com comes highly recommended by homeschoolers, military service members, and other practical people. If you're needing more intensive help, give MathHelp.com a try!\n\nPrivacy: You may review Purplemath's cookies policy here and Purplemath's privacy policy here .\n\nURL: https://www.purplemath.com/index.htm\n\nSelect a Course Below\n\nStandardized Test Prep\n\nURL: https://www.purplemath.com/index.htm\n\n&copy; 2024 Purplemath, Inc. All right reserved Web Design by",
+      "language": "en",
+      "category": "Education",
+      "categoryConfidence": 0.69,
+      "categorySignals": [
+        "heading:course",
+        "heading:study",
+        "body:course(3)",
+        "body:college(4)",
+        "body:school(2)",
+        "body:study(6)"
+      ],
+      "contentLengthBytes": 44699,
+      "wordCount": 555,
+      "statusCode": 200,
+      "fetchTimeMs": 1231,
+      "processedAt": "2026-09-24T07:13:20.474Z",
+      "chunkId": "chunk-031",
+      "retryCount": 0
+    },
+    {
+      "id": "doc-projecteuler_net-el8wpk",
+      "url": "https://projecteuler.net/",
+      "canonicalUrl": "https://projecteuler.net/",
+      "domain": "projecteuler.net",
+      "title": "About - Project Euler",
+      "description": "A website dedicated to the fascinating world of mathematics and programming",
+      "headings": {
+        "h1": [],
+        "h2": [
+          "About Project Euler"
+        ],
+        "h3": [
+          "What is Project Euler?",
+          "Who are the problems aimed at?",
+          "Can anyone solve the problems?",
+          "What next?"
+        ]
+      },
+      "mainText": "What is Project Euler?\n\nProject Euler is a series of challenging mathematical/computer programming problems that will require more than just mathematical insights to solve. Although mathematics will help you arrive at elegant and efficient methods, the use of a computer and programming skills will be required to solve most problems. The motivation for starting Project Euler, and its continuation, is to provide a platform for the inquiring mind to delve into unfamiliar areas and learn new concepts in a fun and recreational context.\n\nWho are the problems aimed at?\n\nThe intended audience include students for whom the basic curriculum is not feeding their hunger to learn, adults whose background was not primarily mathematics but had an interest in things mathematical, and professionals who want to keep their problem solving and mathematics on the cutting edge.\n\nCurrently we have 150891 registered members who have solved at least twenty-five problems, representing 220 locations throughout the world, and collectively using 114 different programming languages to solve the problems.\n\nCan anyone solve the problems?\n\nThe problems range in difficulty and for many the experience is inductive chain learning. That is, by solving one problem it will expose you to a new concept that may allow you to undertake a previously inaccessible problem. So determined participants will be able to slowly but surely work their way through the problems.\n\nIn order to track your progress it is necessary to setup an account and have Cookies enabled.\n\nIf you already have an account, then Sign In . Otherwise, please Register &ndash; it's completely free!\n\nHowever, as the problems are challenging, you may wish to view the Problems before registering.\n\n\"Project Euler exists to encourage, challenge, and develop the skills and enjoyment of anyone with an interest in the fascinating world of mathematics.\"\n\nThe page has been left unattended for too long and that link/button is no longer active. Please refresh the page.",
+      "language": "en",
+      "category": "General",
+      "categoryConfidence": 0.35,
+      "categorySignals": [
+        "title:about",
+        "heading:about"
+      ],
+      "contentLengthBytes": 5005,
+      "wordCount": 316,
+      "statusCode": 200,
+      "fetchTimeMs": 886,
+      "processedAt": "2026-09-24T07:13:22.578Z",
+      "chunkId": "chunk-031",
+      "retryCount": 0
+    },
+    {
+      "id": "doc-oeis_org-eguztz",
+      "url": "https://oeis.org/",
+      "canonicalUrl": "https://oeis.org/",
+      "domain": "oeis.org",
+      "title": "The On-Line Encyclopedia of Integer Sequences (OEIS)",
+      "description": "The On-Line Encyclopedia of Integer Sequences (OEIS) login The OEIS is supported by the many generous donors to the OEIS Foundation . Nominations for sequence A400000 are open, see here .\n\n  Hints   W...",
+      "headings": {
+        "h1": [],
+        "h2": [],
+        "h3": []
+      },
+      "mainText": "The On-Line Encyclopedia of Integer Sequences (OEIS) login The OEIS is supported by the many generous donors to the OEIS Foundation . Nominations for sequence A400000 are open, see here .\n\n  Hints   Welcome   Video For more information about the Encyclopedia, see the Welcome page.",
+      "language": "en",
+      "category": "General",
+      "categoryConfidence": 0.66,
+      "categorySignals": [
+        "title:encyclopedia",
+        "desc:encyclopedia",
+        "body:welcome(2)",
+        "body:encyclopedia(2)"
+      ],
+      "contentLengthBytes": 10247,
+      "wordCount": 44,
+      "statusCode": 200,
+      "fetchTimeMs": 812,
+      "processedAt": "2026-09-24T07:13:23.391Z",
+      "chunkId": "chunk-031",
+      "retryCount": 0
+    },
+    {
+      "id": "doc-khanacademy_org-5c7ihj",
+      "url": "https://www.khanacademy.org/",
+      "canonicalUrl": "https://www.khanacademy.org/",
+      "domain": "khanacademy.org",
+      "title": "Client Challenge",
+      "description": "A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings. Please check your connection, disable any ad blockers, or try using a different...",
+      "headings": {
+        "h1": [],
+        "h2": [],
+        "h3": []
+      },
+      "mainText": "A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings. Please check your connection, disable any ad blockers, or try using a different browser.",
+      "language": "en",
+      "category": "Education",
+      "categoryConfidence": 0.41,
+      "categorySignals": [
+        "domain:khanacademy.org"
+      ],
+      "contentLengthBytes": 3038,
+      "wordCount": 35,
+      "statusCode": 200,
+      "fetchTimeMs": 303,
+      "processedAt": "2026-09-24T07:13:23.697Z",
+      "chunkId": "chunk-031",
+      "retryCount": 0
+    },
+    {
+      "id": "doc-ocw_mit_edu-sdlcox",
+      "url": "https://ocw.mit.edu/",
+      "canonicalUrl": "https://ocw.mit.edu/",
+      "domain": "ocw.mit.edu",
+      "title": "MIT OpenCourseWare | Free Online Course Materials",
+      "description": "MIT OpenCourseWare is a web based publication of virtually all MIT course content. OCW is open and available to the world and is a permanent MIT activity",
+      "headings": {
+        "h1": [
+          "You are leaving MIT OpenCourseWare"
+        ],
+        "h2": [
+          "Unlocking knowledge, Empowering Minds.",
+          "MIT Learn: \"a whole new front door to the Institute\"",
+          "MIT OpenCourseWare To Go",
+          "Chalk Radio: a podcast about inspired teaching at MIT",
+          "Come invent with us!",
+          "Featured Courses",
+          "Discover Collections",
+          "New Courses",
+          "Your Donation Makes a Difference",
+          "OCW News",
+          "OpenCourseWare Stories",
+          "Our Corporate and Foundation Supporters"
+        ],
+        "h3": [
+          "Connect with all of MIT’s lifelong learning opportunities",
+          "Materials curated for offline learning on mobile devices",
+          "New Episode: MIT Programmer Ana Bell on Growth Mindset, Coding, and Rubber Ducks",
+          "The Open Education Global conference will be at MIT, October 7-9, 2026",
+          "Reaching Learners Worldwide: Inside OCW’s Video Strategies",
+          "MIT OpenCourseWare Wins a 2026 Open Education Award for Excellence",
+          "OCW Resources for the 25th Anniversary of 9/11",
+          "How MIT Courses Inspired Path to Doctoral Program",
+          "Gaining Confidence and Skill with MIT Open Learning",
+          "MIT OpenCourseWare Wins a 2026 Open Education Award for …"
+        ]
+      },
+      "mainText": "MIT OpenCourseWare | Free Online Course Materials GIVE NOW about ocw help & faqs contact us Discover courses, materials, & teaching resources Search Search Explore OR Explore Are you new to OCW? Get Started Looking for teaching materials? Educators Start Here Unlocking knowledge, Empowering Minds.\n\nkeyboard_arrow_left Previous MIT Learn: \"a whole new front door to the Institute\"\n\nConnect with all of MIT’s lifelong learning opportunities\n\nMIT OpenCourseWare To Go\n\nMaterials curated for offline learning on mobile devices\n\nChalk Radio: a podcast about inspired teaching at MIT\n\nNew Episode: MIT Programmer Ana Bell on Growth Mindset, Coding, and Rubber Ducks\n\nThe Open Education Global conference will be at MIT, October 7-9, 2026\n\nOCW offers course content and materials related to a wide range of collections. Below are some topics available for you to explore:\n\nEnvironment & Sustainability\n\nIntroductory Programming\n\nIntroductory Science and Math\n\nMBA First-Semester Core\n\nMIT Open Learning Library\n\nYour Donation Makes a Difference\n\nReaching Learners Worldwide: Inside OCW’s Video Strategies\n\nMIT OpenCourseWare Wins a 2026 Open Education Award for Excellence\n\nOCW Resources for the 25th Anniversary of 9/11\n\nHow MIT Courses Inspired Path to Doctoral Program\n\nGaining Confidence and Skill with MIT Open Learning\n\nReaching Learners Worldwide: Inside OCW’s Video Strategies\n\nMIT OpenCourseWare Wins a 2026 Open Education Award for …\n\nOCW Resources for the 25th Anniversary of 9/11\n\nHow MIT Courses Inspired Path to Doctoral Program\n\nGaining Confidence and Skill with MIT Open Learning\n\nOpenCourseWare Stories\n\nStories from the OpenCourseWare community reflect the profound impact of sharing knowledge and the transformative power of open education.\n\nOpenCourseWare Stories\n\nStories from the OpenCourseWare community reflect the profound impact of sharing knowledge and the transformative power of open education.\n\nOpenCourseWare Stories\n\nStories from the OpenCourseWare community reflect the profound impact of sharing knowledge and the transformative power of open education.\n\nOpenCourseWare Stories\n\nStories from the OpenCourseWare community reflect the profound impact of sharing knowledge and the transformative power of open education.\n\nShare your OCW story. We'd love to hear from you!\n\nHow OCW has made an impact in your life.\n\nOur Corporate and Foundation Supporters\n\nYou are leaving MIT OpenCourseWare",
+      "language": "en",
+      "category": "Education",
+      "categoryConfidence": 0.81,
+      "categorySignals": [
+        "domain:.edu",
+        "domain:mit.edu",
+        "title:course",
+        "heading:education",
+        "heading:learn",
+        "heading:teaching",
+        "desc:course",
+        "body:education(7)",
+        "body:course(2)",
+        "body:teaching(3)"
+      ],
+      "contentLengthBytes": 893398,
+      "wordCount": 349,
+      "statusCode": 200,
+      "fetchTimeMs": 727,
+      "processedAt": "2026-09-24T07:13:24.462Z",
+      "chunkId": "chunk-031",
+      "retryCount": 0
+    }
+  ]
+}

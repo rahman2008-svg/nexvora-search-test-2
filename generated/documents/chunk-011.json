@@ -1,0 +1,295 @@
+{
+  "chunkId": "chunk-011",
+  "filename": "chunk-011.json",
+  "documentCount": 6,
+  "totalBytes": 1625928,
+  "createdAt": "2026-09-24T07:15:54.831Z",
+  "documents": [
+    {
+      "id": "doc-kotlinlang_org-onvaj5",
+      "url": "https://kotlinlang.org/docs/home.html",
+      "canonicalUrl": "https://kotlinlang.org/docs/home.html",
+      "domain": "kotlinlang.org",
+      "title": "Kotlin Docs | Kotlin Documentation",
+      "description": "...",
+      "headings": {
+        "h1": [],
+        "h2": [],
+        "h3": []
+      },
+      "mainText": "",
+      "language": "en",
+      "category": "Programming",
+      "categoryConfidence": 0.51,
+      "categorySignals": [
+        "url_pattern:\\/docs\\/"
+      ],
+      "contentLengthBytes": 3819,
+      "wordCount": 0,
+      "statusCode": 200,
+      "fetchTimeMs": 753,
+      "processedAt": "2026-09-24T07:10:04.076Z",
+      "chunkId": "chunk-011",
+      "retryCount": 0
+    },
+    {
+      "id": "doc-developer_android_com-fytcao",
+      "url": "https://developer.android.com/develop/ui/compose/documentation",
+      "canonicalUrl": "https://developer.android.com/develop/ui/compose/documentation?hl=hi",
+      "domain": "developer.android.com",
+      "title": "Jetpack Compose का इस्तेमाल शुरू करना  |  Android Developers",
+      "description": "Jetpack Compose, Android यूज़र इंटरफ़ेस (यूआई) बनाने के लिए एक आधुनिक टूलकिट है. इससे ऐसे ऐप्लिकेशन डेवलप करना आसान हो जाता है जो किसी भी डिसप्ले साइज़ के हिसाब से अडजस्ट हो जाते हैं.",
+      "headings": {
+        "h1": [
+          "Jetpack Compose का इस्तेमाल शुरू करना संग्रह की मदद से व्यवस्थित रहें अपनी प्राथमिकताओं के आधार पर, कॉन्टेंट को सेव करें और कैटगरी में बांटें."
+        ],
+        "h2": [
+          "Foundation",
+          "अडैप्टिव यूज़र इंटरफ़ेस (यूआई)",
+          "डेवलपमेंट एनवायरमेंट",
+          "डिज़ाइन",
+          "Compose का इस्तेमाल करना",
+          "अन्य संसाधन",
+          "आपके लिए सुझाव"
+        ],
+        "h3": [
+          "Android के बारे में ज़्यादा जानें",
+          "खोजें",
+          "Android डिवाइस",
+          "रिलीज़",
+          "दस्तावेज़ और डाउनलोड",
+          "सहायता"
+        ]
+      },
+      "mainText": "Jetpack Compose का इस्तेमाल शुरू करना संग्रह की मदद से व्यवस्थित रहें अपनी प्राथमिकताओं के आधार पर, कॉन्टेंट को सेव करें और कैटगरी में बांटें.\n\nJetpack Compose, Android यूज़र इंटरफ़ेस (यूआई) बनाने के लिए एक आधुनिक टूलकिट है. इससे ऐसे ऐप्लिकेशन डेवलप करना आसान हो जाता है जो किसी भी डिसप्ले साइज़ के हिसाब से अपने-आप अडजस्ट हो जाते हैं.\n\nखास जानकारी : Compose का इस्तेमाल करने वाले डेवलपर के लिए उपलब्ध संसाधन देखें.\n\nट्यूटोरियल : बुनियादी यूज़र इंटरफ़ेस (यूआई) बनाकर, Compose का इस्तेमाल शुरू करें.\n\nक्विक गाइड : हमारी तेज़ और काम की जानकारी देने वाली गाइड आज़माएं. इन्हें इस तरह डिज़ाइन किया गया है कि आप जल्द से जल्द अपना लक्ष्य हासिल कर सकें .\n\nCompose में काम करने का तरीका : Compose का डिक्लेरेटिव अप्रोच, व्यू-आधारित अप्रोच से कैसे अलग है. हो सकता है कि आपने पहले व्यू-आधारित अप्रोच का इस्तेमाल किया हो. Compose के साथ काम करने का एक मेंटल मॉडल बनाएं.\n\nस्टेट मैनेज करना : अपने Compose ऐप्लिकेशन में स्टेट सेट करना और उसका इस्तेमाल करना.\n\nकंपोज़ेबल का लाइफ़साइकल : कंपोज़ेबल का लाइफ़साइकल और Compose यह कैसे तय करता है कि इसे फिर से ड्रॉ करने की ज़रूरत है या नहीं.\n\nमॉडिफ़ायर : अपने कंपोज़ेबल को बेहतर बनाने या सजाने के लिए, मॉडिफ़ायर का इस्तेमाल करें.\n\nCompose में साइड-इफ़ेक्ट : साइड-इफ़ेक्ट मैनेज करने के तरीके.\n\nJetpack Compose के फ़ेज़ : Compose, आपके ऐप्लिकेशन के यूज़र इंटरफ़ेस (यूआई) को रेंडर करने के लिए किन चरणों से गुज़रता है. साथ ही, इस जानकारी का इस्तेमाल करके, बेहतर कोड कैसे लिखा जा सकता है.\n\nआर्किटेक्चरल लेयरिंग : Jetpack Compose को बनाने वाली आर्किटेक्चरल लेयर और Compose के डिज़ाइन के लिए इस्तेमाल किए गए मुख्य सिद्धांत.\n\nपरफ़ॉर्मेंस : प्रोग्रामिंग से जुड़ी उन आम गलतियों से बचें जिनकी वजह से ऐप्लिकेशन की परफ़ॉर्मेंस खराब हो सकती है.\n\nCompose में सिमैंटिक : सिमैंटिक ट्री, जो आपके यूज़र इंटरफ़ेस (यूआई) को इस तरह व्यवस्थित करता है कि इसका इस्तेमाल, सुलभता सेवाओं और टेस्टिंग फ़्रेमवर्क से किया जा सके.\n\nCompositionLocal की मदद से, स्थानीय तौर पर स्कोप किया गया डेटा : कंपोज़िशन के ज़रिए डेटा पास करने के लिए, CompositionLocal का इस्तेमाल करें.\n\nअडैप्टिव यूज़र इंटरफ़ेस (यूआई)\n\nअडैप्टिव ऐप्लिकेशन बनाना : ऐसे लेआउट बनाने के मुख्य सिद्धांत जानें जो फ़ोन, टैबलेट, फ़ोल्डेबल वगैरह जैसे किसी भी डिसप्ले साइज़ के लिए ऑप्टिमाइज़ किए गए हों.\n\nसाबित हो चुके लेआउट लागू करना : बड़ी स्क्रीन पर ऑप्टिमाइज़ किए गए ऐप्लिकेशन के लिए, सूची की जानकारी और सपोर्टिंग पैनल जैसे कैननिकल लेआउट का इस्तेमाल करें.\n\nअडैप्टिव नेविगेशन : नेविगेशन पैटर्न लागू करें जो उपलब्ध डिसप्ले स्पेस के हिसाब से अपने-आप अडजस्ट हो जाते हैं.\n\nCompose के साथ Android Studio : अपना डेवलपमेंट एनवायरमेंट कैसे सेट अप करें Compose का इस्तेमाल करने के लिए.\n\nCompose के लिए टूलिंग : Compose के साथ काम करने के लिए, Android Studio की नई सुविधाएं.\n\nCompose के लिए Kotlin : Kotlin के खास मुहावरे, Compose के साथ काम करते हैं.\n\nCompose और व्यू मेट्रिक की तुलना करना : Compose पर माइग्रेट करने से, आपके ऐप्लिकेशन के APK साइज़ और रनटाइम परफ़ॉर्मेंस पर क्या असर पड़ सकता है.\n\nबिल ऑफ़ मटीरियल : सिर्फ़ बीओएम का वर्शन तय करके, Compose की सभी डिपेंडेंसी मैनेज करें.\n\nलेआउट : Compose लेआउट कॉम्पोनेंट और अपने लेआउट डिज़ाइन करने का तरीका. लेआउट की बुनियादी बातें : सीधे-सादे ऐप्लिकेशन यूज़र इंटरफ़ेस (यूआई) के लिए बिल्डिंग ब्लॉक.\n\nमटीरियल कॉम्पोनेंट और लेआउट : Compose में मटीरियल कॉम्पोनेंट और लेआउट.\n\nकस्टम लेआउट : अपने ऐप्लिकेशन के लेआउट पर कंट्रोल पाएं और अपना कस्टम लेआउट डिज़ाइन करें.\n\nअलाइनमेंट लाइन : अपने यूज़र इंटरफ़ेस (यूआई) के एलिमेंट को सटीक तरीके से अलाइन और पोज़िशन करने के लिए, कस्टम अलाइनमेंट गाइड बनाएं.\n\nइंट्रिंसिक मेज़रमेंट : चाइल्ड एलिमेंट को मेज़र करने से पहले, उनकी जानकारी के लिए क्वेरी करने का तरीका. ऐसा इसलिए, क्योंकि Compose, यूज़र इंटरफ़ेस (यूआई) के एलिमेंट को हर पास में सिर्फ़ एक बार मेज़र करता है.\n\nConstraintLayout : अपने Compose यूज़र इंटरफ़ेस (यूआई) में ConstraintLayout का इस्तेमाल करें.\n\nडिज़ाइन सिस्टम : डिज़ाइन सिस्टम लागू करें और अपने ऐप्लिकेशन को एक जैसा लुक और फ़ील दें. मटीरियल डिज़ाइन 3 : Material You को, मटीरियल डिज़ाइन 3 के Compose वर्शन के साथ लागू करें .\n\nमटीरियल 2 से मटीरियल 3 पर माइग्रेट करना : अपने ऐप्लिकेशन को Compose में, मटीरियल डिज़ाइन 2 से मटीरियल डिज़ाइन 3 पर माइग्रेट करें.\n\nमटीरियल डिज़ाइन 2 : अपने प्रॉडक्ट के ब्रैंड के हिसाब से, मटीरियल डिज़ाइन 2 के Compose वर्शन को पसंद के मुताबिक बनाएं.\n\nकस्टम डिज़ाइन सिस्टम : Compose में कस्टम डिज़ाइन सिस्टम लागू करें और नए डिज़ाइन सिस्टम के लिए, मौजूदा मटीरियल डिज़ाइन कंपोज़ेबल को अडजस्ट करें.\n\nकिसी थीम की बनावट : MaterialTheme और कस्टम डिज़ाइन सिस्टम में इस्तेमाल किए जाने वाले लोअर-लेवल कंस्ट्रक्ट और एपीआई.\n\nसूचियां और ग्रिड : डेटा की सूचियों और ग्रिड को मैनेज करने और दिखाने के लिए, Compose के विकल्प.\n\nटेक्स्ट : Compose में टेक्स्ट दिखाने और उसमें बदलाव करने के मुख्य विकल्प.\n\nग्राफ़िक्स : कस्टम ग्राफ़िक्स बनाने और उनके साथ काम करने के लिए, Compose की सुविधाएं.\n\nऐनिमेशन : अपने यूज़र इंटरफ़ेस (यूआई) के एलिमेंट को ऐनिमेट करने के लिए, Compose के विकल्प.\n\nहाव-भाव : Compose यूज़र इंटरफ़ेस (यूआई) बनाएं, जो उपयोगकर्ता के हाव-भाव को पहचानता है और उनके साथ इंटरैक्ट करता है.\n\nउपयोगकर्ता के इंटरैक्शन को हैंडल करना : Compose, लोअर-लेवल इनपुट को हायर-लेवल इंटरैक्शन में कैसे बदलता है, ताकि आप यह तय कर सकें कि आपके कॉम्पोनेंट, उपयोगकर्ता की कार्रवाइयों पर कैसे जवाब दें.\n\nCompose का इस्तेमाल करना\n\nव्यू-आधारित ऐप्लिकेशन माइग्रेट करना : अपने व्यू-आधारित ऐप्लिकेशन को Compose पर माइग्रेट करें. माइग्रेशन की रणनीति : अपने कोडबेस में Compose को सुरक्षित और धीरे-धीरे कैसे शामिल करें.\n\nइंटरऑपरेबिलिटी एपीआई : Compose एपीआई, ताकि Compose को व्यू-आधारित यूज़र इंटरफ़ेस (यूआई) के साथ जोड़ा जा सके.\n\nअन्य बातें : अपने व्यू-आधारित ऐप्लिकेशन को Compose पर माइग्रेट करते समय, थीमिंग, आर्किटेक्चर, टेस्टिंग, और अन्य बातों का ध्यान रखना.\n\nCompose और अन्य लाइब्रेरी : अपने Compose कॉन्टेंट में, व्यू-आधारित लाइब्रेरी का इस्तेमाल कैसे करें.\n\nCompose आर्किटेक्चर : Compose में एकतरफ़ा फ़्लो पैटर्न लागू करें, इवेंट और स्टेट होल्डर लागू करें, और Compose में ViewModel के साथ काम करें.\n\nनेविगेशन : अपने Compose यूज़र इंटरफ़ेस (यूआई) के साथ नेविगेशन कॉम्पोनेंट को इंटिग्रेट करने के लिए, NavController का इस्तेमाल करें.\n\nसंसाधन : अपने Compose कोड में, अपने ऐप्लिकेशन के संसाधनों के साथ काम करें.\n\nसुलभता : सुलभता से जुड़ी ज़रूरतों वाले उपयोगकर्ताओं को ध्यान में रखें.\n\nटेस्टिंग : अपने Compose कोड की जांच करें. टेस्टिंग चीट शीट : Compose के काम के टेस्टिंग एपीआई का क्विक रेफ़रंस.\n\nविषय से जुड़े ऑनलाइन कोर्स और रेफ़रंस मटीरियल\n\nCompose एपीआई के लिए दिशा-निर्देश\n\nध्यान दें: JavaScript बंद होने पर, लिंक का टेक्स्ट दिखता है\n\nCompositionLocal की मदद से, स्थानीय तौर पर स्कोप किया गया डेटा\n\nCompose में किसी थीम की बनावट\n\nइस पेज पर मौजूद कॉन्टेंट और कोड सैंपल कॉन्टेंट के लाइसेंस में बताए गए लाइसेंस के हिसाब से हैं. Java और OpenJDK, Oracle और/या इससे जुड़ी हुई कंपनियों के ट्रेडमार्क या रजिस्टर किए हुए ट्रेडमार्क हैं.\n\nआखिरी बार 2026-06-18 (UTC) को अपडेट किया गया.",
+      "language": "hi",
+      "category": "Programming",
+      "categoryConfidence": 0.57,
+      "categorySignals": [
+        "url_pattern:\\/developer"
+      ],
+      "contentLengthBytes": 408599,
+      "wordCount": 1148,
+      "statusCode": 200,
+      "fetchTimeMs": 2035,
+      "processedAt": "2026-09-24T07:10:09.648Z",
+      "chunkId": "chunk-011",
+      "retryCount": 0
+    },
+    {
+      "id": "doc-developer_android_com-g3zv4u",
+      "url": "https://developer.android.com/training/data-storage",
+      "canonicalUrl": "https://developer.android.com/training/data-storage?hl=th",
+      "domain": "developer.android.com",
+      "title": "ภาพรวมของพื้นที่เก็บข้อมูลและไฟล์  |  App data and files  |  Android Developers",
+      "description": "เอกสารนี้จะอธิบายตัวเลือกต่างๆ สำหรับการบันทึกข้อมูลแอปใน Android โดยจัดหมวดหมู่เป็นข้อมูลเฉพาะแอป ข้อมูลที่แชร์ ค่ากำหนด และฐานข้อมูล พร้อมทั้งอธิบายพื้นที่เก็บข้อมูลภายในและภายนอก สิทธิ์ และพื้นที่เก็บข้อมูลที่จำกัดขอบเขต",
+      "headings": {
+        "h1": [
+          "ภาพรวมของพื้นที่เก็บข้อมูลและไฟล์ จัดทุกอย่างให้เป็นระเบียบอยู่เสมอด้วยคอลเล็กชัน บันทึกและจัดหมวดหมู่เนื้อหาตามค่ากำหนดของคุณ"
+        ],
+        "h2": [
+          "หมวดหมู่ของตำแหน่งพื้นที่เก็บข้อมูล",
+          "สิทธิ์และการเข้าถึงพื้นที่เก็บข้อมูลภายนอก",
+          "ดูไฟล์ในอุปกรณ์",
+          "แหล่งข้อมูลเพิ่มเติม"
+        ],
+        "h3": [
+          "พื้นที่เก็บข้อมูลที่กำหนดขอบเขต",
+          "วิดีโอ",
+          "Android เพิ่มเติม",
+          "Discover",
+          "อุปกรณ์ Android",
+          "ผลงาน",
+          "เอกสารประกอบและรายการที่ดาวน์โหลด",
+          "การสนับสนุน"
+        ]
+      },
+      "mainText": "ภาพรวมของพื้นที่เก็บข้อมูลและไฟล์ จัดทุกอย่างให้เป็นระเบียบอยู่เสมอด้วยคอลเล็กชัน บันทึกและจัดหมวดหมู่เนื้อหาตามค่ากำหนดของคุณ\n\nAndroid ใช้ระบบไฟล์ที่คล้ายกับระบบไฟล์ที่อิงตามดิสก์ในแพลตฟอร์มอื่นๆ ระบบมีตัวเลือกหลายอย่างให้คุณบันทึกข้อมูลแอป ดังนี้\n\nพื้นที่เก็บข้อมูลเฉพาะแอป: จัดเก็บไฟล์ที่ตั้งใจไว้ให้แอปของคุณใช้เท่านั้น ในไดเรกทอรีเฉพาะภายในวอลุ่มที่จัดเก็บข้อมูลภายในหรือไดเรกทอรีเฉพาะอื่นๆ ภายในที่จัดเก็บข้อมูลภายนอก ใช้ไดเรกทอรีภายในที่จัดเก็บข้อมูลภายในเพื่อบันทึกข้อมูลที่ละเอียดอ่อนซึ่งแอปอื่นๆ ไม่ควรเข้าถึง\n\nพื้นที่เก็บข้อมูลที่แชร์: จัดเก็บไฟล์ที่แอปของคุณต้องการแชร์กับแอปอื่นๆ ซึ่งรวมถึงสื่อ เอกสาร และไฟล์อื่นๆ\n\nค่ากำหนด: จัดเก็บข้อมูลดั้งเดิมแบบส่วนตัวในคู่คีย์-ค่า\n\nฐานข้อมูล: จัดเก็บข้อมูลที่มีโครงสร้างในฐานข้อมูลส่วนตัวโดยใช้ไลบรารีความคงทนของ Room\n\nลักษณะของตัวเลือกเหล่านี้สรุปได้ในตารางต่อไปนี้\n\nโซลูชันที่คุณเลือกจะขึ้นอยู่กับความต้องการเฉพาะของคุณ ดังนี้\n\nหมวดหมู่ของตำแหน่งพื้นที่เก็บข้อมูล\n\nAndroid มีตำแหน่งที่จัดเก็บข้อมูลจริง 2 ประเภท ได้แก่ ที่จัดเก็บข้อมูลภายใน และ ที่จัดเก็บข้อมูลภายนอก ในอุปกรณ์ส่วนใหญ่ ที่จัดเก็บข้อมูลภายในจะมีขนาดเล็กกว่าที่จัดเก็บข้อมูลภายนอก อย่างไรก็ตาม ที่จัดเก็บข้อมูลภายในจะพร้อมใช้งานในอุปกรณ์ทุกเครื่องเสมอ ทำให้เป็นที่เก็บข้อมูลที่เชื่อถือได้มากขึ้นซึ่งแอปของคุณต้องใช้\n\nวอลุ่มแบบถอดได้ เช่น การ์ด SD จะปรากฏในระบบไฟล์เป็นส่วนหนึ่งของ พื้นที่เก็บข้อมูลภายนอก Android แสดงอุปกรณ์เหล่านี้โดยใช้เส้นทาง เช่น /sdcard\n\nตำแหน่งที่แน่นอนซึ่งบันทึกไฟล์ได้อาจแตกต่างกันไปในอุปกรณ์ต่างๆ ด้วยเหตุนี้ จึงไม่ควรใช้เส้นทางไฟล์ที่ฮาร์ดโค้ด\n\nอย่าใช้รูปแบบที่คาดเดาได้กับชื่อไฟล์ในลักษณะที่อาจเปิดเผยประเภทข้อมูลที่อยู่ในไฟล์ เพื่อหลีกเลี่ยงการเปิดเผยข้อมูลโดยไม่ตั้งใจ\n\nโดยค่าเริ่มต้น ระบบจะจัดเก็บแอปไว้ในที่จัดเก็บข้อมูลภายใน อย่างไรก็ตาม หาก APK มีขนาดใหญ่มาก คุณสามารถระบุค่ากำหนดภายในไฟล์ Manifest ของแอปเพื่อติดตั้งแอปในที่เก็บข้อมูลภายนอกแทนได้\n\n<manifest ... android:installLocation=\"preferExternal\" > ... </manifest> สิทธิ์และการเข้าถึงพื้นที่เก็บข้อมูลภายนอก\n\nAndroid กำหนดสิทธิ์ที่เกี่ยวข้องกับพื้นที่เก็บข้อมูลต่อไปนี้ READ_EXTERNAL_STORAGE WRITE_EXTERNAL_STORAGE และ MANAGE_EXTERNAL_STORAGE\n\nใน Android เวอร์ชันก่อนหน้า แอปต้องประกาศสิทธิ์ READ_EXTERNAL_STORAGE เพื่อเข้าถึงไฟล์ใดก็ตามที่อยู่นอก ไดเรกทอรีเฉพาะของแอป ในพื้นที่เก็บข้อมูลภายนอก นอกจากนี้ แอปยังต้องประกาศสิทธิ์ WRITE_EXTERNAL_STORAGE ในการเขียนไปยัง ไฟล์ใดก็ได้ที่อยู่นอกไดเรกทอรีเฉพาะแอป\n\nAndroid เวอร์ชันล่าสุดจะพิจารณาความสามารถของแอปในการเข้าถึงและเขียนไฟล์ที่กำหนดโดยอิงตามวัตถุประสงค์ของไฟล์มากกว่าตำแหน่ง โดยเฉพาะอย่างยิ่ง หากแอปของคุณกำหนดเป้าหมายเป็น Android 11 (API ระดับ 30) ขึ้นไป WRITE_EXTERNAL_STORAGE จะไม่มีผลต่อสิทธิ์เข้าถึงพื้นที่เก็บข้อมูลของแอป โมเดลพื้นที่เก็บข้อมูลตามวัตถุประสงค์นี้ช่วยปรับปรุงความเป็นส่วนตัวของผู้ใช้ เนื่องจากแอปจะได้รับสิทธิ์เข้าถึงเฉพาะส่วนของระบบไฟล์ของอุปกรณ์ที่ แอปใช้งานจริงเท่านั้น\n\nAndroid 11 เปิดตัวสิทธิ์ MANAGE_EXTERNAL_STORAGE ซึ่งให้สิทธิ์ การเขียนไฟล์นอกไดเรกทอรีเฉพาะแอปและ MediaStore ดูข้อมูลเพิ่มเติมเกี่ยวกับสิทธิ์นี้และเหตุผลที่แอปส่วนใหญ่ไม่จำเป็นต้องประกาศสิทธิ์นี้เพื่อตอบสนอง Use Case ของตนได้ในคู่มือเกี่ยวกับวิธี จัดการไฟล์ทั้งหมด ในอุปกรณ์จัดเก็บข้อมูล\n\nพื้นที่เก็บข้อมูลที่กำหนดขอบเขต\n\nเพื่อให้ผู้ใช้ควบคุมไฟล์ได้มากขึ้นและจำกัดการจัดระเบียบไฟล์ แอปที่กำหนดเป้าหมายเป็น Android 10 (ระดับ API 29) ขึ้นไปจะได้รับสิทธิ์เข้าถึงที่กำหนดขอบเขตไปยังที่จัดเก็บข้อมูลภายนอกหรือ พื้นที่เก็บข้อมูลที่กำหนดขอบเขต โดยค่าเริ่มต้น แอปดังกล่าวจะมีสิทธิ์เข้าถึงเฉพาะ ไดเรกทอรีเฉพาะแอปในพื้นที่เก็บข้อมูลภายนอก รวมถึงสื่อบางประเภท ที่แอปสร้างขึ้น\n\nใช้พื้นที่เก็บข้อมูลที่กำหนดขอบเขต เว้นแต่แอปของคุณจำเป็นต้องเข้าถึงไฟล์ที่จัดเก็บอยู่นอก ไดเรกทอรีเฉพาะแอป และนอกไดเรกทอรีที่ API ของ MediaStore เข้าถึงได้ หากจัดเก็บไฟล์เฉพาะแอปไว้ในที่จัดเก็บข้อมูลภายนอก คุณจะนำพื้นที่เก็บข้อมูลที่กำหนดขอบเขตมาใช้ได้ง่ายขึ้นโดยวางไฟล์เหล่านี้ไว้ใน ไดเรกทอรีเฉพาะแอปในที่จัดเก็บข้อมูลภายนอก วิธีนี้จะช่วยให้แอปของคุณยังคงมีสิทธิ์เข้าถึงไฟล์เหล่านี้ได้เมื่อเปิดใช้พื้นที่เก็บข้อมูลที่กำหนดขอบเขต\n\nหากต้องการเตรียมแอปให้พร้อมสำหรับพื้นที่เก็บข้อมูลที่กำหนดขอบเขต โปรดดูคู่มือ กรณีการใช้งานพื้นที่เก็บข้อมูลและแนวทางปฏิบัติแนะนำ หากแอปของคุณมี Use Case อื่นที่ไม่ได้ครอบคลุมโดยพื้นที่เก็บข้อมูลที่จำกัดขอบเขต โปรด ส่งคำขอฟีเจอร์ คุณสามารถ เลือกไม่ใช้ที่เก็บข้อมูลที่จำกัดขอบเขตชั่วคราว ได้\n\nหากต้องการดูไฟล์ที่จัดเก็บไว้ในอุปกรณ์ ให้ใช้ Device File Explorer ของ Android Studio\n\nโปรดดูข้อมูลเพิ่มเติมเกี่ยวกับการจัดเก็บข้อมูลได้ที่แหล่งข้อมูลต่อไปนี้\n\nการเตรียมพร้อมสำหรับ Scoped Storage (Android Dev Summit '19)\n\nตัวอย่างเนื้อหาและโค้ดในหน้าเว็บนี้ขึ้นอยู่กับใบอนุญาตที่อธิบายไว้ใน ใบอนุญาตการใช้เนื้อหา Java และ OpenJDK เป็นเครื่องหมายการค้าหรือเครื่องหมายการค้าจดทะเบียนของ Oracle และ/หรือบริษัทในเครือ\n\nอัปเดตล่าสุด 2026-09-18 UTC",
+      "language": "th",
+      "category": "Programming",
+      "categoryConfidence": 0.62,
+      "categorySignals": [
+        "url_pattern:\\/developer",
+        "body:api(3)"
+      ],
+      "contentLengthBytes": 312216,
+      "wordCount": 184,
+      "statusCode": 200,
+      "fetchTimeMs": 2705,
+      "processedAt": "2026-09-24T07:10:21.562Z",
+      "chunkId": "chunk-011",
+      "retryCount": 0
+    },
+    {
+      "id": "doc-developer_android_com-78dkry",
+      "url": "https://developer.android.com/training/permissions",
+      "canonicalUrl": "https://developer.android.com/guide/topics/permissions/overview",
+      "domain": "developer.android.com",
+      "title": "Permissions on Android  |  Privacy  |  Android Developers",
+      "description": "This document provides an overview of how Android app permissions work, describing different permission types, the workflow for using them, and best practices for implementing them to protect user privacy and data.",
+      "headings": {
+        "h1": [
+          "Permissions on Android Stay organized with collections Save and categorize content based on your preferences."
+        ],
+        "h2": [
+          "Workflow for using permissions",
+          "Types of permissions",
+          "Best practices",
+          "Permissions in system components"
+        ],
+        "h3": [
+          "Install-time permissions",
+          "Runtime permissions",
+          "Special permissions",
+          "Permission groups",
+          "Request a minimal number of permissions",
+          "Associate runtime permissions with specific actions",
+          "Consider your app's dependencies",
+          "Be transparent",
+          "Make system accesses explicit",
+          "More Android",
+          "Discover",
+          "Android Devices",
+          "Releases",
+          "Documentation and Downloads",
+          "Support"
+        ]
+      },
+      "mainText": "Permissions on Android Stay organized with collections Save and categorize content based on your preferences.\n\nApp permissions help support user privacy by protecting access to the following:\n\nRestricted data , such as system state and users' contact information\n\nRestricted actions , such as connecting to a paired device and recording audio\n\nThis page provides an overview to how Android permissions work, including a high-level workflow for using permissions, descriptions of different types of permissions, and some best practices for using permissions in your app. Other pages explain how to minimize your app's requests for permissions , declare permissions , request runtime permissions , and restrict how other apps can interact with your app's components.\n\nTo view a complete list of Android app permissions, visit the permissions API reference page .\n\nTo view some sample apps that demonstrate the permissions workflow, visit the Android permissions samples repository on GitHub.\n\nWorkflow for using permissions\n\nIf your app offers functionality that might require access to restricted data or restricted actions, determine whether you can get the information or perform the actions without needing to declare permissions . You can fulfill many use cases in your app, such as taking photos, pausing media playback, and displaying relevant ads, without needing to declare any permissions.\n\nIf you decide that your app must access restricted data or perform restricted actions to fulfill a use case, declare the appropriate permissions. Some permissions, known as install-time permissions , are automatically granted when your app is installed. Other permissions, known as runtime permissions , require your app to go a step further and request the permission at runtime.\n\nFigure 1 illustrates the workflow for using app permissions:\n\nAndroid categorizes permissions into different types, including install-time permissions, runtime permissions, and special permissions. Each permission's type indicates the scope of restricted data that your app can access, and the scope of restricted actions that your app can perform, when the system grants your app that permission. The protection level for each permission is based on its type and is shown on the permissions API reference page.\n\nInstall-time permissions\n\nInstall-time permissions give your app limited access to restricted data or let your app perform restricted actions that minimally affect the system or other apps. When you declare install-time permissions in your app, an app store presents an install-time permission notice to the user when they view an app's details page, as shown in figure 2. The system automatically grants your app the permissions when the user installs your app.\n\nAndroid includes several sub-types of install-time permissions, including normal permissions and signature permissions.\n\nThese permissions allow access to data and actions that extend beyond your app's sandbox but present very little risk to the user's privacy and the operation of other apps.\n\nThe system assigns the normal protection level to normal permissions.\n\nSignature permissions\n\nThe system grants a signature permission to an app only when the app is signed by the same certificate as the app or the OS that defines the permission.\n\nApplications that implement privileged services, such as autofill or VPN services, also make use of signature permissions. These apps require service-binding signature permissions so that only the system can bind to the services.\n\nThe system assigns the signature protection level to signature permissions.\n\nRuntime permissions, also known as dangerous permissions, give your app additional access to restricted data or let your app perform restricted actions that more substantially affect the system and other apps. Therefore, you need to request runtime permissions in your app before you can access the restricted data or perform restricted actions. Don't assume that these permissions have been previously granted&mdash;check them and, if needed, request them before each access.\n\nWhen your app requests a runtime permission, the system presents a runtime permission prompt, as shown in figure 3.\n\nMany runtime permissions access private user data , a special type of restricted data that includes potentially sensitive information. Examples of private user data include location and contact information.\n\nThe microphone and camera provide access to particularly sensitive information. Therefore, the system helps you explain why your app accesses this information .\n\nThe system assigns the dangerous protection level to runtime permissions.\n\nSpecial permissions correspond to particular app operations. Only the platform and OEMs can define special permissions. Additionally, the platform and OEMs usually define special permissions when they want to protect access to particularly powerful actions, such as drawing over other apps.\n\nThe Special app access page in system settings contains a set of user-toggleable operations. Many of these operations are implemented as special permissions.\n\nLearn more about how to request special permissions .\n\nThe system assigns the appop protection level to special permissions.\n\nPermissions can belong to permission groups . Permission groups consist of a set of logically related permissions. For example, permissions to send and receive SMS messages might belong to the same group, as they both relate to the application's interaction with SMS.\n\nPermission groups help the system minimize the number of system dialogs that are presented to the user when an app requests closely related permissions. When a user is presented with a prompt to grant permissions for an application, permissions belonging to the same group are presented in the same interface. However, permissions can change groups without notice, so don't assume that a particular permission is grouped with any other permission.\n\nApp permissions build on system security features and help Android support the following goals related to user privacy:\n\nControl: The user has control over the data that they share with apps.\n\nTransparency: The user understands what data an app uses and why the app accesses this data.\n\nData minimization: An app accesses and uses only the data that's required for a specific task or action that the user invokes.\n\nThis section presents a set of core best practices for using permissions effectively in your app. For more details on how you can work with permissions on Android, visit the app permissions best practices page.\n\nRequest a minimal number of permissions\n\nWhen the user requests a particular action in your app, your app should request only the permissions that it needs to complete that action. Depending on how you are using the permissions, there might be an alternative way to fulfill your app's use case without relying on access to sensitive information.\n\nAssociate runtime permissions with specific actions\n\nRequest permissions as late into the flow of your app's use cases as possible. For example, if your app lets users send audio messages to others, wait until the user has navigated to the messaging screen and has pressed the Send audio message button. After the user presses the button, your app can then request access to the microphone.\n\nConsider your app's dependencies\n\nWhen you include a library, you also inherit its permission requirements. Be aware of the permissions that each dependency requires and what those permissions are used for.\n\nWhen you make a permissions request, be clear about what you're accessing, why, and what functionalities are affected if permissions are denied, so users can make informed decisions.\n\nMake system accesses explicit\n\nWhen you access sensitive data or hardware, such as the camera or microphone, provide a continuous indication in your app if the system doesn't already provide these indicators . This reminder helps users understand exactly when your app accesses restricted data or performs restricted actions.\n\nPermissions in system components\n\nPermissions aren't only for requesting system functionality. Your app's system components can restrict which other apps can interact with your app, as described on the page about how to restrict interactions with other apps .\n\nContent and code samples on this page are subject to the licenses described in the Content License . Java and OpenJDK are trademarks or registered trademarks of Oracle and/or its affiliates.\n\nLast updated 2026-09-16 UTC.",
+      "language": "en",
+      "category": "Programming",
+      "categoryConfidence": 0.67,
+      "categorySignals": [
+        "url_pattern:\\/developer",
+        "heading:runtime",
+        "body:api(2)",
+        "body:runtime(11)"
+      ],
+      "contentLengthBytes": 281873,
+      "wordCount": 1297,
+      "statusCode": 200,
+      "fetchTimeMs": 996,
+      "processedAt": "2026-09-24T07:10:22.574Z",
+      "chunkId": "chunk-011",
+      "retryCount": 0
+    },
+    {
+      "id": "doc-developer_android_com-zdjb4p",
+      "url": "https://developer.android.com/develop/connectivity",
+      "canonicalUrl": "https://developer.android.com/develop/connectivity?hl=bn",
+      "domain": "developer.android.com",
+      "title": "অ্যান্ড্রয়েড কানেক্টিভিটি  |  Connectivity  |  Android Developers",
+      "description": "Connectivity describes how Android apps connect to and use network connections, including WiFi and Bluetooth.",
+      "headings": {
+        "h1": [],
+        "h2": [
+          "সাধারণ প্রোটোকল",
+          "ব্লুটুথ",
+          "ওয়াই ফাই",
+          "সংযোগের জন্য আপনার অ্যাপটি অপ্টিমাইজ করুন"
+        ],
+        "h3": [
+          "সংযোগ",
+          "ইউএসবি",
+          "5জি",
+          "নিয়ার ফিল্ড কমিউনিকেশন (NFC)",
+          "রেঞ্জিং",
+          "ভিপিএন",
+          "টেলিকম",
+          "আল্ট্রা-ওয়াইডব্যান্ড (UWB) যোগাযোগ",
+          "ব্লুটুথ ক্লাসিক",
+          "ব্লুটুথ লো এনার্জি (BLE)",
+          "BLE অডিও",
+          "Wi-Fi অ্যাক্সেস",
+          "Wi-Fi ডাইরেক্ট (P2P)",
+          "ওয়াই-ফাই সচেতন, ওয়াই-ফাই সচেতন, ওয়াই-ফাই সচেতন, ওয়াই-ফাই সচেতন",
+          "Wi-Fi RTT (রাউন্ড-ট্রিপ টাইম)",
+          "ক্রোনেট",
+          "শক্তি সঞ্চয় করুন",
+          "Android সম্পর্কে আরও শিখুন",
+          "এক্সপ্লোর করুন",
+          "Android ডিভাইস",
+          "রিলিজ",
+          "ডকুমেন্টেশন ও ডাউনলোড",
+          "সহায়তা"
+        ]
+      },
+      "mainText": "নিয়ার ফিল্ড কমিউনিকেশন (NFC)\n\nআল্ট্রা-ওয়াইডব্যান্ড (UWB) যোগাযোগ\n\nব্লুটুথ লো এনার্জি (BLE)\n\nওয়াই-ফাই সচেতন, ওয়াই-ফাই সচেতন, ওয়াই-ফাই সচেতন, ওয়াই-ফাই সচেতন\n\nWi-Fi RTT (রাউন্ড-ট্রিপ টাইম)\n\nসংযোগের জন্য আপনার অ্যাপটি অপ্টিমাইজ করুন",
+      "language": "bn",
+      "category": "Programming",
+      "categoryConfidence": 0.37,
+      "categorySignals": [
+        "url_pattern:\\/developer"
+      ],
+      "contentLengthBytes": 321739,
+      "wordCount": 29,
+      "statusCode": 200,
+      "fetchTimeMs": 2219,
+      "processedAt": "2026-09-24T07:10:24.803Z",
+      "chunkId": "chunk-011",
+      "retryCount": 0
+    },
+    {
+      "id": "doc-developer_android_com-1yzdpi",
+      "url": "https://developer.android.com/media",
+      "canonicalUrl": "https://developer.android.com/media?hl=id",
+      "domain": "developer.android.com",
+      "title": "Pusat Developer Kamera & Media  |  Android media  |  Android Developers",
+      "description": "Temukan alat pengembangan aplikasi, update platform, pelatihan, dan dokumentasi terbaru untuk developer di setiap perangkat Android.",
+      "headings": {
+        "h1": [],
+        "h2": [
+          "Membuat kasus penggunaan kamera dan media modern",
+          "Temukan inspirasi di galeri perangkat",
+          "Konten yang disoroti",
+          "Sampai bertemu di acara"
+        ],
+        "h3": [
+          "Aplikasi Kamera dan Media Android",
+          "Jetpack Media3",
+          "Jetpack Compose dan WindowManager",
+          "Kartu untuk perangkat wearable",
+          "Saluran Tonton Berikutnya",
+          "Galeri perangkat layar besar",
+          "Galeri Wear OS",
+          "Galeri TV",
+          "Alur kerja inti",
+          "Pemutaran",
+          "Pengeditan",
+          "Tambahkan pengalaman media premium",
+          "Mengubah kualitas aplikasi menjadi lebih baik",
+          "Meninjau aplikasi contoh",
+          "Bermigrasi ke Media3",
+          "Ikuti kami",
+          "Media Summit 2025",
+          "Demuxed 2025",
+          "Droidcon India 2025",
+          "Membagikan masukan atau melaporkan bug",
+          "Selengkapnya tentang Android",
+          "Temukan",
+          "Perangkat Android",
+          "Rilis",
+          "Dokumentasi dan Hasil Download",
+          "Dukungan"
+        ]
+      },
+      "mainText": "Camera & media dev center\n\nPusat developer Aplikasi Kamera dan Media Android\n\nMembuat kasus penggunaan kamera dan media modern\n\nJetpack Compose dan WindowManager\n\nKartu untuk perangkat wearable\n\nSaluran Tonton Berikutnya\n\nTemukan inspirasi di galeri perangkat\n\nGaleri perangkat layar besar\n\nMengembangkan aplikasi Pemutaran\n\nMengembangkan aplikasi Pengeditan\n\nTingkatkan Tambahkan pengalaman media premium\n\nMendorong pertumbuhan Mengubah kualitas aplikasi menjadi lebih baik\n\nContoh Meninjau aplikasi contoh\n\nMenggunakan API lama seperti library ExoPlayer mandiri, MediaCompat, atau Jetpack Media2? Ikuti panduan migrasi kami dan gunakan skrip migrasi kami untuk mempermudah migrasi Media3 Anda.\n\nAlasan bermigrasi ke Jetpack Media3\n\nMengupdate API ExoPlayer, MediaSession, & MediaController\n\nMengedit dengan Transformer API baru\n\nKompatibel dengan versi lama dengan MediaCompat API\n\nSampai bertemu di acara\n\nApakah Anda seorang engineer atau PM yang mengerjakan fitur kamera dan media di aplikasi Anda? Bergabunglah bersama kami di London pada 27-28 Oktober untuk terhubung dengan para pemimpin industri lainnya, mempelajari fitur dan API baru, serta memberikan masukan untuk memandu arah pengembangan Android pada masa mendatang.\n\nDaftarkan minat Anda di goo.gle/ims25-rsvp .\n\nKami akan menghadiri Demuxed 2025 di London pada 29-30 Oktober dan akan menyampaikan sesi tentang konfigurasi encoding berbasis data.\n\nPelajari lebih lanjut di 2025.demuxed.com .\n\nTemui kami di Droidcon India pada Sabtu, 13 Desember .\n\nInformasi selengkapnya di india.droidcon.com .\n\nMembagikan masukan atau melaporkan bug",
+      "language": "id",
+      "category": "Programming",
+      "categoryConfidence": 0.75,
+      "categorySignals": [
+        "url_pattern:\\/developer",
+        "title:developer",
+        "desc:developer",
+        "body:api(5)"
+      ],
+      "contentLengthBytes": 297682,
+      "wordCount": 211,
+      "statusCode": 200,
+      "fetchTimeMs": 1230,
+      "processedAt": "2026-09-24T07:10:26.040Z",
+      "chunkId": "chunk-011",
+      "retryCount": 0
+    }
+  ]
+}

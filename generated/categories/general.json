@@ -1,18 +1,423 @@
 {
   "category": "General",
-  "documentCount": 1,
-  "updatedAt": "2026-09-24T05:08:14.065Z",
+  "documentCount": 46,
+  "updatedAt": "2026-09-24T07:15:53.747Z",
   "documentIds": [
-    "doc-en_wikipedia_org-ba8l3w"
+    "doc-go_dev-yoa2wo",
+    "doc-php_net-cadlzs",
+    "doc-ruby_lang_org-zav56a",
+    "doc-swift_org-4ukvor",
+    "doc-dart_dev-jfe5lh",
+    "doc-nodejs_org-wfrboa",
+    "doc-docs_djangoproject_com-ayx68c",
+    "doc-nuxt_com-xypi56",
+    "doc-qwik_dev-2c28hx",
+    "doc-developer_android_com-mh3dwn",
+    "doc-docs_fedoraproject_org-qmelsd",
+    "doc-docs_opensuse_org-3f0o79",
+    "doc-helm_sh-qhgjem",
+    "doc-postgresql_org-e4tspy",
+    "doc-dev_mysql_com-mumm19",
+    "doc-mongodb_com-ic7j2k",
+    "doc-duckdb_org-vmbeyn",
+    "doc-clickhouse_com-m4ber2",
+    "doc-elastic_co-o9gyuo",
+    "doc-numpy_org-du9sbb",
+    "doc-matplotlib_org-idzoyx",
+    "doc-jupyter_org-ssab0v",
+    "doc-lightgbm_readthedocs_io-aw3lcc",
+    "doc-kaggle_com-07b835",
+    "doc-distill_pub-iz8xx4",
+    "doc-iep_utm_edu-ji3lrk",
+    "doc-mathworld_wolfram_com-fdb5zl",
+    "doc-projecteuler_net-el8wpk",
+    "doc-oeis_org-eguztz",
+    "doc-worldhistory_org-xi2lzs",
+    "doc-louvre_fr-nf4fg9",
+    "doc-wikipedia_org-zfjw75",
+    "doc-en_wikibooks_org-alonql",
+    "doc-dictionary_com-1xs292",
+    "doc-etymonline_com-i00604",
+    "doc-cia_gov-nsef2g",
+    "doc-data_worldbank_org-9npek7",
+    "doc-data_un_org-4ryacn",
+    "doc-unep_org-4lti15",
+    "doc-geonames_org-dnal25",
+    "doc-openstreetmap_org-wy04t6",
+    "doc-wiki_openstreetmap_org-yqcbqb",
+    "doc-economicshelp_org-n212pb",
+    "doc-federalreserve_gov-di9v44",
+    "doc-bls_gov-85ig2z",
+    "doc-icann_org-d4s2wq"
   ],
   "items": [
     {
-      "id": "doc-en_wikipedia_org-ba8l3w",
-      "title": "Portal: Contents – Wikipedia Reference Directory",
-      "canonicalUrl": "https://en.wikipedia.org/wiki/Portal:Contents",
-      "domain": "en.wikipedia.org",
-      "description": "General reference portal, category indexes, subject overviews, and broad encyclopedic topic directories across all human knowledge.",
-      "confidence": 0.87
+      "id": "doc-go_dev-yoa2wo",
+      "title": "A Tour of Go",
+      "canonicalUrl": "https://go.dev/tour",
+      "domain": "go.dev",
+      "description": "A Tour of Go...",
+      "confidence": 0.5
+    },
+    {
+      "id": "doc-php_net-cadlzs",
+      "title": "PHP: Preface - Manual",
+      "canonicalUrl": "https://www.php.net/manual/en/index.php",
+      "domain": "php.net",
+      "description": "PHP Manual",
+      "confidence": 0.44
+    },
+    {
+      "id": "doc-ruby_lang_org-zav56a",
+      "title": "Documentation | Ruby",
+      "canonicalUrl": "https://www.ruby-lang.org/en/documentation/",
+      "domain": "ruby-lang.org",
+      "description": "Guides, tutorials, and reference material to help you learn more about Ruby{: .summary}### Installing RubyAlthough you can easily [try Ruby in your browser][...",
+      "confidence": 0.41
+    },
+    {
+      "id": "doc-swift_org-4ukvor",
+      "title": "Redirecting&hellip;",
+      "canonicalUrl": "https://docs.swift.org/latest/documentation/",
+      "domain": "swift.org",
+      "description": "Redirecting&hellip; Redirecting&hellip; Click here if you are not redirected....",
+      "confidence": 0.5
+    },
+    {
+      "id": "doc-dart_dev-jfe5lh",
+      "title": "Dart documentation",
+      "canonicalUrl": "https://dart.dev/guides",
+      "domain": "dart.dev",
+      "description": "Learn to use the Dart language and libraries.",
+      "confidence": 0.26
+    },
+    {
+      "id": "doc-nodejs_org-wfrboa",
+      "title": "Index | Node.js v26.10.0 Documentation",
+      "canonicalUrl": "https://nodejs.org/docs/latest/api",
+      "domain": "nodejs.org",
+      "description": "Index | Node.js v26.10.0 Documentation Skip to content Node.js About this documentation\n\nAsynchronous context tracking\n\nC/C++ addons with Node-API\n\nEnvironment Variables\n\nModules: CommonJS modules\n\nMo...",
+      "confidence": 0.44
+    },
+    {
+      "id": "doc-docs_djangoproject_com-ayx68c",
+      "title": "Django documentation | Django documentation | Django",
+      "canonicalUrl": "https://docs.djangoproject.com/en/6.1/",
+      "domain": "docs.djangoproject.com",
+      "description": "Documentation version: 6.1\n\nDjango documentation ¶\n\nEverything you need to know about Django.\n\nAre you new to Django or to programming? This is the place to start!\n\nFrom scratch: Overview | Installati...",
+      "confidence": 0.55
+    },
+    {
+      "id": "doc-nuxt_com-xypi56",
+      "title": "Untitled Document",
+      "canonicalUrl": "https://nuxt.com/docs",
+      "domain": "nuxt.com",
+      "description": "...",
+      "confidence": 0.5
+    },
+    {
+      "id": "doc-qwik_dev-2c28hx",
+      "title": "Overview | Introduction 📚 Qwik Documentation",
+      "canonicalUrl": "https://qwik.dev/docs/",
+      "domain": "qwik.dev",
+      "description": "No hydration, auto lazy-loading, edge-optimized, and fun 🎉!",
+      "confidence": 0.55
+    },
+    {
+      "id": "doc-developer_android_com-mh3dwn",
+      "title": "Background Work  |  Background work  |  Android Developers",
+      "canonicalUrl": "https://developer.android.com/develop/background-work",
+      "domain": "developer.android.com",
+      "description": "Android allows your app to do work in the background. Here's how.",
+      "confidence": 0.22
+    },
+    {
+      "id": "doc-docs_fedoraproject_org-qmelsd",
+      "title": "Untitled Document",
+      "canonicalUrl": "https://docs.fedoraproject.org/",
+      "domain": "docs.fedoraproject.org",
+      "description": "Continue to the English site....",
+      "confidence": 0.5
+    },
+    {
+      "id": "doc-docs_opensuse_org-3f0o79",
+      "title": "openSUSE Documentation",
+      "canonicalUrl": "https://docs.opensuse.org/",
+      "domain": "docs.opensuse.org",
+      "description": "openSUSE documentation for both system administrators and desktop users.",
+      "confidence": 0.5
+    },
+    {
+      "id": "doc-helm_sh-qhgjem",
+      "title": "Docs Home | Helm",
+      "canonicalUrl": "https://helm.sh/docs",
+      "domain": "helm.sh",
+      "description": "Docs Docs Home Version: 4.3.0 Welcome\n\nWelcome to the Helm documentation. Helm is the package manager for Kubernetes, and you can read detailed background information in the CNCF Helm Project Journey ...",
+      "confidence": 0.53
+    },
+    {
+      "id": "doc-postgresql_org-e4tspy",
+      "title": "PostgreSQL: Documentation",
+      "canonicalUrl": "https://www.postgresql.org/docs",
+      "domain": "postgresql.org",
+      "description": "August 13, 2026: PostgreSQL 18.6, 17.11, 16.15, 15.19, 14.24 and 19 Beta 3 Released! Quick Links\n\nTutorials & Other Resources\n\nYou can view the manual for an older version or download a PDF of a manua...",
+      "confidence": 0.5
+    },
+    {
+      "id": "doc-dev_mysql_com-mumm19",
+      "title": "MySQL :: MySQL Documentation",
+      "canonicalUrl": "https://dev.mysql.com/doc",
+      "domain": "dev.mysql.com",
+      "description": "Skip to Main Content MySQL HeatWave MySQL HeatWave Docs OLTP MySQL cloud service—built on MySQL Enterprise Edition\n\nIntegrated and automated generative AI with MySQL HeatWave GenAI\n\nAccelerate query p...",
+      "confidence": 0.2
+    },
+    {
+      "id": "doc-mongodb_com-ic7j2k",
+      "title": "Welcome to the MongoDB Docs - MongoDB Documentation - MongoDB Docs",
+      "canonicalUrl": "https://www.mongodb.com/docs/",
+      "domain": "mongodb.com",
+      "description": "Official MongoDB Documentation. Learn to store data in flexible documents, create an Atlas deployment, and use our tools and integrations.",
+      "confidence": 0.42
+    },
+    {
+      "id": "doc-duckdb_org-vmbeyn",
+      "title": "Redirecting&hellip;",
+      "canonicalUrl": "https://duckdb.org/docs/current/",
+      "domain": "duckdb.org",
+      "description": "Redirecting&hellip; Redirecting&hellip; Click here if you are not redirected....",
+      "confidence": 0.5
+    },
+    {
+      "id": "doc-clickhouse_com-m4ber2",
+      "title": "Home - ClickHouse Documentation",
+      "canonicalUrl": "https://clickhouse.com/docs",
+      "domain": "clickhouse.com",
+      "description": "Documentation Index Fetch the complete documentation index at: /docs/llms.txt Use this file to discover all available pages before exploring further. Skip to main content ClickHouse Documentation home...",
+      "confidence": 0.48
+    },
+    {
+      "id": "doc-elastic_co-o9gyuo",
+      "title": "Elastic Docs | Elastic Docs",
+      "canonicalUrl": "https://www.elastic.co/docs",
+      "domain": "elastic.co",
+      "description": "Official Elastic documentation. Explore guides for Elastic Cloud (Hosted and Serverless) or on-prem deployments. Find product documentation, how-to guides, troubleshooting tips, release notes, and more.",
+      "confidence": 0.36
+    },
+    {
+      "id": "doc-numpy_org-du9sbb",
+      "title": "NumPy Documentation",
+      "canonicalUrl": "https://numpy.org/doc",
+      "domain": "numpy.org",
+      "description": "Latest (development) documentation\n\nNumPy Enhancement Proposals\n\nNumPy 2.5 Manual [HTML+zip] [Reference Guide PDF] [User Guide PDF]\n\nNumPy 2.4 Manual [HTML+zip] [Reference Guide PDF] [User Guide PDF]\n...",
+      "confidence": 0.66
+    },
+    {
+      "id": "doc-matplotlib_org-idzoyx",
+      "title": "Using Matplotlib — Matplotlib 3.11.2 documentation",
+      "canonicalUrl": "https://matplotlib.org/stable/users/index.html",
+      "domain": "matplotlib.org",
+      "description": "Quick start guide A simple example\n\nTypes of inputs to plotting functions\n\nAxis scales and ticks\n\nWorking with multiple Figures and Axes\n\nFrequently Asked Questions\n\nFigures and backends Introduction ...",
+      "confidence": 0.48
+    },
+    {
+      "id": "doc-jupyter_org-ssab0v",
+      "title": "Redirecting&hellip;",
+      "canonicalUrl": "https://docs.jupyter.org/",
+      "domain": "jupyter.org",
+      "description": "Redirecting&hellip; Redirecting&hellip; Click here if you are not redirected....",
+      "confidence": 0.5
+    },
+    {
+      "id": "doc-lightgbm_readthedocs_io-aw3lcc",
+      "title": "Welcome to LightGBM’s documentation! &mdash; LightGBM 4.7.0 documentation",
+      "canonicalUrl": "https://lightgbm.readthedocs.io/",
+      "domain": "lightgbm.readthedocs.io",
+      "description": "Welcome to LightGBM’s documentation!\n\nWelcome to LightGBM’s documentation! \n\nLightGBM is a gradient boosting framework that uses tree based learning algorithms. It is designed to be distributed and e...",
+      "confidence": 0.56
+    },
+    {
+      "id": "doc-kaggle_com-07b835",
+      "title": "Getting Started | Kaggle Documentation",
+      "canonicalUrl": "https://www.kaggle.com/docs",
+      "domain": "kaggle.com",
+      "description": "Guides and documentation for Kaggle competitions, hackathons, benchmarks, notebooks, datasets, and more.",
+      "confidence": 0.5
+    },
+    {
+      "id": "doc-distill_pub-iz8xx4",
+      "title": "Distill — Latest articles about machine learning",
+      "canonicalUrl": "http://distill.pub/",
+      "domain": "distill.pub",
+      "description": "Articles about Machine Learning",
+      "confidence": 0.51
+    },
+    {
+      "id": "doc-iep_utm_edu-ji3lrk",
+      "title": "Internet Encyclopedia of Philosophy | An encyclopedia of philosophy articles written by professional philosophers.",
+      "canonicalUrl": "https://iep.utm.edu/",
+      "domain": "iep.utm.edu",
+      "description": "Featured Article: Jean-Paul Sartre: Existentialism\n\nJames Fieser , Ph.D., founder & general editor Bradley Dowden , Ph.D., general editor...",
+      "confidence": 0.45
+    },
+    {
+      "id": "doc-mathworld_wolfram_com-fdb5zl",
+      "title": "Wolfram MathWorld: The Web's Most Extensive Mathematics Resource",
+      "canonicalUrl": "https://mathworld.wolfram.com/",
+      "domain": "mathworld.wolfram.com",
+      "description": "Comprehensive encyclopedia of mathematics with 13,000 detailed entries.  Continually updated, extensively illustrated, and with interactive examples.",
+      "confidence": 0.57
+    },
+    {
+      "id": "doc-projecteuler_net-el8wpk",
+      "title": "About - Project Euler",
+      "canonicalUrl": "https://projecteuler.net/",
+      "domain": "projecteuler.net",
+      "description": "A website dedicated to the fascinating world of mathematics and programming",
+      "confidence": 0.35
+    },
+    {
+      "id": "doc-oeis_org-eguztz",
+      "title": "The On-Line Encyclopedia of Integer Sequences (OEIS)",
+      "canonicalUrl": "https://oeis.org/",
+      "domain": "oeis.org",
+      "description": "The On-Line Encyclopedia of Integer Sequences (OEIS) login The OEIS is supported by the many generous donors to the OEIS Foundation . Nominations for sequence A400000 are open, see here .\n\n  Hints   W...",
+      "confidence": 0.66
+    },
+    {
+      "id": "doc-worldhistory_org-xi2lzs",
+      "title": "World History Encyclopedia",
+      "canonicalUrl": "https://www.worldhistory.org/",
+      "domain": "worldhistory.org",
+      "description": "The free online history encyclopedia with fact-checked articles, images, videos, maps, timelines and more; operated as a non-profit organization.",
+      "confidence": 0.57
+    },
+    {
+      "id": "doc-louvre_fr-nf4fg9",
+      "title": "Musée du Louvre Official Website",
+      "canonicalUrl": "https://www.louvre.fr/en",
+      "domain": "louvre.fr",
+      "description": "Welcome to the Louvre – prepare your visit, explore the palace and museum collections and check out the latest news",
+      "confidence": 0.28
+    },
+    {
+      "id": "doc-wikipedia_org-zfjw75",
+      "title": "Wikipedia",
+      "canonicalUrl": "https://www.wikipedia.org/",
+      "domain": "wikipedia.org",
+      "description": "Wikipedia is a free online encyclopedia, created and edited by volunteers around the world and hosted by the Wikimedia Foundation.",
+      "confidence": 0.66
+    },
+    {
+      "id": "doc-en_wikibooks_org-alonql",
+      "title": "Wikibooks",
+      "canonicalUrl": "https://en.wikibooks.org/wiki/Main_Page",
+      "domain": "en.wikibooks.org",
+      "description": "Multilingual Wikisource\n\nFeatured books • Wikijunior • Cookbook • Browse books • Help • Forum • Using Wikibooks\n\nRecreational activities\n\nWikiversity Learning resources\n\nWikipedia Encyclopedia\n\nWiktio...",
+      "confidence": 0.33
+    },
+    {
+      "id": "doc-dictionary_com-1xs292",
+      "title": "Meanings & Definitions of English Words | Dictionary.com",
+      "canonicalUrl": "https://www.dictionary.com/",
+      "domain": "dictionary.com",
+      "description": "The world's leading online dictionary: English definitions, synonyms, word origins, example sentences, word games, and more. A trusted authority for 25+ years!",
+      "confidence": 0.3
+    },
+    {
+      "id": "doc-etymonline_com-i00604",
+      "title": "Online Etymology Dictionary",
+      "canonicalUrl": "https://www.etymonline.com/",
+      "domain": "etymonline.com",
+      "description": "The online etymology dictionary (etymonline) is the internet&#x27;s go-to source for quick and reliable accounts of the origin and history of English words, phrases, and idioms.",
+      "confidence": 0.41
+    },
+    {
+      "id": "doc-cia_gov-nsef2g",
+      "title": "Spotlighting The World Factbook as We Bid a Fond Farewell - CIA",
+      "canonicalUrl": "https://www.cia.gov/the-world-factbook",
+      "domain": "cia.gov",
+      "description": "Spotlighting The World Factbook as We Bid a Fond Farewell\n\nOne of CIA’s oldest and most recognizable intelligence publications, The World Factbook, has sunset. The World Factbook served the Intelligen...",
+      "confidence": 0.37
+    },
+    {
+      "id": "doc-data_worldbank_org-9npek7",
+      "title": "World Bank Open Data | Data",
+      "canonicalUrl": "https://data.worldbank.org/",
+      "domain": "data.worldbank.org",
+      "description": "World Bank Open Data from The World Bank: Data",
+      "confidence": 0.3
+    },
+    {
+      "id": "doc-data_un_org-4ryacn",
+      "title": "UN - Welcome to UN System Data Commons",
+      "canonicalUrl": "https://data.un.org/",
+      "domain": "data.un.org",
+      "description": "...",
+      "confidence": 0.49
+    },
+    {
+      "id": "doc-unep_org-4lti15",
+      "title": "UNEP - UN Environment Programme",
+      "canonicalUrl": "https://www.unep.org/node",
+      "domain": "unep.org",
+      "description": "The global authority for the environment with programmes focusing on climate, nature, pollution, sustainable development and more.",
+      "confidence": 0.33
+    },
+    {
+      "id": "doc-geonames_org-dnal25",
+      "title": "GeoNames",
+      "canonicalUrl": "https://www.geonames.org/",
+      "domain": "geonames.org",
+      "description": "The GeoNames geographical database covers all countries and contains over eleven million placenames that are available for download free of charge.\n\nenter a location, ex: \"Paris\", \"Mount Everest\",\"New...",
+      "confidence": 0.34
+    },
+    {
+      "id": "doc-openstreetmap_org-wy04t6",
+      "title": "OpenStreetMap",
+      "canonicalUrl": "https://www.openstreetmap.org/",
+      "domain": "openstreetmap.org",
+      "description": "OpenStreetMap is a map of the world, created by people like you and free to use under an open license.",
+      "confidence": 0.38
+    },
+    {
+      "id": "doc-wiki_openstreetmap_org-yqcbqb",
+      "title": "OpenStreetMap Wiki",
+      "canonicalUrl": "https://wiki.openstreetmap.org/",
+      "domain": "wiki.openstreetmap.org",
+      "description": " kréyòl gwadloupéyen \n\nMore about OpenStreetMap | How to contribute | Where to get help\n\nCheck the ready-to-use products for your mobile device , your desktop computer or the web services\n\n... more on...",
+      "confidence": 0.26
+    },
+    {
+      "id": "doc-economicshelp_org-n212pb",
+      "title": "Economics Help",
+      "canonicalUrl": "https://www.economicshelp.org/",
+      "domain": "economicshelp.org",
+      "description": "Economics Help.org has over 2,000 articles and revision notes for economics students. Latest economic news, videos, blog and graphs. All the resources for helping to improve your economics.",
+      "confidence": 0.26
+    },
+    {
+      "id": "doc-federalreserve_gov-di9v44",
+      "title": "Federal Reserve Board - Home",
+      "canonicalUrl": "https://www.federalreserve.gov/",
+      "domain": "federalreserve.gov",
+      "description": "The Federal Reserve Board of Governors in Washington DC.",
+      "confidence": 0.41
+    },
+    {
+      "id": "doc-bls_gov-85ig2z",
+      "title": "U.S. Bureau of Labor Statistics : U.S. Bureau of Labor Statistics",
+      "canonicalUrl": "https://www.bls.gov/",
+      "domain": "bls.gov",
+      "description": "The Bureau of Labor Statistics is the principal fact-finding agency for the Federal Government in the broad field of labor economics and statistics.",
+      "confidence": 0.42
+    },
+    {
+      "id": "doc-icann_org-d4s2wq",
+      "title": "What Does ICANN Do? - ICANN",
+      "canonicalUrl": "https://www.icann.org/resources/pages/what-2012-02-25-en",
+      "domain": "icann.org",
+      "description": "About ICANN Academic Engagement\n\nParticipate What ICANN Does\n\nEffect on the Internet\n\nFellowship Program Committee\n\nNextGen@ICANN Program\n\nICANN Management Organization Chart\n\nIn Focus ICANN Response ...",
+      "confidence": 0.35
     }
   ]
 }

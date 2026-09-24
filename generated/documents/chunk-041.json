@@ -1,0 +1,251 @@
+{
+  "chunkId": "chunk-041",
+  "filename": "chunk-041.json",
+  "documentCount": 6,
+  "totalBytes": 286652,
+  "createdAt": "2026-09-24T07:15:54.831Z",
+  "documents": [
+    {
+      "id": "doc-worldtravelguide_net-h0hhot",
+      "url": "https://www.worldtravelguide.net/",
+      "canonicalUrl": "https://www.worldtravelguide.net/",
+      "domain": "worldtravelguide.net",
+      "title": "World Travel Guide | Official Destination Guides and Travel Stories",
+      "description": "Travel information to inspire global travellers. From cities to airports, cruise ports to ski and beach resorts, attractions to events, our guides provide all you need to know for your vacation or business travel. It also includes offbeat travel news, stories, quizzes and guides for adventurous travellers",
+      "headings": {
+        "h1": [
+          "World Travel Guide - Official Destination Guides and Travel Stories"
+        ],
+        "h2": [
+          "Editorial Foreword",
+          "Travel Features",
+          "Food and Drink",
+          "City Guides",
+          "Country/ State/ Region Guides"
+        ],
+        "h3": [
+          "World Travel Guide",
+          "FOLLOW US",
+          "About The World Travel Guide"
+        ]
+      },
+      "mainText": "The World Travel Guide (WTG) is the flagship digital consumer brand within the Columbus Travel Media portfolio . Available in English, German, and Spanish versions, the WTG provides detailed and accurate travel content designed to inspire global travellers. It covers all aspects, from cities to airports, cruise ports to ski and beach resorts, attractions to events, and it also includes offbeat travel news, stories, quizzes and guides for adventurous travellers.\n\nSaudi Arabia – redefining a nation through tourism\n\nSaudi Arabia is on a mission to transform itself into one of the world's top tourist destinations by 2030\n\nIndonesian island hopping: 11 of the best islands\n\nIndonesia's accessible island chains allow travellers in search of blissful beach scenes and tropical adventure to island-hop to their heart's content\n\nBike-friendly cities around the world\n\nCycling is kind to your health, your wallet and the environment; it is also an excellent way to take in the city\n\n16 lesser-known but Instagram-worthy European cities\n\nForget big cities like Amsterdam and London, we find 16 smaller but stunning cities in Europe that can light up your Instagram and rack up likes\n\nExperience Croatia on the water\n\nSun-kissed Croatia is most magical when seen from its turquoise waters, says CroatiaLuxuryGulet.com\n\nHoliday on a budget: 21 great travel tips\n\nIf you’re craving a break but feeling the squeeze, don’t panic. It’s possible to travel on a budget without compromising on quality\n\nGetting high: 13 of the best adrenaline activities\n\nFrom death-defying heights to nail-biting adventures, these adrenaline activities will definitely get your heart pumping\n\nSeven days in Marrakech\n\nMake the most of a week in Marrakech, including day trips to Ourika and the Atlas Mountains, with our seven-day guide and travel tips\n\nLondon has a curious air of quirkiness enhanced by a string of lesser-known nooks that locals have kept close to their chests, writes Thomas Clarke\n\nLos Angeles food & drink guide: 10 things to try in Los Angeles, California\n\nFrom celebrity chefs to timeless burger joints, lively Los Angeles has a wide range of dishes to impress you; here are the top 10 things to try\n\nLondon food & drink guide: 10 things to try in London\n\nAs one of the most diverse cities in the world, London’s culinary scene offers an eclectic mixture of British classics and modern, multicultural cuisine\n\nAre eggs good or bad for you?\n\nChicken eggs are nutritious and versatile, but are they good or bad for you?\n\nItalian wine for major occasions\n\nGreat wine can amp up your mood and enhance your experience, and this guide can help you choose fantastic Italian wine for major foodie and special occasions\n\nThe complete guide to Bulgarian wine\n\nBulgaria is not yet a well-known wine country, but that is about to change as Bulgarian wineries are carving an admirable niche\n\nThai Wine – A remarkable success story\n\nA feat to be admired, we take you through Thai wine’s remarkable journey to success\n\nBustling and energetic, Osaka is a thriving metropolis with a distinct commercial culture and with a regional identity that sets it apart from elsewhere in Japan.\n\nParis rarely disappoints. Home to beautiful architecture, arresting art and the world’s finest restaurants, only the hard–hearted will leave the City of Light without falling in love.\n\nSandwiched between the Red Sea and the mighty Negev desert, Eilat is a water sport and desert adventure paradise. The southernmost city of Israel has all the hallmarks of a fantastic sun and fun holiday.\n\nCountry/ State/ Region Guides\n\nA flavourful melting pot of sparkling nightspots, fresh seafood, sizzling Mediterranean passion and mythical legend, Greece is a fascinating and enchanting destination.\n\nThe eyes of the world are on Qatar right now. Following the discovery of oil in the 1940s, this small Gulf state has been catapulted from a small fishing and trading hub to one of the richest (per capita) countries in the world.\n\nThe Islands of Tahiti\n\nThe Islands of Tahiti are known for their laid-back vibes. Expect romantic sunsets and giant curls of turquoise breaking over reefs. Remote and pristine, the islands give you a glimpse of paradise on Earth.\n\nMongolia is far-flung and little visited yet has much to offer, from the stunning scenery and wildlife of mountains and deserts to the emerging luxury hotels and restaurants of capital Ulaanbaatar.\n\nMuch like the varying conditions of classic cars, Havana appears to be in a constant state of restoration. A mishmash of beautifully restored colonial buildings rubs shoulders with dilapidated tenements of regular Cubans.",
+      "language": "en",
+      "category": "Travel",
+      "categoryConfidence": 0.77,
+      "categorySignals": [
+        "title:travel",
+        "title:destination",
+        "heading:travel",
+        "heading:destination",
+        "desc:travel",
+        "desc:vacation",
+        "desc:attractions",
+        "desc:cruise",
+        "body:travel(7)",
+        "body:island(2)"
+      ],
+      "contentLengthBytes": 79635,
+      "wordCount": 747,
+      "statusCode": 200,
+      "fetchTimeMs": 2289,
+      "processedAt": "2026-09-24T07:15:20.569Z",
+      "chunkId": "chunk-041",
+      "retryCount": 0
+    },
+    {
+      "id": "doc-geonames_org-dnal25",
+      "url": "https://www.geonames.org/",
+      "canonicalUrl": "https://www.geonames.org/",
+      "domain": "geonames.org",
+      "title": "GeoNames",
+      "description": "The GeoNames geographical database covers all countries and contains over eleven million placenames that are available for download free of charge.\n\nenter a location, ex: \"Paris\", \"Mount Everest\",\"New...",
+      "headings": {
+        "h1": [
+          "GeoNames"
+        ],
+        "h2": [
+          "Browse the names",
+          "Information",
+          "Download",
+          "Web Services",
+          "Hosting Partner",
+          "Sponsoring"
+        ],
+        "h3": []
+      },
+      "mainText": "The GeoNames geographical database covers all countries and contains over eleven million placenames that are available for download free of charge.\n\nenter a location, ex: \"Paris\", \"Mount Everest\",\"New York\",\"47 9\" (lat lng)\n\nCommercial Support and Consulting\n\nFree Postal Code Data\n\nDonations and Sponsoring\n\nCasino-utan-svensk-licens.net\n\nThis work is licensed under a Creative Commons Attribution 4.0 License .",
+      "language": "en",
+      "category": "General",
+      "categoryConfidence": 0.34,
+      "categorySignals": [],
+      "contentLengthBytes": 15793,
+      "wordCount": 56,
+      "statusCode": 200,
+      "fetchTimeMs": 976,
+      "processedAt": "2026-09-24T07:15:22.851Z",
+      "chunkId": "chunk-041",
+      "retryCount": 0
+    },
+    {
+      "id": "doc-openstreetmap_org-wy04t6",
+      "url": "https://www.openstreetmap.org/",
+      "canonicalUrl": "https://www.openstreetmap.org/",
+      "domain": "openstreetmap.org",
+      "title": "OpenStreetMap",
+      "description": "OpenStreetMap is a map of the world, created by people like you and free to use under an open license.",
+      "headings": {
+        "h1": [
+          "OpenStreetMap",
+          "Select Language"
+        ],
+        "h2": [
+          "Welcome to OpenStreetMap!"
+        ],
+        "h3": []
+      },
+      "mainText": "OpenStreetMap Select Language\n\nWelcome to OpenStreetMap!\n\nOpenStreetMap is a map of the world, created by people like you and free to use under an open license.\n\nHosting is supported by Fastly , OSMF corporate members , and other partners .\n\nBy using this website or other infrastructure provided by the OpenStreetMap Foundation, you agree to the Terms of Use .",
+      "language": "en",
+      "category": "General",
+      "categoryConfidence": 0.38,
+      "categorySignals": [
+        "heading:welcome"
+      ],
+      "contentLengthBytes": 31562,
+      "wordCount": 60,
+      "statusCode": 200,
+      "fetchTimeMs": 950,
+      "processedAt": "2026-09-24T07:15:23.805Z",
+      "chunkId": "chunk-041",
+      "retryCount": 0
+    },
+    {
+      "id": "doc-wiki_openstreetmap_org-yqcbqb",
+      "url": "https://wiki.openstreetmap.org/",
+      "canonicalUrl": "https://wiki.openstreetmap.org/",
+      "domain": "wiki.openstreetmap.org",
+      "title": "OpenStreetMap Wiki",
+      "description": " kréyòl gwadloupéyen \n\nMore about OpenStreetMap | How to contribute | Where to get help\n\nCheck the ready-to-use products for your mobile device , your desktop computer or the web services\n\n... more on...",
+      "headings": {
+        "h1": [
+          "Main Page"
+        ],
+        "h2": [
+          "Navigation menu"
+        ],
+        "h3": [
+          "Personal tools",
+          "associated-pages",
+          "Views",
+          "Search",
+          "Site",
+          "Tools",
+          "In other projects",
+          "In other languages"
+        ]
+      },
+      "mainText": " kréyòl gwadloupéyen \n\nMore about OpenStreetMap | How to contribute | Where to get help\n\nCheck the ready-to-use products for your mobile device , your desktop computer or the web services\n\n... more on using OpenStreetMap\n\nBrowse the map feature documentation\n\nBrowse the Mapping projects\n\n... more on contributing map data\n\nUse OpenStreetMap for your software\n\nContribute to the OpenStreetMap software",
+      "language": "en",
+      "category": "General",
+      "categoryConfidence": 0.26,
+      "categorySignals": [
+        "desc:about"
+      ],
+      "contentLengthBytes": 58953,
+      "wordCount": 60,
+      "statusCode": 200,
+      "fetchTimeMs": 1009,
+      "processedAt": "2026-09-24T07:15:24.830Z",
+      "chunkId": "chunk-041",
+      "retryCount": 0
+    },
+    {
+      "id": "doc-worldbank_org-xyyumn",
+      "url": "https://www.worldbank.org/",
+      "canonicalUrl": "https://www.worldbank.org/ext/en/home",
+      "domain": "worldbank.org",
+      "title": "World Bank Group - International Development, Poverty and Sustainability",
+      "description": "With 189 member countries, the World Bank Group is a unique global partnership fighting poverty worldwide through sustainable solutions.",
+      "headings": {
+        "h1": [
+          "Unlocking Private Capital at Record Scale for Developing Economies"
+        ],
+        "h2": [
+          "How MIGA Mobilizes Private Capital",
+          "How This Thai Manufacturer is Creating Better Jobs",
+          "How IFC Unlocks Private Investment",
+          "OUR PRIORITIES",
+          "RESEARCH &#x26; PUBLICATIONS",
+          "THE POWER OF PURPOSE",
+          "TRANSFORMING KNOWLEDGE TRANSFORMING LIVES",
+          "PARTNER WITH THE WORLD BANK GROUP"
+        ],
+        "h3": [
+          "Mission 300",
+          "Health Works",
+          "AgriConnect",
+          "Gender",
+          "Water Forward"
+        ]
+      },
+      "mainText": "Unlocking Private Capital at Record Scale for Developing Economies Unlocking Private Capital at Record Scale for Developing Economies\n\nHow MIGA Mobilizes Private Capital news\n\nHow MIGA Mobilizes Private Capital\n\nHow This Thai Manufacturer is Creating Better Jobs immersive story\n\nHow This Thai Manufacturer is Creating Better Jobs\n\nHow IFC Unlocks Private Investment news\n\nHow IFC Unlocks Private Investment\n\nJobs Why jobs? Because they’re the surest path out of poverty for individuals and communities. Learn More https://www.worldbank.org/ext/en/jobs true image Mission 300\n\nEssential data to guide decisions, monitor progress, and evaluate impact.\n\nExplore by focus area\n\ntab-image mob-image sec-inside-container false STAY CURRENT WITH OUR LATEST DATA &#x26; INSIGHTS true WBG External Corporate English Newsletter|wbg-svc-ext-corp-eng-nl false sec-spacing section-xlarge sec-swoosh sec-swoosh-none style bg-neutrals-20 sec-inside-container true sec-width false RESEARCH &#x26; PUBLICATIONS\n\nWorld Development Report 2026 World Development Report 2026 AI offers developing economies a rare path to prosperity — and the World Development Report 2026 shows how. https://www.worldbank.org/en/publication/wdr2026 Read Full Report https://openknowledge.worldbank.org/entities/publication/8d048ad2-5cc3-4fc0-ba22-2e1f82f5d7de Global Economic Prospects Report - June 2026 Global Economic Prospects Report - June 2026 As the Middle East conflict drives sharp energy price increases, global growth is projected to slow to 2.5 percent in 2026. https://www.worldbank.org/en/publication/global-economic-prospects Read Full Report https://openknowledge.worldbank.org/bitstreams/8e6bcf71-89a1-443b-bbe9-6c39a496d7ab/download sec-spacing section-xhuge sec-spacing-bottom section-xhuge style default sec-inside-container false Default alt THE POWER OF PURPOSE\n\nTRANSFORMING KNOWLEDGE TRANSFORMING LIVES\n\nDefault alt World Bank Group Academy\n\nOne-of-a-kind capacity development and training for next-generation leaders.\n\nWorld Bank Group Scorecard\n\nEasy-to-understand indicators and data that measure progress and impact.\n\nEast Asia &#x26; Pacific\n\nEurope &#x26; Central Asia\n\nLatin America &#x26; Caribbean\n\nMiddle East, N. Africa, Afghanistan, and Pakistan\n\nGuyana’s Youth Gain Skills for Real Job digital\n\nArtificial Intelligence in Action in Latin America’s Schools sec-spacing section-xhuge style default style default PARTNER WITH THE WORLD BANK GROUP",
+      "language": "en",
+      "category": "News",
+      "categoryConfidence": 0.36,
+      "categorySignals": [
+        "body:news(2)",
+        "body:report(7)"
+      ],
+      "contentLengthBytes": 60555,
+      "wordCount": 289,
+      "statusCode": 200,
+      "fetchTimeMs": 555,
+      "processedAt": "2026-09-24T07:15:32.688Z",
+      "chunkId": "chunk-041",
+      "retryCount": 0
+    },
+    {
+      "id": "doc-wto_org-nik76d",
+      "url": "https://www.wto.org/",
+      "canonicalUrl": "https://www.wto.org/",
+      "domain": "wto.org",
+      "title": "World Trade Organization - Home page - Global trade",
+      "description": "Global trade - The World Trade Organization (WTO) deals with the global rules of trade between nations. Its main function is to ensure that global trade flows smoothly, predictably and freely as possible.",
+      "headings": {
+        "h1": [
+          "World Trade Organization"
+        ],
+        "h2": [
+          "Public forum",
+          "Meetings",
+          "World Trade Report 2026 A critical juncture for the world trading system",
+          "Strait of Hormuz and global trade",
+          "Director-General Okonjo-Iweala",
+          "Annual Report 2026",
+          "Global Review",
+          "Live webcasting",
+          "Our areas of activity",
+          "Working at the WTO"
+        ],
+        "h3": [
+          "Powering the future"
+        ]
+      },
+      "mainText": "World Trade Organization Public Forum 15-17 Sep Powering the future Public forum Theme Programme Speakers Photos Videos Full details Meetings Meetings Additional functionality is available on the full calendar. See full calendar Book a meeting room World Trade Report 2026 World Trade Report 2026 A critical juncture for the world trading system View the Report Video: Report launch Buy printed copy Strait of Hormuz and global trade Strait of Hormuz and global trade Resources Full details Director-General Okonjo-Iweala Director-General Okonjo-Iweala Latest news Latest photos More about DG Okonjo-Iweala Annual Report 2026 Annual Report 2026 DG message Microsite Download PDF Buy printed copy Global Review 29-30 Oct Global Review Programme Success stories Full details Aid for Trade Live webcasting Live webcasting Our areas of activity Our areas of activity Trade Negotiations Dispute Settlement Implementation and monitoring Building trade capacity Vacancies Working at the WTO General information about recruitment can be found here Global trade - The World Trade Organization (WTO) deals with the global rules of trade between nations. Its main function is to ensure that global trade flows smoothly, predictably and freely as possible.",
+      "language": "en",
+      "category": "News",
+      "categoryConfidence": 0.5,
+      "categorySignals": [
+        "heading:report",
+        "body:report(6)"
+      ],
+      "contentLengthBytes": 40154,
+      "wordCount": 184,
+      "statusCode": 200,
+      "fetchTimeMs": 439,
+      "processedAt": "2026-09-24T07:15:35.519Z",
+      "chunkId": "chunk-041",
+      "retryCount": 0
+    }
+  ]
+}

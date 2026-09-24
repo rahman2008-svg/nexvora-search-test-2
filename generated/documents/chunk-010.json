@@ -1,0 +1,339 @@
+{
+  "chunkId": "chunk-010",
+  "filename": "chunk-010.json",
+  "documentCount": 6,
+  "totalBytes": 1832511,
+  "createdAt": "2026-09-24T07:15:54.831Z",
+  "documents": [
+    {
+      "id": "doc-developer_android_com-xeb3h7",
+      "url": "https://developer.android.com/develop/ui",
+      "canonicalUrl": "https://developer.android.com/develop/ui",
+      "domain": "developer.android.com",
+      "title": "Develop UI  |  Jetpack Compose  |  Android Developers",
+      "description": "Jetpack Compose is Android's recommended modern toolkit for building native UI. It simplifies and accelerates UI development on Android. Quickly bring your app to life with less code, powerful tools, and intuitive Kotlin APIs.",
+      "headings": {
+        "h1": [],
+        "h2": [
+          "Build UI with Android",
+          "Build for mobile form factors",
+          "See some samples",
+          "Optimize your app",
+          "Latest videos"
+        ],
+        "h3": [
+          "Develop UI",
+          "New to Compose?",
+          "New to Compose and Android?",
+          "Large screens",
+          "Wear OS",
+          "Android for TV",
+          "Android for Cars",
+          "Android for XR",
+          "Support accessibility",
+          "Now in Android",
+          "AppWidget",
+          "Performance",
+          "Testing",
+          "More Android",
+          "Discover",
+          "Android Devices",
+          "Releases",
+          "Documentation and Downloads",
+          "Support"
+        ]
+      },
+      "mainText": "Jetpack Compose is the modern Android toolkit for building native UI with intuitive Kotlin APIs. Compose simplifies and accelerates UI development, including adaptive design for all form factors&mdash;from phones, tablets, and foldables to TVs and wearables. Compose provides pre-built UI components so you can implement your app's UI with graphics, animations, and other visual elements with minimal code. To maintain any existing views-based UIs in your app, use the views-based workflows . We recommend migrating your views-based UIs to Compose.\n\nBuild UI with Android\n\nNew to Compose and Android?\n\nBuild for mobile form factors\n\nSupport accessibility\n\nNow in Android is an Android app built with Kotlin and Jetpack Compose. Now in Android is designed to serve as a reference for Android developers and models best practices for design and development.\n\nAppWidgets is a collection of samples that demonstrates how to build app widgets using Jetpack Glance&mdash;a framework built on top of Compose.",
+      "language": "en",
+      "category": "Programming",
+      "categoryConfidence": 0.59,
+      "categorySignals": [
+        "url_pattern:\\/developer",
+        "desc:code"
+      ],
+      "contentLengthBytes": 289919,
+      "wordCount": 152,
+      "statusCode": 200,
+      "fetchTimeMs": 1723,
+      "processedAt": "2026-09-24T07:09:53.856Z",
+      "chunkId": "chunk-010",
+      "retryCount": 0
+    },
+    {
+      "id": "doc-developer_android_com-mh3dwn",
+      "url": "https://developer.android.com/develop/background-work",
+      "canonicalUrl": "https://developer.android.com/develop/background-work",
+      "domain": "developer.android.com",
+      "title": "Background Work  |  Background work  |  Android Developers",
+      "description": "Android allows your app to do work in the background. Here's how.",
+      "headings": {
+        "h1": [],
+        "h2": [
+          "Get started with background work",
+          "Key solutions",
+          "Background guidance by use case",
+          "Understand power optimizations",
+          "Latest news"
+        ],
+        "h3": [
+          "Background work",
+          "Choose the right option",
+          "Process and app lifecycle",
+          "WorkManager",
+          "Foreground Services",
+          "Alarms",
+          "Broadcasts",
+          "Location",
+          "Widgets",
+          "Bluetooth and Connected Devices",
+          "Step Tracking",
+          "User-Initiated Data Transfer",
+          "Media Playback",
+          "Understand Power Management Resource Limits",
+          "Keep the Device Awake",
+          "Optimize for doze and standby",
+          "Test power-related issues",
+          "More Android",
+          "Discover",
+          "Android Devices",
+          "Releases",
+          "Documentation and Downloads",
+          "Support"
+        ]
+      },
+      "mainText": "Background work is any task your app needs to perform when it's not visible in the foreground, such as fetching data from a server or processing images.\n\nNavigating the complexities of background execution is key to building apps that are \"good citizens\"&mdash;that is, resilient, responsive, and efficient applications that work well on all devices.\n\nGet started with background work\n\nGuide Choose the right option\n\nGuide Process and app lifecycle\n\nBackground guidance by use case\n\nThe right solution varies by your use case. Android provides many task-specific APIs, which are optimized for particular scenarios, and will often lead to greater power savings and fewer restrictions than when using WorkManager and Foreground Services.\n\nThis section lists some of the more common use cases, and the recommended solution.\n\nBluetooth and Connected Devices\n\nUser-Initiated Data Transfer\n\nUnderstand power optimizations\n\nUnderstand Power Management Resource Limits\n\nThe system prioritizes apps' requests for resources based on the device state, app state and the app's standby bucket.\n\nLearn more about how your app can work within the device's power management resource limits to reliably execute work in the background.\n\nKeep the Device Awake\n\nOptimize for doze and standby\n\nTest power-related issues",
+      "language": "en",
+      "category": "General",
+      "categoryConfidence": 0.22,
+      "categorySignals": [
+        "heading:resource",
+        "body:resource(2)"
+      ],
+      "contentLengthBytes": 288840,
+      "wordCount": 193,
+      "statusCode": 200,
+      "fetchTimeMs": 1295,
+      "processedAt": "2026-09-24T07:09:55.158Z",
+      "chunkId": "chunk-010",
+      "retryCount": 0
+    },
+    {
+      "id": "doc-developer_android_com-y08yrp",
+      "url": "https://developer.android.com/topic/architecture",
+      "canonicalUrl": "https://developer.android.com/topic/architecture?hl=it",
+      "domain": "developer.android.com",
+      "title": "Guida all'architettura delle app  |  App architecture  |  Android Developers",
+      "description": "Descrive l'importanza di un'architettura robusta delle app per le applicazioni Android, illustrando i principi architettonici comuni come la separazione delle responsabilità, il flusso di dati unidirezionale e una struttura a livelli composta da UI, dati e livelli di dominio facoltativi.",
+      "headings": {
+        "h1": [
+          "Guida all'architettura delle app Mantieni tutto organizzato con le raccolte Salva e classifica i contenuti in base alle tue preferenze."
+        ],
+        "h2": [
+          "Composizione dell'app",
+          "Principi architettonici comuni",
+          "Architettura dell'app consigliata",
+          "Gestire le dipendenze tra i componenti",
+          "Best practice generali",
+          "Vantaggi dell'architettura",
+          "Campioni"
+        ],
+        "h3": [
+          "Diversi fattori di forma",
+          "Vincoli delle risorse",
+          "Condizioni di avvio variabili",
+          "Separazione delle responsabilità",
+          "Layout adattivi",
+          "UI basata su modelli di dati",
+          "Unica fonte di verità",
+          "Flusso di dati unidirezionale",
+          "Architettura dell'app moderna",
+          "Livello UI",
+          "Livello dati",
+          "Strato di dominio",
+          "Ulteriori informazioni su Android",
+          "Discover",
+          "Dispositivi Android",
+          "Release",
+          "Documentazione e download",
+          "Assistenza"
+        ]
+      },
+      "mainText": "Guida all'architettura delle app Mantieni tutto organizzato con le raccolte Salva e classifica i contenuti in base alle tue preferenze.\n\nL'architettura dell'app è la base di un'app per Android di alta qualità. Un'architettura ben definita ti consente di creare un'app scalabile e gestibile che può adattarsi all'ecosistema in continua espansione dei dispositivi Android, inclusi smartphone, tablet, dispositivi pieghevoli, dispositivi ChromeOS, display per auto e XR.\n\nComposizione dell'app\n\nUna tipica app per Android è composta da più componenti dell'app , come servizi , provider di contenuti e broadcast receiver . Dichiara questi componenti nel tuo file manifest dell'app .\n\nAnche l'interfaccia utente di un'app è un componente. In passato, le UI venivano create utilizzando più attività . Tuttavia, le app moderne utilizzano un'architettura a singola attività. Una singola Activity funge da contenitore per le schermate o le destinazioni Jetpack Compose.\n\nDiversi fattori di forma\n\nLe app possono essere eseguite su più fattori di forma, inclusi non solo smartphone, ma anche tablet, dispositivi pieghevoli , dispositivi ChromeOS e altro ancora. Non dare per scontato che la tua app rimanga sempre fissa in orientamento verticale o orizzontale. Le modifiche alla configurazione, come la rotazione del dispositivo o la piegatura e l'apertura di un dispositivo pieghevole, forzano la ricomposizione dell'UI dell'app, il che influisce sullo stato dell'app.\n\nVincoli delle risorse\n\nI dispositivi mobili, anche quelli con schermi di grandi dimensioni, sono vincolati dalle risorse, pertanto in qualsiasi momento il sistema operativo potrebbe arrestare il processo dell'app per assegnare le risorse ad altri processi.\n\nCondizioni di avvio variabili\n\nIn un ambiente con risorse limitate, i componenti dell'app possono essere avviati singolarmente e in ordine casuale; inoltre, il sistema operativo o l'utente possono eliminarli in qualsiasi momento. Di conseguenza, non archiviare dati o stati dell'applicazione nei componenti dell'app. Rendi i componenti dell'app autonomi e indipendenti l'uno dall'altro.\n\nPrincipi architettonici comuni\n\nSe non puoi utilizzare i componenti dell'app per archiviare i dati e lo stato dell'applicazione, come devi progettare l'app?\n\nMan mano che le app Android aumentano di dimensioni, è importante definire un'architettura che consenta all'app di scalare. Un'architettura dell'app ben progettata definisce i limiti tra le parti dell'app e le responsabilità di ciascuna parte.\n\nSeparazione delle responsabilità\n\nProgetta l'architettura dell'app in modo che segua alcuni principi specifici.\n\nIl principio più importante è la separazione delle responsabilità : separare l'app in metodi, classi, file, pacchetti, moduli e livelli con responsabilità e limiti chiaramente definiti.\n\nÈ un errore comune scrivere tutto il codice in un Activity .\n\nIl ruolo principale di un Activity è ospitare l'UI dell'app. Il sistema operativo Android ne controlla il ciclo di vita, spesso distruggendole e ricreandole in risposta ad azioni dell'utente come la rotazione dello schermo o eventi di sistema come la memoria insufficiente.\n\nQuesta natura effimera le rende inadatte a contenere dati o stati dell'applicazione. Se memorizzi i dati in un Activity , questi vengono persi quando il componente viene ricreato. Per garantire la persistenza dei dati e fornire un'esperienza utente stabile, non affidare lo stato a questi componenti dell'UI.\n\nCrea app che gestiscano correttamente le modifiche alla configurazione, come le modifiche all'orientamento del dispositivo o alle dimensioni della finestra dell'app. Implementa i layout canonici adattivi per offrire un'esperienza utente ottimale su una varietà di fattori di forma.\n\nUI basata su modelli di dati\n\nUn altro principio importante è basare l'UI sui modelli di dati, preferibilmente modelli persistenti. I modelli di dati rappresentano i dati di un'app. Sono indipendenti dagli elementi dell'UI e da altri componenti dell'app. Ciò significa che non sono vincolati al ciclo di vita dell'UI e dei componenti dell'app, ma verranno comunque eliminati quando il sistema operativo rimuove il processo dell'app dalla memoria.\n\nI modelli persistenti sono ideali per i seguenti motivi:\n\nGli utenti non perdono i dati se il sistema operativo Android elimina l'app per liberare risorse.\n\nL'app continua a funzionare nei casi in cui una connessione di rete è intermittente o non disponibile.\n\nBasa l'architettura dell'app sulle classi dei modelli di dati per renderla robusta e testabile.\n\nUnica fonte di verità\n\nQuando definisci un nuovo tipo di dati nella tua app, assegnagli un'unica fonte di verità (SSOT). La SSOT è il proprietario di questi dati e solo la SSOT può modificarli o mutarli. Per ottenere questo risultato, la SSOT espone i dati utilizzando un tipo immutabile; per modificare i dati, la SSOT espone funzioni o riceve eventi che altri tipi possono chiamare.\n\nQuesto pattern offre diversi vantaggi:\n\nCentralizza tutte le modifiche a un particolare tipo di dati in un'unica posizione.\n\nProtegge i dati in modo che altri tipi non possano manometterli.\n\nRende più tracciabili le modifiche ai dati, in modo che sia più facile individuare i bug.\n\nIn un'applicazione offline-first, la fonte di verità per i dati dell'applicazione è in genere un database. In altri casi, la fonte di verità può essere un ViewModel .\n\nFlusso di dati unidirezionale\n\nIl principio dell' unica fonte di verità viene spesso utilizzato con il pattern del flusso di dati unidirezionale (UDF). Nell'UDF, lo stato scorre in una sola direzione, in genere dal componente principale al componente secondario. Gli eventi che modificano il flusso di dati scorrono nella direzione opposta.\n\nIn Android, lo stato o i dati in genere scorrono dai tipi con ambito più elevato della gerarchia a quelli con ambito inferiore. Gli eventi vengono in genere attivati dai tipi con ambito inferiore fino a raggiungere la SSOT per il tipo di dati corrispondente. Ad esempio, i dati dell'applicazione in genere scorrono dalle origini dati all'UI. Gli eventi utente, come le pressioni dei pulsanti, scorrono dall'UI alla SSOT, dove i dati dell'applicazione vengono modificati ed esposti in un tipo immutabile.\n\nQuesto pattern mantiene meglio la coerenza dei dati, è meno soggetto a errori, è più facile da eseguire il debug e offre tutti i vantaggi del pattern SSOT.\n\nPer saperne di più sull'UDF, consulta Flusso di dati unidirezionale in Jetpack Compose .\n\nArchitettura dell'app consigliata\n\nTenendo conto dei principi architettonici comuni, progetta ogni applicazione con almeno due livelli:\n\nLivello UI: mostra i dati dell'applicazione sullo schermo.\n\nLivello dati: contiene la logica di business dell'app ed espone i dati dell'applicazione.\n\nPuoi aggiungere un livello aggiuntivo chiamato livello di dominio per semplificare e riutilizzare le interazioni tra i livelli UI e dati.\n\nArchitettura dell'app moderna\n\nUn'architettura dell'app per Android moderna utilizza le seguenti tecniche (tra le altre):\n\nArchitettura adattiva e a livelli.\n\nFlusso di dati unidirezionale (UDF) in tutti i livelli dell'app.\n\nLivello UI con contenitori di stato per gestire la complessità dell'UI.\n\nBest practice per l'iniezione delle dipendenze.\n\nPer saperne di più, consulta Consigli per l'architettura Android .\n\nIl ruolo del livello UI (o livello di presentazione ) è mostrare i dati dell'applicazione sullo schermo. Ogni volta che i dati cambiano, a causa dell'interazione dell'utente (ad esempio la pressione di un pulsante) o di input esterni (ad esempio una risposta di rete), l'UI si aggiorna per riflettere le modifiche.\n\nIl livello UI comprende due tipi di costrutti:\n\nElementi dell'UI che eseguono il rendering dei dati sullo schermo. Crea questi elementi utilizzando le funzioni Jetpack Compose per supportare i layout adattivi.\n\nContenitori di stato (ad esempio ViewModel ) che contengono i dati, li espongono all'UI e gestiscono la logica. I contenitori di stato devono avere la stessa durata dell'elemento dell'UI per cui forniscono lo stato. Ad esempio, un ViewModel per una schermata deve essere mantenuto in memoria finché la schermata non viene rimossa dallo stack di back navigation dell'app. Per saperne di più, consulta Durata degli stati .\n\nPer le UI adattive, i contenitori di stato come gli oggetti ViewModel espongono lo stato dell'UI che si adatta a diverse classi di dimensioni della finestra . Puoi utilizzare currentWindowAdaptiveInfo() per derivare questo stato dell'UI. I componenti come NavigationSuiteScaffold possono quindi utilizzare queste informazioni per passare automaticamente da un pattern di navigazione all'altro (ad esempio, NavigationBar , NavigationRail o NavigationDrawer ) in base allo spazio disponibile sullo schermo.\n\nPer saperne di più, consulta Livello UI e Architettura dell'UI di Compose .\n\nPer saperne di più sulle app e sulla navigazione adattive, consulta Creare app adattive e Creare navigazione adattiva .\n\nIl livello dati di un'app contiene la logica di business . La logica di business è ciò che dà valore alla tua app: comprende regole che determinano come l'app crea, archivia e modifica i dati.\n\nIl livello dati è composto da repository, ognuno dei quali può contenere da zero a molte origini dati. Crea una classe repository per ogni tipo di dati gestiti nell'app. Ad esempio, potresti creare una classe MoviesRepository per i dati relativi ai film o una classe PaymentsRepository per i dati relativi ai pagamenti.\n\nLe classi repository sono responsabili di:\n\nEsporre i dati al resto dell'app.\n\nCentralizzare le modifiche ai dati.\n\nRisolvere i conflitti tra più origini dati.\n\nAstrarre le origini dati dal resto dell'app.\n\nContenere la logica di business.\n\nOgni classe di origine dati ha la responsabilità di lavorare con una sola origine dati, che può essere un file, un'origine di rete o un database locale. Le classi di origine dati sono il ponte tra l'applicazione e il sistema per le operazioni sui dati.\n\nPer saperne di più, consulta la pagina del livello dati .\n\nIl livello di dominio è un livello facoltativo tra i livelli UI e dati.\n\nIl livello di dominio è responsabile dell'incapsulamento della logica di business complessa o della logica di business più semplice riutilizzata da più modelli di visualizzazione. Il livello di dominio è facoltativo perché non tutte le app hanno questi requisiti. Utilizzalo solo quando necessario, ad esempio per gestire la complessità o favorire la riusabilità.\n\nLe classi nel livello di dominio sono comunemente chiamate casi d'uso o interattori . Ogni caso d'uso ha la responsabilità di una singola funzionalità. Ad esempio, la tua app potrebbe avere una classe GetTimeZoneUseCase se più modelli di visualizzazione si basano sui fusi orari per mostrare il messaggio corretto sullo schermo.\n\nPer saperne di più, consulta la pagina del livello di dominio .\n\nGestire le dipendenze tra i componenti\n\nLe classi dell'app dipendono da altre classi per funzionare correttamente. Puoi utilizzare uno dei seguenti pattern di progettazione per raccogliere le dipendenze di una classe specifica:\n\nIniezione delle dipendenze (DI) : l'iniezione delle dipendenze consente alle classi di definire le proprie dipendenze senza costruirle. In fase di runtime, un'altra classe è responsabile della fornitura di queste dipendenze.\n\nService locator : il pattern service locator fornisce un registro in cui le classi possono ottenere le proprie dipendenze anziché costruirle.\n\nQuesti pattern ti consentono di scalare il codice perché forniscono pattern chiari per la gestione delle dipendenze senza duplicare il codice o aggiungere complessità. I pattern ti consentono anche di passare rapidamente dalle implementazioni di test a quelle di produzione.\n\nBest practice generali\n\nLa programmazione è un campo creativo e la creazione di app Android non fa eccezione. Esistono molti modi per risolvere un problema: puoi comunicare i dati tra più Activity o Fragment, recuperare i dati remoti e renderli persistenti localmente per la modalità offline o gestire un numero qualsiasi di altri scenari comuni che le app non banali incontrano.\n\nSebbene i seguenti consigli non siano obbligatori, nella maggior parte dei casi la loro applicazione rende la codebase più robusta, testabile e gestibile.\n\nNon archiviare i dati nei componenti dell'app.\n\nEvita di designare i punti di ingresso dell'app, come attività, servizi e broadcast receiver, come origini dati. Fai in modo che i punti di ingresso si coordinino con altri componenti per recuperare solo il sottoinsieme di dati pertinente a quel punto di ingresso. Ogni componente dell'app ha una durata breve, a seconda dell'interazione dell'utente con il dispositivo e della capacità del sistema.\n\nRiduci le dipendenze dalle classi Android.\n\nFai in modo che i componenti dell'app siano le uniche classi che si basano sulle API SDK del framework Android , come Context o Toast . L'astrazione di altre classi dell'app dai componenti dell'app facilita la testabilità e riduce l'accoppiamento all'interno dell'app.\n\nDefinisci limiti di responsabilità chiari tra i moduli dell'app.\n\nNon distribuire il codice che carica i dati dalla rete in più classi o pacchetti nella codebase. Allo stesso modo, non definire più responsabilità non correlate, come la memorizzazione nella cache dei dati e l'associazione di dati, nella stessa classe. Segui l' architettura dell'app consigliata .\n\nEsporre il meno possibile da ogni modulo.\n\nNon creare scorciatoie che espongano i dettagli di implementazione interni. Potresti guadagnare un po' di tempo a breve termine, ma è probabile che tu debba affrontare un debito tecnico molte volte superiore man mano che la codebase si evolve.\n\nConcentrati sul nucleo unico della tua app in modo che si distingua dalle altre app.\n\nNon reinventare la ruota scrivendo lo stesso codice boilerplate più e più volte. Concentra invece il tuo tempo e la tua energia su ciò che rende unica la tua app. Lascia che le librerie Jetpack e altre librerie consigliate gestiscano il boilerplate ripetitivo.\n\nUtilizza layout canonici e pattern di progettazione delle app.\n\nLe librerie Jetpack Compose forniscono API robuste per la creazione di interfacce utente adattive. Utilizza i layout canonici nella tua app per ottimizzare l'esperienza utente su più fattori di forma e dimensioni del display. Consulta la galleria di pattern di progettazione delle app per selezionare i layout più adatti ai tuoi casi d'uso.\n\nMantieni lo stato dell'UI durante le modifiche alla configurazione.\n\nQuando progetti layout adattivi, mantieni lo stato dell'UI durante le modifiche alla configurazione, come il ridimensionamento del display, la piegatura e le modifiche all'orientamento. L'architettura deve verificare che lo stato attuale dell'utente venga mantenuto, offrendo un'esperienza ottimale.\n\nProgetta componenti dell'UI riutilizzabili e componibili.\n\nCrea componenti dell'UI riutilizzabili e componibili per supportare la progettazione adattiva. In questo modo, puoi co...",
+      "language": "it",
+      "category": "Technology",
+      "categoryConfidence": 0.42,
+      "categorySignals": [
+        "url_pattern:\\/architecture",
+        "title:architecture",
+        "body:database(2)"
+      ],
+      "contentLengthBytes": 328843,
+      "wordCount": 2259,
+      "statusCode": 200,
+      "fetchTimeMs": 1636,
+      "processedAt": "2026-09-24T07:09:56.810Z",
+      "chunkId": "chunk-010",
+      "retryCount": 0
+    },
+    {
+      "id": "doc-developer_android_com-ev6m76",
+      "url": "https://developer.android.com/topic/libraries/architecture",
+      "canonicalUrl": "https://developer.android.com/topic/architecture?hl=id",
+      "domain": "developer.android.com",
+      "title": "Panduan arsitektur aplikasi  |  App architecture  |  Android Developers",
+      "description": "Menguraikan pentingnya arsitektur aplikasi yang tangguh untuk aplikasi Android, yang menjelaskan prinsip arsitektur umum seperti pemisahan fokus, aliran data searah, dan struktur berlayer yang terdiri dari lapisan UI, Data, dan Domain opsional.",
+      "headings": {
+        "h1": [
+          "Panduan arsitektur aplikasi Tetap teratur dengan koleksi Simpan dan kategorikan konten berdasarkan preferensi Anda."
+        ],
+        "h2": [
+          "Komposisi aplikasi",
+          "Prinsip arsitektur umum",
+          "Arsitektur aplikasi yang direkomendasikan",
+          "Mengelola dependensi antarkomponen",
+          "Praktik terbaik umum",
+          "Manfaat arsitektur",
+          "Contoh"
+        ],
+        "h3": [
+          "Beberapa faktor bentuk",
+          "Kendala resource",
+          "Kondisi peluncuran variabel",
+          "Pemisahan fokus",
+          "Tata letak adaptif",
+          "Menjalankan UI dari model data",
+          "Sumber ketepatan tunggal",
+          "Aliran data searah",
+          "Arsitektur aplikasi modern",
+          "Lapisan UI",
+          "Lapisan data",
+          "Lapisan domain",
+          "Selengkapnya tentang Android",
+          "Temukan",
+          "Perangkat Android",
+          "Rilis",
+          "Dokumentasi dan Hasil Download",
+          "Dukungan"
+        ]
+      },
+      "mainText": "Panduan arsitektur aplikasi Tetap teratur dengan koleksi Simpan dan kategorikan konten berdasarkan preferensi Anda.\n\nArsitektur aplikasi adalah fondasi aplikasi Android berkualitas tinggi. Arsitektur yang ditentukan dengan baik memungkinkan Anda membuat aplikasi yang skalabel dan mudah dikelola yang dapat beradaptasi dengan ekosistem perangkat Android yang terus berkembang, termasuk ponsel, tablet, perangkat foldable, perangkat ChromeOS, layar mobil, dan XR.\n\nAplikasi Android standar terdiri dari beberapa komponen aplikasi , seperti layanan , penyedia konten , dan penerima siaran . Anda mendeklarasikan komponen ini di manifes aplikasi .\n\nAntarmuka pengguna aplikasi juga merupakan komponen. Sebelumnya, UI dibuat menggunakan beberapa aktivitas . Namun, aplikasi modern menggunakan arsitektur satu aktivitas. Activity tunggal berfungsi sebagai penampung layar atau tujuan Jetpack Compose.\n\nBeberapa faktor bentuk\n\nAplikasi dapat berjalan di berbagai faktor bentuk, tidak hanya ponsel, tetapi juga tablet, perangkat foldable , perangkat ChromeOS, dan lainnya. Jangan berasumsi bahwa aplikasi Anda selalu tetap dalam orientasi potret atau lanskap. Perubahan konfigurasi, seperti rotasi perangkat atau melipat dan membentangkan perangkat foldable, memaksa aplikasi Anda untuk merekomposisi UI-nya, yang memengaruhi status aplikasi.\n\nPerangkat seluler—bahkan perangkat layar besar—memiliki keterbatasan resource, jadi sewaktu-waktu, sistem operasi dapat menghentikan proses aplikasi Anda untuk memberikan resourcenya ke proses lain.\n\nKondisi peluncuran variabel\n\nDalam lingkungan dengan keterbatasan resource, komponen aplikasi Anda dapat diluncurkan satu per satu dan tidak berurutan; terlebih lagi, sistem operasi atau pengguna dapat merusak proses ini kapan saja. Oleh karena itu, jangan simpan data atau status aplikasi apa pun di komponen aplikasi Anda. Buat komponen aplikasi Anda mandiri, tidak bergantung satu sama lain.\n\nPrinsip arsitektur umum\n\nJika Anda tidak dapat menggunakan komponen aplikasi untuk menyimpan data dan status aplikasi, bagaimana sebaiknya Anda mendesain aplikasi?\n\nSeiring bertambahnya ukuran aplikasi Android, penting untuk menentukan arsitektur yang memungkinkan aplikasi melakukan penskalaan. Arsitektur aplikasi yang dirancang dengan baik menentukan batas antara bagian aplikasi dan tanggung jawab yang dimiliki setiap bagian.\n\nDesain arsitektur aplikasi Anda untuk mengikuti beberapa prinsip khusus.\n\nPrinsip yang paling penting adalah pemisahan fokus : memisahkan aplikasi Anda ke dalam metode, class, file, paket, modul, dan lapisan yang memiliki tanggung jawab dan batasan yang jelas.\n\nMenulis semua kode Anda dalam Activity adalah kesalahan umum.\n\nPeran utama Activity adalah menghosting UI aplikasi Anda. Android OS mengontrol siklus prosesnya, sering kali menghancurkan dan membuatnya ulang sebagai respons terhadap tindakan pengguna seperti rotasi layar atau peristiwa sistem seperti memori rendah.\n\nSifat sementara ini membuatnya tidak cocok untuk menyimpan data atau status aplikasi. Jika Anda menyimpan data di Activity , data tersebut akan hilang saat komponen dibuat ulang. Untuk memastikan persistensi data dan memberikan pengalaman pengguna yang stabil, jangan mempercayakan status ke komponen UI ini.\n\nBangun aplikasi yang menangani perubahan konfigurasi dengan baik, seperti perubahan orientasi perangkat atau perubahan ukuran jendela aplikasi. Terapkan tata letak kanonis adaptif untuk memberikan pengalaman pengguna yang optimal di berbagai faktor bentuk.\n\nMenjalankan UI dari model data\n\nPrinsip penting lainnya adalah menjalankan UI dari model data, terutama model persisten. Model data mewakili data aplikasi dan tidak bergantung pada elemen UI dan komponen lainnya dalam aplikasi Anda. Artinya, modul tersebut tidak terkait dengan UI dan siklus proses komponen aplikasi, tetapi akan tetap dihancurkan saat OS menghapus proses aplikasi dari memori.\n\nModel persisten ideal karena alasan berikut:\n\nPengguna tidak kehilangan data jika OS Android menghancurkan aplikasi Anda untuk mengosongkan resource.\n\nAplikasi Anda tetap berfungsi saat koneksi jaringan terputus-putus atau tidak tersedia.\n\nDasarkan arsitektur aplikasi Anda pada class model data untuk membuat aplikasi Anda andal dan mudah diuji.\n\nSumber ketepatan tunggal\n\nSaat jenis data baru ditentukan di aplikasi, tetapkan satu sumber kebenaran (SSOT) untuk jenis data tersebut. SST adalah pemilik data tersebut, dan hanya SST yang dapat mengubah atau memutasikannya. Untuk melakukannya, SST mengekspos data menggunakan jenis yang tidak dapat diubah. Jika perlu memodifikasi data tersebut, SST mengekspos fungsi atau menerima peristiwa yang dapat dipanggil oleh jenis lain.\n\nPola ini memiliki beberapa manfaat:\n\nMemusatkan semua perubahan pada jenis data tertentu di satu tempat\n\nMelindungi data sehingga jenis lain tidak dapat mengutak-atiknya\n\nMembuat perubahan pada data lebih mudah dilacak, sehingga bug lebih mudah ditemukan\n\nDalam aplikasi yang mengutamakan versi offline, sumber tepercaya untuk data aplikasi biasanya adalah database. Dalam beberapa kasus lain, sumber tepercaya dapat berupa ViewModel .\n\nPrinsip satu sumber tepercaya sering digunakan dengan pola aliran data searah (UDF). Di UDF, status hanya mengalir dalam satu arah, biasanya dari komponen induk ke komponen turunan. Peristiwa yang mengubah aliran data ke arah yang berlawanan.\n\nDi Android, status atau data biasanya mengalir dari jenis hierarki yang cakupannya lebih tinggi ke hierarki dengan cakupan yang lebih rendah. Peristiwa biasanya dipicu dari jenis cakupan yang lebih rendah hingga mencapai SST untuk jenis data yang sesuai. Misalnya, data aplikasi biasanya mengalir dari sumber data ke UI. Peristiwa pengguna seperti penekanan tombol mengalir dari UI ke SST tempat data aplikasi diubah dan diekspos dalam jenis yang tidak dapat diubah.\n\nPola ini mempertahankan konsistensi data dengan lebih baik, tidak terlalu rentan terhadap error, lebih mudah di-debug, dan memberikan semua manfaat pola SSOT.\n\nUntuk mengetahui informasi selengkapnya tentang UDF, lihat Aliran data searah di Jetpack Compose .\n\nArsitektur aplikasi yang direkomendasikan\n\nDengan mempertimbangkan prinsip arsitektur umum, desain setiap aplikasi dengan setidaknya dua lapisan:\n\nLapisan UI: Menampilkan data aplikasi di layar\n\nLapisan data: Berisi logika bisnis aplikasi Anda dan mengekspos data aplikasi\n\nAnda dapat menambahkan lapisan tambahan yang disebut lapisan domain untuk menyederhanakan dan menggunakan kembali interaksi antara lapisan UI dan data.\n\nArsitektur aplikasi modern\n\nArsitektur aplikasi Android modern menggunakan teknik berikut (antara lain):\n\nArsitektur adaptif dan berlapis\n\nAliran data searah (UDF) di semua lapisan aplikasi\n\nLapisan UI dengan holder status untuk mengelola kompleksitas UI\n\nPraktik terbaik injeksi dependensi\n\nUntuk mengetahui informasi selengkapnya, lihat Rekomendasi untuk arsitektur Android .\n\nPeran lapisan UI (atau lapisan presentasi ) adalah menampilkan data aplikasi di layar. Setiap kali data berubah, baik karena interaksi pengguna (seperti menekan tombol) atau input eksternal (seperti respons jaringan), UI akan diupdate untuk mencerminkan perubahan tersebut.\n\nLapisan UI terdiri dari dua jenis konstruksi:\n\nElemen UI yang merender data di layar. Anda membuat elemen ini menggunakan fungsi Jetpack Compose untuk mendukung tata letak adaptif.\n\nHolder status (seperti ViewModel ) yang menyimpan data, mengeksposnya ke UI, dan menangani logika. Holder status harus memiliki durasi yang sama dengan elemen UI yang menyediakan statusnya. Misalnya, ViewModel untuk layar harus dipertahankan dalam memori hingga layar dihapus dari data sebelumnya navigasi aplikasi. Untuk mengetahui informasi selengkapnya, lihat Masa Aktif Status .\n\nUntuk UI adaptif, holder status seperti objek ViewModel mengekspos status UI yang beradaptasi dengan class ukuran jendela yang berbeda. Anda dapat menggunakan currentWindowAdaptiveInfo() untuk mendapatkan status UI ini. Komponen seperti NavigationSuiteScaffold kemudian dapat menggunakan informasi ini untuk otomatis beralih di antara pola navigasi yang berbeda (misalnya, NavigationBar , NavigationRail , atau NavigationDrawer ) berdasarkan ruang layar yang tersedia.\n\nUntuk mempelajari lebih lanjut, lihat lapisan UI dan Arsitektur UI Compose .\n\nUntuk mengetahui informasi selengkapnya tentang aplikasi dan navigasi adaptif, lihat Membangun aplikasi adaptif dan Membangun navigasi adaptif .\n\nLapisan data aplikasi berisi logika bisnis . Logika bisnis adalah yang memberikan nilai bagi aplikasi Anda—logika bisnis terdiri dari aturan yang menentukan cara aplikasi Anda membuat, menyimpan, dan mengubah data.\n\nLapisan data terdiri dari repositori, yang masing-masing dapat berisi nol hingga banyak sumber data. Buat class repositori untuk setiap jenis data yang ditangani di aplikasi Anda. Misalnya, Anda dapat membuat class MoviesRepository untuk data yang terkait dengan film atau class PaymentsRepository untuk data yang terkait dengan pembayaran.\n\nClass repositori bertanggung jawab atas hal berikut:\n\nMengekspos data ke seluruh aplikasi\n\nMemusatkan perubahan pada data\n\nMenyelesaikan konflik antara beberapa sumber data\n\nMengabstraksi sumber data dari bagian aplikasi lainnya\n\nSetiap class sumber data memiliki tanggung jawab untuk menangani hanya satu sumber data, yang dapat berupa file, sumber jaringan, atau database lokal. Class sumber data adalah jembatan antara aplikasi dan sistem untuk operasi data.\n\nUntuk mempelajari lebih lanjut, lihat halaman lapisan data .\n\nLapisan domain adalah lapisan opsional di antara lapisan UI dan data.\n\nLapisan domain bertanggung jawab untuk mengenkapsulasi logika bisnis yang kompleks atau logika bisnis yang lebih sederhana yang digunakan kembali oleh beberapa model tampilan. Lapisan domain bersifat opsional karena tidak semua aplikasi memiliki persyaratan ini. Gunakan hanya jika diperlukan - misalnya, untuk menangani kompleksitas atau mendukung penggunaan kembali.\n\nClass di lapisan domain biasanya disebut kasus penggunaan atau pemicu interaksi . Setiap kasus penggunaan memiliki tanggung jawab atas satu fungsi. Misalnya, aplikasi Anda dapat memiliki class GetTimeZoneUseCase jika beberapa model tampilan bergantung pada zona waktu untuk menampilkan pesan yang tepat di layar.\n\nUntuk mempelajari lebih lanjut, lihat halaman lapisan domain .\n\nMengelola dependensi antarkomponen\n\nClass di aplikasi Anda bergantung pada class lain agar berfungsi dengan baik. Anda dapat menggunakan salah satu pola desain berikut untuk mengumpulkan dependensi class tertentu:\n\nInjeksi dependensi (DI) : Injeksi dependensi memungkinkan class menentukan dependensi tanpa perlu menyusunnya. Saat runtime, class lain bertanggung jawab menyediakan dependensi ini.\n\nPencari lokasi : Pola pencari lokasi menyediakan registry tempat class dapat memperoleh dependensinya, bukan menyusunnya.\n\nPola-pola ini memungkinkan Anda menskalakan kode karena keduanya memberikan pola yang jelas untuk mengelola dependensi tanpa menduplikasi kode atau menambahkan kompleksitas. Pola ini juga memungkinkan Anda beralih dengan cepat antara implementasi pengujian dan produksi.\n\nPemrograman adalah bidang kreatif, begitu juga pembuatan aplikasi Android. Ada banyak cara untuk menyelesaikan masalah; Anda dapat mengomunikasikan data antara beberapa aktivitas atau fragmen, mengambil data jarak jauh dan mempertahankannya secara lokal untuk mode offline, atau menangani sejumlah skenario umum lainnya yang ditemukan oleh aplikasi yang tidak umum.\n\nMeskipun rekomendasi berikut tidak wajib diikuti, dalam sebagian besar kasus, mengikuti rekomendasi berikut akan membuat codebase Anda lebih tangguh, mudah diuji, dan mudah dipelihara.\n\nJangan simpan data di komponen aplikasi.\n\nHindari menetapkan titik masuk aplikasi Anda—seperti aktivitas, layanan, dan penerima siaran—sebagai sumber data. Buat titik entri berkoordinasi dengan komponen lain untuk mengambil hanya subset data yang relevan dengan titik entri tersebut. Setiap komponen aplikasi memiliki masa aktif yang singkat, bergantung pada interaksi pengguna dengan perangkatnya dan kapasitas sistem.\n\nMengurangi dependensi di class Android.\n\nJadikan komponen aplikasi Anda sebagai satu-satunya class yang mengandalkan API SDK framework Android seperti Context atau Toast . Mengabstraksi class lain di aplikasi Anda dari komponen aplikasi membantu memudahkan pengujian dan mengurangi penggabungan dalam aplikasi Anda.\n\nTentukan batasan tanggung jawab yang jelas antara modul dalam aplikasi Anda.\n\nJangan menyebarkan kode yang memuat data dari jaringan di beberapa class atau paket dalam codebase Anda. Demikian pula, jangan menetapkan beberapa tanggung jawab yang tidak terkait, seperti data caching dan data binding, dalam class yang sama. Ikuti arsitektur aplikasi yang direkomendasikan .\n\nEkspos sesedikit mungkin dari setiap modul.\n\nJangan membuat pintasan yang mengekspos detail implementasi internal. Ini mungkin menghemat waktu dalam jangka pendek, tetapi Anda mungkin akan menanggung utang teknis berkali-kali lipat seiring berkembangnya codebase Anda.\n\nBerfokus pada inti unik aplikasi Anda agar lebih menarik dari aplikasi lain.\n\nJangan memulai dari awal dengan menuliskan kode boilerplate yang sama berulang-ulang. Sebaliknya, fokuskan waktu dan energi Anda pada hal yang membuat aplikasi Anda unik. Biarkan library Jetpack dan library rekomendasi lainnya menangani boilerplate berulang.\n\nGunakan tata letak kanonis dan pola desain aplikasi.\n\nLibrary Jetpack Compose menyediakan API yang andal untuk membuat antarmuka pengguna adaptif. Gunakan tata letak kanonis di aplikasi Anda untuk mengoptimalkan pengalaman pengguna di berbagai faktor bentuk dan ukuran layar. Tinjau galeri pola desain aplikasi untuk memilih tata letak yang paling sesuai dengan kasus penggunaan Anda.\n\nMempertahankan status UI saat terjadi perubahan konfigurasi.\n\nSaat mendesain tata letak adaptif, pertahankan status UI di seluruh perubahan konfigurasi seperti pengubahan ukuran tampilan, pelipatan, dan perubahan orientasi. Arsitektur Anda harus memverifikasi bahwa status pengguna saat ini dipertahankan, sehingga memberikan pengalaman yang lancar.\n\nMendesain komponen UI yang dapat digunakan kembali dan dapat dikomposisikan.\n\nBuat komponen UI yang dapat digunakan kembali dan dapat dikomposisikan untuk mendukung desain adaptif. Hal ini memungkinkan Anda menggabungkan dan mengatur ulang komponen agar sesuai dengan berbagai ukuran dan posisi layar tanpa melakukan refaktor yang signifikan.\n\nPertimbangkan cara untuk menjadikan setiap bagian aplikasi mudah diuji secara terpisah.\n\nAPI yang didefinisikan dengan baik untuk mengambil data dari jaringan akan mempermudah pengujian modul yang mempertahankan data tersebut di database lokal. Sebaliknya, jika Anda mencampur logika dari kedua fungsi ini di satu tempat, atau mendistribusikan kode jaringan Anda di seluruh codebase, pengujian akan menjadi jauh lebih sulit, bahkan mustahil, dilakukan.\n\nJenis bertanggung jawab atas kebijakan serentaknya.\n\nJika s...",
+      "language": "id",
+      "category": "Programming",
+      "categoryConfidence": 0.4,
+      "categorySignals": [
+        "url_pattern:\\/developer",
+        "body:class(10)"
+      ],
+      "contentLengthBytes": 327853,
+      "wordCount": 1994,
+      "statusCode": 200,
+      "fetchTimeMs": 3746,
+      "processedAt": "2026-09-24T07:10:00.568Z",
+      "chunkId": "chunk-010",
+      "retryCount": 0
+    },
+    {
+      "id": "doc-developer_android_com-vaiuq6",
+      "url": "https://developer.android.com/training",
+      "canonicalUrl": "https://developer.android.com/get-started/overview?hl=ar",
+      "domain": "developer.android.com",
+      "title": "إنشاء تطبيقك الأول  |  Get started  |  Android Developers",
+      "description": "Get started building your Android apps.",
+      "headings": {
+        "h1": [],
+        "h2": [
+          "تجميع مجموعة الأدوات",
+          "جودة التطبيقات مهمة",
+          "نماذج مميّزة"
+        ],
+        "h3": [
+          "بدء استخدام Android",
+          "مرحبًا بالجميع!",
+          "تطوير تطبيق Android قابل للتوسّع ومقسَّم إلى وحدات وقابل للاختبار",
+          "التصميم ليتوافق مع أشكال الأجهزة المتعددة",
+          "بدء الدورة التدريبية \"أساسيات Android\"",
+          "تصفُّح الموارد التعليمية",
+          "إنشاء&نقطتان إنشاء واجهات مستخدم جذابة",
+          "Kotlin&colon; لغة حديثة ومختصرة وفعّالة",
+          "Jetpack&colon; مكتبات لتطوير التطبيقات بسهولة",
+          "استخدام \"استوديو Android\" للتطوير",
+          "استهداف أحدث إصدار من Android",
+          "أفضل الممارسات المتعلقة بالبنية والاختبار",
+          "Now in Android",
+          "إنشاء عيّنات",
+          "نماذج الهندسة المعمارية",
+          "مزيد من المعلومات حول نظام التشغيل Android",
+          "استكشاف",
+          "أجهزة Android",
+          "الإصدارات",
+          "المستندات وعمليات التنزيل",
+          "الدعم"
+        ]
+      },
+      "mainText": "أكمِل درسًا تطبيقيًا حول الترميز أو تعمَّق في دورة تدريبية للحصول على نظرة عامة على المواضيع الرئيسية لتطوير تطبيقات Android. تعرَّف على كيفية إنشاء تطبيقات تبدو رائعة وتعمل بسلاسة على مجموعة متنوعة من أجهزة Android، بدءًا من الهواتف والأجهزة اللوحية والأجهزة القابلة للطي وأجهزة ChromeOS وشاشات السيارات وحتى أجهزة XR.\n\nتطوير تطبيق Android قابل للتوسّع ومقسَّم إلى وحدات وقابل للاختبار\n\nالتصميم ليتوافق مع أشكال الأجهزة المتعددة\n\nدورات تدريبية بدء الدورة التدريبية \"أساسيات Android\"\n\nأكمِل الدورة التدريبية الكاملة لتعلُّم أساسيات إنشاء التطبيقات باستخدام Jetpack Compose. مجموعة أدوات Android الحديثة لتطوير واجهات المستخدم\n\nعند إنشاء سلسلة من التطبيقات، ستتعلم أساسيات برمجة Kotlin. اللغة وأساسيات تطوير التطبيقات.\n\nالتعلُّم تصفُّح الموارد التعليمية\n\nيمكنك التوسّع في معرفتك من خلال استكشاف موارد تدريبية أخرى، مثل مسارات التعلّم الخاصة بالمواضيع الأكثر تقدّمًا، بما في ذلك Compose وبنية التطبيق وميزات تسهيل الاستخدام.\n\nإنشاء&نقطتان إنشاء واجهات مستخدم جذابة\n\nKotlin&colon; لغة حديثة ومختصرة وفعّالة\n\nJetpack&colon; مكتبات لتطوير التطبيقات بسهولة\n\nاستخدام \"استوديو Android\" للتطوير\n\nاستهداف أحدث إصدار من Android\n\nأفضل الممارسات المتعلقة بالبنية والاختبار\n\nالقيمة الأساسية ممتعة أو مفيدة أو كليهما تجربة المستخدم سهولة الاستخدام متعة الاستخدام الجودة الفنية العمل بشكل جيد على أجهزة المستخدمين الاستفادة إلى أقصى حد من أجهزة المستخدمين الخصوصية والأمان أمان المعلومات تصميم مصمَّم لمراعاة الأمان جيدة القيمة الأساسية ممتعة أو مفيدة أو كليهما تجربة المستخدم سهولة الاستخدام الجودة الفنية تعمل بشكلٍ جيد على أجهزة المستخدمين الخصوصية والأمان أمان المعلومات رائعة القيمة الأساسية ممتعة أو مفيدة أو كليهما تجربة المستخدم متعة الاستخدام الجودة الفنية تحقيق أقصى استفادة من أجهزة المستخدمين الخصوصية والأمان تصميم مصمَّم لمراعاة الأمان نماذج مميّزة\n\nيتوفّر الآن في Android تطبيق Android تم إنشاؤه باستخدام Kotlin وJetpack Compose. تم تصميم Android الآن ليكون مرجعًا لمطوّري برامج Android الذين يصممون أفضل الممارسات المتعلقة بالتصميم والتطوير.\n\nيحتوي هذا المستودع على مجموعة من مشاريع \"استوديو Android\" الفردية لمساعدتك في التعرّف على ميزة \"الكتابة\" في Android. يوضح كل نموذج حالات استخدام ومستويات تعقيد وواجهات برمجة تطبيقات مختلفة.\n\nنماذج الهندسة المعمارية\n\nتعرض هذه النماذج أساليب معمارية مختلفة لتطوير تطبيقات Android. في الفروع المختلفة، ستجد التطبيق نفسه (تطبيق قائمة المهام) مع اختلافات بسيطة.",
+      "language": "ar",
+      "category": "Programming",
+      "categoryConfidence": 0.51,
+      "categorySignals": [
+        "url_pattern:\\/developer"
+      ],
+      "contentLengthBytes": 328550,
+      "wordCount": 332,
+      "statusCode": 200,
+      "fetchTimeMs": 2016,
+      "processedAt": "2026-09-24T07:10:02.598Z",
+      "chunkId": "chunk-010",
+      "retryCount": 0
+    },
+    {
+      "id": "doc-developer_android_com-0g55ol",
+      "url": "https://developer.android.com/courses",
+      "canonicalUrl": "https://developer.android.com/courses",
+      "domain": "developer.android.com",
+      "title": "Training  |  Get started  |  Android Developers",
+      "description": "Android Basics with Compose\n\nstop Training level: Beginner\n\nFor experienced Android developers\n\nJetpack Compose for Android developers\n\nstop Training level: Intermediate\n\nAndroid app architecture\n\nsto...",
+      "headings": {
+        "h1": [],
+        "h2": [
+          "For beginners",
+          "For experienced Android developers",
+          "Certification program",
+          "For Educators"
+        ],
+        "h3": [
+          "Training courses",
+          "Android Basics with Compose",
+          "Jetpack Compose for Android developers",
+          "Android app architecture",
+          "Accessibility",
+          "Basics of Kotlin Multiplatform",
+          "Google Play Store Listing Certificate",
+          "More Android",
+          "Discover",
+          "Android Devices",
+          "Releases",
+          "Documentation and Downloads",
+          "Support"
+        ]
+      },
+      "mainText": "Android Basics with Compose\n\nstop Training level: Beginner\n\nFor experienced Android developers\n\nJetpack Compose for Android developers\n\nstop Training level: Intermediate\n\nAndroid app architecture\n\nstop Training level: Intermediate\n\nstop Training level: Intermediate\n\nBasics of Kotlin Multiplatform\n\nstop Training level: Intermediate\n\nCertification program\n\nGoogle Play Store Listing Certificate\n\nstop Training level: Intermediate",
+      "language": "en",
+      "category": "Education",
+      "categoryConfidence": 0.65,
+      "categorySignals": [
+        "url_pattern:\\/course",
+        "title:training",
+        "heading:training",
+        "desc:training",
+        "body:training(6)"
+      ],
+      "contentLengthBytes": 268506,
+      "wordCount": 51,
+      "statusCode": 200,
+      "fetchTimeMs": 714,
+      "processedAt": "2026-09-24T07:10:03.321Z",
+      "chunkId": "chunk-010",
+      "retryCount": 0
+    }
+  ]
+}

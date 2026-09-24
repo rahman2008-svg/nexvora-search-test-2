@@ -1,0 +1,265 @@
+{
+  "chunkId": "chunk-043",
+  "filename": "chunk-043.json",
+  "documentCount": 6,
+  "totalBytes": 449539,
+  "createdAt": "2026-09-24T07:15:54.831Z",
+  "documents": [
+    {
+      "id": "doc-census_gov-4yrg1m",
+      "url": "https://www.census.gov/economic-indicators/",
+      "canonicalUrl": "https://www.census.gov/economic-indicators",
+      "domain": "census.gov",
+      "title": "U.S. Census Bureau Economic Indicators",
+      "description": "The U.S. Census Bureau",
+      "headings": {
+        "h1": [
+          "Census Bureau Economic Briefing Room"
+        ],
+        "h2": [
+          "Index of Economic Activity",
+          "Economic Indicators",
+          "Pinned"
+        ],
+        "h3": []
+      },
+      "mainText": "U.S. Census Bureau Economic Indicators Skip to main content end of header You are here: Census.gov › U.S. Census Bureau Economic Indicators Census Bureau Economic Briefing Room\n\nIndex of Economic Activity\n\nCensus Bureau Economic Briefing Room\n\nThe U.S. Census Bureau’s economic indicator surveys provide monthly and quarterly data that are timely, reliable, and offer comprehensive measures of the U.S. economy. These surveys provide a variety of statistics covering construction, housing, international trade, retail trade, wholesale trade, services and manufacturing. The survey data provide measures of the economic activity that allows analysis of economic performance and inform business investment and policy decisions. For information on the reliability and use of the data, including important notes on estimation and sampling variance, seasonal adjustment, and measures of sampling variability, please visit each program’s methodology page linked below.\n\nBusiness Profits & Formations\n\nConstruction & Housing\n\nAll estimates are seasonally adjusted except for the Rental Vacancy Rate, Home Ownership Rate, Retailer Quarterly Profits, and Manufacturing Quarterly Profits. None of the estimates are adjusted for price changes.\n\n* The 90% confidence interval includes zero. The Census Bureau does not have sufficient statistical evidence to conclude that the actual change is different from zero.\n\n○ Statistical significance is not applicable or not measurable for these surveys. The Manufacturers' Shipments, Inventories and Orders estimates are not based on a probability sample, so we can neither measure the sampling error of these estimates nor compute confidence intervals. For Homeownership Rate and Rental Vacancy Rate, this value has not been tested for statistical significance.\n\nThis symbol indicates a link to a non-government web site. Our linking to these sites does not constitute an endorsement of any products, services or the information found on them. Once you link to another site you are subject to the policies of the new site.\n\nExcel or indicate a document is in the Microsoft® Excel® Spreadsheet Format (XLSX). To view the file, you will need the Microsoft® Excel® Viewer available for free from Microsoft®.\n\nThe U.S. Census Bureau is committed to providing high quality data in a prompt and efficient manner to our customers. Automated retrieval programs (commonly called \"robots\" or \"bots\") have caused delays that can negatively impact other customers' timely access to information. Therefore, excessive robot activity on Census websites is prohibited.\n\nThe U.S. Census Bureau blocks robot activity considered excessive, malicious, or degrading service to others in any way. For example, robots attempting to access or download survey information multiple times per second will be limited. Also, Robots using an IP address (for example, 146.142.xx.xx) instead of the official Census URL (such as www.census.gov or data.census.gov) may not receive data promptly at prescribed times. The U.S. Census Bureau reserves the right to block robot activity missing owner information. Please note that blocking and rate limiting may occur in real time.",
+      "language": "en",
+      "category": "Business",
+      "categoryConfidence": 0.35,
+      "categorySignals": [
+        "body:business(2)",
+        "body:quarterly(3)"
+      ],
+      "contentLengthBytes": 79371,
+      "wordCount": 468,
+      "statusCode": 200,
+      "fetchTimeMs": 1302,
+      "processedAt": "2026-09-24T07:15:44.872Z",
+      "chunkId": "chunk-043",
+      "retryCount": 0
+    },
+    {
+      "id": "doc-owasp_org-sftkev",
+      "url": "https://owasp.org/www-project-top-ten/",
+      "canonicalUrl": "https://owasp.org/projects/top-ten",
+      "domain": "owasp.org",
+      "title": "OWASP Top 10 | OWASP Foundation",
+      "description": "The OWASP Top 10 is the reference standard for the most critical web application security risks. Adopting the OWASP Top 10 is perhaps the most effective first step towards changing your software…",
+      "headings": {
+        "h1": [
+          "OWASP Top 10"
+        ],
+        "h2": [
+          "About OWASP Top 10"
+        ],
+        "h3": [
+          "Social",
+          "Project Resources",
+          "Project Leaders",
+          "Project Information"
+        ]
+      },
+      "mainText": "OWASP Top 10 | OWASP Foundation OWASP Top 10\n\nThe most current released version is the OWASP Top 10 2025 .\n\nPrevious versions are available at OWASP Top 10 2021 and OWASP Top 10 2017 (PDF) . Older versions are available in the GitHub repo .\n\nThe OWASP Top 10 is a standard awareness document for developers and web application security. It represents a broad consensus about the most critical security risks to web applications.\n\nGlobally recognized by developers as the first step towards more secure coding.\n\nCompanies should adopt this document and start the process of ensuring that their web applications minimize these risks. Using the OWASP Top 10 is perhaps the most effective first step towards changing the software development culture within your organization into one that produces more secure code.\n\nMaking of OWASP Top 10\n\nPrevious Version (2021)\n\nPrevious Version (2017)\n\nOWASP Top 10 2017 PDF",
+      "language": "en",
+      "category": "Technology",
+      "categoryConfidence": 0.29,
+      "categorySignals": [
+        "desc:software",
+        "desc:security",
+        "body:security(2)"
+      ],
+      "contentLengthBytes": 91980,
+      "wordCount": 149,
+      "statusCode": 200,
+      "fetchTimeMs": 923,
+      "processedAt": "2026-09-24T07:15:45.801Z",
+      "chunkId": "chunk-043",
+      "retryCount": 0
+    },
+    {
+      "id": "doc-owasp_org-oe530w",
+      "url": "https://owasp.org/www-project-web-security-testing-guide/",
+      "canonicalUrl": "https://owasp.org/projects/web-security-testing-guide",
+      "domain": "owasp.org",
+      "title": "OWASP Web Security Testing Guide | OWASP Foundation",
+      "description": "The Web Security Testing Guide (WSTG) Project produces the premier cybersecurity testing resource for web application developers and security professionals.",
+      "headings": {
+        "h1": [
+          "OWASP Web Security Testing Guide"
+        ],
+        "h2": [
+          "About OWASP Web Security Testing Guide"
+        ],
+        "h3": [
+          "Contributions",
+          "Latest",
+          "Versioned Releases",
+          "Project Resources",
+          "Project Leaders",
+          "Project Information"
+        ]
+      },
+      "mainText": "OWASP Web Security Testing Guide | OWASP Foundation OWASP Web Security Testing Guide\n\nAbout OWASP Web Security Testing Guide\n\nWe are currently developing release version 5.0. You can read the latest development documents in our official GitHub repository or view the bleeding-edge content at latest .\n\nDownload the v4.1 PDF\n\nSlack channel, #testing-guide\n\n@owasp-wstg.bsky.social",
+      "language": "en",
+      "category": "Technology",
+      "categoryConfidence": 0.56,
+      "categorySignals": [
+        "title:security",
+        "heading:security",
+        "desc:security",
+        "desc:cybersecurity",
+        "body:security(3)"
+      ],
+      "contentLengthBytes": 92070,
+      "wordCount": 54,
+      "statusCode": 200,
+      "fetchTimeMs": 484,
+      "processedAt": "2026-09-24T07:15:46.293Z",
+      "chunkId": "chunk-043",
+      "retryCount": 0
+    },
+    {
+      "id": "doc-cheatsheetseries_owasp_org-2tvuyv",
+      "url": "https://cheatsheetseries.owasp.org/",
+      "canonicalUrl": "https://cheatsheetseries.owasp.org/index.html",
+      "domain": "cheatsheetseries.owasp.org",
+      "title": "Introduction - OWASP Cheat Sheet Series",
+      "description": "Website with the collection of all the cheat sheets of the project.",
+      "headings": {
+        "h1": [
+          "&para;"
+        ],
+        "h2": [],
+        "h3": []
+      },
+      "mainText": "Index Proactive Controls\n\nCheatsheets Cheatsheets AI-Powered Advertising Systems Security\n\nAML Sanctions AI Agent Payments\n\nAttack Surface Analysis\n\nAuthorization Regression Testing\n\nAuthorization Testing Automation\n\nBot Management and Anti-Automation\n\nBrowser Extension Vulnerabilities\n\nBusiness Logic Security\n\nC-Based Toolchain Hardening\n\nChoosing and Using Security Questions\n\nContent Security Policy\n\nCookie Theft Mitigation\n\nCredential Stuffing Prevention\n\nCross-Site Request Forgery Prevention\n\nCross Site Scripting Prevention\n\nCryptographic Storage\n\nDOM Clobbering Prevention\n\nDOM based XSS Prevention\n\nDependency Graph SBOM\n\nDjango REST Framework\n\nEmail Validation and Verification\n\nGitHub Actions Security\n\nHTTP Strict Transport Security\n\nInfrastructure as Code Security\n\nInjection Prevention in Java\n\nInsecure Direct Object Reference Prevention\n\nLDAP Injection Prevention\n\nLLM Prompt Injection Prevention\n\nLegacy Application Management\n\nMicroservices Security\n\nMicroservices based Security Arch Doc\n\nMobile Application Security\n\nMulti Tenant Security\n\nMultifactor Authentication\n\nOS Command Injection Defense\n\nPrototype Pollution Prevention\n\nQuery Parameterization\n\nSQL Injection Prevention\n\nSecure Cloud Architecture\n\nSecure Coding with AI\n\nSecure Product Design\n\nServer Side Request Forgery Prevention\n\nServerless FaaS Security\n\nSoftware Supply Chain Security\n\nSubdomain Takeover Prevention\n\nThird Party Javascript Management\n\nThird Party Payment Gateway Integration\n\nTransaction Authorization\n\nTransport Layer Protection\n\nTransport Layer Security\n\nUnvalidated Redirects and Forwards\n\nUser Privacy Protection\n\nVulnerability Disclosure\n\nVulnerable Dependency Management\n\nXML External Entity Prevention\n\nZero Trust Architecture\n\nThe OWASP Cheat Sheet Series was created to provide a concise collection of high value information on specific application security topics. These cheat sheets were created by various application security professionals who have expertise in specific topics.\n\nWe hope that this project provides you with excellent security guidance in an easy to read format.\n\nYou can download this site here .\n\nAn ATOM feed is available here with the latest updates.",
+      "language": "en",
+      "category": "Technology",
+      "categoryConfidence": 0.6,
+      "categorySignals": [
+        "body:security(17)",
+        "body:microservices(2)",
+        "body:architecture(2)"
+      ],
+      "contentLengthBytes": 56629,
+      "wordCount": 266,
+      "statusCode": 200,
+      "fetchTimeMs": 347,
+      "processedAt": "2026-09-24T07:15:46.646Z",
+      "chunkId": "chunk-043",
+      "retryCount": 0
+    },
+    {
+      "id": "doc-cisa_gov-no090z",
+      "url": "https://www.cisa.gov/topics/cyber-threats-and-advisories",
+      "canonicalUrl": "https://www.cisa.gov/topics/cyber-threats-and-response",
+      "domain": "cisa.gov",
+      "title": "Cyber Threats and Response | Cybersecurity and Infrastructure Security Agency CISA",
+      "description": "Cyber Threats and Response\n\nCyber Threats and Response\n\nMalware, Phishing, and Ransomware\n\nSophisticated cyber actors and nation-states exploit vulnerabilities to steal information and money and work ...",
+      "headings": {
+        "h1": [
+          "Cyber Threats and Response"
+        ],
+        "h2": [
+          "Cyber Threats and Response",
+          "Alerts and Advisories",
+          "Featured Content",
+          "News",
+          "Helpful Resources",
+          "Services",
+          "Contact CISA Central"
+        ],
+        "h3": [
+          "CISA's Known Exploited Vulnerabilities Catalog",
+          "How to Use the KEV Catalog",
+          "StopRansomware",
+          "A Tale of Two SOCs: Insights From Two Red Team Assessments",
+          "CISA Enhances Known Exploited Vulnerabilities Catalog to Include New Nomination Form",
+          "CISA, National Cyber Security Centre (NCSC) UK, and Global Partners Issue Advisory on Chinese Government-Linked Covert Cyber Networks",
+          "CISA Warns of FIRESTARTER Malware Targeting Cisco ASA including Firepower and Secure Firewall Products",
+          "CVE Program: Establishing a Quality Era Framework",
+          "Microsoft Exchange Server Security Best Practices",
+          "CISA Strategic Focus: CVE Quality for a Cyber Secure Future",
+          "A Shared Vision of Software Bill of Materials (SBOM) for Cybersecurity",
+          "Protective Domain Name System (DNS) Resolver",
+          "Assessment Evaluation and Standardization Program",
+          "Secure Cloud Business Applications (SCuBA) Project",
+          "Malware Analysis"
+        ]
+      },
+      "mainText": "Cyber Threats and Response\n\nCyber Threats and Response\n\nMalware, Phishing, and Ransomware\n\nSophisticated cyber actors and nation-states exploit vulnerabilities to steal information and money and work to develop capabilities to disrupt, destroy, or threaten the delivery of essential services. Defending against these attacks is essential to maintaining the nation’s security. Any cyber-attack, no matter how small, is a threat to our national security and must be identified, managed, and shut down. Protecting cyber space is everyone's responsibility - individuals and families, small and large businesses, SLTT and federal governments. By preventing attacks or mitigating the spread of an attack as quickly as possible, cyber threat actors lose their power.\n\nCISA diligently tracks and shares information about the latest cybersecurity risks, attacks, and vulnerabilities, providing our nation with the tools and resources needed to defend against these threats. CISA shares up-to-date information about high-impact types of security activity affecting the community at large and in-depth analysis on new and evolving cyber threats. By staying current on threats and risk factors, CISA helps ensure our nation is protected against serious cyber dangers.\n\nAlerts and Advisories\n\nAlerts provide timely information about current security issues, vulnerabilities, and exploits.\n\nCISA's Known Exploited Vulnerabilities Catalog\n\nCISA maintains the authoritative source of vulnerabilities that have been exploited in the wild. Organizations should use the KEV Catalog as an input to their vulnerability management prioritization framework.\n\nHow to Use the KEV Catalog\n\nLearn how organizations should use the KEV Catalog in their vulnerability management prioritization framework.\n\nDesigned to help public and private organizations defend against the rise in ransomware cases, StopRansomware is a whole-of-government approach that gives one central location for ransomware resources and alerts.\n\nDiscover the latest CISA news on Cyber Threat and Advisories.\n\nA Tale of Two SOCs: Insights From Two Red Team Assessments\n\nCISA Enhances Known Exploited Vulnerabilities Catalog to Include New Nomination Form\n\nCISA, National Cyber Security Centre (NCSC) UK, and Global Partners Issue Advisory on Chinese Government-Linked Covert Cyber Networks\n\nCISA Warns of FIRESTARTER Malware Targeting Cisco ASA including Firepower and Secure Firewall Products\n\nUtilize these resources to gain strategies and guidance to protect your cyber space.\n\nCVE Program: Establishing a Quality Era Framework\n\nMicrosoft Exchange Server Security Best Practices\n\nCISA Strategic Focus: CVE Quality for a Cyber Secure Future\n\nA Shared Vision of Software Bill of Materials (SBOM) for Cybersecurity\n\nExplore the cybersecurity services CISA offers to help mitigate risks, respond to incidents, and prevent threats.\n\nProtective Domain Name System (DNS) Resolver\n\nAssessment Evaluation and Standardization Program\n\nSecure Cloud Business Applications (SCuBA) Project\n\nCISA Central is the simplest way for critical infrastructure partners and stakeholders to engage with CISA. Please contact Central@cisa.gov .",
+      "language": "en",
+      "category": "Technology",
+      "categoryConfidence": 0.82,
+      "categorySignals": [
+        "title:infrastructure",
+        "title:security",
+        "title:cybersecurity",
+        "heading:software",
+        "heading:cloud",
+        "heading:server",
+        "heading:security",
+        "heading:cybersecurity",
+        "heading:firewall",
+        "body:security(6)"
+      ],
+      "contentLengthBytes": 69919,
+      "wordCount": 441,
+      "statusCode": 200,
+      "fetchTimeMs": 658,
+      "processedAt": "2026-09-24T07:15:47.312Z",
+      "chunkId": "chunk-043",
+      "retryCount": 0
+    },
+    {
+      "id": "doc-cisa_gov-a0wl97",
+      "url": "https://www.cisa.gov/resources-tools",
+      "canonicalUrl": "https://www.cisa.gov/resources-tools",
+      "domain": "cisa.gov",
+      "title": "Resources & Tools | CISA",
+      "description": "CISA offers an array of free resources and tools, such as technical assistance, exercises, cybersecurity assessments, free training, and more.\n\nCISA provides a variety of risk management and response ...",
+      "headings": {
+        "h1": [
+          "Resources & Tools"
+        ],
+        "h2": [
+          "Services",
+          "Publications",
+          "Training",
+          "All Resources and Tools"
+        ],
+        "h3": [
+          "CISA Gateway",
+          "CISA Tabletop Exercise Packages",
+          "Principles for the Secure Integration of Artificial Intelligence in Operational Technology",
+          "Bulletproof Defense: Mitigating Risks From Bulletproof Hosting Providers",
+          "Active Shooter Preparedness Webinar Training",
+          "Suspicious Activity Recognition for Bombing Prevention Course (AWR-943-W)",
+          "K-12 School Security Guide (3rd Edition) and School Security Assessment Tool",
+          "Infrastructure Survey Tool (IST)"
+        ]
+      },
+      "mainText": "CISA offers an array of free resources and tools, such as technical assistance, exercises, cybersecurity assessments, free training, and more.\n\nCISA provides a variety of risk management and response services to build stakeholder resiliency and form partnerships. \n\nCISA Tabletop Exercise Packages\n\nThe publication library contains guidance and policy papers, reports, strategies, program regulations, guidelines, brochures and more.\n\nPrinciples for the Secure Integration of Artificial Intelligence in Operational Technology\n\nBulletproof Defense: Mitigating Risks From Bulletproof Hosting Providers\n\nAs part of our continuing mission to reduce cybersecurity and physical security risk, CISA provides a robust offering of cybersecurity and critical infrastructure training opportunities. \n\nActive Shooter Preparedness Webinar Training\n\nSuspicious Activity Recognition for Bombing Prevention Course (AWR-943-W)\n\nAll Resources and Tools\n\nCISA provides free tools and resources to communities because we recognize that communities are the first line of defense in keeping the public safe and secure.\n\nK-12 School Security Guide (3rd Edition) and School Security Assessment Tool\n\nInfrastructure Survey Tool (IST)",
+      "language": "en",
+      "category": "Technology",
+      "categoryConfidence": 0.43,
+      "categorySignals": [
+        "heading:technology",
+        "heading:infrastructure",
+        "heading:security",
+        "desc:cybersecurity",
+        "body:infrastructure(2)",
+        "body:security(3)",
+        "body:cybersecurity(3)"
+      ],
+      "contentLengthBytes": 59570,
+      "wordCount": 159,
+      "statusCode": 200,
+      "fetchTimeMs": 355,
+      "processedAt": "2026-09-24T07:15:47.676Z",
+      "chunkId": "chunk-043",
+      "retryCount": 0
+    }
+  ]
+}

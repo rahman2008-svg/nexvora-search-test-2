@@ -1,54 +1,495 @@
 {
   "category": "Technology",
-  "documentCount": 5,
-  "updatedAt": "2026-09-24T05:08:14.281Z",
+  "documentCount": 54,
+  "updatedAt": "2026-09-24T07:15:54.830Z",
   "documentIds": [
-    "doc-github_com-jeqtcy",
-    "doc-sqlite_org-54ba90",
-    "doc-kubernetes_io-c0zv41",
-    "doc-docs_docker_com-r3diza",
-    "doc-en_wikipedia_org-6wu5fq"
+    "doc-developer_mozilla_org-lvxlky",
+    "doc-ecma_international_org-min44x",
+    "doc-developer_android_com-y08yrp",
+    "doc-linuxfoundation_org-2qq2x6",
+    "doc-apache_org-hxmccg",
+    "doc-gnu_org-zszdmn",
+    "doc-eclipse_org-aua55e",
+    "doc-kernel_org-xevvgt",
+    "doc-docs_kernel_org-w9rps2",
+    "doc-ubuntu_com-vc49fh",
+    "doc-ubuntu_com-isltuf",
+    "doc-wiki_archlinux_org-r9f49b",
+    "doc-docs_alpinelinux_org-3ad70a",
+    "doc-debian_org-r6ek1v",
+    "doc-man7_org-u42w3h",
+    "doc-systemd_io-134zvg",
+    "doc-docs_oracle_com-hrlks8",
+    "doc-linux_org-upqk7y",
+    "doc-docs_docker_com-ksdmg1",
+    "doc-docs_docker_com-7cslyo",
+    "doc-docs_docker_com-p52pdv",
+    "doc-kubernetes_io-0s5afr",
+    "doc-developer_hashicorp_com-u0ph6s",
+    "doc-docs_gitlab_com-hrgc0x",
+    "doc-docs_aws_amazon_com-7uqm9j",
+    "doc-cloud_google_com-78ekjn",
+    "doc-learn_microsoft_com-39y86m",
+    "doc-cloud_google_com-oexvjw",
+    "doc-docs_oracle_com-h1p8e5",
+    "doc-docs_cloudflare_com-qxqtax",
+    "doc-docs_nginx_com-pyh9lj",
+    "doc-httpd_apache_org-572u7n",
+    "doc-prometheus_io-2zi6kn",
+    "doc-grafana_com-04szt7",
+    "doc-sqlite_org-f6dlt5",
+    "doc-redis_io-uwlhwo",
+    "doc-docs_cockroachlabs_com-zyb4ns",
+    "doc-docs_influxdata_com-4mkb91",
+    "doc-neo4j_com-8fbb7w",
+    "doc-docs_oracle_com-jb24wh",
+    "doc-opensearch_org-5mtn9n",
+    "doc-scikit_learn_org-vo30r7",
+    "doc-nist_gov-9e7j9c",
+    "doc-owasp_org-sftkev",
+    "doc-owasp_org-oe530w",
+    "doc-cheatsheetseries_owasp_org-2tvuyv",
+    "doc-cisa_gov-no090z",
+    "doc-cisa_gov-a0wl97",
+    "doc-nist_gov-7zztnz",
+    "doc-csrc_nist_gov-rqifxc",
+    "doc-rfc_editor_org-dk2rs6",
+    "doc-iana_org-ue5rsd",
+    "doc-w3_org-j584v2",
+    "doc-developer_mozilla_org-s1aae4"
   ],
   "items": [
     {
-      "id": "doc-github_com-jeqtcy",
-      "title": "torvalds/linux: Linux kernel source tree – GitHub",
-      "canonicalUrl": "https://github.com/torvalds/linux",
-      "domain": "github.com",
-      "description": "Linux kernel source tree maintained by Linus Torvalds. The open source monolithic operating system kernel powering cloud servers, supercomputers, and mobile devices.",
+      "id": "doc-developer_mozilla_org-lvxlky",
+      "title": "HTTP: Hypertext Transfer Protocol | MDN",
+      "canonicalUrl": "https://developer.mozilla.org/en-US/docs/Web/HTTP",
+      "domain": "developer.mozilla.org",
+      "description": "HTTP is an application-layer protocol for transmitting hypermedia documents, such as HTML.\nIt was designed for communication between web browsers and web servers, but it can also be used for other purposes, such as machine-to-machine communication, programmatic access to APIs, and more.",
+      "confidence": 0.61
+    },
+    {
+      "id": "doc-ecma_international_org-min44x",
+      "title": "Standards - Ecma International",
+      "canonicalUrl": "https://ecma-international.org/publications-and-standards/standards/",
+      "domain": "ecma-international.org",
+      "description": "Link to X Link to LinkedIn About Ecma Mission Areas of work Organisation Members Meeting calendar History Awards Join Ecma Publications and standards Standards Technical Reports Mementos Get involved ...",
+      "confidence": 0.49
+    },
+    {
+      "id": "doc-developer_android_com-y08yrp",
+      "title": "Guida all'architettura delle app  |  App architecture  |  Android Developers",
+      "canonicalUrl": "https://developer.android.com/topic/architecture?hl=it",
+      "domain": "developer.android.com",
+      "description": "Descrive l'importanza di un'architettura robusta delle app per le applicazioni Android, illustrando i principi architettonici comuni come la separazione delle responsabilità, il flusso di dati unidirezionale e una struttura a livelli composta da UI, dati e livelli di dominio facoltativi.",
+      "confidence": 0.42
+    },
+    {
+      "id": "doc-linuxfoundation_org-2qq2x6",
+      "title": "Linux Foundation - Decentralized innovation, built with trust",
+      "canonicalUrl": "https://www.linuxfoundation.org/",
+      "domain": "linuxfoundation.org",
+      "description": "Helping open technology projects build world class open source software, communities and companies.",
+      "confidence": 0.8
+    },
+    {
+      "id": "doc-apache_org-hxmccg",
+      "title": "Welcome to The Apache Software Foundation | Apache Software Foundation",
+      "canonicalUrl": "https://www.apache.org/",
+      "domain": "apache.org",
+      "description": "Software For The Public Good &para;\n\nThe Apache&reg; Software Foundation (ASF) provides software for the public good, guided by community over code. Like the enduring oak tree, our projects thrive thr...",
+      "confidence": 0.44
+    },
+    {
+      "id": "doc-gnu_org-zszdmn",
+      "title": "The GNU Operating System and the Free Software Movement",
+      "canonicalUrl": "https://www.gnu.org/",
+      "domain": "gnu.org",
+      "description": "Since 1983, developing the free Unix style operating system GNU, so that computer users can have the freedom to share and improve the software they use.",
+      "confidence": 0.8
+    },
+    {
+      "id": "doc-eclipse_org-aua55e",
+      "title": "Eclipse Foundation | Powering Open Innovation",
+      "canonicalUrl": "https://www.eclipse.org/",
+      "domain": "eclipse.org",
+      "description": "The Eclipse Foundation hosts 450+ open source projects with vendor-neutral governance, enabling global collaboration in automotive, IoT, cloud, and emerging …",
+      "confidence": 0.2
+    },
+    {
+      "id": "doc-kernel_org-xevvgt",
+      "title": "The Linux Kernel documentation — The Linux Kernel documentation",
+      "canonicalUrl": "https://www.kernel.org/doc/html/latest",
+      "domain": "kernel.org",
+      "description": "Working with the development community\n\nAll development-process docs\n\nDevelopment tools and processes\n\nWriting documentation\n\nUser-oriented documentation\n\nFirmware-related documentation\n\nFirmware and ...",
+      "confidence": 0.8
+    },
+    {
+      "id": "doc-docs_kernel_org-w9rps2",
+      "title": "The Linux Kernel documentation — The Linux Kernel documentation",
+      "canonicalUrl": "https://docs.kernel.org/",
+      "domain": "docs.kernel.org",
+      "description": "Working with the development community\n\nAll development-process docs\n\nDevelopment tools and processes\n\nWriting documentation\n\nUser-oriented documentation\n\nFirmware-related documentation\n\nFirmware and ...",
+      "confidence": 0.8
+    },
+    {
+      "id": "doc-ubuntu_com-vc49fh",
+      "title": "Tutorials | Ubuntu",
+      "canonicalUrl": "https://ubuntu.com/tutorials",
+      "domain": "ubuntu.com",
+      "description": "Ubuntu is an open source software operating system that runs from the desktop, to the cloud, to all your internet connected things.",
+      "confidence": 0.78
+    },
+    {
+      "id": "doc-ubuntu_com-isltuf",
+      "title": "Ubuntu Server documentation",
+      "canonicalUrl": "https://ubuntu.com/server/docs/",
+      "domain": "ubuntu.com",
+      "description": "Official Ubuntu Server documentation - comprehensive guides for installation, configuration, security, networking, databases, virtualization, and system administration.",
+      "confidence": 0.75
+    },
+    {
+      "id": "doc-wiki_archlinux_org-r9f49b",
+      "title": "ArchWiki",
+      "canonicalUrl": "https://wiki.archlinux.org/",
+      "domain": "wiki.archlinux.org",
+      "description": "Welcome to the ArchWiki : your source for Arch Linux documentation on the web.\n\nVisit the Table of contents for a listing of article categories....",
+      "confidence": 0.53
+    },
+    {
+      "id": "doc-docs_alpinelinux_org-3ad70a",
+      "title": "Redirect Notice",
+      "canonicalUrl": "https://docs.alpinelinux.org/user-handbook/0.1a/index.html",
+      "domain": "docs.alpinelinux.org",
+      "description": "Redirect Notice Redirect Notice\n\nThe page you requested has been relocated to https://docs.alpinelinux.org/user-handbook/0.1a/index.html ....",
+      "confidence": 0.41
+    },
+    {
+      "id": "doc-debian_org-r6ek1v",
+      "title": "Debian -- Documentation",
+      "canonicalUrl": "https://www.debian.org/doc",
+      "domain": "debian.org",
+      "description": "Other (shorter) Documents\n\nCreating a high-quality free operating system also includes writing technical manuals which describe the operation and use of programs. The Debian project is making every ef...",
+      "confidence": 0.31
+    },
+    {
+      "id": "doc-man7_org-u42w3h",
+      "title": "Linux man pages online",
+      "canonicalUrl": "https://man7.org/linux/man-pages",
+      "domain": "man7.org",
+      "description": "Linux man pages online man7.org > Linux > man-pages\n\nLinux man pages online\n\nThe links from this page display HTML renderings of the man pages from the Linux man-pages project as well as a curated col...",
+      "confidence": 0.76
+    },
+    {
+      "id": "doc-systemd_io-134zvg",
+      "title": "System and Service Manager",
+      "canonicalUrl": "https://systemd.io/",
+      "domain": "systemd.io",
+      "description": "System and Service Manager\n\nsystemd is a suite of basic building blocks for a Linux system. It provides a system and service manager that runs as PID 1 and starts the rest of the system.\n\nsystemd prov...",
+      "confidence": 0.58
+    },
+    {
+      "id": "doc-docs_oracle_com-hrlks8",
+      "title": "Operating Systems Documentation - Get Started",
+      "canonicalUrl": "https://docs.oracle.com/en/operating-systems",
+      "domain": "docs.oracle.com",
+      "description": "Oracle operating systems provide the foundation for your enterprise.",
+      "confidence": 0.62
+    },
+    {
+      "id": "doc-linux_org-upqk7y",
+      "title": "Linux.org",
+      "canonicalUrl": "https://www.linux.org/",
+      "domain": "linux.org",
+      "description": "Friendly Linux Forum",
+      "confidence": 0.69
+    },
+    {
+      "id": "doc-docs_docker_com-ksdmg1",
+      "title": "Docker Docs",
+      "canonicalUrl": "https://docs.docker.com/",
+      "domain": "docs.docker.com",
+      "description": "Docker Documentation is the official Docker library of resources, manuals, and guides to help you containerize applications.",
+      "confidence": 0.74
+    },
+    {
+      "id": "doc-docs_docker_com-7cslyo",
+      "title": "Get started | Docker Docs",
+      "canonicalUrl": "https://docs.docker.com/get-started",
+      "domain": "docs.docker.com",
+      "description": "Choose a tutorial to build and run an application, work with an AI agent safely, or set up Docker for your organization.",
+      "confidence": 0.74
+    },
+    {
+      "id": "doc-docs_docker_com-p52pdv",
+      "title": "Docker Compose | Docker Docs",
+      "canonicalUrl": "https://docs.docker.com/compose",
+      "domain": "docs.docker.com",
+      "description": "Learn how to use Docker Compose to define and run multi-container applications with this detailed introduction to the tool.",
+      "confidence": 0.76
+    },
+    {
+      "id": "doc-kubernetes_io-0s5afr",
+      "title": "Kubernetes Documentation | Kubernetes",
+      "canonicalUrl": "https://kubernetes.io/docs/home",
+      "domain": "kubernetes.io",
+      "description": "Kubernetes is an open source container orchestration engine for automating deployment, scaling, and management of containerized applications. The open source project is hosted by the Cloud Native Computing Foundation.",
+      "confidence": 0.75
+    },
+    {
+      "id": "doc-developer_hashicorp_com-u0ph6s",
+      "title": "Terraform overview | Terraform | HashiCorp Developer",
+      "canonicalUrl": "https://developer.hashicorp.com/terraform/docs",
+      "domain": "developer.hashicorp.com",
+      "description": "Terraform enables you to provision infrastructure safely and efficiently. Review Terraform&#x27;s ecosystem and workflows, including the Terraform CLI, HCP Terraform, and Terraform Enterprise.",
+      "confidence": 0.33
+    },
+    {
+      "id": "doc-docs_gitlab_com-hrgc0x",
+      "title": "GitLab Docs",
+      "canonicalUrl": "https://docs.gitlab.com/",
+      "domain": "docs.gitlab.com",
+      "description": "Find GitLab answers fast\n\nPersonal access tokens\n\nGet to know the GitLab end-to-end workflow.\n\nHelp learn key GitLab workflows by following guided instructions.\n\nChoose and manage the subscription tha...",
+      "confidence": 0.47
+    },
+    {
+      "id": "doc-docs_aws_amazon_com-7uqm9j",
+      "title": "Welcome to AWS Documentation",
+      "canonicalUrl": "https://docs.aws.amazon.com/",
+      "domain": "docs.aws.amazon.com",
+      "description": "Amazon Elastic Compute Cloud Create and run virtual servers in the cloud\n\nAmazon Simple Storage Service Object storage built to retrieve any amount of data from anywhere\n\nAmazon DynamoDB Managed NoSQL...",
+      "confidence": 0.77
+    },
+    {
+      "id": "doc-cloud_google_com-78ekjn",
+      "title": "Google Cloud Documentation",
+      "canonicalUrl": "https://docs.cloud.google.com/docs",
+      "domain": "cloud.google.com",
+      "description": "Comprehensive documentation, guides, and resources for Google Cloud products and services.",
       "confidence": 0.65
     },
     {
-      "id": "doc-sqlite_org-54ba90",
-      "title": "Architecture of SQLite – In-Process SQL Database Engine",
-      "canonicalUrl": "https://sqlite.org/arch.html",
+      "id": "doc-learn_microsoft_com-39y86m",
+      "title": "Azure documentation | Microsoft Learn",
+      "canonicalUrl": "https://learn.microsoft.com/en-us/azure/",
+      "domain": "learn.microsoft.com",
+      "description": "Learn how to build and manage powerful applications using Microsoft Azure services. Get documentation, example code, tutorials, and more.",
+      "confidence": 0.74
+    },
+    {
+      "id": "doc-cloud_google_com-oexvjw",
+      "title": "Cloud Architecture Guidance and Topologies  |  Cloud Architecture Center  |  Google Cloud Documentation",
+      "canonicalUrl": "https://docs.cloud.google.com/architecture",
+      "domain": "cloud.google.com",
+      "description": "Google Cloud reference architectures and design guides.",
+      "confidence": 0.83
+    },
+    {
+      "id": "doc-docs_oracle_com-h1p8e5",
+      "title": "Oracle Cloud Infrastructure Documentation",
+      "canonicalUrl": "https://docs.oracle.com/en-us/iaas",
+      "domain": "docs.oracle.com",
+      "description": "Welcome to Oracle Cloud Infrastructure documentation. Find user guides, developer tools, getting started guides, tutorials, whitepapers, and more.",
+      "confidence": 0.8
+    },
+    {
+      "id": "doc-docs_cloudflare_com-qxqtax",
+      "title": "Cloudflare Developer Docs | Cloudflare Docs",
+      "canonicalUrl": "https://developers.cloudflare.com/",
+      "domain": "docs.cloudflare.com",
+      "description": "Connect, protect, and build everywhere.",
+      "confidence": 0.67
+    },
+    {
+      "id": "doc-docs_nginx_com-pyh9lj",
+      "title": "F5 NGINX Product Documentation",
+      "canonicalUrl": "https://docs.nginx.com/",
+      "domain": "docs.nginx.com",
+      "description": "Learn how to deliver, manage, and protect your applications using F5 NGINX products.",
+      "confidence": 0.45
+    },
+    {
+      "id": "doc-httpd_apache_org-572u7n",
+      "title": "Documentation: Apache HTTP Server - The Apache HTTP Server Project",
+      "canonicalUrl": "https://httpd.apache.org/docs",
+      "domain": "httpd.apache.org",
+      "description": "Documentation: Apache HTTP Server - The Apache HTTP Server Project  \n\nSource Repositories &para;\n\nRelated Projects &para;\n\nApache Traffic Server\n\nApache Traffic Control\n\nApache HTTP Server Documentati...",
+      "confidence": 0.73
+    },
+    {
+      "id": "doc-prometheus_io-2zi6kn",
+      "title": "Overview | Prometheus",
+      "canonicalUrl": "https://prometheus.io/docs/introduction/overview/",
+      "domain": "prometheus.io",
+      "description": "Prometheus project documentation for Overview",
+      "confidence": 0.44
+    },
+    {
+      "id": "doc-grafana_com-04szt7",
+      "title": "Technical documentation | Grafana Labs",
+      "canonicalUrl": "https://grafana.com/docs",
+      "domain": "grafana.com",
+      "description": "Searching... Site search Ask Grot AI Try using Grot AI for this query -> All Docs = 5\"> View all results No results. There was an error with your request. Grafana Labs is a Leader in the 2026 Gartner®...",
+      "confidence": 0.59
+    },
+    {
+      "id": "doc-sqlite_org-f6dlt5",
+      "title": "SQLite Documentation",
+      "canonicalUrl": "https://www.sqlite.org/docs.html",
       "domain": "sqlite.org",
-      "description": "Technical architecture and internal subsystems of SQLite: tokenizer, parser, code generator, virtual machine (VDBE), B-Tree, pager, and OS interface.",
-      "confidence": 0.8
+      "description": "SQLite Documentation Small. Fast. Reliable. Choose any three. Home Menu About Documentation Download License Support Purchase Search About Documentation Download Support Purchase Search Documentation ...",
+      "confidence": 0.61
     },
     {
-      "id": "doc-kubernetes_io-c0zv41",
-      "title": "What is Kubernetes? | Kubernetes Cloud Infrastructure",
-      "canonicalUrl": "https://kubernetes.io/docs/concepts/overview/what-is-kubernetes/",
-      "domain": "kubernetes.io",
-      "description": "Kubernetes is an open-source container orchestration system for automating software deployment, scaling, and management of containerized applications.",
-      "confidence": 0.8
+      "id": "doc-redis_io-uwlhwo",
+      "title": "Docs",
+      "canonicalUrl": "https://redis.io/docs/latest/",
+      "domain": "redis.io",
+      "description": "Welcome to Redis Docs\n\nQuickly set up a Redis cache, primary, vector or custom database\n\nDevelop in your language\n\nRedis for AI and search\n\nGet started with vector databases\n\nBuild AI applications wit...",
+      "confidence": 0.58
     },
     {
-      "id": "doc-docs_docker_com-r3diza",
-      "title": "Docker Overview | Containerization Platform Architecture",
-      "canonicalUrl": "https://docs.docker.com/get-started/overview/",
-      "domain": "docs.docker.com",
-      "description": "Docker is an open platform for developing, shipping, and running applications using OS-level containerization for predictable environments.",
-      "confidence": 0.66
+      "id": "doc-docs_cockroachlabs_com-zyb4ns",
+      "title": "CockroachDB Docs - CockroachDB",
+      "canonicalUrl": "https://docs.cockroachlabs.com/",
+      "domain": "docs.cockroachlabs.com",
+      "description": "Start a Cloud cluster\n\nDownload the CockroachDB binary\n\nUse the Docs MCP server\n\nRecommended articles Get Started\n\nThe State of Resilience 2025\n\nCockroachDB is the SQL database for building global, sc...",
+      "confidence": 0.6
     },
     {
-      "id": "doc-en_wikipedia_org-6wu5fq",
-      "title": "Okapi BM25 – Wikipedia, the free encyclopedia",
-      "canonicalUrl": "https://en.wikipedia.org/wiki/Okapi_BM25",
-      "domain": "en.wikipedia.org",
-      "description": "In information retrieval, Okapi BM25 is a probabilistic ranking function used by search engines to estimate the relevance of documents to a given search query.",
+      "id": "doc-docs_influxdata_com-4mkb91",
+      "title": "InfluxData Documentation",
+      "canonicalUrl": "https://docs.influxdata.com/",
+      "domain": "docs.influxdata.com",
+      "description": "Doc umentation Select product\n\nInfluxDB 3 Enterprise New\n\nInfluxDB Cloud Serverless\n\nInfluxDB Cloud Dedicated\n\nInfluxDB 3 Explorer New\n\nTelegraf Controller New\n\nTelegraf Enterprise New\n\nInfluxData Doc...",
+      "confidence": 0.57
+    },
+    {
+      "id": "doc-neo4j_com-8fbb7w",
+      "title": "Neo4j documentation - Neo4j Documentation",
+      "canonicalUrl": "https://neo4j.com/docs/",
+      "domain": "neo4j.com",
+      "description": "Neo4j documentation - Neo4j Documentation",
+      "confidence": 0.37
+    },
+    {
+      "id": "doc-docs_oracle_com-jb24wh",
+      "title": "Database Documentation - Database Documentation",
+      "canonicalUrl": "https://docs.oracle.com/en/database",
+      "domain": "docs.oracle.com",
+      "description": "Oracle AI Database Oracle Autonomous AI Database\n\nData Integration Oracle GoldenGate\n\nOracle Stream Analytics\n\nOracle Data Integrator\n\nOracle Enterprise Data Quality\n\nOther Databases Blockchain Platfo...",
+      "confidence": 0.69
+    },
+    {
+      "id": "doc-opensearch_org-5mtn9n",
+      "title": "OpenSearch documentation and user guides | OpenSearch Documentation",
+      "canonicalUrl": "https://docs.opensearch.org/latest/",
+      "domain": "opensearch.org",
+      "description": "Documentation for OpenSearch, the Apache 2.0 search, analytics, and visualization suite with advanced security, alerting, SQL support, automated index management, deep performance analysis, and more.",
+      "confidence": 0.22
+    },
+    {
+      "id": "doc-scikit_learn_org-vo30r7",
+      "title": "User Guide — scikit-learn 1.9.1 documentation",
+      "canonicalUrl": "https://scikit-learn.org/stable/user_guide.html",
+      "domain": "scikit-learn.org",
+      "description": "Supervised learning- Linear Models- Ordinary Least Squares, Ridge regression and classification, Lasso, Multi-task Lasso, Elastic-Net, Multi-task Elastic-Net, Least Angle Regression, LARS Lasso, Or...",
       "confidence": 0.53
+    },
+    {
+      "id": "doc-nist_gov-9e7j9c",
+      "title": "National Institute of Standards and Technology",
+      "canonicalUrl": "https://www.nist.gov/",
+      "domain": "nist.gov",
+      "description": "NIST promotes U.S. innovation and industrial competitiveness by advancing measurement science, standards, and technology in ways that enhance economic security and improve our quality of life.",
+      "confidence": 0.52
+    },
+    {
+      "id": "doc-owasp_org-sftkev",
+      "title": "OWASP Top 10 | OWASP Foundation",
+      "canonicalUrl": "https://owasp.org/projects/top-ten",
+      "domain": "owasp.org",
+      "description": "The OWASP Top 10 is the reference standard for the most critical web application security risks. Adopting the OWASP Top 10 is perhaps the most effective first step towards changing your software…",
+      "confidence": 0.29
+    },
+    {
+      "id": "doc-owasp_org-oe530w",
+      "title": "OWASP Web Security Testing Guide | OWASP Foundation",
+      "canonicalUrl": "https://owasp.org/projects/web-security-testing-guide",
+      "domain": "owasp.org",
+      "description": "The Web Security Testing Guide (WSTG) Project produces the premier cybersecurity testing resource for web application developers and security professionals.",
+      "confidence": 0.56
+    },
+    {
+      "id": "doc-cheatsheetseries_owasp_org-2tvuyv",
+      "title": "Introduction - OWASP Cheat Sheet Series",
+      "canonicalUrl": "https://cheatsheetseries.owasp.org/index.html",
+      "domain": "cheatsheetseries.owasp.org",
+      "description": "Website with the collection of all the cheat sheets of the project.",
+      "confidence": 0.6
+    },
+    {
+      "id": "doc-cisa_gov-no090z",
+      "title": "Cyber Threats and Response | Cybersecurity and Infrastructure Security Agency CISA",
+      "canonicalUrl": "https://www.cisa.gov/topics/cyber-threats-and-response",
+      "domain": "cisa.gov",
+      "description": "Cyber Threats and Response\n\nCyber Threats and Response\n\nMalware, Phishing, and Ransomware\n\nSophisticated cyber actors and nation-states exploit vulnerabilities to steal information and money and work ...",
+      "confidence": 0.82
+    },
+    {
+      "id": "doc-cisa_gov-a0wl97",
+      "title": "Resources & Tools | CISA",
+      "canonicalUrl": "https://www.cisa.gov/resources-tools",
+      "domain": "cisa.gov",
+      "description": "CISA offers an array of free resources and tools, such as technical assistance, exercises, cybersecurity assessments, free training, and more.\n\nCISA provides a variety of risk management and response ...",
+      "confidence": 0.43
+    },
+    {
+      "id": "doc-nist_gov-7zztnz",
+      "title": "Cybersecurity and privacy | NIST",
+      "canonicalUrl": "https://www.nist.gov/cybersecurity-and-privacy",
+      "domain": "nist.gov",
+      "description": "NIST develops cybersecurity and privacy standards, guidelines, best practices, and resources to meet the needs of U.S",
+      "confidence": 0.42
+    },
+    {
+      "id": "doc-csrc_nist_gov-rqifxc",
+      "title": "NIST Computer Security Resource Center | CSRC",
+      "canonicalUrl": "https://csrc.nist.gov/",
+      "domain": "csrc.nist.gov",
+      "description": "CSRC provides access to NIST",
+      "confidence": 0.57
+    },
+    {
+      "id": "doc-rfc_editor_org-dk2rs6",
+      "title": "RFC Editor",
+      "canonicalUrl": "https://www.rfc-editor.org/",
+      "domain": "rfc-editor.org",
+      "description": "The official home of RFCs. RFCs outline computer networking and Internet foundations, including Internet Standards and historical or informative content.",
+      "confidence": 0.41
+    },
+    {
+      "id": "doc-iana_org-ue5rsd",
+      "title": "Internet Assigned Numbers Authority",
+      "canonicalUrl": "https://iana.org/",
+      "domain": "iana.org",
+      "description": "Management of the DNS Root Zone (assignments of ccTLDs and gTLDs) along with other functions such as the .int and .arpa zones.\n\nDatabase of Top Level Domains\n\nIDN Practices Repository\n\nCoordination of...",
+      "confidence": 0.41
+    },
+    {
+      "id": "doc-w3_org-j584v2",
+      "title": "Web Security | Our mission | W3C",
+      "canonicalUrl": "https://www.w3.org/Security",
+      "domain": "w3.org",
+      "description": "This page gives a high-level introduction to web security.",
+      "confidence": 0.68
+    },
+    {
+      "id": "doc-developer_mozilla_org-s1aae4",
+      "title": "Security | MDN",
+      "canonicalUrl": "https://developer.mozilla.org/en-US/docs/Web/Security",
+      "domain": "developer.mozilla.org",
+      "description": "Web security is the practice of protecting websites and their users from damage caused by malicious third parties, who are generally called attackers.",
+      "confidence": 0.49
     }
   ]
 }

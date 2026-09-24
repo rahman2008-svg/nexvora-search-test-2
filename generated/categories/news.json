@@ -1,18 +1,63 @@
 {
   "category": "News",
-  "documentCount": 1,
-  "updatedAt": "2026-09-24T05:08:13.906Z",
+  "documentCount": 6,
+  "updatedAt": "2026-09-24T07:15:35.519Z",
   "documentIds": [
-    "doc-reuters_com-i1fbxk"
+    "doc-mozilla_org-hp5kya",
+    "doc-mathsisfun_com-mj07gp",
+    "doc-archives_gov-own88u",
+    "doc-usgs_gov-000tdo",
+    "doc-worldbank_org-xyyumn",
+    "doc-wto_org-nik76d"
   ],
   "items": [
     {
-      "id": "doc-reuters_com-i1fbxk",
-      "title": "Global Climate Summit Reaches Historic Clean Energy Accord – Reuters News",
-      "canonicalUrl": "https://www.reuters.com/world/global-climate-summit-accord/",
-      "domain": "reuters.com",
-      "description": "Breaking international news: Diplomats and world leaders agree to accelerate renewable energy deployment and carbon reduction targets at global summit.",
-      "confidence": 0.8
+      "id": "doc-mozilla_org-hp5kya",
+      "title": "Mozilla - Internet for people, not profit (US)",
+      "canonicalUrl": "https://www.mozilla.org/en-US/",
+      "domain": "mozilla.org",
+      "description": "We’re working to put control of the internet back in the hands of the people using it.",
+      "confidence": 0.32
+    },
+    {
+      "id": "doc-mathsisfun_com-mj07gp",
+      "title": "Math is Fun",
+      "canonicalUrl": "https://www.mathsisfun.com/",
+      "domain": "mathsisfun.com",
+      "description": "Math explained in easy language, plus puzzles, games, worksheets and an illustrated dictionary. For K-12 kids, teachers and parents.",
+      "confidence": 0.38
+    },
+    {
+      "id": "doc-archives_gov-own88u",
+      "title": "National Archives | Home",
+      "canonicalUrl": "https://www.archives.gov/",
+      "domain": "archives.gov",
+      "description": "National Archives and Records Administration",
+      "confidence": 0.22
+    },
+    {
+      "id": "doc-usgs_gov-000tdo",
+      "title": "Earthquake Hazards Program | U.S. Geological Survey",
+      "canonicalUrl": "https://www.usgs.gov/programs/earthquake-hazards",
+      "domain": "usgs.gov",
+      "description": "past 24 hours, 7 days, 1 month\n\nSignificant Earthquakes Archive\n\nlists of annual impactful earthquakes\n\nSearch Earthquake Catalog\n\nonline search by time window, area, magnitude, and more\n\n2025 USGS an...",
+      "confidence": 0.24
+    },
+    {
+      "id": "doc-worldbank_org-xyyumn",
+      "title": "World Bank Group - International Development, Poverty and Sustainability",
+      "canonicalUrl": "https://www.worldbank.org/ext/en/home",
+      "domain": "worldbank.org",
+      "description": "With 189 member countries, the World Bank Group is a unique global partnership fighting poverty worldwide through sustainable solutions.",
+      "confidence": 0.36
+    },
+    {
+      "id": "doc-wto_org-nik76d",
+      "title": "World Trade Organization - Home page - Global trade",
+      "canonicalUrl": "https://www.wto.org/",
+      "domain": "wto.org",
+      "description": "Global trade - The World Trade Organization (WTO) deals with the global rules of trade between nations. Its main function is to ensure that global trade flows smoothly, predictably and freely as possible.",
+      "confidence": 0.5
     }
   ]
 }

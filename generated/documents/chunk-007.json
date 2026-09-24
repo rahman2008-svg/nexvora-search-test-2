@@ -1,0 +1,273 @@
+{
+  "chunkId": "chunk-007",
+  "filename": "chunk-007.json",
+  "documentCount": 6,
+  "totalBytes": 1017374,
+  "createdAt": "2026-09-24T07:15:54.831Z",
+  "documents": [
+    {
+      "id": "doc-nextjs_org-mk9z60",
+      "url": "https://nextjs.org/docs",
+      "canonicalUrl": "https://nextjs.org/docs",
+      "domain": "nextjs.org",
+      "title": "Next.js Docs | Next.js",
+      "description": "Welcome to the Next.js Documentation.",
+      "headings": {
+        "h1": [
+          "Next.js Docs"
+        ],
+        "h2": [
+          "What is Next.js?",
+          "How to use the docs",
+          "App Router and Pages Router",
+          "Pre-requisite knowledge",
+          "Accessibility",
+          "Join our Community",
+          "Next Steps"
+        ],
+        "h3": [
+          "React version handling",
+          "Getting Started"
+        ]
+      },
+      "mainText": "Features available in /app\n\nGetting Started Installation\n\nLinking and Navigating\n\nServer and Client Components\n\nMetadata and OG images\n\nGuides Adopting Partial Prefetching\n\nAuthentication with Cache Components\n\nCaching (Previous Model)\n\nClient-side data fetching SWR\n\nContent Security Policy\n\nDeploying to Platforms\n\nEnvironment Variables\n\nHow Revalidation Works\n\nISR with Cache Components\n\nDevelopment Environment\n\nMigrating to Cache Components\n\nOptimizing prefetching\n\nServer and Client Boundary\n\nThird Party Libraries\n\nAPI Reference Directives use cache\n\nFile-system conventions default.js\n\ninstrumentation-client.js\n\nMetadata Files favicon, icon, and apple-icon\n\nopengraph-image and twitter-image\n\nRoute Segment Config dynamicParams\n\npreferredRegion (deprecated)\n\ngenerateImageMetadata\n\nuseSelectedLayoutSegment\n\nuseSelectedLayoutSegments\n\nConfiguration next.config.js adapterPath\n\ninstrumentationClientInject\n\noptimizePackageImports\n\nproductionBrowserSourceMaps\n\nproxyClientMaxBodySize\n\nreactMaxHeadersLength\n\nserverComponentsHmrCache\n\nserverExternalPackages\n\nskipProxyUrlNormalize\n\nskipTrailingSlashRedirect\n\nsupportsImmutableAssets\n\nturbopackFileSystemCache\n\nturbopack.ignoreIssue\n\nturbopackLocalPostcssConfig\n\nturbopackMemoryEviction\n\nturbopackRustReactCompiler\n\nAdapters Configuration\n\nRouting with @next/routing\n\nImplementing PPR in an Adapter\n\nSupporting Immutable Static Assets\n\nArchitecture Accessibility\n\nCommunity Contribution Guide\n\nApp Router and Pages Router\n\nReact version handling\n\nPre-requisite knowledge\n\nWelcome to the Next.js documentation!\n\nNext.js is a React framework for building full-stack web applications. You use React Components to build user interfaces, and Next.js for additional features and optimizations.\n\nIt also automatically configures lower-level tools like bundlers and compilers. You can instead focus on building your product and shipping quickly.\n\nWhether you&#x27;re an individual developer or part of a larger team, Next.js can help you build interactive, dynamic, and fast React applications.\n\nThe docs are organized into 3 sections:\n\nGetting Started : Step-by-step tutorials to help you create a new application and learn the core Next.js features.\n\nGuides : Tutorials on specific use cases, choose what&#x27;s relevant to you.\n\nAPI Reference : Detailed technical reference for every feature.\n\nUse the sidebar to navigate through the sections, or search ( Ctrl+K or Cmd+K ) to quickly find a page.\n\nApp Router and Pages Router\n\nNext.js has two different routers:\n\nApp Router : The newer router that supports new React features like Server Components.\n\nPages Router : The original router, still supported and being improved.\n\nAt the top of the sidebar, you&#x27;ll notice a dropdown menu that allows you to switch between the App Router and the Pages Router docs.\n\nReact version handling\n\nThe App Router and Pages Router handle React versions differently:\n\nApp Router : Uses React canary releases built-in, which include all the stable React 19 changes, as well as newer features being validated in frameworks, prior to a new React release.\n\nPages Router : Uses the React version installed in your project&#x27;s package.json .\n\nThis approach ensures new React features work reliably in the App Router while maintaining backwards compatibility for existing Pages Router applications.\n\nPre-requisite knowledge\n\nOur documentation assumes some familiarity with web development. Before getting started, it&#x27;ll help if you&#x27;re comfortable with:\n\nIf you&#x27;re new to React or need a refresher, we recommend starting with our React Foundations course , and the Next.js Foundations course that has you building an application as you learn.\n\nFor the best experience when using a screen reader, we recommend using Firefox and NVDA, or Safari and VoiceOver.\n\nIf you have questions about anything related to Next.js, you&#x27;re always welcome to ask our community on GitHub Discussions , Discord , X (Twitter) , and Reddit .",
+      "language": "en",
+      "category": "Programming",
+      "categoryConfidence": 0.59,
+      "categorySignals": [
+        "heading:react",
+        "body:react(14)",
+        "body:api(2)"
+      ],
+      "contentLengthBytes": 475694,
+      "wordCount": 512,
+      "statusCode": 200,
+      "fetchTimeMs": 385,
+      "processedAt": "2026-09-24T07:09:33.770Z",
+      "chunkId": "chunk-007",
+      "retryCount": 0
+    },
+    {
+      "id": "doc-remix_run-kx3993",
+      "url": "https://remix.run/docs",
+      "canonicalUrl": "https://remix.run/docs",
+      "domain": "remix.run",
+      "title": "Remix Docs",
+      "description": "Guides, explanations, examples, and tutorials for learning Remix.",
+      "headings": {
+        "h1": [
+          "Learn Remix from the request up."
+        ],
+        "h2": [
+          "Start Here",
+          "Routing and Controllers",
+          "Request Handling",
+          "Rendering UI",
+          "Interactivity",
+          "Streaming UI with Frames",
+          "Animation",
+          "Data and Validation",
+          "Forms and Mutations",
+          "Auth, Sessions, and Security",
+          "Files and Assets",
+          "Errors and Cancellation",
+          "Testing",
+          "CLI and Tooling",
+          "Production"
+        ],
+        "h3": []
+      },
+      "mainText": "Learn Remix from the request up.\n\nThese guide chapters introduce Remix at a high level, then progressively deepen into routing, rendering, interactivity, streaming, data, security, assets, testing, production, examples, and tutorials.\n\nAPI reference lives separately at api.remix.run .\n\nA high-level introduction to Remix and the mental model behind a Remix application.\n\n02 Routing and Controllers\n\nHow route maps, route helpers, controllers, actions, and responses define Remix request handling.\n\nHow a Web Request becomes a Web Response across runtime adapters and the middleware pipeline.\n\nHow to build pages from Remix components, props, context, document shells, styles, and first-party UI.\n\nHow server-rendered UI hydrates, handles events, connects components to application models, navigates, and cancels stale work.\n\n06 Streaming UI with Frames\n\nHow to stream and reload route-owned UI with Frame, fallbacks, and server and browser frame resolvers.\n\nThe CSS-first animation model and Remix UI helpers for motion that respects rendering state.\n\n08 Data and Validation\n\nHow Remix validates inputs, defines relational data, queries databases, and runs SQL migrations.\n\n09 Forms and Mutations\n\nHow native forms, action responses, validation failures, redirects, and enhanced mutations fit together.\n\n10 Auth, Sessions, and Security\n\nHow Remix stores per-browser state, resolves identity, protects routes, and defends browser request boundaries.\n\nHow Remix serves static files and source assets, accepts bounded uploads, stores files, and returns HTTP file responses.\n\n12 Errors and Cancellation\n\nHow expected HTTP failures, uncaught server errors, rendering failures, client runtime errors, and aborted work propagate through Remix.\n\nHow to choose a test boundary and test Remix routes, stateful request flows, components, and end-to-end behavior.\n\nThe Remix command-line workflow for creating, inspecting, testing, checking, and running TypeScript projects.\n\nHow to configure, start, cache, observe, and shut down a Remix application in production.",
+      "language": "en",
+      "category": "Entertainment",
+      "categoryConfidence": 0.3,
+      "categorySignals": [
+        "heading:streaming",
+        "heading:animation",
+        "body:streaming(2)"
+      ],
+      "contentLengthBytes": 57957,
+      "wordCount": 286,
+      "statusCode": 200,
+      "fetchTimeMs": 1334,
+      "processedAt": "2026-09-24T07:09:35.109Z",
+      "chunkId": "chunk-007",
+      "retryCount": 0
+    },
+    {
+      "id": "doc-qwik_dev-2c28hx",
+      "url": "https://qwik.dev/docs/",
+      "canonicalUrl": "https://qwik.dev/docs/",
+      "domain": "qwik.dev",
+      "title": "Overview | Introduction 📚 Qwik Documentation",
+      "description": "No hydration, auto lazy-loading, edge-optimized, and fun 🎉!",
+      "headings": {
+        "h1": [
+          "Welcome to Qwik"
+        ],
+        "h2": [
+          "Getting Started with Qwik",
+          "Explore More",
+          "Why Qwik?"
+        ],
+        "h3": [
+          "Getting Started",
+          "Why Qwik?",
+          "API",
+          "Courses",
+          "Community",
+          "Qwik City & Routing",
+          "See more presentations, videos, and podcasts",
+          "Check out websites built with Qwik",
+          "General-purpose",
+          "Instant Interactivity",
+          "JS Streaming",
+          "Contributors"
+        ]
+      },
+      "mainText": "Qwik is a new kind of web framework that can deliver instant loading web applications at any size or complexity. Your sites and apps can boot with about 1kb of JS (regardless of application complexity), and achieve consistent performance at scale.\n\nGetting Started with Qwik\n\nSee more presentations, videos, and podcasts\n\nCheck out websites built with Qwik\n\nQwik can be used to build any type of website or application.\n\nInstant Interactivity\n\nQwik apps work instantly without any delay because they don't need hydration, regardless of their size or complexity.\n\nQwik delivers sub-second full page loads, even on mobile, by serving pure HTML and executing JavaScript when your users opt-in.\n\nThanks to all the contributors who have helped make this documentation better!",
+      "language": "en",
+      "category": "General",
+      "categoryConfidence": 0.55,
+      "categorySignals": [
+        "title:overview",
+        "title:introduction",
+        "heading:welcome"
+      ],
+      "contentLengthBytes": 330844,
+      "wordCount": 121,
+      "statusCode": 200,
+      "fetchTimeMs": 1188,
+      "processedAt": "2026-09-24T07:09:36.302Z",
+      "chunkId": "chunk-007",
+      "retryCount": 0
+    },
+    {
+      "id": "doc-vite_dev-j62hwj",
+      "url": "https://vite.dev/guide/",
+      "canonicalUrl": "https://vite.dev/guide/",
+      "domain": "vite.dev",
+      "title": "Getting Started | Vite Next Generation Frontend Tooling",
+      "description": "Vite is a modern build tool that aims to provide a faster and leaner development experience for modern web projects using native ES modules.",
+      "headings": {
+        "h1": [
+          "Getting Started with Vite"
+        ],
+        "h2": [
+          "Lightning Fast Cold Starts"
+        ],
+        "h3": []
+      },
+      "mainText": "Getting Started with Vite\n\nVite consists of two major parts: a dev server that provides rich feature enhancements over native ES modules, and a build command that bundles your code with Rollup.\n\nLightning Fast Cold Starts\n\nBy pre-bundling dependencies with esbuild and serving source code over native ESM, Vite eliminates server bundling delays during development.",
+      "language": "en",
+      "category": "Programming",
+      "categoryConfidence": 0.77,
+      "categorySignals": [
+        "domain:vite.dev",
+        "title:vite",
+        "title:frontend",
+        "heading:vite",
+        "desc:vite",
+        "body:code(2)",
+        "body:vite(3)"
+      ],
+      "contentLengthBytes": 832,
+      "wordCount": 55,
+      "statusCode": 200,
+      "fetchTimeMs": 33,
+      "processedAt": "2026-09-24T07:09:36.337Z",
+      "chunkId": "chunk-007",
+      "retryCount": 0
+    },
+    {
+      "id": "doc-webpack_js_org-vv7fih",
+      "url": "https://webpack.js.org/concepts/",
+      "canonicalUrl": "https://webpack.js.org/concepts/",
+      "domain": "webpack.js.org",
+      "title": "Concepts | webpack",
+      "description": "The core ideas behind webpack — entry, output, loaders, plugins, mode and the dependency graph.",
+      "headings": {
+        "h1": [
+          "Concepts"
+        ],
+        "h2": [
+          "Entry",
+          "Output",
+          "Loaders",
+          "Plugins",
+          "Mode",
+          "Browser Compatibility",
+          "Environment",
+          "19 Contributors"
+        ],
+        "h3": []
+      },
+      "mainText": "At its core, webpack is a static module bundler for modern JavaScript applications. When webpack processes your application, it internally builds a dependency graph from one or more entry points and then combines every module your project needs into one or more bundles , which are static assets to serve your content from.\n\nLearn more about JavaScript modules and webpack modules here .\n\nSince version 4.0.0, webpack does not require a configuration file to bundle your project. Nevertheless, it is incredibly configurable to better fit your needs.\n\nTo get started you only need to understand its Core Concepts :\n\nBrowser Compatibility\n\nThis document is intended to give a high-level overview of these concepts, while providing links to detailed concept-specific use cases.\n\nFor a better understanding of the ideas behind module bundlers and how they work under the hood, consult these resources:\n\nManually Bundling an Application\n\nLive Coding a Basic Module Bundler\n\nDetailed Explanation of a Basic Module Bundler\n\nAn entry point indicates which module webpack should use to begin building out its internal dependency graph . Webpack will figure out which other modules and libraries that entry point depends on (directly and indirectly).\n\nBy default its value is ./src/index.js , but you can specify a different (or multiple) entry points by setting an entry property in the webpack configuration . For example:\n\nexport default { entry : \"./path/to/my/entry/file.js\" , } ; tip\n\nWhen running webpack without a configuration file, the entry defaults to &#x27;./src&#x27; , which webpack resolves to ./src/index.js through resolve.mainFiles and resolve.extensions . If that file does not exist — even if your src/ directory does — webpack will throw: Module not found: Error: Can&#x27;t resolve &#x27;./src&#x27; in &#x27;/path/to/project&#x27; The error names &#x27;./src&#x27; because that is the actual entry request; index.js is only the default file looked up inside it. To use a different entry filename, add a webpack.config.js as shown in the example above.\n\nLearn more in the entry points section.\n\nThe output property tells webpack where to emit the bundles it creates and how to name these files. It defaults to ./dist/main.js for the main output file and to the ./dist folder for any other generated file.\n\nYou can configure this part of the process by specifying an output field in your configuration:\n\nimport path from \"node:path\" ; import { fileURLToPath } from \"node:url\" ; const __filename = fileURLToPath ( import . meta . url ) ; const __dirname = path . dirname ( __filename ) ; export default { entry : \"./path/to/my/entry/file.js\" , output : { path : path . resolve ( __dirname , \"dist\" ) , filename : \"my-first-webpack.bundle.js\" , } , } ; In the example above, we use the output.filename and the output.path properties to tell webpack the name of our bundle and where we want it to be emitted to. In case you&#x27;re wondering about the path module being imported at the top, it is a core Node.js module that gets used to manipulate file paths.\n\nThe output property has many more configurable features . If you want to learn about the concepts behind it, you can read more in the output section .\n\nOut of the box, webpack understands JavaScript, JSON and WebAssembly files, as well as CSS and HTML through its built-in support ( Native CSS , Native HTML ), which is enabled by default. Loaders allow webpack to process other types of files and convert them into valid modules that can be consumed by your application and added to the dependency graph.\n\nOne of webpack&#x27;s specific features is the ability to import any type of module, e.g. .css files, which may not be supported by other bundlers or task runners. We feel this extension of the language is warranted as it allows developers to build a more accurate dependency graph.\n\nAt a high level, loaders have two properties in your webpack configuration:\n\nThe test property identifies which file or files should be transformed.\n\nThe use property indicates which loader should be used to do the transforming.\n\nimport path from \"node:path\" ; export default { output : { filename : \"my-first-webpack.bundle.js\" , } , module : { rules : [ { test : / \\.js$ / , use : \"babel-loader\" } ] , } , } ; The configuration above has defined a rules property for a single module with two required properties: test and use . This tells webpack&#x27;s compiler the following:\n\n\"Hey webpack compiler, when you come across a path that resolves to a &#x27;.js&#x27; file inside of a require() / import statement, use the babel-loader to transform it before you add it to the bundle.\"\n\nIt is important to remember that when defining rules in your webpack config, you are defining them under module.rules and not rules . For your benefit, webpack will warn you if this is done incorrectly.\n\nKeep in mind that when using regex to match files, you may not quote it. i.e /\\.txt$/ is not the same as &#x27;/\\.txt$/&#x27; or \"/\\.txt$/\" . The former instructs webpack to match any file that ends with .txt and the latter instructs webpack to match a single file with an absolute path &#x27;.txt&#x27;; this is likely not your intention.\n\nYou can check further customization when including loaders in the loaders section .\n\nWhile loaders are used to transform certain types of modules, plugins can be leveraged to perform a wider range of tasks like bundle optimization, asset management and injection of environment variables.\n\nCheck out the plugin interface and how to use it to extend webpack&#x27;s capabilities.\n\nIn order to use a plugin, you need to import it and add it to the plugins array. Most plugins are customizable through options. Since you can use a plugin multiple times in a configuration for different purposes, you need to create an instance of it by calling it with the new operator.\n\nimport webpack from \"webpack\" ; // to access built-in plugins export default { entry : \"./src/index.html\" , experiments : { html : true , } , module : { rules : [ { test : / \\.js$ / , use : \"babel-loader\" } ] , } , plugins : [ new webpack . ProgressPlugin ( ) ] , } ; In the example above, the ProgressPlugin customizes how build progress is reported. Your src/index.html is the entry: webpack bundles the scripts and styles it references and rewrites those URLs to the built filenames, so no plugin is needed to produce the page — see Native HTML .\n\nThere are many plugins that webpack provides out of the box! Check out the list of plugins .\n\nUsing plugins in your webpack configuration is straightforward. However, there are many use cases that are worth further exploration. Learn more about them here .\n\nBy setting the mode parameter to either development , production or none , you can enable webpack&#x27;s built-in optimizations that correspond to each environment. The default value is production .\n\nexport default { mode : \"production\" , } ; Learn more about the mode configuration here and what optimizations take place on each value.\n\nBrowser Compatibility\n\nWebpack supports all browsers that are ES5-compliant (IE8 and below are not supported). Webpack needs Promise for import() and require.ensure() . If you want to support older browsers, you will need to load a polyfill before using these expressions.\n\nWebpack 5 requires Node.js version 10.13.0 or later.",
+      "language": "en",
+      "category": "Programming",
+      "categoryConfidence": 0.29,
+      "categorySignals": [
+        "body:javascript(3)",
+        "body:compiler(2)",
+        "body:bundler(3)"
+      ],
+      "contentLengthBytes": 117720,
+      "wordCount": 1227,
+      "statusCode": 200,
+      "fetchTimeMs": 310,
+      "processedAt": "2026-09-24T07:09:36.654Z",
+      "chunkId": "chunk-007",
+      "retryCount": 0
+    },
+    {
+      "id": "doc-rollupjs_org-e80t1q",
+      "url": "https://rollupjs.org/introduction/",
+      "canonicalUrl": "https://rollupjs.org/introduction",
+      "domain": "rollupjs.org",
+      "title": "Introduction | Rollup",
+      "description": "compile JS code",
+      "headings": {
+        "h1": [
+          "Introduction"
+        ],
+        "h2": [
+          "Getting started",
+          "More info",
+          "API",
+          "Overview ​",
+          "Installation ​",
+          "Quick Start ​",
+          "The Why ​",
+          "Tree-Shaking ​",
+          "Compatibility ​"
+        ],
+        "h3": [
+          "Importing CommonJS ​",
+          "Publishing ES Modules ​"
+        ]
+      },
+      "mainText": "Compatibility Importing CommonJS\n\nPublishing ES Modules\n\nRollup is a module bundler for JavaScript which compiles small pieces of code into something larger and more complex, such as a library or application. It uses the new standardized format for code modules included in the ES6 revision of JavaScript, instead of previous idiosyncratic solutions such as CommonJS and AMD. ES modules let you freely and seamlessly combine the most useful individual functions from your favorite libraries. This will eventually be possible natively everywhere, but Rollup lets you do it today.\n\nnpm install --global rollup This will make Rollup available as a global command line tool. You can also install it locally, see Installing Rollup locally .\n\nRollup can be used either through a command line interface with an optional configuration file, or else through its JavaScript API . Run rollup --help to see the available options and parameters.\n\nSee rollup-starter-lib and rollup-starter-app to see example library and application projects using Rollup\n\nThese commands assume the entry point to your application is named main.js , and that you'd like all imports compiled into a single file named bundle.js .\n\n# compile to a <script> containing a self-executing function ('iife') $ rollup main.js --file bundle.js --format iife shell # compile to a CommonJS module ('cjs') $ rollup main.js --file bundle.js --format cjs shell # UMD format requires a bundle name $ rollup main.js --file bundle.js --format umd --name \"myBundle\" The Why ​\n\nDeveloping software is usually easier if you break your project into smaller separate pieces, since that often removes unexpected interactions and dramatically reduces the complexity of the problems you'll need to solve, and simply writing smaller projects in the first place isn't necessarily the answer . Unfortunately, JavaScript has not historically included this capability as a core feature in the language.\n\nThis finally changed with the ES6 revision of JavaScript, which includes a syntax for importing and exporting functions and data so they can be shared between separate scripts. The specification is now fixed, but it is only implemented in modern browsers and not finalised in Node.js. Rollup allows you to write your code using the new module system, and will then compile it back down to existing supported formats such as CommonJS modules, AMD modules, and IIFE-style scripts. This means that you get to write future-proof code , and you also get the tremendous benefits of…\n\nIn addition to enabling the use of ES modules, Rollup also statically analyzes the code you are importing, and will exclude anything that isn't actually used. This allows you to build on top of existing tools and modules without adding extra dependencies or bloating the size of your project.\n\nFor example, with CommonJS, the entire tool or library must be imported .\n\n// import the entire utils object with CommonJS const utils = require ( './utils' ); const query = 'Rollup' ; // use the ajax method of the utils object utils. ajax ( `https://api.example.com?search=${ query }` ). then (handleResponse); With ES modules, instead of importing the whole utils object, we can just import the one ajax function we need:\n\n// import the ajax function with an ES6 import statement import { ajax } from './utils' ; const query = 'Rollup' ; // call the ajax function ajax ( `https://api.example.com?search=${ query }` ). then (handleResponse); Because Rollup includes the bare minimum, it results in lighter, faster, and less complicated libraries and applications. Since this approach can utilise explicit import and export statements, it is more effective than simply running an automated minifier to detect unused variables in the compiled output code.\n\nRollup can import existing CommonJS modules through a plugin .\n\nPublishing ES Modules ​\n\nTo make sure your ES modules are immediately usable by tools that work with CommonJS such as Node.js and webpack, you can use Rollup to compile to UMD or CommonJS format, and then point to that compiled version with the main property in your package.json file. If your package.json file also has a module field, ES-module-aware tools like Rollup and webpack 2+ will import the ES module version directly.",
+      "language": "en",
+      "category": "Programming",
+      "categoryConfidence": 0.7,
+      "categorySignals": [
+        "heading:api",
+        "desc:code",
+        "body:code(6)",
+        "body:javascript(5)",
+        "body:function(4)",
+        "body:library(3)",
+        "body:api(3)",
+        "body:json(2)",
+        "body:package(2)"
+      ],
+      "contentLengthBytes": 34327,
+      "wordCount": 679,
+      "statusCode": 200,
+      "fetchTimeMs": 291,
+      "processedAt": "2026-09-24T07:09:36.952Z",
+      "chunkId": "chunk-007",
+      "retryCount": 0
+    }
+  ]
+}

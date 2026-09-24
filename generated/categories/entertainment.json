@@ -1,18 +1,18 @@
 {
   "category": "Entertainment",
   "documentCount": 1,
-  "updatedAt": "2026-09-24T05:08:13.995Z",
+  "updatedAt": "2026-09-24T07:09:35.109Z",
   "documentIds": [
-    "doc-variety_com-ze6t27"
+    "doc-remix_run-kx3993"
   ],
   "items": [
     {
-      "id": "doc-variety_com-ze6t27",
-      "title": "Cannes Film Festival Premiere Reviews and Box Office Preview – Variety Entertainment",
-      "canonicalUrl": "https://variety.com/feature/cannes-film-festival-screenings",
-      "domain": "variety.com",
-      "description": "In-depth coverage of cinematic world premieres, director interviews, festival awards, and Hollywood box office projections from the Cannes Croisette.",
-      "confidence": 0.86
+      "id": "doc-remix_run-kx3993",
+      "title": "Remix Docs",
+      "canonicalUrl": "https://remix.run/docs",
+      "domain": "remix.run",
+      "description": "Guides, explanations, examples, and tutorials for learning Remix.",
+      "confidence": 0.3
     }
   ]
 }

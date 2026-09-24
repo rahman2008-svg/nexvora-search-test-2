@@ -1,0 +1,301 @@
+{
+  "chunkId": "chunk-017",
+  "filename": "chunk-017.json",
+  "documentCount": 6,
+  "totalBytes": 1843968,
+  "createdAt": "2026-09-24T07:15:54.831Z",
+  "documents": [
+    {
+      "id": "doc-docs_redhat_com-zqw5ki",
+      "url": "https://docs.redhat.com/",
+      "canonicalUrl": "https://docs.redhat.com/",
+      "domain": "docs.redhat.com",
+      "title": "Red Hat Documentation",
+      "description": "Red Hat Documentation",
+      "headings": {
+        "h1": [
+          "Find answers, get guidance, and learn how to use Red Hat products"
+        ],
+        "h2": [
+          "Remediate vulnerable open source dependencies",
+          "Create a personalized learning plan",
+          "Documentation",
+          "Turn AI curiosity into capability",
+          "AI solutions from Red Hat",
+          "Red Hat OpenShift AI",
+          "Red Hat Enterprise Linux AI",
+          "OpenShift AI Tutorial - Fraud Detection",
+          "Intro to Python Programming and Red Hat OpenShift AI",
+          "Developing & deploying AI/ML apps on Red Hat OpenShift AI",
+          "Working in Your Data Science IDE",
+          "Large language models and Node.js",
+          "Automating machine learning and model training tasks",
+          "Working with data science pipelines from Red Hat OpenShift AI",
+          "Integrating a private AI coding assistant",
+          "Red Hat Support",
+          "RHEL AI Docs & Release Notes",
+          "OpenShift AI Docs & Release Notes",
+          "Lighter images. Faster builds.",
+          "Red Hat Learning Subscription"
+        ],
+        "h3": [
+          "Red Hat Enterprise Linux",
+          "Red Hat OpenShift",
+          "Red Hat Ansible Automation Platform",
+          "Red Hat AI",
+          "Learn",
+          "Try, buy, & sell",
+          "Communities",
+          "About Red Hat",
+          "Making open source more inclusive",
+          "About Red Hat Documentation",
+          "Theme",
+          "Red Hat legal and privacy links"
+        ]
+      },
+      "mainText": "Find answers, get guidance, and learn how to use Red Hat products\n\nRemediate vulnerable open source dependencies\n\nAccess Red Hat remediations for eligible open source libraries without needing to change versions.\n\nCreate a personalized learning plan\n\nRed Hat Guided Learning is a new way of curating content to your unique interests, study pace, and level of experience.\n\nRed Hat Enterprise Linux\n\nSupport hybrid cloud innovation on a flexible operating system.\n\nBuild, modernize, and deploy apps at scale.\n\nRed Hat Ansible Automation Platform\n\nImplement enterprise-wide automation.\n\nDevelop and deploy AI solutions across the hybrid cloud.\n\nTurn AI curiosity into capability\n\nAI solutions from Red Hat\n\nRed Hat Enterprise Linux AI\n\nOpenShift AI Tutorial - Fraud Detection\n\nIntro to Python Programming and Red Hat OpenShift AI\n\nDeveloping & deploying AI/ML apps on Red Hat OpenShift AI\n\nWorking in Your Data Science IDE\n\nLarge language models and Node.js\n\nAutomating machine learning and model training tasks\n\nWorking with data science pipelines from Red Hat OpenShift AI\n\nIntegrating a private AI coding assistant\n\nRHEL AI Docs & Release Notes\n\nOpenShift AI Docs & Release Notes\n\nLighter images. Faster builds.\n\nReduce your system exposure with Red Hat Hardened Images—micro-sized, prescanned for security, and tested for operational success.\n\nRed Hat Learning Subscription\n\nComprehensive training and learning pathways on Red Hat products, industry-recognized certifications, and a flexible and dynamic IT learning experience.",
+      "language": "en",
+      "category": "Education",
+      "categoryConfidence": 0.37,
+      "categorySignals": [
+        "heading:tutorial",
+        "heading:learn",
+        "heading:training",
+        "body:training(2)"
+      ],
+      "contentLengthBytes": 336588,
+      "wordCount": 224,
+      "statusCode": 200,
+      "fetchTimeMs": 1145,
+      "processedAt": "2026-09-24T07:11:39.957Z",
+      "chunkId": "chunk-017",
+      "retryCount": 0
+    },
+    {
+      "id": "doc-linux_org-upqk7y",
+      "url": "https://www.linux.org/",
+      "canonicalUrl": "https://www.linux.org/",
+      "domain": "linux.org",
+      "title": "Linux.org",
+      "description": "Friendly Linux Forum",
+      "headings": {
+        "h1": [
+          "Linux.org"
+        ],
+        "h2": [
+          "Arduino Uno Q - LED Matrix - Rain",
+          "Python Series Part 25: Canvas Widget - Part 2",
+          "IRC is back on linux.org"
+        ],
+        "h3": [
+          "Search",
+          "Latest posts",
+          "Follow Linux.org",
+          "Staff online",
+          "Members online",
+          "Trending content"
+        ]
+      },
+      "mainText": "Credits are disabled while we revisit a compatibility issue after a forum software upgrade.\n\nArduino Uno Q - LED Matrix - Rain\n\nPython Series Part 25: Canvas Widget - Part 2\n\nIRC is back on linux.org\n\nYesterday at 12:50 AM\n\nDebian and derivatives\n\nDebian and derivatives\n\nwizardfromoz Administrator\n\nThread 'why do people need anything other than mint?' metallicMSD\n\nThread 'Post a screenshot of your Desktop' JasKinasis\n\nThread 'Australia - The Land Down Under' Condobloke\n\nThread 'Laptop brands that are good for Linux' ron.alan\n\nThread 'Rock Roxx' wizardfromoz\n\nThread 'Three Reasons You Shouldn't Use Your Browser's Password Manager Built-in tools have major limitations when it comes to security and functionality.' Condobloke\n\nThread 'thoughts on ARM?' metallicMSD",
+      "language": "en",
+      "category": "Technology",
+      "categoryConfidence": 0.69,
+      "categorySignals": [
+        "domain:linux.org",
+        "title:linux",
+        "heading:linux",
+        "desc:linux",
+        "body:linux(2)"
+      ],
+      "contentLengthBytes": 130871,
+      "wordCount": 115,
+      "statusCode": 200,
+      "fetchTimeMs": 688,
+      "processedAt": "2026-09-24T07:11:40.654Z",
+      "chunkId": "chunk-017",
+      "retryCount": 0
+    },
+    {
+      "id": "doc-docs_docker_com-ksdmg1",
+      "url": "https://docs.docker.com/",
+      "canonicalUrl": "https://docs.docker.com/",
+      "domain": "docs.docker.com",
+      "title": "Docker Docs",
+      "description": "Docker Documentation is the official Docker library of resources, manuals, and guides to help you containerize applications.",
+      "headings": {
+        "h1": [
+          "How can we help?"
+        ],
+        "h2": [
+          "What's new"
+        ],
+        "h3": [
+          "What can I help you with?",
+          "Get started",
+          "Guides",
+          "Manuals",
+          "Reference"
+        ]
+      },
+      "mainText": "Containerize an app, sandbox an agent, or pilot Docker for your organization.\n\nOptimize your development workflows with Docker.\n\nInstall, set up, configure, and use Docker products.\n\nBrowse the CLI and API documentation.\n\nSep 15 Docker Sandboxes Sep 15 Share agent skills read-only by default Sandboxes created with version 0.43.0 mount shared agent skills read-only by default. Choose read-only, read-write, or no access when creating a sandbox.\n\nSep 7 Docker Sandboxes Sep 7 Run agents without mounting host files Create a sandbox without a host workspace mount. Keep agent files inside the sandbox across stops and restarts, and copy files between the sandbox and host when needed.\n\nSep 7 Docker Sandboxes Sep 7 Install and update shared skills from Git repositories Install agent skills from Git repositories into a persistent store shared across sandboxes, and update or remove them with sbx skills.\n\nSep 3 Docker Build Cloud Sep 3 Use Docker Build Cloud with standard Buildx Buildx 0.37.0 includes the cloud driver, so you can connect to Docker Build Cloud from the standard Buildx CLI plugin without installing a separate client.\n\nAug 20 Docker Verified Publisher Aug 20 Join Docker Verified Publisher through self-service plans Apply for DVP Starter or Growth, complete checkout after approval, and manage publisher analytics, consuming domains, and billing.\n\nAug 20 Docker Sandboxes Aug 20 Sign and enforce trusted sandbox kits Sign kits with cosign-compatible Sigstore signatures, verify keyless or key-based signatures, and reject kits outside a trusted-signer policy.\n\nAug 19 Docker Sandboxes Aug 19 Define reproducible sandbox environments Capture an agent, workspaces, kits, credentials, ports, and resources in a shareable sbxenv.yaml file and manage it with sbx env.\n\nAug 19 Docker Sandboxes Aug 19 Resolve sandbox secrets from external sources Keep references to 1Password, AWS Secrets Manager, or host commands in the secret store and resolve credentials on the host when the proxy needs them.\n\nAug 19 Docker Sandboxes Aug 19 Run GPU workloads in sandboxes Pass an NVIDIA GPU through to a sandbox on supported Linux hosts for GPU-accelerated agent workloads.\n\nAug 17 Docker Hardened Images Aug 17 Query DHI VEX data with the GraphQL API Build automation or dashboards that query image packages, CVEs, VEX statements, and suppressed vulnerabilities by digest.",
+      "language": "en",
+      "category": "Technology",
+      "categoryConfidence": 0.74,
+      "categorySignals": [
+        "domain:docker.com",
+        "title:docker",
+        "desc:docker",
+        "body:cloud(4)",
+        "body:docker(16)",
+        "body:gpu(2)"
+      ],
+      "contentLengthBytes": 187070,
+      "wordCount": 367,
+      "statusCode": 200,
+      "fetchTimeMs": 240,
+      "processedAt": "2026-09-24T07:11:40.902Z",
+      "chunkId": "chunk-017",
+      "retryCount": 0
+    },
+    {
+      "id": "doc-docs_docker_com-7cslyo",
+      "url": "https://docs.docker.com/get-started/",
+      "canonicalUrl": "https://docs.docker.com/get-started",
+      "domain": "docs.docker.com",
+      "title": "Get started | Docker Docs",
+      "description": "Choose a tutorial to build and run an application, work with an AI agent safely, or set up Docker for your organization.",
+      "headings": {
+        "h1": [
+          "Get started with Docker"
+        ],
+        "h2": [
+          "Install what you need",
+          "Choose a tutorial"
+        ],
+        "h3": [
+          "What can I help you with?",
+          "Install Docker",
+          "Install Docker Sandboxes",
+          "Build and share a containerized application",
+          "Run your coding agent in a sandbox",
+          "Roll out Docker to a pilot group"
+        ]
+      },
+      "mainText": "Tutorials Containerize an application\n\nSandbox a coding agent\n\nPilot an organization rollout\n\nDocker concepts The basics What is a container?\n\nWhat is Docker Compose?\n\nBuilding images Understanding the image layers\n\nBuild, tag, and publish an image\n\nUsing the build cache\n\nRunning containers Publishing and exposing ports\n\nOverriding container defaults\n\nPersisting container data\n\nSharing local files with containers\n\nMulti-container applications\n\nEducational resources\n\nGet started with Docker\n\nInstall what you need, then choose a tutorial that matches what you want to do.\n\nInstall what you need\n\nGet Docker Desktop or Docker Engine for your operating system.\n\nInstall Docker Sandboxes\n\nInstall the sbx command to run coding agents in isolated environments.\n\nBuild and share a containerized application\n\nRun a container and an application stack, build an image, and share it through Docker Hub.\n\nRun your coding agent in a sandbox\n\nMove your existing full-autonomy coding-agent workflow into a disposable Docker Sandbox.\n\nRoll out Docker to a pilot group\n\nInvite a pilot user, apply a Docker Desktop policy, and verify the managed experience.",
+      "language": "en",
+      "category": "Technology",
+      "categoryConfidence": 0.74,
+      "categorySignals": [
+        "domain:docker.com",
+        "title:docker",
+        "heading:docker",
+        "desc:docker",
+        "body:docker(10)",
+        "body:container(4)"
+      ],
+      "contentLengthBytes": 177444,
+      "wordCount": 169,
+      "statusCode": 200,
+      "fetchTimeMs": 110,
+      "processedAt": "2026-09-24T07:11:41.019Z",
+      "chunkId": "chunk-017",
+      "retryCount": 0
+    },
+    {
+      "id": "doc-docs_docker_com-p52pdv",
+      "url": "https://docs.docker.com/compose/",
+      "canonicalUrl": "https://docs.docker.com/compose",
+      "domain": "docs.docker.com",
+      "title": "Docker Compose | Docker Docs",
+      "description": "Learn how to use Docker Compose to define and run multi-container applications with this detailed introduction to the tool.",
+      "headings": {
+        "h1": [
+          "Docker Compose"
+        ],
+        "h2": [],
+        "h3": [
+          "What can I help you with?",
+          "Why use Compose?",
+          "How Compose works",
+          "Install Compose",
+          "Quickstart",
+          "View the release notes",
+          "Explore the Compose file reference",
+          "Use Compose Bridge",
+          "Browse common FAQs"
+        ]
+      },
+      "mainText": "Docker Sandboxes Install\n\nWorkflows Git workflows\n\nConfiguration Settings\n\nEnvironment files Experimental\n\nCustomize Early Access Templates\n\nSecurity model Isolation layers\n\nGovernance Policy concepts\n\nAccess controls Local policy\n\nAudit logs Local audit logs\n\nMonitor and enforce Monitoring policies\n\nReference API reference\n\nMCP Catalog and Toolkit Beta Get started\n\nModel Runner Get started with DMR\n\nConfiguration options\n\nIDE and tool integrations\n\nOpen WebUI integration\n\nConcepts Capabilities\n\nHow-to guides Docker Desktop\n\nAI and Docker Compose Use AI models in Compose\n\nDocker Agent Getting Started Introduction\n\nConfiguration Overview\n\nBuilt-in Tools Filesystem\n\nModel Providers Overview\n\nChatGPT (OpenAI account)\n\nCloudflare AI Gateway\n\nCloudflare Workers AI\n\nGuides Tips & Best Practices\n\nManaging Context & Compaction\n\nRunning Agents Headless & in CI\n\nCommunity Contributing\n\nOpenTelemetry Tracing\n\nApplication development\n\nDocker Desktop Setup Install Mac\n\nMac permission requirements\n\nWindows permission requirements\n\nVM or VDI environments\n\nExplore Docker Desktop Containers\n\nFeatures and capabilities Networking How-tos\n\nSynchronized file shares\n\ncontainerd image store\n\nVirtual Machine Manager Updated\n\nSettings and maintenance Change settings\n\nBackup and restore data\n\nTroubleshoot and support Troubleshoot and diagnose Common topics\n\nMacOS app damaged dialog\n\nDocker Engine Install Ubuntu\n\nRaspberry Pi OS (32-bit / armhf)\n\nPost-installation steps\n\nStorage drivers Select a storage driver\n\nDevice Mapper storage driver (deprecated)\n\nOverlayFS storage driver\n\nwindowsfilter storage driver\n\ncontainerd image store\n\nNetworking Docker with iptables\n\nPacket filtering and firewalls\n\nPort publishing and mapping\n\nNetwork drivers Bridge network driver\n\nIPvlan network driver\n\nMacvlan network driver\n\nOverlay network driver\n\nLegacy container links\n\nContainers Start containers automatically\n\nRun multiple processes in a container\n\nFormat command and log output\n\nOpenTelemetry for the Docker CLI\n\nDaemon Start the daemon\n\nDaemon proxy configuration\n\nEmbedded containerd Experimental\n\nAlternative container runtimes\n\nCollect Docker metrics with Prometheus\n\nConfigure remote access for Docker daemon\n\nTroubleshooting the Docker daemon\n\nManage resources Docker contexts\n\nPrune unused Docker objects\n\nLogs and metrics Configure logging drivers\n\nCustomize log driver output\n\nLogging drivers Amazon CloudWatch Logs logging driver\n\nFluentd logging driver\n\nGoogle Cloud Logging driver\n\nGraylog Extended Format logging driver\n\nJournald logging driver\n\nJSON File logging driver\n\nLocal file logging driver\n\nSplunk logging driver\n\nSyslog logging driver\n\nUse a logging driver plugin\n\nUse docker logs with remote logging drivers\n\nSecurity Rootless mode UID/GID mapping\n\nAntivirus software and Docker\n\nAppArmor security profiles for Docker\n\nContent trust in Docker Automation with content trust\n\nDelegations for content trust\n\nDeploy Notary Server with Compose\n\nManage keys for content trust\n\nPlay in a content trust sandbox\n\nDocker security non-events\n\nIsolate containers with a user namespace\n\nProtect the Docker daemon socket\n\nSeccomp security profiles for Docker\n\nVerify repository client with certificates\n\nSwarm mode Administer and maintain a swarm of Docker Engines\n\nDeploy a stack to a swarm\n\nDeploy services to a swarm\n\nGetting started with Swarm mode Create a swarm\n\nAdd nodes to the swarm\n\nDeploy a service to the swarm\n\nInspect a service on the swarm\n\nScale the service in the swarm\n\nDelete the service running on the swarm\n\nApply rolling updates to a service\n\nDrain a node on the swarm\n\nHow swarm works How nodes work\n\nManage swarm security with public key infrastructure (PKI)\n\nJoin nodes to a swarm\n\nLock your swarm to protect its encryption key\n\nManage nodes in a swarm\n\nManage sensitive data with Docker secrets\n\nManage swarm service networks\n\nRaft consensus in swarm mode\n\nRun Docker Engine in swarm mode\n\nStore configuration data using Docker Configs\n\nSwarm mode key concepts\n\nUse Swarm mode routing mesh\n\nDocker Engine plugins Access authorization plugin\n\nDocker log driver plugins\n\nDocker network driver plugins\n\nDocker volume plugins\n\nPlugin Config Version 1 of Plugin V2\n\nUse Docker Engine plugins\n\nRelease notes Engine v29\n\nDocker Offload Quickstart\n\nDocker Build Core concepts Docker Build Overview\n\nContainer Device Interface (CDI)\n\nBuilders Build drivers Cloud driver\n\nDocker container driver\n\nBake standard library functions\n\nBuilding with Bake from a Compose file\n\nOverriding configurations\n\nRemote Bake file definition\n\nCache Build cache invalidation\n\nBuild garbage collection\n\nCache storage backends Amazon S3 cache\n\nAzure Blob Storage cache\n\nOptimize cache usage in builds\n\nCI GitHub Actions Annotations\n\nBuildKit configuration\n\nCopy image between registries\n\nGitHub Builder New Architecture\n\nPush to multiple registries\n\nShare image between jobs\n\nUpdate Docker Hub description\n\nValidating builds Experimental Introduction\n\nBuild attestations Image attestation storage\n\nProvenance attestations\n\nExporters Image and registry exporters\n\nLocal and tar exporters\n\nOCI and Docker exporters\n\nBuildKit buildkitd.toml\n\nCustom Dockerfile syntax\n\nDockerfile release notes\n\nDebugging OpenTelemetry support\n\nDocker Build Cloud Setup\n\nContinuous integration\n\nDocker Compose Introduction to Compose How Compose works\n\nHistory and development\n\nHow-tos Specify a project name\n\nControl startup order\n\nUse environment variables Set environment variables\n\nEnvironment variables precedence\n\nPre-defined environment variables\n\nBuild dependent images\n\nUse multiple Compose files Merge\n\nUse Compose in production\n\nOCI artifact applications\n\nUse init containers New\n\nUse provider services\n\nTrust model for Compose files\n\nSupport and feedback FAQs\n\nDocker Extensions Marketplace extensions\n\nNon-marketplace extensions\n\nConfigure a private marketplace\n\nSettings and feedback\n\nExtensions SDK The build and publish process\n\nPart one: Build Create a simple extension\n\nCreate an advanced frontend extension\n\nAdd a backend to your extension\n\nPart two: Publish Add labels\n\nPackage and release your extension\n\nPublish in the Marketplace\n\nBuild multi-arch extensions\n\nArchitecture Metadata\n\nDesign and UI styling Guidelines\n\nDocker design principles\n\nDeveloper Guides Authentication\n\nInteracting with Kubernetes\n\nUse the Docker socket\n\nDeveloper SDK tools Test and debug\n\nContinuous Integration (CI)\n\nExtension APIs Dashboard\n\nDeprecated products and features\n\nSupply chain security\n\nDocker Hardened Images Quickstart\n\nExplore Hardened images\n\nResponsibility overview\n\nSecurity concepts Attestations\n\nSoftware Supply Chain Security\n\nMigration Migration checklist\n\nAI-assisted migration Experimental\n\nMigrate from Alpine or Debian\n\nMigration examples Go\n\nHow-tos Search and evaluate\n\nCustomize an image or chart\n\nCreate and build an image\n\nUse hardened packages\n\nVerify an image or chart\n\nQuery VEX suppressions via API\n\nUse DHI Select & Enterprise\n\nRelease notes CLI release notes\n\nPlatform release notes\n\nResources and feedback\n\nDocker Hub Quickstart\n\nManage Repository information\n\nImage security insights\n\nAutomated builds Deprecated Migrate\n\nAutomated repository tests\n\nTrusted content Docker Official Images\n\nDocker Verified Publisher Program\n\nDocker-Sponsored Open Source Program\n\nInsights and analytics\n\nUsage and limits Pulls\n\nDocker Scout image analysis\n\nDocker Scout metrics exporter\n\nManage vulnerability exceptions\n\nHow-tos Create an exception using the GUI\n\nCreate an exception using the VEX\n\nDocker Scout environment variables\n\nUse Scout with different artifact types\n\nDeep dive Advisory database sources and matching service\n\nData collection and storage in Docker Scout\n\nPolicy Evaluation Evaluate policies\n\nIntegrations Container registries\n\nContinuous Integration Azure DevOps Pipelines\n\nIntegrating Docker Scout with environments Generic (CLI)\n\nRelease notes CLI release notes\n\nPlatform release notes\n\nAccounts Individual Setup\n\nOrganization Setup Create\n\nProduct usage and access\n\nSubscription and billing Plans Docker\n\nDocker Hardened Images\n\nDocker Verified Publisher\n\nDocker Desktop license agreement\n\nSecurity Announcements\n\nAccess tokens Personal access tokens\n\nOrganization access tokens\n\nAuthentication Single sign-on Setup\n\nTwo-factor authentication Recover your Docker account\n\nOIDC connections Create and manage connections\n\nRulesets and subject claims\n\nProvision Add and manage domains\n\nRoles and permissions Core roles\n\nPermissions reference\n\nSubscription and billing\n\nDeploy Docker Desktop MSI installer\n\nSecurity Enforce sign-in Configure\n\nHardened Docker Desktop Enhanced Container Isolation Enable ECI\n\nConfigure advanced settings\n\nSettings Management Use a JSON file\n\nDesktop settings reporting\n\nAir-gapped containers\n\nRegistry Access Management\n\nImage Access Management\n\nDocker Compose is a tool for defining and running multi-container applications. It is the key to unlocking a streamlined and efficient development and deployment experience.\n\nCompose simplifies the control of your entire application stack, making it easy to manage services, networks, and volumes in a single YAML configuration file. Then, with a single command, you create and start all the services from your configuration file.\n\nCompose works in all environments - production, staging, development, testing, as well as CI workflows. It also has commands for managing the whole lifecycle of your application:\n\nStart, stop, and rebuild services\n\nView the status of running services\n\nStream the log output of running services\n\nRun a one-off command on a service\n\nUnderstand Docker Compose's key benefits\n\nUnderstand how Compose works\n\nFollow the instructions on how to install Docker Compose.\n\nLearn the key concepts of Docker Compose whilst building a simple Python web application.\n\nView the release notes\n\nFind out about the latest enhancements and bug fixes.\n\nExplore the Compose file reference\n\nFind information on defining services, networks, and volumes for a Docker application.\n\nTransform your Compose configuration file into configuration files for different platforms, such as Kubernetes.\n\nExplore general FAQs and find out how to give feedback.",
+      "language": "en",
+      "category": "Technology",
+      "categoryConfidence": 0.76,
+      "categorySignals": [
+        "domain:docker.com",
+        "title:docker",
+        "heading:docker",
+        "desc:docker",
+        "body:software(2)",
+        "body:cloud(3)",
+        "body:docker(62)",
+        "body:container(7)",
+        "body:network(6)",
+        "body:security(12)"
+      ],
+      "contentLengthBytes": 511690,
+      "wordCount": 1365,
+      "statusCode": 200,
+      "fetchTimeMs": 115,
+      "processedAt": "2026-09-24T07:11:41.246Z",
+      "chunkId": "chunk-017",
+      "retryCount": 0
+    },
+    {
+      "id": "doc-kubernetes_io-0s5afr",
+      "url": "https://kubernetes.io/docs/home/",
+      "canonicalUrl": "https://kubernetes.io/docs/home",
+      "domain": "kubernetes.io",
+      "title": "Kubernetes Documentation | Kubernetes",
+      "description": "Kubernetes is an open source container orchestration engine for automating deployment, scaling, and management of containerized applications. The open source project is hosted by the Cloud Native Computing Foundation.",
+      "headings": {
+        "h1": [
+          "Kubernetes Documentation"
+        ],
+        "h2": [
+          "Understand Kubernetes",
+          "Try Kubernetes",
+          "Set up a K8s cluster",
+          "Learn how to use Kubernetes",
+          "Look up reference information",
+          "Contribute to Kubernetes",
+          "Training",
+          "Download Kubernetes",
+          "About the documentation"
+        ],
+        "h3": []
+      },
+      "mainText": "Kubernetes Documentation\n\nKubernetes is an open source container orchestration engine for automating deployment, scaling, and management of containerized applications. The open source project is hosted by the Cloud Native Computing Foundation ( CNCF ).\n\nUnderstand Kubernetes\n\nLearn about Kubernetes and its fundamental concepts.\n\nComponents of a cluster\n\nObjects In Kubernetes\n\nFollow tutorials to learn how to deploy applications in Kubernetes.\n\nWalkthrough the basics\n\nStateless Example: PHP Guestbook with Redis\n\nStateful Example: Wordpress with Persistent Volumes\n\nDeploy a Canary Deployment\n\nGet Kubernetes running based on your resources and needs.\n\nProduction environment\n\nInstall the kubeadm setup tool\n\nkubeadm command reference\n\nLearn how to use Kubernetes\n\nLook up common tasks and how to perform them using a short sequence of steps.\n\nkubectl Quick Reference\n\nConfigure access to clusters\n\nUse the Web UI Dashboard\n\nConfigure a Pod to Use a ConfigMap\n\nLook up reference information\n\nBrowse terminology, command line syntax, API resource types, and setup tool documentation.\n\nkubectl command line tool\n\nLabels, annotations and taints\n\nKubernetes API reference\n\nContribute to Kubernetes\n\nFind out how you can help make Kubernetes better.\n\nContribute to Kubernetes\n\nContribute to documentation\n\nSuggest content improvements\n\nOpening a pull request\n\nDocumenting a feature for a release\n\nParticipating in SIG Docs\n\nViewing Site Analytics\n\nGet certified in Kubernetes and make your cloud native projects successful!\n\nInstall Kubernetes or upgrade to the newest version.\n\nAbout the documentation\n\nThis website contains documentation for the current and previous 4 versions of Kubernetes.",
+      "language": "en",
+      "category": "Technology",
+      "categoryConfidence": 0.75,
+      "categorySignals": [
+        "domain:kubernetes.io",
+        "url_pattern:\\/kubernetes",
+        "title:kubernetes",
+        "heading:kubernetes",
+        "desc:cloud",
+        "desc:computing",
+        "desc:kubernetes",
+        "desc:container",
+        "body:cloud(2)",
+        "body:kubernetes(15)"
+      ],
+      "contentLengthBytes": 500305,
+      "wordCount": 237,
+      "statusCode": 200,
+      "fetchTimeMs": 942,
+      "processedAt": "2026-09-24T07:11:42.207Z",
+      "chunkId": "chunk-017",
+      "retryCount": 0
+    }
+  ]
+}

@@ -1,2 +1,43 @@
-{"url":"https://en.wikipedia.org/trap/crawler-honeypot","domain":"en.wikipedia.org","errorReason":"Path matches standard sensitive/admin route blocklist","failedAt":"2026-09-24T05:08:14.281Z","attemptsMade":1,"willRetry":false}
-{"url":"httpx://invalid-protocol-test.com/bad^url","domain":"unknown","errorReason":"Malformed or invalid HTTP/HTTPS URL format","failedAt":"2026-09-24T05:08:14.281Z","attemptsMade":1,"willRetry":false}
+{"url":"https://kotlinlang.org/docs/compose-multiplatform.html","domain":"kotlinlang.org","errorReason":"HTTP Error 404: ","failedAt":"2026-09-24T07:10:07.599Z","attemptsMade":3,"willRetry":false}
+{"url":"https://developer.android.com/topic/libraries/data","domain":"developer.android.com","errorReason":"HTTP Error 404: ","failedAt":"2026-09-24T07:10:12.585Z","attemptsMade":3,"willRetry":false}
+{"url":"https://developer.android.com/develop/ui/views","domain":"developer.android.com","errorReason":"HTTP Error 404: ","failedAt":"2026-09-24T07:10:29.672Z","attemptsMade":3,"willRetry":false}
+{"url":"https://docs.debian.org/","domain":"docs.debian.org","errorReason":"fetch failed","failedAt":"2026-09-24T07:11:08.260Z","attemptsMade":3,"willRetry":false}
+{"url":"https://www.gnu.org/software/bash/manual","domain":"gnu.org","errorReason":"This operation was aborted","failedAt":"2026-09-24T07:11:28.035Z","attemptsMade":3,"willRetry":false}
+{"url":"https://www.freedesktop.org/wiki","domain":"freedesktop.org","errorReason":"HTTP Error 418: I'm a teapot","failedAt":"2026-09-24T07:11:35.997Z","attemptsMade":3,"willRetry":false}
+{"url":"https://www.noaa.gov/education","domain":"noaa.gov","errorReason":"HTTP Error 403: ","failedAt":"2026-09-24T07:12:44.706Z","attemptsMade":3,"willRetry":false}
+{"url":"https://www.fnal.gov/","domain":"fnal.gov","errorReason":"HTTP Error 403: ","failedAt":"2026-09-24T07:12:53.837Z","attemptsMade":3,"willRetry":false}
+{"url":"https://www.nationalacademies.org/","domain":"nationalacademies.org","errorReason":"HTTP Error 403: ","failedAt":"2026-09-24T07:12:55.844Z","attemptsMade":3,"willRetry":false}
+{"url":"https://www.science.org/","domain":"science.org","errorReason":"HTTP Error 403: ","failedAt":"2026-09-24T07:12:57.285Z","attemptsMade":3,"willRetry":false}
+{"url":"https://royalsocietypublishing.org/","domain":"royalsocietypublishing.org","errorReason":"HTTP Error 403: ","failedAt":"2026-09-24T07:12:58.740Z","attemptsMade":3,"willRetry":false}
+{"url":"https://www.pnas.org/","domain":"pnas.org","errorReason":"HTTP Error 403: ","failedAt":"2026-09-24T07:12:59.908Z","attemptsMade":3,"willRetry":false}
+{"url":"https://www.wolfram.com/mathematica","domain":"wolfram.com","errorReason":"HTTP Error 406: ","failedAt":"2026-09-24T07:13:07.138Z","attemptsMade":3,"willRetry":false}
+{"url":"https://www.ams.org/","domain":"ams.org","errorReason":"HTTP Error 403: ","failedAt":"2026-09-24T07:13:11.454Z","attemptsMade":3,"willRetry":false}
+{"url":"https://www.maa.org/","domain":"maa.org","errorReason":"HTTP Error 403: ","failedAt":"2026-09-24T07:13:13.289Z","attemptsMade":3,"willRetry":false}
+{"url":"https://tutorial.math.lamar.edu/","domain":"tutorial.math.lamar.edu","errorReason":"HTTP Error 406: Not Acceptable","failedAt":"2026-09-24T07:13:19.233Z","attemptsMade":3,"willRetry":false}
+{"url":"https://artofproblemsolving.com/","domain":"artofproblemsolving.com","errorReason":"HTTP Error 403: ","failedAt":"2026-09-24T07:13:21.689Z","attemptsMade":3,"willRetry":false}
+{"url":"https://www.futurelearn.com/","domain":"futurelearn.com","errorReason":"HTTP Error 403: ","failedAt":"2026-09-24T07:13:29.149Z","attemptsMade":3,"willRetry":false}
+{"url":"https://www.oercommons.org/","domain":"oercommons.org","errorReason":"HTTP Error 403: ","failedAt":"2026-09-24T07:13:32.971Z","attemptsMade":3,"willRetry":false}
+{"url":"https://www.doaj.org/","domain":"doaj.org","errorReason":"HTTP Error 403: ","failedAt":"2026-09-24T07:13:39.488Z","attemptsMade":3,"willRetry":false}
+{"url":"https://eric.ed.gov/","domain":"eric.ed.gov","errorReason":"This operation was aborted","failedAt":"2026-09-24T07:13:58.726Z","attemptsMade":3,"willRetry":false}
+{"url":"https://www.britannica.com/","domain":"britannica.com","errorReason":"HTTP Error 403: ","failedAt":"2026-09-24T07:14:02.124Z","attemptsMade":3,"willRetry":false}
+{"url":"https://www.metmuseum.org/toah","domain":"metmuseum.org","errorReason":"HTTP Error 429: ","failedAt":"2026-09-24T07:14:08.329Z","attemptsMade":3,"willRetry":false}
+{"url":"https://www.si.edu/","domain":"si.edu","errorReason":"HTTP Error 403: ","failedAt":"2026-09-24T07:14:09.673Z","attemptsMade":3,"willRetry":false}
+{"url":"https://www.britishmuseum.org/collection","domain":"britishmuseum.org","errorReason":"HTTP Error 403: ","failedAt":"2026-09-24T07:14:11.948Z","attemptsMade":3,"willRetry":false}
+{"url":"https://www.loc.gov/","domain":"loc.gov","errorReason":"HTTP Error 403: ","failedAt":"2026-09-24T07:14:13.074Z","attemptsMade":3,"willRetry":false}
+{"url":"https://www.europeana.eu/","domain":"europeana.eu","errorReason":"HTTP Error 403: ","failedAt":"2026-09-24T07:14:18.741Z","attemptsMade":3,"willRetry":false}
+{"url":"https://www.merriam-webster.com/","domain":"merriam-webster.com","errorReason":"HTTP Error 403: ","failedAt":"2026-09-24T07:14:26.708Z","attemptsMade":3,"willRetry":false}
+{"url":"https://www.collinsdictionary.com/","domain":"collinsdictionary.com","errorReason":"HTTP Error 403: ","failedAt":"2026-09-24T07:14:28.510Z","attemptsMade":3,"willRetry":false}
+{"url":"https://www.oecd.org/data","domain":"oecd.org","errorReason":"HTTP Error 403: ","failedAt":"2026-09-24T07:14:36.435Z","attemptsMade":3,"willRetry":false}
+{"url":"https://www.noaa.gov/climate","domain":"noaa.gov","errorReason":"HTTP Error 403: ","failedAt":"2026-09-24T07:14:43.582Z","attemptsMade":3,"willRetry":false}
+{"url":"https://www.usgs.gov/programs/water-resources","domain":"usgs.gov","errorReason":"HTTP Error 404: Not Found","failedAt":"2026-09-24T07:14:53.124Z","attemptsMade":3,"willRetry":false}
+{"url":"https://www.usgs.gov/programs/volcano-hazards","domain":"usgs.gov","errorReason":"HTTP Error 404: Not Found","failedAt":"2026-09-24T07:14:57.738Z","attemptsMade":3,"willRetry":false}
+{"url":"https://www.worldwildlife.org/","domain":"worldwildlife.org","errorReason":"HTTP Error 403: ","failedAt":"2026-09-24T07:14:59.545Z","attemptsMade":3,"willRetry":false}
+{"url":"https://www.nih.gov/","domain":"nih.gov","errorReason":"HTTP Error 403: ","failedAt":"2026-09-24T07:15:04.556Z","attemptsMade":3,"willRetry":false}
+{"url":"https://www.mayoclinic.org/diseases-conditions","domain":"mayoclinic.org","errorReason":"HTTP Error 403: ","failedAt":"2026-09-24T07:15:08.423Z","attemptsMade":3,"willRetry":false}
+{"url":"https://www.nia.nih.gov/health","domain":"nia.nih.gov","errorReason":"HTTP Error 405: ","failedAt":"2026-09-24T07:15:12.880Z","attemptsMade":3,"willRetry":false}
+{"url":"https://www.britannica.com/places","domain":"britannica.com","errorReason":"HTTP Error 403: ","failedAt":"2026-09-24T07:15:21.871Z","attemptsMade":3,"willRetry":false}
+{"url":"https://www.nationalgeographic.org/encyclopedia/geography","domain":"nationalgeographic.org","errorReason":"HTTP Error 404: ","failedAt":"2026-09-24T07:15:29.773Z","attemptsMade":3,"willRetry":false}
+{"url":"https://education.nationalgeographic.org/resource/geography","domain":"education.nationalgeographic.org","errorReason":"HTTP Error 404: ","failedAt":"2026-09-24T07:15:32.126Z","attemptsMade":3,"willRetry":false}
+{"url":"https://www.imf.org/en/Home","domain":"imf.org","errorReason":"HTTP Error 403: ","failedAt":"2026-09-24T07:15:33.996Z","attemptsMade":3,"willRetry":false}
+{"url":"https://www.oecd.org/","domain":"oecd.org","errorReason":"HTTP Error 403: ","failedAt":"2026-09-24T07:15:35.076Z","attemptsMade":3,"willRetry":false}
+{"url":"https://www.un.org/en/global-issues/economic-development","domain":"un.org","errorReason":"HTTP Error 404: ","failedAt":"2026-09-24T07:15:37.979Z","attemptsMade":3,"willRetry":false}

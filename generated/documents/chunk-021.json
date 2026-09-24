@@ -1,0 +1,220 @@
+{
+  "chunkId": "chunk-021",
+  "filename": "chunk-021.json",
+  "documentCount": 6,
+  "totalBytes": 1416023,
+  "createdAt": "2026-09-24T07:15:54.831Z",
+  "documents": [
+    {
+      "id": "doc-prometheus_io-2zi6kn",
+      "url": "https://prometheus.io/docs/",
+      "canonicalUrl": "https://prometheus.io/docs/introduction/overview/",
+      "domain": "prometheus.io",
+      "title": "Overview | Prometheus",
+      "description": "Prometheus project documentation for Overview",
+      "headings": {
+        "h1": [
+          "Overview"
+        ],
+        "h2": [
+          "What is Prometheus?",
+          "When does it fit?",
+          "When does it not fit?"
+        ],
+        "h3": [
+          "Features",
+          "What are metrics?",
+          "Components",
+          "Architecture"
+        ]
+      },
+      "mainText": "Prometheus is an open-source systems monitoring and alerting toolkit originally built at SoundCloud . Since its inception in 2012, many companies and organizations have adopted Prometheus, and the project has a very active developer and user community . It is now a standalone open source project and maintained independently of any company. To emphasize this, and to clarify the project&#x27;s governance structure, Prometheus joined the Cloud Native Computing Foundation in 2016 as the second hosted project, after Kubernetes .\n\nPrometheus collects and stores its metrics as time series data, i.e. metrics information is stored with the timestamp at which it was recorded, alongside optional key-value pairs called labels.\n\nFor more elaborate overviews of Prometheus, see the resources linked from the media section.\n\nPrometheus&#x27;s main features are:\n\na multi-dimensional data model with time series data identified by metric name and key/value pairs\n\nPromQL, a flexible query language to leverage this dimensionality\n\nno reliance on distributed storage; single server nodes are autonomous\n\ntime series collection happens via a pull model over HTTP\n\npushing time series is supported via an intermediary gateway\n\ntargets are discovered via service discovery or static configuration\n\nmultiple modes of graphing and dashboarding support\n\nMetrics are numerical measurements in layperson terms. The term time series refers to the recording of changes over time. What users want to measure differs from application to application. For a web server, it could be request times; for a database, it could be the number of active connections or active queries, and so on.\n\nMetrics play an important role in understanding why your application is working in a certain way. Let&#x27;s assume you are running a web application and discover that it is slow. To learn what is happening with your application, you will need some information. For example, when the number of requests is high, the application may become slow. If you have the request count metric, you can determine the cause and increase the number of servers to handle the load.\n\nThe Prometheus ecosystem consists of multiple components, many of which are optional:\n\nthe main Prometheus server which scrapes and stores time series data\n\nclient libraries for instrumenting application code\n\na push gateway for supporting short-lived jobs\n\nspecial-purpose exporters for services like HAProxy, StatsD, Graphite, etc.\n\nan alertmanager to handle alerts\n\nvarious support tools\n\nMost Prometheus components are written in Go , making them easy to build and deploy as static binaries.\n\nThis diagram illustrates the architecture of Prometheus and some of its ecosystem components:\n\nPrometheus scrapes metrics from instrumented jobs, either directly or via an intermediary push gateway for short-lived jobs. It stores all scraped samples locally and runs rules over this data to either aggregate and record new time series from existing data or generate alerts. Grafana or other API consumers can be used to visualize the collected data.\n\nPrometheus works well for recording any purely numeric time series. It fits both machine-centric monitoring as well as monitoring of highly dynamic service-oriented architectures. In a world of microservices, its support for multi-dimensional data collection and querying is a particular strength.\n\nPrometheus is designed for reliability, to be the system you go to during an outage to allow you to quickly diagnose problems. Each Prometheus server is standalone, not depending on network storage or other remote services. You can rely on it when other parts of your infrastructure are broken, and you do not need to set up extensive infrastructure to use it.\n\nWhen does it not fit?\n\nPrometheus values reliability. You can always view what statistics are available about your system, even under failure conditions. If you need 100% accuracy, such as for per-request billing, Prometheus is not a good choice, as the collected data will likely not be detailed and complete enough. In such a case, you would be best off using some other system to collect and analyze the data for billing, and Prometheus for the rest of your monitoring.",
+      "language": "en",
+      "category": "Technology",
+      "categoryConfidence": 0.44,
+      "categorySignals": [
+        "heading:architecture",
+        "body:server(4)",
+        "body:infrastructure(2)"
+      ],
+      "contentLengthBytes": 176527,
+      "wordCount": 652,
+      "statusCode": 200,
+      "fetchTimeMs": 1268,
+      "processedAt": "2026-09-24T07:11:58.881Z",
+      "chunkId": "chunk-021",
+      "retryCount": 0
+    },
+    {
+      "id": "doc-grafana_com-04szt7",
+      "url": "https://grafana.com/docs/",
+      "canonicalUrl": "https://grafana.com/docs",
+      "domain": "grafana.com",
+      "title": "Technical documentation | Grafana Labs",
+      "description": "Searching... Site search Ask Grot AI Try using Grot AI for this query -> All Docs = 5\"> View all results No results. There was an error with your request. Grafana Labs is a Leader in the 2026 Gartner®...",
+      "headings": {
+        "h1": [
+          "Technical documentation"
+        ],
+        "h2": [
+          "Our core stack",
+          "Observability, AI, testing, and Incident Response Management (IRM)",
+          "Learning Hub",
+          "Connect and visualize data",
+          "Open source projects from Grafana Labs"
+        ],
+        "h3": [
+          "Still have questions?",
+          "Get every update",
+          "Grafana Cloud",
+          "Solutions",
+          "Integrations",
+          "Open Source",
+          "Learn",
+          "Company",
+          "Compare"
+        ]
+      },
+      "mainText": "Searching... Site search Ask Grot AI Try using Grot AI for this query -> All Docs = 5\"> View all results No results. There was an error with your request. Grafana Labs is a Leader in the 2026 Gartner® Magic Quadrant™ for Observability Platforms. Learn more Downloads Contact Us div:last-child]:gmui:left-auto\"> Grafana Cloud Solutions Pricing Open Source Learn Docs Company AI/Search Sign in Sign up svg]:px-3 gmui:flex-1 gmui:md:flex-none\" disabled> Site Search svg]:px-3 gmui:flex-1 gmui:md:flex-none\" disabled> Ask AI Documentation for automated readers A curated documentation index is available at: https://grafana.com/llms.txt A complete documentation index is available at: https://grafana.com/llms-full.txt These indexes can help with page discovery before fetching individual documents. This page is also available in Markdown, which may be easier for automated readers and AI tools to parse than HTML. The Markdown version is available at https://grafana.com/docs.md, or by sending Accept: text/markdown to https://grafana.com/docs/. For broader documentation discovery, the curated index is available at https://grafana.com/llms.txt and the complete index is available at https://grafana.com/llms-full.txt. Technical documentation Ask Grot, your AI helper Our core stack Unlock the full potential of your data with our platform, where you can query and visualize metrics, logs, and traces to gain a deeper understanding of your system&rsquo;s performance and behavior. Grafana Query, visualize, and understand your data. Grafana Cloud Grafana OSS Grafana Enterprise Metrics Store and query raw, unsampled metrics for all your applications and infrastructure. Grafana Cloud Grafana OSS Grafana Enterprise Logs Store and query logs from all your applications and infrastructure. Grafana Cloud Grafana OSS Grafana Enterprise Traces Visualize the lifecycle of a request as it passes through a set of applications. Grafana Cloud Grafana OSS Grafana Enterprise Observability, AI, testing, and Incident Response Management (IRM) Comprehensive documentation that covers the entire lifecycle, from testing and instrumentation to AI-powered observability and incident response management, aimed to help you minimize mean time to resolution. Observability Docs that support your infrastructure and application observability needs. OpenTelemetry Kubernetes (k8s) Monitoring Cloud Provider Observability Frontend Observability Application Observability Database Observability Knowledge graph AI Observability Profiles AI and Machine Learning Built-in AI and machine learning features that help you get more out of your observability data. Grafana Assistant Machine learning LLM plugin Sift Alerting and Incident Response (IRM) Enable your teams to detect, respond to, and learn from incidents. Alerting IRM Service Center SLO Performance and Testing Our load testing tools make performance testing easy and productive for engineering teams. Agentic testing Performance testing Synthetic Monitoring Learning Hub New to Grafana Cloud and unsure where to begin? Start with recommended learning journeys, then follow focused learning paths or dive into self-paced courses. Go to the Learning Hub . Learning paths Short, focused paths you can follow independently or as part of a recommended journey. Get started with Grafana Cloud Monitor a Linux server in Grafana Cloud Connect to a Prometheus data source in Grafana Cloud Explore data using Metrics Drilldown Visualize metrics in a Grafana Cloud dashboard Browse all learning paths Learning journeys Deepen your technical knowledge with self-paced sections. Intro to Grafana Cloud Intro to integrations Intro to send data Intro to data sources Intro to Cloud Provider Observability Browse all journeys Docs decision support Unsure which docs you need? Answer a few questions, and Grot will guide you to the appropriate docs. Which Grafana is right for me? Traces and Profiles Monitor infrastructure Kubernetes Monitoring Connect and visualize data Discover the various methods for sending or connecting data to Grafana Cloud. Once your data is in place, you can visualize it to gain valuable insights that help you tackle real-world challenges. Instrument and send data Set up your infrastructure and applications to transmit telemetry data to Grafana Cloud. Grafana Alloy Grafana integrations Fleet Management AWS PrivateLink Azure Private Link Google Private Service Connect OTLP end point Grafana Beyla Visualize data Use visualizations to gain actionable insight into your telemetry data. Create a dashboard Use a dashboard Query and transform data Visualizations Open source projects from Grafana Labs At Grafana Labs, open source continues to be our driving force as we work to develop and evolve our core OSS tools and technologies. Grafana Cloud account management At Grafana Labs, open source continues to be our driving force as we work to develop and evolve our core OSS tools and technologies. Get started with Grafana Cloud Account management Create an account Resources Consult the following resources, as necessary. Writers' Toolkit Release life cycle for Grafana Labs Grafana Labs data source plugin catalog Still have questions? Ask your questions. Let AI do the heavy lifting. Get every update Subscribe to our newsletter Subscribe By submitting, you agree to our Privacy policy Grafana Cloud Overview Pricing What's in the free tier? AI Assistant Agent Observability Application Observability Kubernetes Monitoring Dashboards & Visualization Database Observability Frontend Observability Synthetic Monitoring Performance & Load Testing Incident Response & Management AI Investigations What’s New Grafana Cloud Status Solutions AI Observability Full-Stack Observability Infrastructure & Cloud Observability Cloud Provider Observability Digital Experience Monitoring Scaled Prometheus Cost Management & Optimization Site Reliability Log Management Migrate to OpenTelemetry Integrations All Integrations All Plugins AWS Google Cloud Microsoft Azure Kubernetes Datadog New Relic Open Source Our Projects GitHub Downloads Dashboard Templates Learn Documentation Blog Community Events Observability Survey & Reports Company About Grafana Labs Careers Partnerships Newsroom Success Stories Contact Us Getting Help Professional Services Hey AI Compare Datadog vs. Grafana Cloud Dynatrace vs. Grafana Cloud Elasticsearch vs. Grafana Cloud New Relic vs. Grafana Cloud PagerDuty vs. Grafana Cloud Splunk vs. Grafana Cloud Donut take our word for it. Try Grafana Cloud today. Grafana Cloud Status Legal & Security Terms of Service Privacy Policy Trademark Policy Copyright 2026 © Grafana Labs Grafana Labs uses cookies for the normal operation of this website. Learn more. Got it!",
+      "language": "en",
+      "category": "Technology",
+      "categoryConfidence": 0.59,
+      "categorySignals": [
+        "heading:cloud",
+        "body:cloud(30)",
+        "body:infrastructure(6)",
+        "body:kubernetes(4)",
+        "body:database(2)"
+      ],
+      "contentLengthBytes": 126071,
+      "wordCount": 955,
+      "statusCode": 200,
+      "fetchTimeMs": 851,
+      "processedAt": "2026-09-24T07:11:59.744Z",
+      "chunkId": "chunk-021",
+      "retryCount": 0
+    },
+    {
+      "id": "doc-opentelemetry_io-ntrdnz",
+      "url": "https://opentelemetry.io/docs/",
+      "canonicalUrl": "https://opentelemetry.io/docs",
+      "domain": "opentelemetry.io",
+      "title": "Documentation | OpenTelemetry",
+      "description": "OpenTelemetry, also known as OTel, is a vendor-neutral open source Observability framework for instrumenting, generating, collecting, and exporting telemetry data such as traces, metrics, and logs.\nAs an industry-standard, OpenTelemetry is supported by more than 90 observability vendors, integrated by many libraries, services, and apps, and adopted by numerous end users.",
+      "headings": {
+        "h1": [
+          "Documentation"
+        ],
+        "h2": [
+          "Feedback"
+        ],
+        "h3": []
+      },
+      "mainText": "OpenTelemetry, also known as OTel, is a vendor-neutral open source Observability framework for instrumenting, generating, collecting, and exporting telemetry data such as traces , metrics , and logs .\n\nAs an industry-standard, OpenTelemetry is supported by more than 90 observability vendors , integrated by many libraries, services, and apps , and adopted by numerous end users .\n\nWhat is OpenTelemetry?\n\nA brief explanation of what OpenTelemetry is and isn&rsquo;t.\n\nGet started with OpenTelemetry based on your role.\n\nOpenTelemetry Concepts\n\nKey concepts in OpenTelemetry\n\nOpenTelemetry Demo Docs\n\nOpenTelemetry code instrumentation is supported for many popular programming languages\n\nPlatforms and environments\n\nHardware & software platforms and environments supporting OpenTelemetry\n\nZero-code Instrumentation\n\nVendor-agnostic way to receive, process and export telemetry data.\n\nBlueprints and reference implementations\n\nBlueprints and sample architectures for best practices when adopting and implementing OpenTelemetry in common environments\n\nLearn how to integrate OpenTelemetry with other observability technologies\n\nWas this page helpful?\n\nThank you. Your feedback is appreciated!\n\nPlease let us know how we can improve this page . Your feedback is appreciated!",
+      "language": "en",
+      "category": "Programming",
+      "categoryConfidence": 0.39,
+      "categorySignals": [
+        "desc:framework"
+      ],
+      "contentLengthBytes": 405788,
+      "wordCount": 171,
+      "statusCode": 200,
+      "fetchTimeMs": 838,
+      "processedAt": "2026-09-24T07:12:00.597Z",
+      "chunkId": "chunk-021",
+      "retryCount": 0
+    },
+    {
+      "id": "doc-postgresql_org-e4tspy",
+      "url": "https://www.postgresql.org/docs/",
+      "canonicalUrl": "https://www.postgresql.org/docs",
+      "domain": "postgresql.org",
+      "title": "PostgreSQL: Documentation",
+      "description": "August 13, 2026: PostgreSQL 18.6, 17.11, 16.15, 15.19, 14.24 and 19 Beta 3 Released! Quick Links\n\nTutorials & Other Resources\n\nYou can view the manual for an older version or download a PDF of a manua...",
+      "headings": {
+        "h1": [
+          "Documentation"
+        ],
+        "h2": [
+          "Quick Links",
+          "Manuals",
+          "Translated Manuals"
+        ],
+        "h3": []
+      },
+      "mainText": "August 13, 2026: PostgreSQL 18.6, 17.11, 16.15, 15.19, 14.24 and 19 Beta 3 Released! Quick Links\n\nTutorials & Other Resources\n\nYou can view the manual for an older version or download a PDF of a manual from the below table.\n\nLooking for documentation for an older, unsupported, version? Check the archive of older manuals.",
+      "language": "en",
+      "category": "General",
+      "categoryConfidence": 0.5,
+      "categorySignals": [],
+      "contentLengthBytes": 8900,
+      "wordCount": 54,
+      "statusCode": 200,
+      "fetchTimeMs": 1867,
+      "processedAt": "2026-09-24T07:12:02.470Z",
+      "chunkId": "chunk-021",
+      "retryCount": 0
+    },
+    {
+      "id": "doc-dev_mysql_com-mumm19",
+      "url": "https://dev.mysql.com/doc/",
+      "canonicalUrl": "https://dev.mysql.com/doc",
+      "domain": "dev.mysql.com",
+      "title": "MySQL :: MySQL Documentation",
+      "description": "Skip to Main Content MySQL HeatWave MySQL HeatWave Docs OLTP MySQL cloud service—built on MySQL Enterprise Edition\n\nIntegrated and automated generative AI with MySQL HeatWave GenAI\n\nAccelerate query p...",
+      "headings": {
+        "h1": [],
+        "h2": [],
+        "h3": []
+      },
+      "mainText": "Skip to Main Content MySQL HeatWave MySQL HeatWave Docs OLTP MySQL cloud service—built on MySQL Enterprise Edition\n\nIntegrated and automated generative AI with MySQL HeatWave GenAI\n\nAccelerate query performance with MySQL HeatWave\n\nQuery data in object storage and MySQL with MySQL HeatWave Lakehouse\n\nAutomate the machine learning pipeline with MySQL HeatWave AutoML",
+      "language": "en",
+      "category": "General",
+      "categoryConfidence": 0.2,
+      "categorySignals": [],
+      "contentLengthBytes": 77485,
+      "wordCount": 52,
+      "statusCode": 200,
+      "fetchTimeMs": 1054,
+      "processedAt": "2026-09-24T07:12:03.530Z",
+      "chunkId": "chunk-021",
+      "retryCount": 0
+    },
+    {
+      "id": "doc-mariadb_com-7g45ik",
+      "url": "https://mariadb.com/kb/en/documentation/",
+      "canonicalUrl": "https://mariadb.com/docs",
+      "domain": "mariadb.com",
+      "title": "MariaDB Documentation",
+      "description": "Comprehensive documentation, release notes and learning resources for all MariaDB products.",
+      "headings": {
+        "h1": [
+          "MariaDB Documentation"
+        ],
+        "h2": [],
+        "h3": [
+          "Getting Started",
+          "Product Documentation",
+          "Ecosystem",
+          "Release Notes",
+          "Offline Downloads"
+        ]
+      },
+      "mainText": "MariaDB Documentation\n\nComprehensive documentation, release notes and learning resources for all MariaDB products.\n\nNew to MariaDB? Start here to set up your environment, connect to your first database and run basic commands.\n\nConnecting to MariaDB\n\nProduct Documentation\n\nDedicated resources for specific MariaDB products and tools.\n\nMariaDB Enterprise Platform\n\nMariaDB Galera Cluster\n\nMariaDB Enterprise Tools\n\nMariaDB Enterprise Manager\n\nMariaDB Enterprise Kubernetes Operator\n\nMariaDB Enterprise MCP Server\n\nDiscover the tools, services, platforms, and partners that work with MariaDB Server.\n\nMariaDB Server Ecosystem Hub\n\nStay updated with the latest releases and version-specific changes.\n\nMariaDB Enterprise Server\n\nMariaDB Community Server\n\nMariaDB Galera Cluster\n\nMariaDB Enterprise Kubernetes Operator\n\nRead the documentation offline. Each PDF covers one documentation set and links internally, so cross-references still work without a connection. Every link below serves the most recent snapshot.\n\nMariaDB Release Notes\n\nmariadb-release-notes.pdf\n\nMariaDB Enterprise Platform\n\nmariadb-connectors.pdf\n\nMariaDB Analytics and ColumnStore\n\nmariadb-analytics.pdf\n\nMariaDB Enterprise Tools\n\nmariadb-mariadb-cloud.pdf\n\nMariaDB Galera Cluster\n\nmariadb-galera-cluster.pdf\n\nMariaDB General Resources\n\nmariadb-general-resources.pdf\n\nPage counts describe the July 2026 snapshot and grow as the documentation does. Browse every snapshot to download an older set. This site is always the authoritative version.\n\nThis page is: Copyright © 2026 MariaDB. All rights reserved.\n\nLast updated 2 days ago",
+      "language": "en",
+      "category": "Business",
+      "categoryConfidence": 0.29,
+      "categorySignals": [
+        "body:enterprise(9)"
+      ],
+      "contentLengthBytes": 621252,
+      "wordCount": 199,
+      "statusCode": 200,
+      "fetchTimeMs": 2143,
+      "processedAt": "2026-09-24T07:12:05.691Z",
+      "chunkId": "chunk-021",
+      "retryCount": 0
+    }
+  ]
+}

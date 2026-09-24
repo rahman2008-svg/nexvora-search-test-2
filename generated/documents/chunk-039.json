@@ -1,0 +1,249 @@
+{
+  "chunkId": "chunk-039",
+  "filename": "chunk-039.json",
+  "documentCount": 6,
+  "totalBytes": 548001,
+  "createdAt": "2026-09-24T07:15:54.831Z",
+  "documents": [
+    {
+      "id": "doc-who_int-uvi4k0",
+      "url": "https://www.who.int/health-topics",
+      "canonicalUrl": "https://www.who.int/health-topics",
+      "domain": "who.int",
+      "title": "Health topics",
+      "description": "Health topics",
+      "headings": {
+        "h1": [],
+        "h2": [],
+        "h3": []
+      },
+      "mainText": "Skip to main content Health topics\n\nAbuse of older people\n\nAntimicrobial resistance\n\nBlood transfusion safety\n\nBuruli ulcer (Mycobacterium ulcerans infection)\n\nCardiovascular diseases\n\nChagas disease (American trypanosomiasis)\n\nChildren's environmental health\n\nChronic respiratory diseases\n\nCommercial determinants of health\n\nCommon goods for health\n\nComplementary feeding\n\nCoronavirus disease (COVID-19)\n\nCrimean-Congo haemorrhagic fever\n\nDeafness and hearing loss\n\nDengue and severe dengue\n\nDracunculiasis (Guinea-worm disease)\n\nElectromagnetic fields\n\nEmergency and critical care\n\nEye care, vision impairment and blindness\n\nFemale genital mutilation\n\nFoodborne trematode infections\n\nGroup B Streptococcus (GBS)\n\nHealth impact assessment\n\nHealth promoting schools\n\nHealth systems governance\n\nHealth technology assessment\n\nHendra virus infection\n\nHuman African trypanosomiasis (sleeping sickness)\n\nInfection prevention and control\n\nInfluenza (avian and other zoonotic)\n\nIntellectual property and trade\n\nInternational Health Regulations\n\nLeprosy (Hansen disease)\n\nLymphatic filariasis (Elephantiasis)\n\nMarburg virus disease\n\nMiddle East respiratory syndrome coronavirus (MERS-CoV)\n\nMycetoma, chromoblastomycosis and other deep mycoses\n\nNeglected tropical diseases\n\nNipah virus infection\n\nNoncommunicable diseases\n\nNursing and midwifery\n\nOnchocerciasis (river blindness)\n\nPoliomyelitis (polio)\n\nRadiation emergencies\n\nRefugee and migrant health\n\nRespiratory syncytial virus\n\nRoad traffic injuries\n\nSchistosomiasis (Bilharzia)\n\nSelf-care for health and well-being\n\nSevere Acute Respiratory Syndrome (SARS)\n\nSexual and reproductive health and rights\n\nSexually transmitted infections (STIs)\n\nSocial determinants of health\n\nSoil-transmitted helminthiases\n\nSubstandard and falsified medical products\n\nSustainable development\n\nTaeniasis and cysticercosis\n\nTick-borne encephalitis\n\nTraditional, Complementary and Integrative Medicine\n\nUltraviolet radiation\n\nUniversal health coverage\n\nVaccines and immunization\n\nViolence against children\n\nViolence against women\n\nWater, sanitation and hygiene (WASH)\n\nWHO Pandemic Agreement\n\nYaws (Endemic treponematoses)",
+      "language": "en",
+      "category": "Health",
+      "categoryConfidence": 0.84,
+      "categorySignals": [
+        "domain:who.int",
+        "url_pattern:\\/health",
+        "title:health",
+        "desc:health",
+        "body:health(14)",
+        "body:disease(5)",
+        "body:virus(4)"
+      ],
+      "contentLengthBytes": 206789,
+      "wordCount": 236,
+      "statusCode": 200,
+      "fetchTimeMs": 1246,
+      "processedAt": "2026-09-24T07:15:00.808Z",
+      "chunkId": "chunk-039",
+      "retryCount": 0
+    },
+    {
+      "id": "doc-cdc_gov-w0wooy",
+      "url": "https://www.cdc.gov/",
+      "canonicalUrl": "https://www.cdc.gov/index.html",
+      "domain": "cdc.gov",
+      "title": "Centers for Disease Control and Prevention | CDC",
+      "description": "Find diseases and conditions; healthy living; workplace safety; environmental health; injury, violence and safety; global health; travelers&rsquo; health and more.\n\n‎‎SEP ‎‎22 Annual Report to the Nat...",
+      "headings": {
+        "h1": [],
+        "h2": [
+          "Featured Topics",
+          "A to Z",
+          "News All News",
+          "Scientific Journals",
+          "Science at CDC"
+        ],
+        "h3": []
+      },
+      "mainText": "Find diseases and conditions; healthy living; workplace safety; environmental health; injury, violence and safety; global health; travelers&rsquo; health and more.\n\n‎‎SEP ‎‎22 Annual Report to the Nation: Progress Against Lung Cancer Drives Down Cancer Mortality\n\n‎‎SEP ‎‎21 CDC Data Show Encouraging Progress in Youth Health\n\n‎‎SEP ‎‎10 CDC Statement on Increases in Recent Animal Rabies Activity and Associated Human Exposures\n\n‎‎SEP ‎‎10 Twenty-Five Years After 9/11 — Lessons from the World Trade Center Health Program\n\n‎‎AUG ‎‎31 CDC Launches New Overdose Prevention Data Channel\n\nMMWR is a weekly epidemiological digest that provides timely, reliable, objective, and useful public health information.\n\nEID is a monthly peer reviewed journal covering infectious diseases with emphasis on disease prevention, control, and elimination.\n\nPCD is a peer reviewed journal covering research, public health findings, innovations, and practices on chronic diseases.\n\nTo make science and data easier for broad audiences to interpret, CDC is translating science into practical, easy to understand policy by clarifying and presenting scientific language so that anyone can understand it and standardizing guideline development across the agency.",
+      "language": "en",
+      "category": "Health",
+      "categoryConfidence": 0.64,
+      "categorySignals": [
+        "domain:cdc.gov",
+        "title:disease",
+        "desc:health",
+        "desc_phrase:mental health",
+        "body:health(7)"
+      ],
+      "contentLengthBytes": 61159,
+      "wordCount": 175,
+      "statusCode": 200,
+      "fetchTimeMs": 512,
+      "processedAt": "2026-09-24T07:15:01.326Z",
+      "chunkId": "chunk-039",
+      "retryCount": 0
+    },
+    {
+      "id": "doc-medlineplus_gov-pqd4ky",
+      "url": "https://medlineplus.gov/",
+      "canonicalUrl": "https://medlineplus.gov/",
+      "domain": "medlineplus.gov",
+      "title": "MedlinePlus - Health Information from the National Library of Medicine",
+      "description": "Find information on health conditions, wellness issues, and more in easy-to-read language on MedlinePlus, the up-to-date, trusted health information site from the NIH and the National Library of Medicine.",
+      "headings": {
+        "h1": [
+          "Welcome to MedlinePlus"
+        ],
+        "h2": [],
+        "h3": []
+      },
+      "mainText": "Welcome to MedlinePlus\n\nMedlinePlus is an online health information resource for patients and their families and friends. It is a service of the National Library of Medicine (NLM), the world&#x27;s largest medical library, which is part of the National Institutes of Health (NIH). Learn more about MedlinePlus",
+      "language": "en",
+      "category": "Health",
+      "categoryConfidence": 0.59,
+      "categorySignals": [
+        "title:health",
+        "title:medicine",
+        "desc:health",
+        "desc:medicine",
+        "desc:wellness",
+        "body:health(2)"
+      ],
+      "contentLengthBytes": 26483,
+      "wordCount": 47,
+      "statusCode": 200,
+      "fetchTimeMs": 1077,
+      "processedAt": "2026-09-24T07:15:05.637Z",
+      "chunkId": "chunk-039",
+      "retryCount": 0
+    },
+    {
+      "id": "doc-nhs_uk-h7o3qu",
+      "url": "https://www.nhs.uk/conditions/",
+      "canonicalUrl": "https://www.nhs.uk/conditions/",
+      "domain": "nhs.uk",
+      "title": "Conditions A to Z - NHS",
+      "description": "Find out about health conditions, including their symptoms and how they&#x27;re treated.",
+      "headings": {
+        "h1": [
+          "Conditions A to Z"
+        ],
+        "h2": [
+          "Support links"
+        ],
+        "h3": []
+      },
+      "mainText": "Find out about health conditions, including their symptoms and how they&#x27;re treated.\n\nAbdominal aortic aneurysm\n\nAcid and chemical burns\n\nAcid reflux in babies, see Reflux in babies\n\nAcid reflux, see Heartburn and acid reflux\n\nAcoustic neuroma (vestibular schwannoma)\n\nActinic keratoses (solar keratoses)\n\nAcute kidney injury (AKI)\n\nAcute lymphoblastic leukaemia\n\nAcute myeloid leukaemia\n\nAcute respiratory distress syndrome (ARDS)\n\nAddison&#x27;s disease\n\nADHD in children and young people\n\nAge-related macular degeneration (AMD)\n\nAKI, see Acute kidney injury (AKI)\n\nAlcohol-related liver disease (ARLD)\n\nAlzheimer&#x27;s disease\n\nAmblyopia, see Lazy eye\n\nAnabolic steroid misuse\n\nAnaemia (iron deficiency), see Iron deficiency anaemia\n\nAnaemia (vitamin B12 or folate deficiency), see Vitamin B12 or folate deficiency anaemia\n\nAndrogen insensitivity syndrome\n\nAneurysm (abdominal aortic), see Abdominal aortic aneurysm\n\nAneurysm (brain), see Brain aneurysm\n\nAnimal and human bites\n\nAnkles (swollen), see Swollen ankles, feet and legs (oedema)\n\nAnkylosing spondylitis\n\nAntiphospholipid syndrome (APS)\n\nAnxiety disorders in children\n\nArrhythmia, see Heart rhythm problems (arrhythmia)\n\nAuditory processing disorder (APD)\n\nAutosomal dominant polycystic kidney disease\n\nAutosomal recessive polycystic kidney disease\n\nAvian flu, see Bird flu\n\nBartholin&#x27;s cyst\n\nBehçet&#x27;s disease\n\nBenign brain tumours, see Non-cancerous (benign) brain tumours\n\nBenign prostate enlargement, see Enlarged prostate\n\nBile duct cancer (cholangiocarcinoma)\n\nBilharzia, see Schistosomiasis (bilharzia)\n\nBinge eating disorder\n\nBite (animal or human), see Animal and human bites\n\nBladder pain syndrome (BPS)\n\nBlood pressure (high), see High blood pressure\n\nBlood pressure (low), see Low blood pressure (hypotension)\n\nBody dysmorphic disorder (BDD)\n\nBorderline personality disorder\n\nBrachycephaly and plagiocephaly, see Flat head syndrome (plagiocephaly and brachycephaly)\n\nBrain haemorrhage, see Subarachnoid haemorrhage\n\nBrain tumours (benign), see Non-cancerous (benign) brain tumours\n\nBreast cancer in women\n\nBroken finger or thumb\n\nBroken or bruised ribs\n\nCarbon monoxide poisoning\n\nCardiovascular disease\n\nCarpal tunnel syndrome\n\nCat bites, see Animal and human bites\n\nCataracts (children), see Childhood cataracts\n\nCharcot-Marie-Tooth disease\n\nCharles Bonnet syndrome\n\nChipped, broken or cracked tooth\n\nCholecystitis (acute), see Acute cholecystitis\n\nCholesterol (high), see High cholesterol\n\nChronic fatigue syndrome (ME/CFS), see Myalgic encephalomyelitis or chronic fatigue syndrome (ME/CFS)\n\nChronic kidney disease\n\nChronic lymphocytic leukaemia\n\nChronic myeloid leukaemia\n\nChronic obstructive pulmonary disease (COPD)\n\nChronic traumatic encephalopathy\n\nCJD, see Creutzfeldt-Jakob disease\n\nClostridioides difficile (C. diff) infection\n\nCoccyx pain, see Tailbone (coccyx) pain\n\nColon cancer, see Bowel cancer\n\nColour vision deficiency (colour blindness)\n\nComplex regional pain syndrome\n\nConcussion, see Head injury and concussion\n\nCongenital heart disease\n\nCongenital hip dislocation, see Developmental dysplasia of the hip\n\nCoronary heart disease\n\nCoronavirus, see COVID-19\n\nCorticobasal degeneration\n\nCreutzfeldt-Jakob disease\n\nCushing&#x27;s syndrome\n\nCyclical vomiting syndrome\n\nCystitis, see Urinary tract infections (UTIs)\n\nCytomegalovirus (CMV)\n\nDeafness, see Hearing loss\n\nDementia (frontotemporal), see Frontotemporal dementia\n\nDementia (vascular), see Vascular dementia\n\nDementia with Lewy bodies\n\nDetached retina (retinal detachment)\n\nDevelopmental co-ordination disorder (dyspraxia) in adults, see Dyspraxia in adults\n\nDevelopmental co-ordination disorder (dyspraxia) in children\n\nDevelopmental dysplasia of the hip\n\nDiabetes (type 1), see Type 1 diabetes\n\nDiabetes (type 2), see Type 2 diabetes\n\nDiabetes in pregnancy, see Gestational diabetes\n\nDiabetic ketoacidosis\n\nDifferences in sex development\n\nDiGeorge syndrome (22q11 deletion)\n\nDissociative disorders\n\nDiverticular disease and diverticulitis\n\nDog bites, see Animal and human bites\n\nDupuytren&#x27;s contracture\n\nDVT (deep vein thrombosis)\n\nDwarfism, see Restricted growth (dwarfism)\n\nDysarthria (difficulty speaking)\n\nDyspraxia in children, see Developmental co-ordination disorder (dyspraxia) in children\n\nEardrum (burst), see Perforated eardrum\n\nEarly or delayed puberty\n\nEarly or premature menopause\n\nEczema (atopic), see Atopic eczema\n\nEczema (contact dermatitis), see Contact dermatitis\n\nEczema (discoid), see Discoid eczema\n\nEczema (varicose), see Varicose eczema\n\nEdwards&#x27; syndrome (trisomy 18)\n\nEhlers-Danlos syndromes\n\nEndometrial cancer, see Womb (uterus) cancer\n\nEpidermolysis bullosa\n\nErectile dysfunction (impotence)\n\nExcessive daytime sleepiness (hypersomnia)\n\nExcessive sweating (hyperhidrosis)\n\nEye cancer in children, see Retinoblastoma\n\nEye infection (herpes), see Herpes simplex eye infections\n\nFabricated or induced illness\n\nFace blindness, see Prosopagnosia (face blindness)\n\nFemale genital mutilation (FGM)\n\nFetal alcohol spectrum disorder\n\nFits (children with fever), see Febrile seizures\n\nFlat head syndrome (plagiocephaly and brachycephaly)\n\nFlat head syndrome, see Flat head syndrome (plagiocephaly and brachycephaly)\n\nForeskin problems, see Tight foreskin (phimosis)\n\nFrontotemporal dementia\n\nFunctional neurological disorder, see Medically unexplained symptoms\n\nFungal nail infection\n\nGallbladder pain, see Acute cholecystitis\n\nGastro-oesophageal reflux disease (GORD), see Heartburn and acid reflux\n\nGender dysphoria and incongruence\n\nGeneralised anxiety disorder (GAD)\n\nGerman measles, see Rubella (german measles)\n\nGiant cell arteritis, see Temporal arteritis\n\nGiardia, see Giardiasis\n\nGilbert&#x27;s syndrome\n\nGranulomatosis with polyangiitis (GPA)\n\nGuillain-Barré syndrome\n\nHaemolytic disease of the fetus and newborn (HDFN)\n\nHaemophilus influenzae type b (Hib)\n\nHaemorrhoids, see Piles (haemorrhoids)\n\nHand, foot and mouth disease\n\nHead injury and concussion\n\nHeadaches (tension-type), see Tension headaches\n\nHeart disease (coronary), see Coronary heart disease\n\nHeart rhythm problems (arrhythmia)\n\nHeartburn and acid reflux\n\nHeat exhaustion and heatstroke\n\nHeat rash (prickly heat)\n\nHenoch-Schönlein purpura (HSP)\n\nHereditary haemorrhagic telangiectasia (HHT)\n\nHereditary spastic paraplegia\n\nHernia (hiatus), see Hiatus hernia\n\nHernia (umbilical), see Umbilical hernia\n\nHerpes (genital), see Genital herpes\n\nHerpes in babies, see Neonatal herpes (herpes in a baby)\n\nHerpes simplex eye infections\n\nHerpetic whitlow (whitlow finger)\n\nHib, see Haemophilus influenzae type b (Hib)\n\nHidradenitis suppurativa (HS)\n\nHigh blood sugar (hyperglycaemia)\n\nHip dysplasia, see Developmental dysplasia of the hip\n\nHip fracture, see Broken hip\n\nHirschsprung&#x27;s disease\n\nHookworm, see Worms in humans\n\nHughes syndrome, see Antiphospholipid syndrome (APS)\n\nHuman bites, see Animal and human bites\n\nHuman papillomavirus (HPV)\n\nHuntington&#x27;s disease\n\nHyperacusis, see Noise sensitivity (hyperacusis)\n\nHyperhidrosis, see Excessive sweating (hyperhidrosis)\n\nHypersomnia, see Excessive daytime sleepiness (hypersomnia)\n\nHypertension, see High blood pressure\n\nHyperthyroidism, see Overactive thyroid (hyperthyroidism)\n\nHypoglycaemia, see Low blood sugar (hypoglycaemia)\n\nHypotension, see Low blood pressure (hypotension)\n\nHypothyroidism, see Underactive thyroid (hypothyroidism)\n\nIBD, see Inflammatory bowel disease (IBD)\n\nIdiopathic pulmonary fibrosis\n\nImpotence, see Erectile dysfunction (impotence)\n\nIncontinence (bowel), see Bowel incontinence\n\nIncontinence (urinary), see Urinary incontinence\n\nInflammatory bowel disease (IBD)\n\nInsect bites and stings\n\nIntersex, see Differences in sex development\n\nInterstitial cystitis, see Bladder pain syndrome (BPS)\n\nIntracranial hypertension\n\nIron deficiency anaemia\n\nIrritable bowel syndrome (IBS)\n\nJapanese encephalitis\n\nJaw pain, see Temporomandibular disorder (TMD)\n\nJellyfish and other sea creature stings\n\nJoint hypermobility syndrome\n\nKidney failure, see Chronic kidney disease\n\nKnee cartilage damage, see Meniscus tear (knee cartilage damage)\n\nLabyrinthitis and vestibular neuritis\n\nLambert-Eaton myasthenic syndrome\n\nLearning disabilities\n\nLeg ulcer, see Venous leg ulcer\n\nLegionnaires&#x27; disease\n\nLeptospirosis (Weil&#x27;s disease)\n\nLeukaemia (acute lymphoblastic), see Acute lymphoblastic leukaemia\n\nLeukaemia (chronic lymphocytic), see Chronic lymphocytic leukaemia\n\nLow blood pressure (hypotension)\n\nLow blood sugar (hypoglycaemia)\n\nLow white blood cell count\n\nLow-grade brain tumours, see Non-cancerous (benign) brain tumours\n\nLymphoma (Hodgkin), see Hodgkin lymphoma\n\nLymphoma (non-Hodgkin, see Non-Hodgkin lymphoma\n\nMacular degeneration (age-related), see Age-related macular degeneration (AMD)\n\nMale menopause, see The &#x27;male menopause&#x27;\n\nMalignant brain tumour (brain cancer)\n\nMedically unexplained symptoms\n\nMeniscus tear (knee cartilage damage)\n\nMenopause (early), see Early or premature menopause\n\nMenopause and perimenopause\n\nMiddle East respiratory syndrome (MERS)\n\nMolluscum contagiosum\n\nMorton&#x27;s neuroma\n\nMotor neurone disease (MND)\n\nMouth thrush, see Oral thrush (mouth thrush)\n\nMultiple system atrophy (MSA)\n\nMyalgic encephalomyelitis or chronic fatigue syndrome (ME/CFS)\n\nMyelodysplastic syndrome (MDS)\n\nMyopia, see Short-sightedness (myopia)\n\nMénière&#x27;s disease\n\nNail fungal infection, see Fungal nail infection\n\nNasal and sinus cancer\n\nNasopharyngeal cancer\n\nNecrotising fasciitis\n\nNeonatal herpes (herpes in a baby)\n\nNephrotic syndrome in children\n\nNeurofibromatosis type 1 (NF1)\n\nNeurofibromatosis type 2 (NF2)\n\nNeuromyelitis optica (NMO)\n\nNewborn jaundice, see Jaundice in babies\n\nNewborn respiratory distress syndrome\n\nNight terrors and nightmares\n\nNoise sensitivity (hyperacusis)\n\nNon-alcoholic fatty liver disease (NAFLD)\n\nNon-allergic rhinitis\n\nNon-cancerous (benign) brain tumours\n\nNon-melanoma skin cancer\n\nNorovirus (vomiting bug)\n\nObesity, see Overweight and obesity in adults\n\nObsessive compulsive disorder (OCD)\n\nOcular migraine, see Retinal (ocular) migraine\n\nOesophageal atresia and tracheo-oesophageal fistula\n\nOral thrush (mouth thrush)\n\nOsteomalacia, see Rickets and osteomalacia\n\nOsteophyte (bone spur)\n\nOveractive thyroid (hyperthyroidism)\n\nOverweight and obesity in adults\n\nPaget&#x27;s disease of bone\n\nPaget&#x27;s disease of the nipple\n\nPancreatitis (chronic), see Chronic pancreatitis\n\nParkinson&#x27;s disease\n\nPatau&#x27;s syndrome\n\nPCOS, see Polyendocrine metabolic ovarian syndrome (PMOS)\n\nPelvic inflammatory disease\n\nPelvic organ prolapse\n\nPeptic ulcer, see Stomach ulcer\n\nPerinatal anxiety, see Anxiety in pregnancy\n\nPeriods (heavy), see Heavy periods\n\nPeripheral arterial disease (PAD)\n\nPeripheral neuropathy\n\nPersonality disorders\n\nPeyronie&#x27;s disease\n\nPhimosis, see Tight foreskin (phimosis)\n\nPhlebitis (superficial thrombophlebitis)\n\nPityriasis versicolor\n\nPMDD (premenstrual dysphoric disorder)\n\nPMS (premenstrual syndrome)\n\nPolycystic kidney disease (autosomal dominant), see Autosomal dominant polycystic kidney disease\n\nPolycystic kidney disease (autosomal recessive), see Autosomal recessive polycystic kidney disease\n\nPolycystic ovary syndrome (PCOS), see Polyendocrine metabolic ovarian syndrome (PMOS)\n\nPolyendocrine metabolic ovarian syndrome (PMOS)\n\nPolyhydramnios (too much amniotic fluid)\n\nPolymorphic light eruption\n\nPolymyalgia rheumatica\n\nPompholyx (dyshidrotic eczema)\n\nPost-herpetic neuralgia\n\nPostural orthostatic tachycardia syndrome, see Postural tachycardia syndrome (PoTS)\n\nPostural tachycardia syndrome (PoTS)\n\nPrader-Willi syndrome\n\nPremature ejaculation, see Ejaculation problems\n\nPressure ulcers (pressure sores)\n\nPrickly heat, see Heat rash (prickly heat)\n\nPrimary biliary cholangitis (primary biliary cirrhosis)\n\nProblems swallowing pills\n\nProgressive supranuclear palsy\n\nProsopagnosia (face blindness)\n\nProstate enlargement, see Enlarged prostate\n\nPTSD (post-traumatic stress disorder)\n\nPuberty (early or delayed), see Early or delayed puberty\n\nPulmonary fibrosis, see Idiopathic pulmonary fibrosis\n\nPulmonary hypertension\n\nQuinsy, see Tonsillitis\n\nRectal cancer, see Bowel cancer\n\nRenal cancer, see Kidney cancer\n\nRepetitive strain injury (RSI)\n\nRespiratory syncytial virus (RSV)\n\nRespiratory tract infections (RTIs)\n\nRestless legs syndrome\n\nRestricted growth (dwarfism)\n\nRetinal (ocular) migraine\n\nRetinal detachment, see Detached retina (retinal detachment)\n\nRhesus disease, see Haemolytic disease of the fetus and newborn (HDFN)\n\nRhinitis (allergic), see Allergic rhinitis\n\nRickets and osteomalacia\n\nRoundworm, see Worms in humans\n\nRSV, see Respiratory syncytial virus (RSV)\n\nRubella (german measles)\n\nSalivary gland stones\n\nSchistosomiasis (bilharzia)\n\nSeasonal affective disorder (SAD)\n\nSeizures (children with fever), see Febrile seizures\n\nSeptic shock, see Sepsis\n\nSexually transmitted infections (STIs)\n\nShort-sightedness (myopia)\n\nSick building syndrome\n\nSinusitis (sinus infection)\n\nSjögren&#x27;s syndrome\n\nSkin cancer (melanoma), see Melanoma skin cancer\n\nSkin cancer (non-melanoma), see Non-melanoma skin cancer\n\nSkin picking disorder\n\nSlapped cheek syndrome\n\nSleepiness, see Excessive daytime sleepiness (hypersomnia)\n\nSocial anxiety (social phobia)\n\nSolar keratoses, see Actinic keratoses (solar keratoses)\n\nSperm count (low), see Low sperm count\n\nSpinal muscular atrophy (SMA)\n\nSteroid misuse, see Anabolic steroid misuse\n\nStevens-Johnson syndrome\n\nSting or bite (insect), see Insect bites and stings\n\nStuttering, see Stammering\n\nSubarachnoid haemorrhage\n\nSuperficial thrombophlebitis, see Phlebitis (superficial thrombophlebitis)\n\nSupraventricular tachycardia (SVT)\n\nSwallowing pills, see Problems swallowing pills\n\nSweat rash, see Heat rash (prickly heat)\n\nSweating (excessive), see Excessive sweating (hyperhidrosis)\n\nSwollen ankles, feet and legs (oedema)\n\nSwollen arms and hands (oedema)\n\nTailbone (coccyx) pain\n\nTapeworm, see Worms in humans\n\nTB, see Tuberculosis (TB)\n\nTemporomandibular disorder (TMD)\n\nThe &#x27;male menopause&#x27;\n\nThoracic outlet syndrome\n\nThrush in men and women\n\nThyroid (overactive), see Overactive thyroid (hyperthyroidism)\n\nThyroid (underactive), see Underactive thyroid (hypothyroidism)\n\nTIA, see Transient ischaemic attack (TIA)\n\nTick-borne encephalitis (TBE)\n\nTight foreskin (phimosis)\n\nTooth (chipped or broken), see Chipped, broken or cracked tooth\n\nTooth knocked out, see Knocked-out tooth\n\nTransient ischaemic attack (TIA)\n\nTrichotillomania (hair pulling disorder)\n\nUnderactive thyroid (hypothyroidism)\n\nUndescended testicles\n\nUrinary tract infections (UTIs)\n\nUterine (womb) cancer, see Womb (uterus) cancer\n\nVaginal pain, see Vulvodynia (vulval pain)\n\nVerrucas, see Warts and verrucas\n\nVestibular neuritis, see Labyrinthitis and vestibular neuritis\n\nVitamin B12 or folate deficiency anaemia\n\nVomiting bug, see Norovirus (vomiting bug)\n\nVon Willebrand disease\n\nVulvodynia (vulval pain)\n\nWeil&#x27;s disease, see Leptospirosis (Weil&#x27;s disease)\n\nWhite blood cell count (low), see Low white...",
+      "language": "en",
+      "category": "Health",
+      "categoryConfidence": 0.58,
+      "categorySignals": [
+        "desc:health",
+        "body:disease(30)"
+      ],
+      "contentLengthBytes": 166079,
+      "wordCount": 1781,
+      "statusCode": 200,
+      "fetchTimeMs": 1161,
+      "processedAt": "2026-09-24T07:15:06.834Z",
+      "chunkId": "chunk-039",
+      "retryCount": 0
+    },
+    {
+      "id": "doc-cancer_gov-ghlpix",
+      "url": "https://www.cancer.gov/",
+      "canonicalUrl": "https://www.cancer.gov/",
+      "domain": "cancer.gov",
+      "title": "Comprehensive Cancer Information - NCI",
+      "description": "Accurate, up-to-date, comprehensive cancer information from the U.S. government's principal agency for cancer research.",
+      "headings": {
+        "h1": [],
+        "h2": [
+          "Your National Cancer Institute: Federally Funded Cancer Research at Work",
+          "Featured News and Research",
+          "For People Affected by Cancer",
+          "For Researchers",
+          "NCI FY28 Annual Plan & Professional Judgment Budget",
+          "Get Answers",
+          "Our Organization"
+        ],
+        "h3": []
+      },
+      "mainText": "Your National Cancer Institute: Federally Funded Cancer Research at Work\n\nFeatured News and Research\n\nChildhood Cancer Research: Q&A with Dr. Widemann Dr. Brigitte Widemann discusses advances shaping childhood cancer research.\n\nFunctional Precision Medicine: Cancer’s Next Frontier NCI’s Director looks at the future of testing drugs directly on tumors.\n\nThe Director’s Take on Use of Animal Models Get the key details for applications proposing research with animal models.\n\nFor People Affected by Cancer\n\nNCI is the nation’s trusted source for cancer information. We are here for you with information about causes and risk factors, symptoms, how cancer is diagnosed, and treatment options.\n\nFind a Clinical Trial\n\nSupport for the best science underpins everything NCI does. Explore our resources to help researchers conduct their work and apply for funding and training opportunities.\n\nFunding Opportunities\n\nFind a Research Contact\n\nYour National Cancer Institute - Driving Cancer Breakthroughs\n\nNCI FY28 Annual Plan & Professional Judgment Budget\n\nEach year, NCI prepares a plan for advancing cancer research and proposes the budget required to fund a broad research portfolio.\n\nConnect with a cancer information specialist at 1-800-4-CANCER, through live chat, or by email.\n\nSenior Leaders Information about NCI senior leadership.\n\nNCI Divisions, Offices, and Centers NCI has 30 divisions, offices, and centers who work together to build, maintain, and enhance a cohesive and comprehensive cancer research agenda.\n\nAdvisory Boards and Review Groups NCI relies on advisory committees to provide advice on the National Cancer Program, NCI scientific priorities, and more.",
+      "language": "en",
+      "category": "Science",
+      "categoryConfidence": 0.62,
+      "categorySignals": [
+        "heading:research",
+        "desc:research",
+        "body:research(9)"
+      ],
+      "contentLengthBytes": 42631,
+      "wordCount": 244,
+      "statusCode": 200,
+      "fetchTimeMs": 568,
+      "processedAt": "2026-09-24T07:15:08.996Z",
+      "chunkId": "chunk-039",
+      "retryCount": 0
+    },
+    {
+      "id": "doc-fda_gov-vdvcdu",
+      "url": "https://www.fda.gov/consumers",
+      "canonicalUrl": "https://www.fda.gov/consumers",
+      "domain": "fda.gov",
+      "title": "For Consumers | FDA",
+      "description": "Science-based health and safety information you can trust.",
+      "headings": {
+        "h1": [
+          "For Consumers"
+        ],
+        "h2": [
+          "Featured",
+          "Products",
+          "Topics",
+          "Information For",
+          "Science-based health and safety information you can trust.",
+          "How Gene Therapy Can Cure or Treat Diseases",
+          "Artículos para el consumidor",
+          "Navigate the For Consumers Section",
+          "Call-To-Action Title What Does FDA Approve? Part 2",
+          "Spotlight",
+          "Consumer Information by Topic",
+          "Recent Consumer Updates"
+        ],
+        "h3": [
+          "Consumer Updates",
+          "Women's Health",
+          "Protect Yourself - Health Fraud Scams",
+          "How to Buy Medicines Safely From an Online Pharmacy",
+          "Create and Keep a Medication List for Your Health",
+          "Pulse Oximeter Basics",
+          "Food",
+          "Drugs",
+          "Medical Devices",
+          "Animal & Veterinary",
+          "Cosmetics",
+          "Radiation-Emitting Products",
+          "Vaccines, Blood, & Biologics",
+          "Tobacco Products",
+          "The Facts on Tampons and Tampon Safety",
+          "Tips to Stay Safe in the Sun: From Sunscreen to Sunglasses",
+          "Should You Put Sunscreen on Infants? Not Usually",
+          "Braces Have Changed: What to Know about Traditional Braces and Clear Aligner Options",
+          "Preventing Accidental Apoquel Chewable Overdoses"
+        ]
+      },
+      "mainText": "Science-based health and safety information you can trust.\n\nHow Gene Therapy Can Cure or Treat Diseases\n\nThe genes in your body’s cells play a key role in your health and a defective gene or genes can make you sick. The U.S. Food and Drug Administration has approved multiple gene therapy products, groundbreaking treatments that have the potential to save lives.\n\nArtículos para el consumidor\n\nInformación para el consumidor sobre temas de salud diversos.\n\nNavigate the For Consumers Section\n\nScience-based health and safety information you can trust\n\nEasy-to-read health materials in English and Spanish\n\nProtect Yourself - Health Fraud Scams\n\nBuying medicines online, health fraud, warnings and enforcement, safety alerts, and reporting problems to FDA\n\nCall-To-Action Title What Does FDA Approve? Part 2\n\nIs It Really \"FDA Approved\"? Part 2. Here are 10 more facts about how the FDA works to protect public health.\n\nHow to Buy Medicines Safely From an Online Pharmacy\n\nHave you ever been tempted to buy your medicines from an online pharmacy or another website?\n\nCreate and Keep a Medication List for Your Health\n\nMany people of all ages take medications. Keeping track of when, how and why you use medications is important for your health and safety.\n\nPulse Oximeter Basics\n\nA pulse oximeter, or pulse ox, is a device that estimates the amount of oxygen in the blood. Here’s what to know before using one.\n\nConsumer Information by Topic\n\nRadiation-Emitting Products\n\nVaccines, Blood, & Biologics\n\nRecent Consumer Updates\n\nThe Facts on Tampons and Tampon Safety\n\nTips to Stay Safe in the Sun: From Sunscreen to Sunglasses\n\nShould You Put Sunscreen on Infants? Not Usually\n\nBraces Have Changed: What to Know about Traditional Braces and Clear Aligner Options\n\nPreventing Accidental Apoquel Chewable Overdoses",
+      "language": "en",
+      "category": "Health",
+      "categoryConfidence": 0.68,
+      "categorySignals": [
+        "heading:health",
+        "heading:medical",
+        "heading:therapy",
+        "desc:health",
+        "body:health(9)",
+        "body:therapy(2)"
+      ],
+      "contentLengthBytes": 44860,
+      "wordCount": 286,
+      "statusCode": 200,
+      "fetchTimeMs": 350,
+      "processedAt": "2026-09-24T07:15:09.354Z",
+      "chunkId": "chunk-039",
+      "retryCount": 0
+    }
+  ]
+}

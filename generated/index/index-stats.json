@@ -1,23 +1,23 @@
 {
   "engine": "NexVora Okapi BM25 Inverted Index",
   "version": "1.0.0",
-  "generatedAt": "2026-09-24T05:08:14.320Z",
-  "totalDocuments": 24,
-  "totalTerms": 1066,
-  "avgDocLength": 80,
-  "totalDocLength": 1910,
-  "categories": {
-    "Programming": 8,
-    "Technology": 5,
-    "Science": 2,
-    "Education": 2,
-    "News": 1,
-    "Business": 1,
-    "Sports": 1,
-    "Entertainment": 1,
-    "Health": 1,
-    "Travel": 1,
-    "General": 1
-  },
-  "indexFileBytes": 316904
+  "generatedAt": "2026-09-24T07:15:58.274Z",
+  "totalDocuments": 265,
+  "totalTerms": 17141,
+  "avgDocLength": 436.6981132075472,
+  "totalDocLength": 115725,
+  "categories": [
+    "Business",
+    "Education",
+    "Entertainment",
+    "General",
+    "Health",
+    "News",
+    "Programming",
+    "Science",
+    "Sports",
+    "Technology",
+    "Travel"
+  ],
+  "indexFileBytes": 11209909
 }

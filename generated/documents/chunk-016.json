@@ -1,0 +1,229 @@
+{
+  "chunkId": "chunk-016",
+  "filename": "chunk-016.json",
+  "documentCount": 6,
+  "totalBytes": 106715,
+  "createdAt": "2026-09-24T07:15:54.831Z",
+  "documents": [
+    {
+      "id": "doc-docs_alpinelinux_org-3ad70a",
+      "url": "https://docs.alpinelinux.org/",
+      "canonicalUrl": "https://docs.alpinelinux.org/user-handbook/0.1a/index.html",
+      "domain": "docs.alpinelinux.org",
+      "title": "Redirect Notice",
+      "description": "Redirect Notice Redirect Notice\n\nThe page you requested has been relocated to https://docs.alpinelinux.org/user-handbook/0.1a/index.html ....",
+      "headings": {
+        "h1": [
+          "Redirect Notice"
+        ],
+        "h2": [],
+        "h3": []
+      },
+      "mainText": "Redirect Notice Redirect Notice\n\nThe page you requested has been relocated to https://docs.alpinelinux.org/user-handbook/0.1a/index.html .",
+      "language": "en",
+      "category": "Technology",
+      "categoryConfidence": 0.41,
+      "categorySignals": [
+        "domain:linux.org"
+      ],
+      "contentLengthBytes": 511,
+      "wordCount": 14,
+      "statusCode": 200,
+      "fetchTimeMs": 1265,
+      "processedAt": "2026-09-24T07:11:07.363Z",
+      "chunkId": "chunk-016",
+      "retryCount": 0
+    },
+    {
+      "id": "doc-debian_org-r6ek1v",
+      "url": "https://www.debian.org/doc/",
+      "canonicalUrl": "https://www.debian.org/doc",
+      "domain": "debian.org",
+      "title": "Debian -- Documentation",
+      "description": "Other (shorter) Documents\n\nCreating a high-quality free operating system also includes writing technical manuals which describe the operation and use of programs. The Debian project is making every ef...",
+      "headings": {
+        "h1": [
+          "Documentation"
+        ],
+        "h2": [
+          "Quick Start",
+          "Manuals",
+          "Other (shorter) Documents"
+        ],
+        "h3": [
+          "Manuals specific to Debian"
+        ]
+      },
+      "mainText": "Other (shorter) Documents\n\nCreating a high-quality free operating system also includes writing technical manuals which describe the operation and use of programs. The Debian project is making every effort to provide all users with good documentation in an easily accessible form. This page contains a collection of links, leading to installation guides, HOWTOs, FAQs, release notes, our Wiki, and more.\n\nIf you are new to Debian we recommend you start with the following two guides:\n\nDo have these at hand when you make your first Debian installation, it will probably answer many questions and help you work with your new Debian system.\n\nLater, you might want to go through these documents:\n\nDebian Reference : a terse user guide, focussing on shell commands\n\nRelease Notes : usually published with Debian updates, aiming at users upgrading the distribution\n\nDebian Wiki : official Debian wiki\n\nPrint the Debian GNU/Linux Reference Card\n\nMost of the documentation included in Debian was written for GNU/Linux in general, but there is also some documentation written specifically for Debian. Basically, the documents are sorted into these categories:\n\nManuals: Those guides resemble books, because they comprehensively describe major topics. A lot of manuals listed below are available both online and in Debian packages. In fact, most of the manuals on the website are extracted from their respective Debian packages. Choose a manual below for its package name and/or links to the online versions.\n\nHOWTOs: Like the name indicates, the HOWTO documents describe how to do a particular thing, i.e. they offer detailed and practical advice about the way to do something.\n\nFAQs: We have compiled several documents answering frequently asked questions . Debian-related questions are answered in the Debian FAQ . Additionally, there is a separate FAQ about Debian USB/CD/DVD images , answering all sorts of questions about installation media.\n\nOther (shorter) Documents: Please also check the list of shorter instructions.\n\nFor a complete list of Debian manuals and other documentation, please visit the Debian Documentation Project page. Additionally, several user-oriented manuals written for Debian GNU/Linux are available as printed books .\n\nMany of the manuals listed here are available both online and in Debian packages; in fact, most of the manuals on the website are extracted from their respective Debian packages. Choose a manual below for its package name and/or links to the online versions.\n\nManuals specific to Debian\n\nThe Debian Trixie beginner’s handbook\n\nDebian Installation Guide\n\nDebian Reference Card\n\nThe Debian Administrator's Handbook\n\naptitude user's manual\n\nDebian GNU/Linux and Java FAQ\n\nDebian Hamradio Maintainer’s Guide\n\nDebian Kernel Handbook (on pages.debian.net)\n\nManuals for Developers\n\nDebian Developer's Reference\n\nGuide for Debian Maintainers\n\nIntroduction to Debian packaging\n\nDebian Installer internals\n\nGuide for database using package maintainers\n\nPolicy for packages using databases\n\nRead the Debian Project History\n\nOther (shorter) Documents\n\nThe following documents include quicker, shorter instructions:\n\nIf you have checked the above resources and still can't find answers to your questions or solutions to your problems regarding Debian, take a look at our support page .\n\nBack to the Debian Project homepage .\n\nSee our contact page to get in touch. Web site source code is available .\n\nLast Modified: Thu, Sep 17 15:24:12 UTC 2026 &emsp; Last Built: Wed, Sep 23 15:35:44 UTC 2026 Copyright &copy; 1997-2026 SPI and others; See license terms Debian is a registered trademark of Software in the Public Interest, Inc.",
+      "language": "en",
+      "category": "Technology",
+      "categoryConfidence": 0.31,
+      "categorySignals": [
+        "desc_phrase:operating system",
+        "body:linux(4)"
+      ],
+      "contentLengthBytes": 13837,
+      "wordCount": 556,
+      "statusCode": 200,
+      "fetchTimeMs": 1012,
+      "processedAt": "2026-09-24T07:11:09.279Z",
+      "chunkId": "chunk-016",
+      "retryCount": 0
+    },
+    {
+      "id": "doc-man7_org-u42w3h",
+      "url": "https://man7.org/linux/man-pages/",
+      "canonicalUrl": "https://man7.org/linux/man-pages",
+      "domain": "man7.org",
+      "title": "Linux man pages online",
+      "description": "Linux man pages online man7.org > Linux > man-pages\n\nLinux man pages online\n\nThe links from this page display HTML renderings of the man pages from the Linux man-pages project as well as a curated col...",
+      "headings": {
+        "h1": [
+          "Linux man pages online"
+        ],
+        "h2": [],
+        "h3": []
+      },
+      "mainText": "Linux man pages online man7.org > Linux > man-pages\n\nLinux man pages online\n\nThe links from this page display HTML renderings of the man pages from the Linux man-pages project as well as a curated collection of pages from various other free software projects.\n\nList of all man pages:   by section  |  alphabetically  |  by project Individual sections (page names only): 1 ,  2 ,  3 ,  4 ,  5 ,  6 ,  7 ,  8  \n\nIntro pages: intro(1) ,  intro(2) ,  intro(3) ,  intro(4) ,  intro(5) ,  intro(6) ,  intro(7) ,  intro(8)\n\nCan't find the page you want? Propose it for inclusion in this set.\n\nChangelog of the man-pages project\n\n(C) 2026 Michael Kerrisk",
+      "language": "en",
+      "category": "Technology",
+      "categoryConfidence": 0.76,
+      "categorySignals": [
+        "url_pattern:\\/linux",
+        "title:linux",
+        "heading:linux",
+        "desc:linux",
+        "body:linux(4)"
+      ],
+      "contentLengthBytes": 4530,
+      "wordCount": 115,
+      "statusCode": 200,
+      "fetchTimeMs": 1475,
+      "processedAt": "2026-09-24T07:11:29.513Z",
+      "chunkId": "chunk-016",
+      "retryCount": 0
+    },
+    {
+      "id": "doc-systemd_io-134zvg",
+      "url": "https://systemd.io/",
+      "canonicalUrl": "https://systemd.io/",
+      "domain": "systemd.io",
+      "title": "System and Service Manager",
+      "description": "System and Service Manager\n\nsystemd is a suite of basic building blocks for a Linux system. It provides a system and service manager that runs as PID 1 and starts the rest of the system.\n\nsystemd prov...",
+      "headings": {
+        "h1": [
+          "System and Service Manager"
+        ],
+        "h2": [
+          "Booting",
+          "Concepts",
+          "Contributing",
+          "Documentation for Developers",
+          "Documentation for Developers - external links",
+          "Exec directories",
+          "Interfaces",
+          "Manual Pages",
+          "Manuals and Documentation for Users and Administrators",
+          "Networking",
+          "Project",
+          "Publications",
+          "Related Packages",
+          "The systemd for Administrators Blog Series",
+          "The systemd for Developers Series",
+          "The various distributions",
+          "Users, Groups and Home Directories",
+          "Videos for Users and Administrators",
+          "See also"
+        ],
+        "h3": []
+      },
+      "mainText": "System and Service Manager\n\nsystemd is a suite of basic building blocks for a Linux system. It provides a system and service manager that runs as PID 1 and starts the rest of the system.\n\nsystemd provides aggressive parallelization capabilities, uses socket and D-Bus activation for starting services, offers on-demand starting of daemons, keeps track of processes using Linux control groups, maintains mount and automount points, and implements an elaborate transactional dependency-based service control logic.\n\nOther parts include a logging daemon, utilities to control basic system configuration like the hostname, date, locale, maintain a list of logged-in users and running containers and virtual machines, system accounts, runtime directories and settings, and daemons to manage simple network configuration, network time synchronization, log forwarding, and name resolution.\n\nAutomatic Boot Assessment\n\nBoot Components & Root File System Discovery\n\nBoot Loader Interface\n\nTPM2 PCR Measurements Made by systemd\n\nDesktop Environment Integration\n\nPortable Services Introduction\n\nPorting systemd To New Distributions\n\nSafely Building Images\n\nsystemd Coredump Handling\n\nNotes for Translators\n\nPorting to New Architectures\n\nReporting of Security Vulnerabilities\n\nSteps to a Successful Release\n\nTesting systemd Using Sanitizers\n\nsystemd Community Conduct Guidelines\n\nsystemd Repository Architecture\n\nDocumentation for Developers\n\nJournal Message Catalogs\n\nNew Control Group Interfaces\n\nThe Case for the /usr Merge\n\nWriting Desktop Environments\n\nWriting Display Managers\n\nWriting Network Configuration Managers\n\nWriting Resolver Clients\n\nWriting VM and Container Managers\n\nWriting syslog Daemons Which Cooperate Nicely With systemd\n\nsystemd File Hierarchy Requirements\n\nsystemd Optimizations\n\nsystemd-boot UEFI Boot Manager\n\nDocumentation for Developers - external links\n\nIntroduction to systemd in French\n\nThe 30 Biggest Myths about systemd\n\nProject IDs for Disk Quotas on Exec Directories\n\nControl Group APIs and Delegation\n\nFile Descriptor Store\n\nJournal Export Formats\n\nKnown Environment Variables\n\nLocking Block Device Access\n\nNative Journal Protocol\n\nPortability and Stability\n\nResource Pressure Handling\n\nStorage Daemons for the Root File System\n\nUsing /tmp/ and /var/tmp/ Safely\n\nWhat Settings Are Currently Available For Transient Units?\n\nManuals and Documentation for Users and Administrators\n\nBooting Without /usr is Broken\n\nCompatibility with SysV\n\nDiagnosing Boot Problems\n\nFrequently Asked Questions\n\nMy Service Can’t Get Realtime!\n\nSocket Activation with Popular Daemons\n\nPredictable Network Interface Names\n\nRunning Services After the Network Is Up\n\nsystemd-resolved and VPNs\n\nmkosi Project - Build Bespoke OS Images\n\nArticle in The H, Part 2\n\nBê-á-bá do systemd #1 (Brazilian Portuguese)\n\nBê-á-bá do systemd #2 (Brazilian Portuguese)\n\nBê-á-bá do systemd #3 (Brazilian Portuguese)\n\nBê-á-bá do systemd #4 (Brazilian Portuguese)\n\nBê-á-bá do systemd #5 (Brazilian Portuguese)\n\nBê-á-bá do systemd #6 (Brazilian Portuguese)\n\nRHEL9 docs - Configuring basic system settings - Managing systemd\n\nRHEL9 docs - Using systemd unit files to customize and optimize your system\n\nSUSE White Paper on systemd\n\nÉvolutions techniques de systemd (French)\n\nC++ bindings for sd-bus\n\nErlang bindings for the Journal APIs\n\nErlang journald backend for Lager\n\nExperimental Qt bindings\n\nGo Bindings for the Journal API, socket activation and DBUS\n\nHaskell socket activation\n\nLua Bindinds for systemd APIs\n\nNode.JS bindings for the Journal APIs\n\nNode.JS support for systemd Socket Activation\n\nNode.JS wrapper for sd_notify\n\nNode.JS wrapper for sd_notify (repo)\n\nPHP Bindings for the Journal APIs\n\nPerl bindings for the Journal APIs\n\nRuby bindings for the Journal APIs\n\nRuby bindings for the systemd D-Bus APIs\n\nThe systemd for Administrators Blog Series\n\n#01: Verifying Bootup\n\n#02: Which Service Owns Which Processes?\n\n#03: How Do I Convert A SysV Init Script Into A systemd Service File?\n\n#04: Killing Services\n\n#05: The Three Levels of “Off”\n\n#08: The New Configuration Files\n\n#09: On /etc/sysconfig and /etc/default\n\n#10: Instantiated Services\n\n#11: Converting inetd Services\n\n#12: Securing Your Services\n\n#13: Log and Service Status\n\n#14: The Self-Explanatory Boot\n\n#16: Gettys on Serial Consoles (and Elsewhere)\n\n#17: Using the Journal\n\n#18: Managing Resources\n\n#19: Detecting Virtualization\n\n#20: Socket Activated Internet Services and OS Containers\n\n#21: Container Integration\n\nA Russian translation\n\nA more complete Russian translation (PDF)\n\nThe systemd for Developers Series\n\n#1: Socket Activation\n\n#2: Socket Activation (Part 2)\n\n#3: Logging to the Journal\n\nThe various distributions\n\nArch Linux bugtracker\n\nopenSUSE instructions\n\nUsers, Groups and Home Directories\n\nConverting Existing Users to systemd-homed\n\nPax Controla Groupiana\n\nUser Record Blob Directories\n\nUser/Group Name Syntax\n\nUser/Group Record Lookup API via Varlink\n\nUsers, Groups, UIDs and GIDs on systemd Systems\n\nsystemd-homed and JSON User/Group Record Support in Desktop Environments\n\nVideos for Users and Administrators\n\nInterview about systemd at golem.de (German)\n\nPresentation about kdbus at linux.conf.au 2014\n\nPresentation about recent developments at Devconf 2013\n\nPresentation about systemd at FOSDEM 2011\n\nPresentation about systemd at FOSDEM 2013\n\nPresentation about systemd at FOSDEM 2013 (Slides)\n\nPresentation about systemd at FOSS.in 2012\n\nPresentation about systemd at OSEC Barcamp 2012\n\nPresentation about systemd at OSworld 2014 (systemd cheat-sheet) (Polish)\n\nPresentation about systemd at linux.conf.au 2011\n\nPresentation about systemd at linux.conf.au 2011 (Slides)\n\nPresentation about systemd at the Red Hat Summit 2013\n\nPresentation about the journal at Devconf 2013\n\nIntroductory blog story\n\nThe Wikipedia article",
+      "language": "en",
+      "category": "Technology",
+      "categoryConfidence": 0.58,
+      "categorySignals": [
+        "url_pattern:\\/system",
+        "desc:linux",
+        "body:container(2)",
+        "body:linux(6)",
+        "body:network(5)"
+      ],
+      "contentLengthBytes": 25881,
+      "wordCount": 795,
+      "statusCode": 200,
+      "fetchTimeMs": 903,
+      "processedAt": "2026-09-24T07:11:30.426Z",
+      "chunkId": "chunk-016",
+      "retryCount": 0
+    },
+    {
+      "id": "doc-docs_opensuse_org-3f0o79",
+      "url": "https://docs.opensuse.org/",
+      "canonicalUrl": "https://docs.opensuse.org/",
+      "domain": "docs.opensuse.org",
+      "title": "openSUSE Documentation",
+      "description": "openSUSE documentation for both system administrators and desktop users.",
+      "headings": {
+        "h1": [
+          "openSUSE Documentation"
+        ],
+        "h2": [
+          "openSUSE Leap 16.0",
+          "openSUSE Leap 15.6",
+          "openSUSE Leap 15.5",
+          "openSUSE Leap 15.4"
+        ],
+        "h3": []
+      },
+      "mainText": "openSUSE Documentation\n\nopenSUSE documentation for both system administrators and desktop users.\n\nAgama Installer Guide\n\nSystem Analysis and Tuning Guide\n\nSystem Analysis and Tuning Guide\n\nSystem Analysis and Tuning Guide",
+      "language": "en",
+      "category": "General",
+      "categoryConfidence": 0.5,
+      "categorySignals": [],
+      "contentLengthBytes": 45391,
+      "wordCount": 29,
+      "statusCode": 200,
+      "fetchTimeMs": 1973,
+      "processedAt": "2026-09-24T07:11:37.973Z",
+      "chunkId": "chunk-016",
+      "retryCount": 0
+    },
+    {
+      "id": "doc-docs_oracle_com-hrlks8",
+      "url": "https://docs.oracle.com/en/operating-systems/",
+      "canonicalUrl": "https://docs.oracle.com/en/operating-systems",
+      "domain": "docs.oracle.com",
+      "title": "Operating Systems Documentation - Get Started",
+      "description": "Oracle operating systems provide the foundation for your enterprise.",
+      "headings": {
+        "h1": [
+          "Operating Systems Documentation"
+        ],
+        "h2": [
+          "Oracle Linux",
+          "Oracle Solaris",
+          "Oracle Solaris Cluster",
+          "Oracle Developer Studio"
+        ],
+        "h3": []
+      },
+      "mainText": "Oracle Solaris Cluster\n\nOracle Developer Studio\n\nRelated Systems Software\n\nOperating Systems Documentation\n\nOracle Solaris Cluster\n\nOracle Developer Studio",
+      "language": "en",
+      "category": "Technology",
+      "categoryConfidence": 0.62,
+      "categorySignals": [
+        "title_phrase:operating system",
+        "heading:linux",
+        "heading_phrase:operating system",
+        "desc_phrase:operating system"
+      ],
+      "contentLengthBytes": 16565,
+      "wordCount": 18,
+      "statusCode": 200,
+      "fetchTimeMs": 821,
+      "processedAt": "2026-09-24T07:11:38.798Z",
+      "chunkId": "chunk-016",
+      "retryCount": 0
+    }
+  ]
+}

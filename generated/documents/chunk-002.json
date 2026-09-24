@@ -2,223 +2,274 @@
   "chunkId": "chunk-002",
   "filename": "chunk-002.json",
   "documentCount": 6,
-  "totalBytes": 4834,
-  "createdAt": "2026-09-24T05:08:14.281Z",
+  "totalBytes": 597516,
+  "createdAt": "2026-09-24T07:15:54.831Z",
   "documents": [
     {
-      "id": "doc-tailwindcss_com-f2u7ud",
-      "url": "https://tailwindcss.com/docs/v4-upgrade-guide",
-      "canonicalUrl": "https://tailwindcss.com/docs/v4-upgrade-guide",
-      "domain": "tailwindcss.com",
-      "title": "Upgrade Guide to Tailwind CSS v4 – Tailwind Documentation",
-      "description": "Comprehensive guide for migrating your frontend styles to Tailwind CSS v4 featuring the new high-speed Rust-powered engine and CSS-first configuration.",
+      "id": "doc-developer_apple_com-7b7js0",
+      "url": "https://developer.apple.com/documentation/",
+      "canonicalUrl": "https://developer.apple.com/documentation",
+      "domain": "developer.apple.com",
+      "title": "Featured | Apple Developer Documentation",
+      "description": "Browse the latest sample code, articles, and API reference.",
       "headings": {
-        "h1": [
-          "Upgrading to Tailwind CSS v4"
-        ],
-        "h2": [
-          "New Engine Architecture"
-        ],
+        "h1": [],
+        "h2": [],
         "h3": []
       },
-      "mainText": "Upgrading to Tailwind CSS v4\n\nTailwind CSS v4 is a ground-up rewrite of the framework, designed for speed and built using a new unified CSS-first configuration model.\n\nNew Engine Architecture\n\nBuilt with Lightning CSS, Tailwind v4 compiles stylesheets up to 10x faster with a fraction of memory usage.",
+      "mainText": "",
       "language": "en",
       "category": "Programming",
-      "categoryConfidence": 0.45,
+      "categoryConfidence": 0.64,
       "categorySignals": [
-        "url_pattern:\\/docs\\/",
-        "desc:frontend"
+        "url_pattern:\\/developer",
+        "title:developer",
+        "desc:code",
+        "desc:api"
       ],
-      "contentLengthBytes": 806,
-      "wordCount": 48,
+      "contentLengthBytes": 17771,
+      "wordCount": 0,
       "statusCode": 200,
-      "fetchTimeMs": 38,
-      "processedAt": "2026-09-24T05:08:13.587Z",
+      "fetchTimeMs": 778,
+      "processedAt": "2026-09-24T07:09:00.953Z",
       "chunkId": "chunk-002",
       "retryCount": 0
     },
     {
-      "id": "doc-github_com-jeqtcy",
-      "url": "https://github.com/torvalds/linux",
-      "canonicalUrl": "https://github.com/torvalds/linux",
-      "domain": "github.com",
-      "title": "torvalds/linux: Linux kernel source tree – GitHub",
-      "description": "Linux kernel source tree maintained by Linus Torvalds. The open source monolithic operating system kernel powering cloud servers, supercomputers, and mobile devices.",
+      "id": "doc-learn_microsoft_com-mwvxlq",
+      "url": "https://learn.microsoft.com/en-us/dotnet/",
+      "canonicalUrl": "https://learn.microsoft.com/en-us/dotnet/",
+      "domain": "learn.microsoft.com",
+      "title": ".NET documentation - .NET | Microsoft Learn",
+      "description": "Learn to use .NET to create applications on any platform using C#, F#, and Visual Basic. Browse API reference, sample code, tutorials, and more.",
       "headings": {
         "h1": [
-          "Linux Kernel Source Repository"
+          ".NET documentation"
         ],
         "h2": [
-          "Subsystems & Architecture"
+          ".NET: Free. Cross platform. Open source.",
+          "Programming languages",
+          "Create your application",
+          "API and language reference"
         ],
-        "h3": []
+        "h3": [
+          "Open source .NET",
+          ".NET concepts",
+          "Develop .NET apps",
+          ".NET tools and diagnostics",
+          "Migrate and upgrade",
+          "DevOps and testing",
+          "Data access in .NET",
+          "Advanced .NET programming",
+          "Web",
+          "Mobile",
+          "Desktop",
+          "Microservices",
+          "Cloud",
+          "AI and machine learning",
+          "Game development",
+          "Internet of things (IoT)"
+        ]
       },
-      "mainText": "Linux Kernel Source Repository\n\nLinux is a free software, open-source Unix-like operating system kernel created by Linus Torvalds in 1991. The codebase is primarily written in C with portions in Rust and assembly.\n\nSubsystems & Architecture\n\nIncludes memory management, process scheduling, virtual file system (VFS), networking stack, device drivers, and namespace isolation for Docker and Linux containers.",
-      "language": "en",
-      "category": "Technology",
-      "categoryConfidence": 0.65,
-      "categorySignals": [
-        "url_pattern:\\/linux",
-        "title:linux",
-        "title:kernel",
-        "heading:linux",
-        "heading:kernel",
-        "heading:architecture",
-        "desc:cloud",
-        "desc:linux",
-        "desc:kernel",
-        "desc_phrase:operating system"
-      ],
-      "contentLengthBytes": 906,
-      "wordCount": 57,
-      "statusCode": 200,
-      "fetchTimeMs": 21,
-      "processedAt": "2026-09-24T05:08:13.609Z",
-      "chunkId": "chunk-002",
-      "retryCount": 0
-    },
-    {
-      "id": "doc-sqlite_org-54ba90",
-      "url": "https://sqlite.org/arch.html",
-      "canonicalUrl": "https://sqlite.org/arch.html",
-      "domain": "sqlite.org",
-      "title": "Architecture of SQLite – In-Process SQL Database Engine",
-      "description": "Technical architecture and internal subsystems of SQLite: tokenizer, parser, code generator, virtual machine (VDBE), B-Tree, pager, and OS interface.",
-      "headings": {
-        "h1": [
-          "The Architecture of SQLite"
-        ],
-        "h2": [
-          "Virtual Database Engine (VDBE)"
-        ],
-        "h3": []
-      },
-      "mainText": "The Architecture of SQLite\n\nSQLite is structured into three main subsystems: the compiler subsystem (SQL frontend), the execution engine (virtual database engine VDBE), and the storage backend (B-tree and pager).\n\nVirtual Database Engine (VDBE)\n\nThe VDBE is a register-based virtual machine that executes bytecode instructions produced by the SQL parser and code generator to read or write database records.",
-      "language": "en",
-      "category": "Technology",
-      "categoryConfidence": 0.8,
-      "categorySignals": [
-        "domain:sqlite.org",
-        "title:database",
-        "title:sql",
-        "title:sqlite",
-        "title:architecture",
-        "heading:database",
-        "heading:sqlite",
-        "heading:architecture",
-        "desc:sqlite",
-        "desc:architecture"
-      ],
-      "contentLengthBytes": 891,
-      "wordCount": 59,
-      "statusCode": 200,
-      "fetchTimeMs": 32,
-      "processedAt": "2026-09-24T05:08:13.641Z",
-      "chunkId": "chunk-002",
-      "retryCount": 0
-    },
-    {
-      "id": "doc-kubernetes_io-c0zv41",
-      "url": "https://kubernetes.io/docs/concepts/overview/what-is-kubernetes/",
-      "canonicalUrl": "https://kubernetes.io/docs/concepts/overview/what-is-kubernetes/",
-      "domain": "kubernetes.io",
-      "title": "What is Kubernetes? | Kubernetes Cloud Infrastructure",
-      "description": "Kubernetes is an open-source container orchestration system for automating software deployment, scaling, and management of containerized applications.",
-      "headings": {
-        "h1": [
-          "Introduction to Kubernetes Container Orchestration"
-        ],
-        "h2": [],
-        "h3": []
-      },
-      "mainText": "Introduction to Kubernetes Container Orchestration\n\nKubernetes provides a framework to run distributed systems resiliently. It takes care of scaling and failover for your application, provides deployment patterns, and manages cluster hardware resources.",
-      "language": "en",
-      "category": "Technology",
-      "categoryConfidence": 0.8,
-      "categorySignals": [
-        "domain:kubernetes.io",
-        "url_pattern:\\/kubernetes",
-        "title:cloud",
-        "title:infrastructure",
-        "title:kubernetes",
-        "heading:kubernetes",
-        "heading:container",
-        "desc:software",
-        "desc:kubernetes",
-        "desc:container"
-      ],
-      "contentLengthBytes": 748,
-      "wordCount": 32,
-      "statusCode": 200,
-      "fetchTimeMs": 31,
-      "processedAt": "2026-09-24T05:08:13.674Z",
-      "chunkId": "chunk-002",
-      "retryCount": 0
-    },
-    {
-      "id": "doc-docs_docker_com-r3diza",
-      "url": "https://docs.docker.com/get-started/overview/",
-      "canonicalUrl": "https://docs.docker.com/get-started/overview/",
-      "domain": "docs.docker.com",
-      "title": "Docker Overview | Containerization Platform Architecture",
-      "description": "Docker is an open platform for developing, shipping, and running applications using OS-level containerization for predictable environments.",
-      "headings": {
-        "h1": [
-          "Docker Platform Overview"
-        ],
-        "h2": [],
-        "h3": []
-      },
-      "mainText": "Docker Platform Overview\n\nDocker provides the ability to package and run an application in a loosely isolated environment called a container. The isolation and security allow you to run many containers simultaneously on a given host.",
-      "language": "en",
-      "category": "Technology",
-      "categoryConfidence": 0.66,
-      "categorySignals": [
-        "domain:docker.com",
-        "title:docker",
-        "title:architecture",
-        "heading:docker",
-        "desc:docker",
-        "body:docker(2)"
-      ],
-      "contentLengthBytes": 701,
-      "wordCount": 36,
-      "statusCode": 200,
-      "fetchTimeMs": 33,
-      "processedAt": "2026-09-24T05:08:13.708Z",
-      "chunkId": "chunk-002",
-      "retryCount": 0
-    },
-    {
-      "id": "doc-signal_org-f2mu9z",
-      "url": "https://signal.org/docs/specifications/doubleratchet/",
-      "canonicalUrl": "https://signal.org/docs/specifications/doubleratchet/",
-      "domain": "signal.org",
-      "title": "The Double Ratchet Algorithm – Signal Cryptographic Protocol",
-      "description": "Cryptographic specification of the Double Ratchet Algorithm: providing end-to-end encryption with forward secrecy and break-in recovery for messaging protocols.",
-      "headings": {
-        "h1": [
-          "The Double Ratchet Cryptographic Algorithm"
-        ],
-        "h2": [],
-        "h3": []
-      },
-      "mainText": "The Double Ratchet Cryptographic Algorithm\n\nThe Double Ratchet algorithm is used by two parties to exchange encrypted messages based on a shared secret key. The parties derive new keys for every message so that earlier keys cannot be calculated from later ones (forward secrecy).",
+      "mainText": "Learn to use .NET to create applications on any platform using C#, F#, and Visual Basic. Browse API reference, sample code, tutorials, and more.\n\n.NET: Free. Cross platform. Open source.\n\nA developer platform for building all your apps: web, mobile, desktop, gaming, IoT, and more. Supported on Windows, Linux, and macOS.\n\nWhat's new in .NET 11\n\n.NET developer community\n\n.NET Framework (for Windows)\n\n.NET tech community forums\n\nBuild an Azure AI chat app with .NET\n\nCreate .NET desktop apps for Windows\n\nCreate web apps with ASP.NET Core\n\nBuild cloud-native .NET apps with Orleans\n\nBuild cloud-native apps with Aspire\n\nContainerize .NET apps with Docker\n\n.NET tools and diagnostics\n\nMSBuild property reference\n\nGlobal and local tools\n\nPort from .NET Framework to .NET\n\n.NET breaking changes\n\nGitHub Actions and .NET\n\nEntity Framework Core\n\nAdvanced .NET programming\n\nAsync programming patterns overview\n\nParallel programming overview\n\nNative interoperability\n\nProgramming languages\n\nWrite your app in your favorite language\n\nCreate your application\n\nYou can choose web, mobile, desktop, gaming, IoT, and more.\n\nASP.NET Core tutorials\n\nWhat is ASP.NET Core?\n\nASP.NET Core in Visual Studio\n\nASP.NET MVC apps in Windows containers\n\nBlazor: Interactive client-side web UI with .NET\n\nF# for web development\n\n.NET Multi-platform App UI (.NET MAUI)\n\nWindows Presentation Foundation\n\n.NET Multi-platform App UI (.NET MAUI)\n\nDapr for .NET developers\n\nCloud native .NET apps\n\nServerless apps with Azure\n\nArchitecture for containerized .NET apps\n\nDeploy a Worker Service to Azure\n\nAzure for .NET developers\n\nMigrate on-premises .NET web apps or services\n\nAzure services for .NET developers\n\nDeploying Azure Resources with F#\n\nAI and machine learning\n\nAI for .NET developers\n\nUnderstand prompt engineering\n\nImplement RAG using vector search\n\nGet started with the .NET enterprise chat sample\n\nBuild custom AI solutions with ML.NET\n\nAzure Cognitive Services\n\nAzure machine learning\n\nF# for Machine Leaning\n\nGame development with Visual Studio\n\nLearn how to use CRYENGINE to build games with C#\n\nBuild games with C# using the MonoGame library\n\nLearn how to use Unity to build 2D and 3D games with C#\n\nInternet of things (IoT)\n\nGet started in 5 minutes\n\n.NET IoT 101 video series\n\nAPI and language reference\n\nSearch the .NET API and language reference documentation.\n\nAPI reference documentation for .NET\n\nAPI reference documentation for ASP.NET Core\n\nC# language reference and specification\n\nF# language reference\n\nVisual Basic language reference and specification\n\nAPI reference documentation for .NET Framework\n\nAre you interested in contributing to the .NET docs? For more information, see our contributor guide .",
       "language": "en",
       "category": "Programming",
-      "categoryConfidence": 0.42,
+      "categoryConfidence": 0.6,
       "categorySignals": [
-        "url_pattern:\\/docs\\/",
-        "title:algorithm",
-        "heading:algorithm",
-        "desc:algorithm",
-        "body:algorithm(2)"
+        "heading:programming",
+        "heading:api",
+        "desc:code",
+        "desc:api",
+        "body:programming(4)",
+        "body:framework(4)",
+        "body:api(6)",
+        "body:developer(2)"
       ],
-      "contentLengthBytes": 782,
-      "wordCount": 44,
+      "contentLengthBytes": 70286,
+      "wordCount": 402,
       "statusCode": 200,
-      "fetchTimeMs": 38,
-      "processedAt": "2026-09-24T05:08:13.746Z",
+      "fetchTimeMs": 1338,
+      "processedAt": "2026-09-24T07:09:02.304Z",
+      "chunkId": "chunk-002",
+      "retryCount": 0
+    },
+    {
+      "id": "doc-learn_microsoft_com-6sn6cp",
+      "url": "https://learn.microsoft.com/en-us/cpp/",
+      "canonicalUrl": "https://learn.microsoft.com/en-us/cpp/?view=msvc-170",
+      "domain": "learn.microsoft.com",
+      "title": "Microsoft C/C++ Documentation | Microsoft Learn",
+      "description": "Learn how to use C++ to develop applications, services, and tools for your platforms and devices.",
+      "headings": {
+        "h1": [
+          "Microsoft C++, C, and Assembler documentation"
+        ],
+        "h2": [
+          "Get started with C++ and C",
+          "Languages and frameworks",
+          "C++ and C workloads, features, and libraries"
+        ],
+        "h3": [
+          "Learn to use the Visual Studio IDE",
+          "Write C++ and C apps in Visual Studio",
+          "Use the command-line tools",
+          "Use C++ and C in Visual Studio Code",
+          "Workloads",
+          "Features",
+          "Libraries"
+        ]
+      },
+      "mainText": "Microsoft C++, C, and Assembler documentation\n\nLearn how to use C++, C, and assembly language to develop applications, services, and tools for your platforms and devices.\n\nGet started with C++ and C\n\nLearn to use the Visual Studio IDE\n\nStart a guided tour of Visual Studio\n\nOpen code from a repo\n\nWrite C++ and C apps in Visual Studio\n\nCreate a console calculator app\n\nCreate a Windows Desktop app with Win32\n\nCreate a Windows Desktop app with MFC\n\nCreate a static library\n\nCreate a .NET component\n\nCreate a Universal Windows Platform app\n\nUse the command-line tools\n\nUse C++ and C in Visual Studio Code\n\nGet started with Visual Studio Code\n\nInstall the Microsoft C/C++ extension\n\nUse Microsoft C/C++ in Windows\n\nUse C++ in the Windows Subsystem for Linux\n\nLanguages and frameworks\n\nC++ and C workloads, features, and libraries\n\nDevelop for your choice of platforms with Visual Studio tools.\n\nUniversal Windows Platform development\n\nWindows Desktop development\n\nBuild reliable and secure programs\n\nEdit and refactor code\n\nProfile app performance\n\nPort and upgrade code\n\nSanitize code for bugs\n\nC++ standard library reference\n\nC runtime library reference\n\nMFC and ATL Windows Desktop libraries\n\nParallel programming libraries\n\nCloud and networking libraries\n\nUniversal Windows Platform libraries\n\nvcpkg package manager\n\nMicrosoft Learn Q&A - C++ Team Blog - Twitter - Developer Community - Stack Overflow - How to report an issue - Suggest a feature - Contribute to C++ docs: Read our contributor guide .",
+      "language": "en",
+      "category": "Education",
+      "categoryConfidence": 0.41,
+      "categorySignals": [
+        "url_pattern:\\/learn",
+        "title:learn",
+        "heading:learn",
+        "desc:learn",
+        "body:learn(3)"
+      ],
+      "contentLengthBytes": 53394,
+      "wordCount": 238,
+      "statusCode": 200,
+      "fetchTimeMs": 1118,
+      "processedAt": "2026-09-24T07:09:03.429Z",
+      "chunkId": "chunk-002",
+      "retryCount": 0
+    },
+    {
+      "id": "doc-learn_microsoft_com-7x79mn",
+      "url": "https://learn.microsoft.com/en-us/powershell/",
+      "canonicalUrl": "https://learn.microsoft.com/en-us/powershell/",
+      "domain": "learn.microsoft.com",
+      "title": "PowerShell Documentation - PowerShell | Microsoft Learn",
+      "description": "Official product documentation for PowerShell",
+      "headings": {
+        "h1": [
+          "PowerShell Documentation"
+        ],
+        "h2": [
+          "PowerShell Editions + Tools",
+          "Community Resources",
+          "PowerShell Team"
+        ],
+        "h3": [
+          "PowerShell",
+          "PowerShell Utility modules",
+          "Desired State Configuration",
+          "PowerShell Gallery",
+          "Developer resources",
+          "Related technologies"
+        ]
+      },
+      "mainText": "PowerShell Documentation\n\nOfficial product documentation for PowerShell\n\nPowerShell Editions + Tools\n\nAvailable editions, tools, and technology that supports PowerShell\n\nInstall PowerShell on Windows\n\nInstall PowerShell on Linux\n\nInstall PowerShell on macOS\n\nWhat's new in PowerShell\n\nPowerShell Utility modules\n\nPowerShell utility modules\n\nPSScriptAnalyzer overview\n\nSecretManagement overview\n\nDesired State Configuration\n\nPowerShell DSC Overview\n\nPackage management for PowerShell\n\nVisual Studio Code PowerShell Extension\n\nUsing VS Code for remote editing and debugging\n\nWindows PowerShell SDK documentation\n\nPowerShell SDK API reference\n\nQuickstart for Azure Cloud Shell\n\nAzure PowerShell modules\n\nAzure Automation runbooks\n\nCreate a PowerShell function in Azure\n\nWindows management modules\n\nConnect with other PowerShell users\n\nCommunicate with the PowerShell team\n\nOfficial news and announcements\n\nA place for the community to learn PowerShell and share insights\n\nPowerShell news 280 characters at a time\n\nThe place for bugs in the current release",
+      "language": "en",
+      "category": "Education",
+      "categoryConfidence": 0.3,
+      "categorySignals": [
+        "url_pattern:\\/learn",
+        "title:learn"
+      ],
+      "contentLengthBytes": 48286,
+      "wordCount": 136,
+      "statusCode": 200,
+      "fetchTimeMs": 609,
+      "processedAt": "2026-09-24T07:09:04.044Z",
+      "chunkId": "chunk-002",
+      "retryCount": 0
+    },
+    {
+      "id": "doc-developer_mozilla_org-w12y4d",
+      "url": "https://developer.mozilla.org/en-US/docs/Learn",
+      "canonicalUrl": "https://developer.mozilla.org/en-US/docs/Learn_web_development",
+      "domain": "developer.mozilla.org",
+      "title": "Learn web development | MDN",
+      "description": "Welcome to MDN Learning Web Development (also known as Learn). This resource provides a structured set of tutorials teaching the essential skills and practices for being a successful front-end developer, along with challenges and further recommended resources.",
+      "headings": {
+        "h1": [
+          "Learn web development"
+        ],
+        "h2": [
+          "In this article",
+          "About Learn web development",
+          "Don't know where to get started?",
+          "Test your skills",
+          "Getting our code examples",
+          "Contact us",
+          "See also",
+          "Help improve MDN"
+        ],
+        "h3": [
+          "Try our partner video courses"
+        ]
+      },
+      "mainText": "Learn web development\n\nWelcome to MDN Learning Web Development (also known as Learn ). This resource provides a structured set of tutorials teaching the essential skills and practices for being a successful front-end developer, along with challenges and further recommended resources.\n\nAbout Learn web development\n\nDon't know where to get started?\n\nGetting our code examples\n\nAbout Learn web development\n\nTeaches the essential skills and knowledge every front-end developer needs for career success and industry relevance, as defined in the MDN Curriculum .\n\nCreated by the MDN community and refined with insights from students, educators, and developers from the broader web community.\n\nDesigned to take you from \"beginner\" to \"comfortable\" (not \"beginner\" to \"expert\"), giving you enough knowledge to use more advanced resources (such as the rest of MDN ).\n\nNote: Last updated: August 2025 ( see changelog ).\n\nTry our partner video courses\n\nInterested in an interactive video course to complement our articles? Scrimba's Frontend Developer Career Path MDN learning partner also teaches the topics contained in the MDN Curriculum.\n\nDon't know where to get started?\n\nOur Getting started modules provide setup tutorials and essential concepts and background information for complete beginners. You should start here if you are a complete beginner (i.e., you've not installed a code editor or written any code yet).\n\nOur Core modules provide a structured set of tutorials teaching the essential skills and practices for being a successful front-end developer.\n\nOur Extension modules cover useful additional skills to learn as you start to expand your knowledge and develop specialisms. Go onto these after you finish our Core.\n\nUse our modules to guide your teaching, check out our Educators page for more ideas.\n\nThroughout the course, you'll find several articles designed to help you assess whether you have understood what we are teaching you in the course. There are two types:\n\n\"Test your skills\" articles occur more frequently, and test your knowledge of a single isolated feature such as HTML links, the CSS box model, or JavaScript functions.\n\n\"Challenges\" occur less frequently, and test your ability to use several features together to create a complete website or program of some kind.\n\nMost of the questions feature HTML/CSS/JavaScript code blocks that show the starting code for each task. The recommended way to complete each one is to press the \"Play\" button in one of the code blocks to open the example in the MDN Playground and then edit the code according to the question instructions.\n\nIf you make a mistake, you can clear your work using the Reset button in the MDN Playground. If you get really stuck, you can (usually) view the solution at the bottom of each question section, or reach out for help .\n\nNote: If you'd prefer to work in your own editor or in an online editor (such as CodePen or JSFiddle ), you can copy the code from the MDN Playground into your chosen environment.\n\nSome questions don't include code blocks to start from, and instead ask you to download starter files to work on your local machine with. Sometimes this is due to the complex nature of the question, and sometimes we just wanted to change things up a bit.\n\nGetting our code examples\n\nThe code examples you'll encounter in the Learning Area are all available on GitHub :\n\nThe easiest way to get them is to download a ZIP of the latest main code branch .\n\nIf you are familiar with Git and GitHub, you could also choose to clone the repository.\n\nIf you want to get in touch with us about anything, use the communication channels . We'd love to hear from you about anything you think is wrong or missing on the site, requests for new learning topics, requests for help with items you don't understand, or any other questions or concerns.\n\nIf you're interested in helping develop/improve the content, take a look at how you can help and get in touch! We are more than happy to talk to you, whether you are a learner, teacher, experienced web developer, or someone else interested in helping to improve the learning experience.\n\nScrimba's Frontend Developer Career Path teaches all you need to know to be a competent front-end web developer, with fun interactive lessons and challenges, knowledgeable teachers, and a supportive community. Go from zero to landing your first front-end job! Many of the course components are available as standalone free versions.\n\nA great interactive site for learning programming languages from scratch.\n\nInteractive site with tutorials and projects to learn web development.\n\nAn excellent resource for aspiring web developers — Learn JavaScript in an interactive environment, with short lessons and interactive tests, guided by automated assessment. The first 40 lessons are free, and the complete course is available for a small one-time payment.\n\nThis page was last modified on Oct 29, 2025 by MDN contributors .",
+      "language": "en",
+      "category": "Programming",
+      "categoryConfidence": 0.59,
+      "categorySignals": [
+        "domain:developer.mozilla.org",
+        "url_pattern:\\/docs\\/",
+        "url_pattern:\\/developer",
+        "heading:code",
+        "desc:developer",
+        "body:code(12)",
+        "body:javascript(3)",
+        "body:github(2)",
+        "body:frontend(2)",
+        "body:developer(7)"
+      ],
+      "contentLengthBytes": 185445,
+      "wordCount": 808,
+      "statusCode": 200,
+      "fetchTimeMs": 496,
+      "processedAt": "2026-09-24T07:09:04.549Z",
+      "chunkId": "chunk-002",
+      "retryCount": 0
+    },
+    {
+      "id": "doc-developer_mozilla_org-lvxlky",
+      "url": "https://developer.mozilla.org/en-US/docs/Web/HTTP",
+      "canonicalUrl": "https://developer.mozilla.org/en-US/docs/Web/HTTP",
+      "domain": "developer.mozilla.org",
+      "title": "HTTP: Hypertext Transfer Protocol | MDN",
+      "description": "HTTP is an application-layer protocol for transmitting hypermedia documents, such as HTML.\nIt was designed for communication between web browsers and web servers, but it can also be used for other purposes, such as machine-to-machine communication, programmatic access to APIs, and more.",
+      "headings": {
+        "h1": [
+          "HTTP: Hypertext Transfer Protocol"
+        ],
+        "h2": [
+          "In this article",
+          "Guides",
+          "Tools & resources",
+          "Reference",
+          "Help improve MDN"
+        ],
+        "h3": [
+          "Security and privacy",
+          "Related resources"
+        ]
+      },
+      "mainText": "HTTP: Hypertext Transfer Protocol\n\nHTTP is an application-layer protocol for transmitting hypermedia documents, such as HTML. It was designed for communication between web browsers and web servers, but it can also be used for other purposes, such as machine-to-machine communication, programmatic access to APIs, and more.\n\nHTTP follows a classical client-server model , with a client opening a connection to make a request, then waiting until it receives a response from the server. HTTP is a stateless protocol , meaning that the server does not keep any session data between two requests, although the later addition of cookies adds state to some client-server interactions.\n\nHTTP is an extensible protocol that relies on concepts like resources and Uniform Resource Identifiers (URIs), a basic message structure, and client-server communication model. On top of these concepts, numerous extensions have been developed over the years that add functionality and updated semantics, including additional HTTP methods and headers.\n\nThe HTTP guides are listed in order from general overviews to specialized, use-case-driven topics. Beginners are encouraged to start with the foundational guides before exploring more focused articles.\n\nThe basic features of HTTP, what it can do, its intended use in web architecture, and its position in the protocol stack.\n\nHTTP was created in the early 1990s and has been extended several times. This article goes through its history and describes HTTP/0.9, HTTP/1.0, HTTP/1.1, through HTTP/2 and HTTP/3, as well as novelties introduced over the years.\n\nDescribes the flow of an HTTP session, from establishing a connection, sending a request, to receiving a response.\n\nHTTP messages transmitted as requests and responses have a defined structure. This article describes this general structure, its purpose, and the different types of messages.\n\nSince HTTP/1.0, different types of content can be transmitted. This article explains how this is accomplished using the Content-Type header and the MIME standard. A shortlist of common types used by web developers can be found in Common MIME types .\n\nBrowsers and servers compress their messages before sending them over the network to reduce the amount of data that needs to be transmitted, improving transfer speed and bandwidth utilization.\n\nCaching is a highly important mechanism for delivering fast experiences on the Web and for efficient use of resources. This article describes different methods of caching and how to use HTTP headers to control them.\n\nAuthentication is a way to verify the identity of a client when making requests to a server. It ensures that only authorized users or systems can access certain resources.\n\nAlthough HTTP is a stateless protocol, a server can send a Set-Cookie header with the response. The client then returns the cookie's value with every subsequent request to the server in the form of a Cookie request header. This adds the ability to store and exchange a small amount of data which effectively adds state to some client-server interactions.\n\nURL redirection, also known as URL forwarding, is a technique to give more than one URL address to a page, a form, a whole website, or a web application. HTTP has a special kind of response, called an HTTP redirect, for this operation.\n\nIn conditional requests, the outcome of a request depends on the value of a validator in the request. This method is used heavily in caching and use cases such as resuming a download, preventing lost updates when modifying a document on the server, and more.\n\nA range request asks the server to send a specific part (or parts) of a resource back to a client instead of the full resource. Range requests are useful for cases when a client knows they need only part of a large file, or for cases where an application allows the user to pause and resume a download.\n\nHTTP defines a set of message headers, starting with Accept as a way for a browser to announce the format, language, or encoding it prefers. This article explains how this advertisement happens, how the server is expected to react, and how it chooses the most adequate response to a request.\n\nHTTP/1.1 was the first version of HTTP to support persistent connections and pipelining. This article explains both concepts, including the pros and cons of each.\n\nHTTP/1.1 provides a mechanism to upgrade an already-established connection to a different protocol using the Upgrade header. A client can upgrade a connection from HTTP/1.1 to HTTP/2, or an HTTP(S) connection to a WebSocket ( ws / wss ).\n\nA proxy can be on the user's local computer, or anywhere between the user's computer and a destination server on the Internet. This page outlines some basics about proxies and introduces a few configuration options.\n\nClient Hints are a set of response headers that a server can use to proactively request information from a client about the device, network, user, and user-agent-specific preferences. The server can then determine which resources to send, based on the information that the client chooses to provide.\n\nNetwork Error Logging is a mechanism that can be configured via the NEL HTTP response header. This experimental header allows websites and applications to opt-in to receive reports about failed (or even successful) network fetches from supporting browsers.\n\nIt's very rarely a good idea to use user agent sniffing to detect a browser, but there are edge cases that require it. This document will guide you in doing this as correctly as possible when this is necessary, with an emphasis on considerations to make before embarking on this route.\n\nPermissions Policy provides mechanisms for web developers to explicitly declare what functionality can and cannot be used on a website. You define a set of \"policies\" that restrict what APIs the site's code can access or modify the browser's default behavior for certain features.\n\nCross-site HTTP requests are requests for resources from a different domain than that of the resource making the request. Web pages today very commonly load cross-site resources, for example, a page 'Domain A' ( http://domaina.example/ ) requests an image on 'Domain B' ( http://domainb.foo/image.jpg ) via the img element. CORS allows web developers to control how their site reacts to cross-site requests.\n\nCSP allows website administrators to use the Content-Security-Policy response header to control which resources the client is allowed to load for a given page. The CSP guide describes the overall Content Security Policy mechanism which helps detect and mitigate certain types of attacks, including Cross-Site Scripting (XSS) and data injection attacks.\n\nCORP lets websites and applications opt in to protection against specific requests from other origins (such as those issued with elements like <script> and <img> ), to mitigate speculative side-channel attacks.\n\nA collection of tips to help operational teams with creating secure web applications.\n\nUniform Resource Identifiers (URIs) are used to describe and locate resources on the web and are an essential component in HTTP requests.\n\nThis guide covers a few server configuration changes that may be necessary for your web server to correctly serve Ogg media files. This information may also be useful if you encounter other media types your server isn't already configured to recognize.\n\nHelpful tools and resources for understanding and debugging HTTP.\n\nA project designed to help developers, system administrators, and security professionals configure their sites safely and securely.\n\nTools to check your cache-related headers.\n\nAn HTTP/2 client, server and proxy implementation written in C with load test and benchmarking tools and an HPACK encoder and decoder.\n\nA command-line tool for transferring data specified with URL syntax. Supports HTTP, HTTPS, WS, WSS, among many other protocols.\n\nA very comprehensive article on browser internals and request flow through HTTP protocol.\n\nThe HTTP reference documentation contains detailed information about headers, request methods, status responses, and lists relevant specifications and standards documents.\n\nMessage headers are used to send metadata about a resource or an HTTP message, and to describe the behavior of the client or the server.\n\nRequest methods indicate the purpose of the request and what is expected if the request is successful. The most common methods are GET and POST for retrieving and sending data to servers, respectively, but there are other methods which serve different purposes.\n\nResponse status codes indicate the outcome of a specific HTTP request. Responses are grouped in five classes: informational, successful, redirections, client errors, and server errors.\n\nThis page lists relevant resources about HTTP since it was first specified in the early 1990s.\n\nThe following subsections are also notable:\n\nThe Content-Security-Policy (CSP) response header allows website administrators to specify which resources the user agent is allowed to load for a given page. This section lists directives that can be used in a CSP header, with individual documentation pages that describe how the directives work and how to use them.\n\nThe Permissions-Policy response header provides a mechanism to allow or deny the use of browser features in a document or within any <iframe> element in the document. This section lists directives that can be used in a Permissions-Policy header, with individual documentation pages that describe how the directives work and how to use them.\n\nThis page was last modified on Jul 28, 2026 by MDN contributors .",
+      "language": "en",
+      "category": "Technology",
+      "categoryConfidence": 0.61,
+      "categorySignals": [
+        "title:protocol",
+        "heading:protocol",
+        "heading:security",
+        "desc:protocol",
+        "body:server(17)",
+        "body:network(4)",
+        "body:protocol(8)",
+        "body:security(2)"
+      ],
+      "contentLengthBytes": 222334,
+      "wordCount": 1507,
+      "statusCode": 200,
+      "fetchTimeMs": 79,
+      "processedAt": "2026-09-24T07:09:04.640Z",
       "chunkId": "chunk-002",
       "retryCount": 0
     }

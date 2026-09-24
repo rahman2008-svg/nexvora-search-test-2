@@ -1,0 +1,238 @@
+{
+  "chunkId": "chunk-035",
+  "filename": "chunk-035.json",
+  "documentCount": 6,
+  "totalBytes": 626815,
+  "createdAt": "2026-09-24T07:15:54.831Z",
+  "documents": [
+    {
+      "id": "doc-historytoday_com-j7dg3p",
+      "url": "https://www.historytoday.com/",
+      "canonicalUrl": "https://www.historytoday.com/",
+      "domain": "historytoday.com",
+      "title": "History Today | The World’s Leading History Magazine",
+      "description": "History Today is the world’s leading history magazine for in-depth articles, reviews, and research by the foremost historians in their fields. Subscriptions including our print magazine, digital archive and app are available.",
+      "headings": {
+        "h1": [],
+        "h2": [
+          "User menu logged out",
+          "Main menu",
+          "Mini header menu",
+          "Why Does Academic History Matter?",
+          "The Lost History of the Aztec Empire",
+          "Count Binface Should Read Bartolus",
+          "The Decline of the Carolingians",
+          "Today’s featured articles",
+          "Most recent",
+          "Current issue",
+          "Popular Articles",
+          "ALTERNATIVE HISTORIES",
+          "Recent issues",
+          "Footer menu"
+        ],
+        "h3": [
+          "The Long Fight Against Deaf Exclusion",
+          "The Decline of the Carolingians",
+          "The Emancipation Proclamation Pocket Book",
+          "Death of Musical Coalman Thomas Britton",
+          "Count Binface Should Read Bartolus",
+          "‘A History of the Novel in Britain’ by Philip Hensher review",
+          "The 18th-Century Search for the Soul",
+          "Why Does Academic History Matter?",
+          "The FBI and the Nazi Spies",
+          "The Hatry Group Collapse",
+          "In the October 2026 issue:",
+          "Volume 76 Issue 10 October 2026",
+          "Volume 76 Issue 9 September 2026",
+          "Volume 76 Issue 8 August 2026",
+          "Volume 76 Issue 7 July 2026"
+        ]
+      },
+      "mainText": "Why Does Academic History Matter?\n\nThe study of history at UK universities appears to be under existential threat. Should anyone care?\n\nThe Lost History of the Aztec Empire\n\nBefore the Spanish conquest, the history of the Aztec Empire was recorded orally and with hieroglyphs. In danger of being lost or forgotten, Indigenous historians began to write it down.\n\nCount Binface Should Read Bartolus\n\nThe jurisprudence of the Middle Ages may complement the legal efforts of today’s environmentalists.\n\nThe Decline of the Carolingians\n\nThe Carolingian Empire was consolidated by one of Europe’s most celebrated kings, but Charlemagne’s death meant that decline was inevitable.\n\nToday’s featured articles\n\nBehind the Times The Long Fight Against Deaf Exclusion\n\nSpeech, rather than hearing, has long been at the heart of deaf exclusion. Embracing sign language changed that.\n\nFeature The Decline of the Carolingians\n\nThe Carolingian Empire was consolidated by one of Europe’s most celebrated kings, but Charlemagne’s death meant that decline was inevitable.\n\nHistory Matters The Emancipation Proclamation Pocket Book\n\nA miniature Emancipation Proclamation helped to recruit Black soldiers during the Civil War.\n\nMonths Past Death of Musical Coalman Thomas Britton\n\nCoal merchant and concert promoter Thomas Britton passed away on 27 September 1714 after a prank went awry.\n\nMaking History Count Binface Should Read Bartolus\n\nThe jurisprudence of the Middle Ages may complement the legal efforts of today’s environmentalists.\n\nReview ‘A History of the Novel in Britain’ by Philip Hensher review\n\nPhilip Hensher’s A History of the Novel in Britain is certainly novel but how does it fare as history?\n\nFeature The 18th-Century Search for the Soul\n\nIs the soul immortal, or does it die with the body? At the turn of the 18th century, amateur theologians like Henry Layton began to speculate, much to experts’ chagrin.\n\nHead to Head Why Does Academic History Matter?\n\nThe study of history at UK universities appears to be under existential threat. Should anyone care?\n\nFeature The FBI and the Nazi Spies\n\nIn 1938 a sensational spy trial exposed a Nazi plot to seduce and blackmail US officers. Despite America’s technological might, counterintelligence had been slow on the uptake.\n\nMonths Past The Hatry Group Collapse\n\nCharles Hatry’s fraudulent business empire collapsed on 20 September 1929. It was the biggest crash the London stock market had ever seen.\n\nFeature The Decline of the Carolingians\n\nThe Carolingian Empire was consolidated by one of Europe’s most celebrated kings, but Charlemagne’s death meant that decline was inevitable.\n\nImage In the October 2026 issue:\n\nHirohito’s return to Europe, the lost history of the Aztec Empire, the decline of the medieval Carolingians, the FBI and the Nazi Spies, and the 18th-century search for the soul.\n\nPlus: reviews, opinion, crossword, debate, and much more!\n\nYou can buy this issue from our website, from newsstands across the UK, or read it as a digital edition via the History Today App.\n\nWhy Does Academic History Matter?\n\nThe United States of Africa?\n\n‘A History of the Novel in Britain’ by Philip Hensher review\n\nCount Binface Should Read Bartolus\n\nDeath of Musical Coalman Thomas Britton\n\nThe Fall of the Roman Empire\n\nALTERNATIVE HISTORIES\n\nVolume 76 Issue 10 October 2026\n\nAztec Empire, Hirohito, Carolingians\n\nVolume 76 Issue 9 September 2026\n\nChinese Tourism, Bengal Famine, Victorian Reading\n\nVolume 76 Issue 8 August 2026\n\nCicero and Caesar, Roosevelt, Darwin on Gender\n\nVolume 76 Issue 7 July 2026\n\nDeclaration of Independence, Old English, Early Christians",
+      "language": "en",
+      "category": "Education",
+      "categoryConfidence": 0.48,
+      "categorySignals": [
+        "heading:academic",
+        "body:study(2)",
+        "body:academic(3)"
+      ],
+      "contentLengthBytes": 64512,
+      "wordCount": 562,
+      "statusCode": 200,
+      "fetchTimeMs": 580,
+      "processedAt": "2026-09-24T07:14:20.373Z",
+      "chunkId": "chunk-035",
+      "retryCount": 0
+    },
+    {
+      "id": "doc-wikipedia_org-zfjw75",
+      "url": "https://www.wikipedia.org/",
+      "canonicalUrl": "https://www.wikipedia.org/",
+      "domain": "wikipedia.org",
+      "title": "Wikipedia",
+      "description": "Wikipedia is a free online encyclopedia, created and edited by volunteers around the world and hosted by the Wikimedia Foundation.",
+      "headings": {
+        "h1": [
+          "Wikipedia The Free Encyclopedia"
+        ],
+        "h2": [
+          "1,000,000+ articles",
+          "100,000+ articles",
+          "10,000+ articles",
+          "1,000+ articles",
+          "100+ articles"
+        ],
+        "h3": [
+          "The internet we were promised"
+        ]
+      },
+      "mainText": "Wikipedia The Free Encyclopedia\n\nSinugboanong Binisaya\n\nҚазақша / Qazaqşa / قازاقشا\n\nSrpskohrvatski / Српскохрватски\n\nБеларуская (тарашкевіца)\n\nবিষ্ণুপ্রিয়া মণিপুরী\n\nMìng-dĕ̤ng-ngṳ̄ / 閩東語\n\nChavacano de Zamboanga\n\nMedžuslovjansky / Меджусловјанскы\n\nСловѣ́ньскъ / ⰔⰎⰑⰂⰡⰐⰠⰔⰍⰟ\n\nAn important update for readers in the United States .\n\nYou deserve an explanation, so please don't skip this 1-minute read. This year, Wikipedia has had fewer visitors and fewer new supporters, so your visit today means a lot. We hope that Wikipedia's given you at least $2.75 of knowledge recently. If everyone who found Wikipedia useful gave $2.75 , we'd hit our goal in a few hours.\n\nAfter 25 years, Wikipedia is still the internet we were promised—created by people, not by machines. It's not perfect, but it's not here to push a point of view. It's run by a nonprofit, not a giant technology company or a billionaire.\n\nLess than 2% of our readers donate. The rare few who give do so because Wikipedia provides them with useful knowledge. If that sounds like you, please donate $2.75 . Any contribution you make today helps.\n\nProud host of Wikipedia and other free knowledge projects\n\nWe never sell your information. By submitting, you are agreeing to our donor privacy policy and to sharing your information with the Wikimedia Foundation and its service providers in the USA and elsewhere. Donations to the Wikimedia Foundation are likely not tax-deductible outside the USA.\n\nThe internet we were promised\n\nMost people donate because Wikipedia is the internet we were promised: useful, free, and filled with reliable, human-created knowledge. If you agree, please give $2.75 . If everyone reading this right now gave just $2.75 , we'd reach our goal quickly.\n\n— The Wikimedia Foundation, host of Wikipedia and other free knowledge projects .\n\nYour support means the world to us. We'll hide banners in this browser for one month.",
+      "language": "en",
+      "category": "General",
+      "categoryConfidence": 0.66,
+      "categorySignals": [
+        "domain:wikipedia.org",
+        "heading:encyclopedia",
+        "desc:encyclopedia"
+      ],
+      "contentLengthBytes": 119573,
+      "wordCount": 305,
+      "statusCode": 200,
+      "fetchTimeMs": 362,
+      "processedAt": "2026-09-24T07:14:20.746Z",
+      "chunkId": "chunk-035",
+      "retryCount": 0
+    },
+    {
+      "id": "doc-en_wikibooks_org-alonql",
+      "url": "https://en.wikibooks.org/",
+      "canonicalUrl": "https://en.wikibooks.org/wiki/Main_Page",
+      "domain": "en.wikibooks.org",
+      "title": "Wikibooks",
+      "description": "Multilingual Wikisource\n\nFeatured books • Wikijunior • Cookbook • Browse books • Help • Forum • Using Wikibooks\n\nRecreational activities\n\nWikiversity Learning resources\n\nWikipedia Encyclopedia\n\nWiktio...",
+      "headings": {
+        "h1": [
+          "Main Page"
+        ],
+        "h2": [],
+        "h3": []
+      },
+      "mainText": "Multilingual Wikisource\n\nFeatured books • Wikijunior • Cookbook • Browse books • Help • Forum • Using Wikibooks\n\nRecreational activities\n\nWikiversity Learning resources\n\nWikipedia Encyclopedia\n\nWiktionary Dictionary and thesaurus\n\nWikispecies Species directory\n\nWikivoyage Travel guide\n\nWikidata Knowledge database\n\nCommons Media repository\n\nWikifunctions Free programming functions\n\nMeta-Wiki Wikimedia project coordination\n\nMediaWiki Wiki software development",
+      "language": "en",
+      "category": "General",
+      "categoryConfidence": 0.33,
+      "categorySignals": [
+        "desc:encyclopedia"
+      ],
+      "contentLengthBytes": 101940,
+      "wordCount": 53,
+      "statusCode": 200,
+      "fetchTimeMs": 442,
+      "processedAt": "2026-09-24T07:14:21.194Z",
+      "chunkId": "chunk-035",
+      "retryCount": 0
+    },
+    {
+      "id": "doc-en_wikiversity_org-4md4ow",
+      "url": "https://en.wikiversity.org/",
+      "canonicalUrl": "https://en.wikiversity.org/wiki/Wikiversity:Main_Page",
+      "domain": "en.wikiversity.org",
+      "title": "Wikiversity",
+      "description": "Wikiversity : Main Page\n\nMultilingual Wikisource\n\nWelcome to Wikiversity\n\nwith 37,494 learning resources and growing.\n\nArts • Humanities • Mathematics • Medicine • Science • Social Sciences • Technolo...",
+      "headings": {
+        "h1": [
+          "Wikiversity : Main Page"
+        ],
+        "h2": [],
+        "h3": []
+      },
+      "mainText": "Wikiversity : Main Page\n\nMultilingual Wikisource\n\nWelcome to Wikiversity\n\nwith 37,494 learning resources and growing.\n\nArts • Humanities • Mathematics • Medicine • Science • Social Sciences • Technology • WikiJournals • Schools • Courses • Portals • Help\n\nWikiversity is a Wikimedia Foundation project for openly creating and sharing learning resources , collaborative learning projects , and research . It supports all levels and types of learning — from early childhood and school education to university study, professional development, and informal lifelong learning. Wikiversity is built by educators , students , researchers , and curious learners. Explore Wikiversity by taking a guided tour or jump in and learn how to add content and start editing . If you have any questions, join the main discussion in the Colloquium .\n\nToday's Featured Project Learn Swedish Introduction to Swedish consists of 12 lessons, plus vocabulary sheets, exercises and answers. The course is aimed at complete beginners and introduces basic Swedish words, phrases and grammar. Visit this resource · see more featured content view · discuss Educational Picture of the Day The Trombone 1. tuning slide 2. mouthpiece 3. bell 4. water key 5. main slide 6. second slide brace 7. first slide brace 8. slide lock ring Click on the image for a full size version which you can freely re-use and modify. Print it and use it for your lessons, integrate it into your pages on Wikiversity, or use it in other learning resources and websites. Use the links below to find more images like this one. Images and audio clips of trombones Images and audio clips of musical instruments - Music images and resources This image is a part of the Educational Media Awareness Campaign , raising awareness among educators about the availability and usage of millions of free internet media in education. view · discuss News 2026\n\nSeptember 5 : Bartending [new course]\n\nJune 1 : Wikiversity:Deletion policy [new policy]\n\nMay 18 : Wikiversity:Bureaucratship [new policy]\n\nMay 9 : Wikiversity:Curators [new policy]\n\nApril 18 : Wikiversity:Artificial intelligence [new policy]\n\nJanuary 11 : The Gambling King of Baltimore: Doc Slater 1837-1902 [new article]\n\nJanuary 2 : ChatGPT's Essay on Kohlberg's Theory: AI's Use in Academic Writing [new article]\n\nDecember 16: Turbine and compressor problems [new quiz]\n\nDecember 4: Association Between Screen Time and Sleep: An Online Survey [new article]\n\nWikiversity's sister projects Wikiversity is hosted by the Wikimedia Foundation , a non-profit organization that also hosts a range of other multilingual and free-content projects:\n\nWikiversity is also available in other languages : Deutsch • Français • Русский • 中文 • Italiano • Čeština • Português • Español • العربية • Svenska • Slovenščina • Suomi • Ελληνικά • हिन्दी • 한국어 • 日本語 • Other",
+      "language": "en",
+      "category": "Education",
+      "categoryConfidence": 0.43,
+      "categorySignals": [
+        "body:education(2)",
+        "body:course(2)",
+        "body:learn(2)"
+      ],
+      "contentLengthBytes": 94825,
+      "wordCount": 456,
+      "statusCode": 200,
+      "fetchTimeMs": 1206,
+      "processedAt": "2026-09-24T07:14:22.407Z",
+      "chunkId": "chunk-035",
+      "retryCount": 0
+    },
+    {
+      "id": "doc-en_wikinews_org-uryt50",
+      "url": "https://en.wikinews.org/",
+      "canonicalUrl": "https://en.wikinews.org/wiki/Main_Page",
+      "domain": "en.wikinews.org",
+      "title": "Wikinews, the free news source",
+      "description": "Upload fair use media\n\nMultilingual Wikisource\n\nThe Board of Trustees of the Wikimedia Foundation announced on March 30 its decision to close all language editions of the project. In the announcement,...",
+      "headings": {
+        "h1": [
+          "Main Page"
+        ],
+        "h2": [],
+        "h3": []
+      },
+      "mainText": "Upload fair use media\n\nMultilingual Wikisource\n\nThe Board of Trustees of the Wikimedia Foundation announced on March 30 its decision to close all language editions of the project. In the announcement, a representative from Wikimedia Foundation cited motivations such as \"long-term sustainability, levels of community activity, and the availability of reliable news coverage on other platforms\". The announcement stated that all Wikinews editions—referring to the multiple language sections of Wikinews—would \"transition to read-only mode\" on May 4.\n\n[MPL] [ ± ] - Image credit - Read more...\n\nWikimedia Foundation closes Wikinews after 21 years\n\nPope Leo XIV visits four nations in Africa\n\nUnited States announces blockade on the Strait of Hormuz\n\nMusique Libre Femmes plays for Women's History Month at Tompkins Square Library in New York City\n\nSouth Korean military halts small firearms drills after stray bullet strikes young girl on playground\n\n\"One Battle After Another\" wins 6 Oscars including Best Picture\n\nCaloundra win round 3 game in Australian soccer's Football Queensland Premier League 2 competition\n\nBoats carrying Kyoto students capsize off Okinawa, fatalities reported\n\nAustralian Minister for Energy lowers fuel standards for 60 days amid rising oil prices, panic buying\n\nUS president Donald Trump demands the unconditional surrender of Iran\n\nNSW government proposes rezoning to create residences midway between Sydney and Parramatta\n\nCaloundra lose round 2 game in Australian soccer's Football Queensland Premier League 2 competition\n\nAustralia grants refuge to five Iranian women's national soccer team players\n\nMoreton Bay illegally evicted homeless campers, Queensland Supreme Court rules\n\nMonta publishes its 2025 EV charger ranking, including hardware performance\n\nPoets gather for reading at Ray's Pizza in New York City\n\nGöbeklitepe, Taş Tepeler and life 12,000 years ago exhibition opens in Berlin, Germany\n\n\"Media and Tenkil\" exhibit opens in Hanau, Germany\n\nGrateful Dead rhythm guitarist Bob Weir dies, aged 78\n\nRoblox player uncovers cheating, awarded Guinness World Record\n\n\"I came to be the manager ... not the coach\": Manchester United fire head coach Ruben Amorim\n\nKyiv street to be named for former Ukrainian parliament chairman Andriy Parubiy, killed in Lviv\n\nUnited States capture Venezuelan president, Nicolás Maduro\n\nResidents shelter in place for hours after gas leak outside of Los Angeles\n\nKeyboardist-guitarist of English rock band The Cure dies aged 65\n\nOpposition leader Tarique Rahman returns to Bangladesh after 17 years\n\nPope Leo XIV arrived by plane in Algeria on Monday, April 13, beginning his apostolic visit to Africa. A senior Vatican official told the BBC the pope wanted to \"turn the world's attention to Africa\"; the BBC reported the eleven-day visit would address themes of peace, migration, and interfaith dialogue.\n\n[ ± ] - Image credit - Read more...\n\nOn April 12, United States President Donald Trump announced on Truth Social that the US is imposing a blockade on the Strait of Hormuz. According to Trump, the blockade was in effect as of 10:00 a.m. Eastern Time (1400 UTC).\n\n[ ± ] - Image credit - Read more...\n\nOn Thursday, March 12, 2026, the Tompkins Square Library in New York City hosted a concert by Musique Libre Femmes, in its basement performance space. This performance featured Cheryl Pyle on flute, Ayumi Ishito on saxophones, and Roberta Piket on piano.\n\n[ ± ] - Image credit - Read more...\n\nOn March 19, officials for the South Korean Army said at a press conference that they were suspending all scheduled drills involving smaller firearms such as rifles and handguns. The decision was made in response to an incident earlier in the week on Monday that resulted in a young girl at a children playground in Daegu being injured near the neck by an alleged stray bullet from a military drill at nearby military facility.\n\n[ ± ] - Image credit - Read more...\n\nFirst-hand journalism by our reporters \n\nMusique Libre Femmes plays for Women's History Month at Tompkins Square Library in New York City\n\nCaloundra win round 3 game in Australian soccer's Football Queensland Premier League 2 competition\n\nMonta publishes its 2025 EV charger ranking, including hardware performance\n\nRandwick City Council opens public consultation about parking near beaches: ''To pay or not to pay?''\n\nRecent interviews     ±\n\nRobert Dick and Mark Dresser re-unite at the Fridman Gallery\n\nWikinews interviews the President of WSA: today's World Passports and World Citizen Government\n\nWikinews interviews magician and illusion builder Bruce Chadwick for National Magic Week\n\nRussian \"Art Night\" in Crimea: Wikinews interviews Traveler Viktor Pinchuk\n\nFirst-hand journalism by our reporters \n\nMusique Libre Femmes plays for Women's History Month at Tompkins Square Library in New York City\n\nCaloundra win round 3 game in Australian soccer's Football Queensland Premier League 2 competition\n\nMonta publishes its 2025 EV charger ranking, including hardware performance\n\nRandwick City Council opens public consultation about parking near beaches: ''To pay or not to pay?''\n\nWikinews was a group of volunteers whose mission was to present reliable, unbiased and relevant news. All our content is released under a free license . By making our content perpetually available for free redistribution and use, we hoped to contribute to a global digital commons.\n\nWikinews's best work     ± In most recently promoted order .\n\nSydney, Australia woman who \"spontaneously\" murdered boyfriend in \"fatal explosion of emotion\" sentenced\n\nGSK rejects three Unilever bids to buy consumer healthcare arm, says unit was \"fundamentally undervalued\"\n\n'Earth-based life can survive in hydrogen-rich atmospheres': MIT professor Dr Seager tells Wikinews about her research on organisms thriving in oxygen-less environment\n\nNeanderthals 'knew what they were doing': Archæologist Dr Naomi Martisius discusses her findings about Neanderthals' behaviour with Wikinews\n\nIranian International Master Dorsa Derakhshani discusses her chess career with Wikinews\n\nSwine flu worldwide: update\n\nIran executes woman despite stay of execution\n\nTropical storm hits Philippines, 45,000 people displaced\n\nWikinews in other languages\n\n» More Wikinews stories\n\nPages with defaulting non-local links",
+      "language": "en",
+      "category": "Sports",
+      "categoryConfidence": 0.48,
+      "categorySignals": [
+        "body:football(4)",
+        "body:soccer(5)",
+        "body:league(4)",
+        "body:coach(2)"
+      ],
+      "contentLengthBytes": 127132,
+      "wordCount": 956,
+      "statusCode": 200,
+      "fetchTimeMs": 1351,
+      "processedAt": "2026-09-24T07:14:23.772Z",
+      "chunkId": "chunk-035",
+      "retryCount": 0
+    },
+    {
+      "id": "doc-en_wikisource_org-5mucrs",
+      "url": "https://en.wikisource.org/",
+      "canonicalUrl": "https://en.wikisource.org/wiki/Main_Page",
+      "domain": "en.wikisource.org",
+      "title": "Wikisource, the free library",
+      "description": "Multilingual Wikisource\n\nWikisource – The Free Library – is a Wikimedia Foundation project to create a growing free content library of source texts, as well as translations of source texts in any lang...",
+      "headings": {
+        "h1": [
+          "Main Page"
+        ],
+        "h2": [
+          "September’s featured text",
+          "Current collaborations",
+          "New texts",
+          "Highlights",
+          "Explore Wikisource",
+          "Sister Projects"
+        ],
+        "h3": []
+      },
+      "mainText": "Multilingual Wikisource\n\nWikisource – The Free Library – is a Wikimedia Foundation project to create a growing free content library of source texts, as well as translations of source texts in any language.\n\nSeptember’s featured text\n\nThat the reptiles were evolved from the Amphibia, and more specifically from that order known as the Temnospondyli, seems now assured. The earliest as also the most primitive reptiles that we know belong to the order called the Cotylosauria. With the exception of Eosauravus from the middle Pennsylvanian of Ohio, of which, unfortunately, the skull is unknown, our knowledge of them goes no further back than the late Carboniferous and early Permian. At that time there was a considerable diversity of known forms, belonging to at least four well-differentiated groups and twenty or more families; from which we may very properly conclude that their earliest ancestors, the beginning of their stock, lived much earlier, certainly at the beginning of the Upper Carboniferous, and very probably in Lower Carboniferous times. We therefore never can expect to find in the rocks of the Permian any real connecting link between the two classes.\n\nCurrent collaborations\n\nPages processed : 3899 (130.0% of target)\n\nPages processed: 6222 (207.4% of target)\n\nRecent collaborations: Memoirs of celebrated women of all countries , Zoroastrian theology , The Outsider , Tutira: the Story of a New Zealand Sheep Station , The Quaker Poets of Great Britain and Ireland , A Dark Night's Work and Other Tales , Modern Tendencies in Sculpture , The Wines of the World , Invisible Links , International Language: Past, Present & Future\n\nMy Friends at Brook Farm (1912)\n\nby John Van der Zee Sears\n\nBritish Overseas Territories Act 2002 (2002)\n\nby Parliament of the United Kingdom\n\nEdwin and Emma (1760)\n\nOaths and Declarations Ordinance 1972 (1972)\n\nby Legislative Council of Hong Kong\n\nSixty-Eighth Annual Conference Report (1898)\n\nby The Church of Jesus Christ of Latter-day Saints\n\nWhile the Patient Slept (1930)\n\nby Mignon Good Eberhart\n\nThe Ballooniad. In Two Cantos (1785)\n\nParliamentary Evidence Act 1901 (1901)\n\nby Parliament of New South Wales\n\nPoetry from ancient and medieval to romantic and modern , in love and war\n\nTexts , laws , constitutions of many countries\n\nDocuments from US history , including Revolution and Civil War\n\nUS law : Supreme Court decisions , government documents , presidential addresses\n\nGeneral literature : modern novels and short stories , horror stories , children’s literature , science fiction , drama\n\nOriginal, encyclopedic, popular articles on relativity , physics , biology , and other sciences\n\nWikisource is hosted by the Wikimedia Foundation , a non-profit organization which also hosts other free-content projects:\n\nImagine a world in which every single human being can freely share in the sum of all knowledge. That's our commitment. And we need your help: contribute to our projects, or make a donation . Donations are primarily used for site maintenance and software improvements.",
+      "language": "en",
+      "category": "Programming",
+      "categoryConfidence": 0.5,
+      "categorySignals": [
+        "title:library",
+        "desc:library",
+        "body:library(2)"
+      ],
+      "contentLengthBytes": 118833,
+      "wordCount": 483,
+      "statusCode": 200,
+      "fetchTimeMs": 604,
+      "processedAt": "2026-09-24T07:14:24.388Z",
+      "chunkId": "chunk-035",
+      "retryCount": 0
+    }
+  ]
+}
