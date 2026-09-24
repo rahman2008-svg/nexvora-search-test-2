@@ -1,0 +1,2 @@
+{"url":"https://en.wikipedia.org/trap/crawler-honeypot","domain":"en.wikipedia.org","errorReason":"Path matches standard sensitive/admin route blocklist","failedAt":"2026-09-24T05:08:14.281Z","attemptsMade":1,"willRetry":false}
+{"url":"httpx://invalid-protocol-test.com/bad^url","domain":"unknown","errorReason":"Malformed or invalid HTTP/HTTPS URL format","failedAt":"2026-09-24T05:08:14.281Z","attemptsMade":1,"willRetry":false}

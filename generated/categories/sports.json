@@ -1,0 +1,18 @@
+{
+  "category": "Sports",
+  "documentCount": 1,
+  "updatedAt": "2026-09-24T05:08:13.967Z",
+  "documentIds": [
+    "doc-espn_com-6fulrx"
+  ],
+  "items": [
+    {
+      "id": "doc-espn_com-6fulrx",
+      "title": "FIFA World Cup Qualifiers Scores and Match Highlights – ESPN Sports",
+      "canonicalUrl": "https://www.espn.com/football/fifa-world-cup-qualifiers",
+      "domain": "espn.com",
+      "description": "Get live match scores, standings, team results, and player statistics from the international FIFA World Cup championship qualification rounds.",
+      "confidence": 0.81
+    }
+  ]
+}

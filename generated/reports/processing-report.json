@@ -1,0 +1,68 @@
+{
+  "reportId": "report-1790226494281",
+  "generatedAt": "2026-09-24T05:08:14.281Z",
+  "deploymentOrigin": "https://ais-dev-5k4ivhpfmtfni6oilgnbeq-361676640170.asia-southeast1.run.app",
+  "summary": {
+    "totalUrlsQueued": 27,
+    "successfullyProcessed": 24,
+    "failedUrlsCount": 2,
+    "skippedRobotsCount": 0,
+    "duplicateUrlsIgnored": 1,
+    "totalChunksGenerated": 4,
+    "totalExtractedBytes": 23563,
+    "averageFetchTimeMs": 30
+  },
+  "categoryDistribution": {
+    "Education": 2,
+    "Programming": 8,
+    "Technology": 5,
+    "Science": 2,
+    "News": 1,
+    "Business": 1,
+    "Sports": 1,
+    "Entertainment": 1,
+    "Health": 1,
+    "Travel": 1,
+    "General": 1
+  },
+  "chunks": [
+    {
+      "chunkId": "chunk-001",
+      "path": "generated/documents/chunk-001.json",
+      "count": 6
+    },
+    {
+      "chunkId": "chunk-002",
+      "path": "generated/documents/chunk-002.json",
+      "count": 6
+    },
+    {
+      "chunkId": "chunk-003",
+      "path": "generated/documents/chunk-003.json",
+      "count": 6
+    },
+    {
+      "chunkId": "chunk-004",
+      "path": "generated/documents/chunk-004.json",
+      "count": 6
+    }
+  ],
+  "failedUrls": [
+    {
+      "url": "https://en.wikipedia.org/trap/crawler-honeypot",
+      "domain": "en.wikipedia.org",
+      "errorReason": "Path matches standard sensitive/admin route blocklist",
+      "failedAt": "2026-09-24T05:08:14.281Z",
+      "attemptsMade": 1,
+      "willRetry": false
+    },
+    {
+      "url": "httpx://invalid-protocol-test.com/bad^url",
+      "domain": "unknown",
+      "errorReason": "Malformed or invalid HTTP/HTTPS URL format",
+      "failedAt": "2026-09-24T05:08:14.281Z",
+      "attemptsMade": 1,
+      "willRetry": false
+    }
+  ]
+}

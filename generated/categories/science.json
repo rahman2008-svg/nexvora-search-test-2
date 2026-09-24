@@ -1,0 +1,27 @@
+{
+  "category": "Science",
+  "documentCount": 2,
+  "updatedAt": "2026-09-24T05:08:13.816Z",
+  "documentIds": [
+    "doc-webb_nasa_gov-hbuwpj",
+    "doc-nature_com-rbglia"
+  ],
+  "items": [
+    {
+      "id": "doc-webb_nasa_gov-hbuwpj",
+      "title": "Science Overview – James Webb Space Telescope – NASA",
+      "canonicalUrl": "https://webb.nasa.gov/content/science/overview.html",
+      "domain": "webb.nasa.gov",
+      "description": "Explore the scientific mission of NASA",
+      "confidence": 0.88
+    },
+    {
+      "id": "doc-nature_com-rbglia",
+      "title": "Quantum Computing Milestones and Coherence Times – Nature Science",
+      "canonicalUrl": "https://www.nature.com/articles/d41586-quantum-computing",
+      "domain": "nature.com",
+      "description": "Peer-reviewed research into superconducting qubits, quantum error correction, and quantum physics coherence times in cryogenic physics laboratories.",
+      "confidence": 0.76
+    }
+  ]
+}

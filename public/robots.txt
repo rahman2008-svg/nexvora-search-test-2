@@ -1,0 +1,6 @@
+# NexVora Search Independent Web Indexer
+User-agent: *
+Allow: /
+Disallow: /api/
+
+Sitemap: /sitemap.xml

@@ -1,0 +1,81 @@
+{
+  "category": "Programming",
+  "documentCount": 8,
+  "updatedAt": "2026-09-24T05:08:13.746Z",
+  "documentIds": [
+    "doc-developer_mozilla_org-70b7c7",
+    "doc-react_dev-is205l",
+    "doc-rust_lang_org-26j19l",
+    "doc-docs_python_org-3l1jff",
+    "doc-bun_sh-yx8j6q",
+    "doc-vite_dev-93k47h",
+    "doc-tailwindcss_com-f2u7ud",
+    "doc-signal_org-f2mu9z"
+  ],
+  "items": [
+    {
+      "id": "doc-developer_mozilla_org-70b7c7",
+      "title": "JavaScript | MDN Web Docs",
+      "canonicalUrl": "https://developer.mozilla.org/en-US/docs/Web/JavaScript",
+      "domain": "developer.mozilla.org",
+      "description": "JavaScript (JS) is a lightweight interpreted or just-in-time compiled programming language with first-class functions for web development.",
+      "confidence": 0.84
+    },
+    {
+      "id": "doc-react_dev-is205l",
+      "title": "React 19 is now stable – React Official Blog",
+      "canonicalUrl": "https://react.dev/blog/2024/12/05/react-19",
+      "domain": "react.dev",
+      "description": "React 19 is now available on npm! Featuring Actions, Server Components, Document Metadata hooks, and asset preloading for frontend developers.",
+      "confidence": 0.81
+    },
+    {
+      "id": "doc-rust_lang_org-26j19l",
+      "title": "Learn Rust – Rust Programming Language",
+      "canonicalUrl": "https://www.rust-lang.org/learn",
+      "domain": "rust-lang.org",
+      "description": "Empowering everyone to build reliable and efficient software. Learn Rust through interactive tutorials, the Rust Book, and compiler borrow checker guides.",
+      "confidence": 0.65
+    },
+    {
+      "id": "doc-docs_python_org-3l1jff",
+      "title": "The Python Tutorial — Python 3 Documentation",
+      "canonicalUrl": "https://docs.python.org/3/tutorial/",
+      "domain": "docs.python.org",
+      "description": "Python is an easy to learn, powerful programming language with efficient high-level data structures and an elegant syntax ideal for scripting and rapid application development.",
+      "confidence": 0.53
+    },
+    {
+      "id": "doc-bun_sh-yx8j6q",
+      "title": "Bun Documentation – Fast JavaScript Runtime & Package Manager",
+      "canonicalUrl": "https://bun.sh/docs",
+      "domain": "bun.sh",
+      "description": "Bun is an all-in-one JavaScript runtime, bundler, test runner, and package manager written in Zig with native speed and Node.js compatibility.",
+      "confidence": 0.89
+    },
+    {
+      "id": "doc-vite_dev-93k47h",
+      "title": "Getting Started | Vite Next Generation Frontend Tooling",
+      "canonicalUrl": "https://vite.dev/guide/",
+      "domain": "vite.dev",
+      "description": "Vite is a modern build tool that aims to provide a faster and leaner development experience for modern web projects using native ES modules.",
+      "confidence": 0.77
+    },
+    {
+      "id": "doc-tailwindcss_com-f2u7ud",
+      "title": "Upgrade Guide to Tailwind CSS v4 – Tailwind Documentation",
+      "canonicalUrl": "https://tailwindcss.com/docs/v4-upgrade-guide",
+      "domain": "tailwindcss.com",
+      "description": "Comprehensive guide for migrating your frontend styles to Tailwind CSS v4 featuring the new high-speed Rust-powered engine and CSS-first configuration.",
+      "confidence": 0.45
+    },
+    {
+      "id": "doc-signal_org-f2mu9z",
+      "title": "The Double Ratchet Algorithm – Signal Cryptographic Protocol",
+      "canonicalUrl": "https://signal.org/docs/specifications/doubleratchet/",
+      "domain": "signal.org",
+      "description": "Cryptographic specification of the Double Ratchet Algorithm: providing end-to-end encryption with forward secrecy and break-in recovery for messaging protocols.",
+      "confidence": 0.42
+    }
+  ]
+}

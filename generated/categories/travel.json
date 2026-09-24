@@ -1,0 +1,18 @@
+{
+  "category": "Travel",
+  "documentCount": 1,
+  "updatedAt": "2026-09-24T05:08:14.042Z",
+  "documentIds": [
+    "doc-lonelyplanet_com-27vfsi"
+  ],
+  "items": [
+    {
+      "id": "doc-lonelyplanet_com-27vfsi",
+      "title": "Best Sustainable Travel Destinations & Eco-Tourism Itineraries – Lonely Planet Travel",
+      "canonicalUrl": "https://www.lonelyplanet.com/articles/best-sustainable-travel-destinations",
+      "domain": "lonelyplanet.com",
+      "description": "Discover top eco-friendly travel destinations, boutique hotels, scenic train itineraries, and responsible tourism guides for world travelers.",
+      "confidence": 0.8
+    }
+  ]
+}

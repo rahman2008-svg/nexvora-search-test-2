@@ -1,0 +1,18 @@
+{
+  "category": "Health",
+  "documentCount": 1,
+  "updatedAt": "2026-09-24T05:08:14.019Z",
+  "documentIds": [
+    "doc-who_int-4vufe3"
+  ],
+  "items": [
+    {
+      "id": "doc-who_int-4vufe3",
+      "title": "Cardiovascular Diseases: Prevention and Clinical Guidelines – WHO Health",
+      "canonicalUrl": "https://www.who.int/news-room/fact-sheets/detail/cardiovascular-diseases",
+      "domain": "who.int",
+      "description": "World Health Organization fact sheet on cardiovascular health, hypertension symptoms, clinical diagnosis, lifestyle therapy, and preventive medicine.",
+      "confidence": 0.88
+    }
+  ]
+}

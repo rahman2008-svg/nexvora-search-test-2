@@ -1,0 +1,47 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>NexVora Search – Fast, Independent Web Search</title>
+    <meta name="description" content="NexVora Search is a modern independent web search engine with fast indexing, clean privacy-first interface, and zero tracking." />
+    <meta name="keywords" content="NexVora, search engine, independent search, private search, web index, fast search" />
+    <meta name="robots" content="index, follow" />
+    <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='%230284c7' stroke-width='2.2' stroke-linecap='round' stroke-linejoin='round'%3E%3Ccircle cx='11' cy='11' r='8'/%3E%3Cpath d='m21 21-4.3-4.3'/%3E%3Ccircle cx='11' cy='11' r='3' stroke='%2338bdf8' stroke-width='1.8'/%3E%3C/svg%3E" />
+    <meta name="theme-color" content="#090d16" />
+    
+    <!-- OpenGraph Social Cards -->
+    <meta property="og:type" content="website" />
+    <meta property="og:site_name" content="NexVora Search" />
+    <meta property="og:title" content="NexVora Search – Fast, Independent Web Search" />
+    <meta property="og:description" content="Modern independent web search engine with fast indexing, clean privacy-first interface, and zero tracking." />
+    
+    <!-- Twitter Social Cards -->
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="NexVora Search – Fast, Independent Web Search" />
+    <meta name="twitter:description" content="Modern independent web search engine with fast indexing, clean privacy-first interface, and zero tracking." />
+
+    <!-- Schema.org Search Engine Structured Data -->
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "WebSite",
+      "name": "NexVora Search",
+      "url": "/",
+      "potentialAction": {
+        "@type": "SearchAction",
+        "target": {
+          "@type": "EntryPoint",
+          "urlTemplate": "/search?q={search_term_string}"
+        },
+        "query-input": "required name=search_term_string"
+      }
+    }
+    </script>
+  </head>
+  <body class="bg-slate-50 dark:bg-slate-950 text-slate-900 dark:text-slate-100 min-h-screen antialiased transition-colors duration-200">
+    <div id="root"></div>
+    <script type="module" src="/src/main.tsx"></script>
+  </body>
+</html>
+

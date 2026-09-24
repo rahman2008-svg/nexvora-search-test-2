@@ -1,0 +1,18 @@
+# NexVora Search - Source Search URLs
+# Place complete Google Search URLs below (one per line).
+# The processor extracts the 'q' parameter, strips Google tracking (gs_ssp, oq, client, sourceid, etc.),
+# normalizes spacing, removes duplicates, and generates internal NexVora search URLs.
+
+https://www.google.com/search?gs_ssp=eJzj4tVP1zc0TMtKrqwosTQ3YPSSKC4pTU4tUchPUyjOyM9NzcvPzwMAzO8LhA&q=khan+sir&oq=khan+sir&gs_lcrp=EgZjaHJvbWUqDQgBEC4YgwEYsQMYgAQyBggAEEUYOTINCAEQLhiDARixAxiABDIKCAIQABixAxiABDIKCAMQLhixAxiABDIHCAQQABiABDIKCAUQABixAxiABDIHCAYQABiABDIHCAcQABiABDIHCAgQABiABDIHCAkQABiABNIBCDI4OTJqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+https://www.google.com/search?q=khan+sir&client=safari&sca_esv=59837482&sxsrf=ACQVn0...&ved=0ahUKEwi...
+https://www.google.com/search?q=quantum+computing+qubits&oq=quantum+computing&sourceid=chrome
+https://www.google.com/search?q=React+19+documentation&client=firefox-b-d&source=hp
+https://www.google.com/search?q=BM25+ranking+algorithm+formula&oq=bm25&gs_l=mobile-gws-wiz-serp
+https://www.google.com/search?q=linux+kernel+git+repository&sourceid=chrome
+https://www.google.com/search?q=Rust+memory+safety+borrow+checker&client=chrome
+https://www.google.com/search?q=python+programming+tutorial&sourceid=chrome
+https://www.google.com/search?q=sqlite+database+architecture&oq=sqlite
+https://www.google.com/search?q=khan%20sir   # Duplicate test with space encoding and whitespace
+https://www.google.com/search?q=docker+containerization+namespaces&source=desktop
+https://www.google.com/search?q=James+Webb+Space+Telescope+deep+field&client=browser
+https://www.google.com/search?q=HTTP+404+status+code&sourceid=edge

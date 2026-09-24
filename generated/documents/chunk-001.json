@@ -1,0 +1,245 @@
+{
+  "chunkId": "chunk-001",
+  "filename": "chunk-001.json",
+  "documentCount": 6,
+  "totalBytes": 6774,
+  "createdAt": "2026-09-24T05:08:14.281Z",
+  "documents": [
+    {
+      "id": "doc-developer_mozilla_org-70b7c7",
+      "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript?utm_source=newsletter&utm_medium=email",
+      "canonicalUrl": "https://developer.mozilla.org/en-US/docs/Web/JavaScript",
+      "domain": "developer.mozilla.org",
+      "title": "JavaScript | MDN Web Docs",
+      "description": "JavaScript (JS) is a lightweight interpreted or just-in-time compiled programming language with first-class functions for web development.",
+      "headings": {
+        "h1": [
+          "JavaScript (JS) Overview"
+        ],
+        "h2": [
+          "Core Language Features",
+          "Ecosystem & Tooling"
+        ],
+        "h3": []
+      },
+      "mainText": "JavaScript (JS) Overview\n\nJavaScript is a scripting or programming language that allows you to implement complex features on web pages. Whenever a web page does more than just sit there and display static information, JavaScript is likely involved.\n\nCore Language Features\n\nStandardized via ECMAScript, JavaScript features modern asynchronous syntax (async/await), typed arrays, modular imports, closures, and object prototypes for scalable frontend and backend runtime development.\n\nModern developers write TypeScript and JavaScript using package bundlers, Vite, Node.js, and frameworks like React to build interactive client-side web applications.",
+      "language": "en",
+      "category": "Programming",
+      "categoryConfidence": 0.84,
+      "categorySignals": [
+        "domain:developer.mozilla.org",
+        "url_pattern:\\/docs\\/",
+        "url_pattern:\\/developer",
+        "url_pattern:\\/javascript",
+        "title:javascript",
+        "heading:javascript",
+        "desc:programming",
+        "desc:javascript",
+        "body:javascript(5)"
+      ],
+      "contentLengthBytes": 1235,
+      "wordCount": 86,
+      "statusCode": 200,
+      "fetchTimeMs": 32,
+      "processedAt": "2026-09-24T05:08:13.388Z",
+      "chunkId": "chunk-001",
+      "retryCount": 0
+    },
+    {
+      "id": "doc-react_dev-is205l",
+      "url": "https://react.dev/blog/2024/12/05/react-19?ref=hackernews",
+      "canonicalUrl": "https://react.dev/blog/2024/12/05/react-19",
+      "domain": "react.dev",
+      "title": "React 19 is now stable – React Official Blog",
+      "description": "React 19 is now available on npm! Featuring Actions, Server Components, Document Metadata hooks, and asset preloading for frontend developers.",
+      "headings": {
+        "h1": [
+          "React 19 Release Notes"
+        ],
+        "h2": [
+          "What is new in React 19?",
+          "Upgrading to React 19"
+        ],
+        "h3": []
+      },
+      "mainText": "React 19 Release Notes\n\nIn our React 19 release announcement, we shared that React 19 brings Actions, useActionState, Server Functions, ref as a prop, and automatic hydration improvements.\n\nWhat is new in React 19?\n\nActions handle pending states, optimistic updates, and form submissions natively. The new React compiler automates memoization for high performance user interfaces.\n\nUpgrading to React 19\n\nTo upgrade your web package dependencies, run npm install react@latest react-dom@latest. Most React 18 patterns are backwards compatible.",
+      "language": "en",
+      "category": "Programming",
+      "categoryConfidence": 0.81,
+      "categorySignals": [
+        "domain:react.dev",
+        "url_pattern:\\/react",
+        "title:react",
+        "heading:react",
+        "desc:react",
+        "desc:npm",
+        "desc:frontend",
+        "body:react(8)"
+      ],
+      "contentLengthBytes": 1050,
+      "wordCount": 77,
+      "statusCode": 200,
+      "fetchTimeMs": 21,
+      "processedAt": "2026-09-24T05:08:13.413Z",
+      "chunkId": "chunk-001",
+      "retryCount": 0
+    },
+    {
+      "id": "doc-rust_lang_org-26j19l",
+      "url": "https://www.rust-lang.org/learn",
+      "canonicalUrl": "https://www.rust-lang.org/learn",
+      "domain": "rust-lang.org",
+      "title": "Learn Rust – Rust Programming Language",
+      "description": "Empowering everyone to build reliable and efficient software. Learn Rust through interactive tutorials, the Rust Book, and compiler borrow checker guides.",
+      "headings": {
+        "h1": [
+          "Learn the Rust Programming Language"
+        ],
+        "h2": [
+          "Read the Book",
+          "Rustlings Course"
+        ],
+        "h3": []
+      },
+      "mainText": "Learn the Rust Programming Language\n\nRust offers memory safety without garbage collection, concurrency without data races, and zero-cost abstractions for systems programming.\n\nAffectionately nicknamed The Book, The Rust Programming Language gives you an overview of language syntax, ownership rules, lifetimes, and cargo package management.\n\nSmall exercises to get you used to reading and writing Rust code, fixing compiler errors, and understanding pattern matching.",
+      "language": "en",
+      "category": "Programming",
+      "categoryConfidence": 0.65,
+      "categorySignals": [
+        "domain:rust-lang.org",
+        "title:programming",
+        "title:rust",
+        "heading:programming",
+        "heading:rust",
+        "desc:rust",
+        "desc:compiler",
+        "body:programming(3)",
+        "body:rust(4)"
+      ],
+      "contentLengthBytes": 997,
+      "wordCount": 63,
+      "statusCode": 200,
+      "fetchTimeMs": 38,
+      "processedAt": "2026-09-24T05:08:13.452Z",
+      "chunkId": "chunk-001",
+      "retryCount": 0
+    },
+    {
+      "id": "doc-docs_python_org-3l1jff",
+      "url": "https://docs.python.org/3/tutorial/",
+      "canonicalUrl": "https://docs.python.org/3/tutorial/",
+      "domain": "docs.python.org",
+      "title": "The Python Tutorial — Python 3 Documentation",
+      "description": "Python is an easy to learn, powerful programming language with efficient high-level data structures and an elegant syntax ideal for scripting and rapid application development.",
+      "headings": {
+        "h1": [
+          "The Python Tutorial"
+        ],
+        "h2": [
+          "An Informal Introduction to Python",
+          "Control Flow Tools",
+          "Data Structures"
+        ],
+        "h3": []
+      },
+      "mainText": "Python is an easy to learn, powerful programming language. It has efficient high-level data structures and a simple but effective approach to object-oriented programming. Python elegant syntax and dynamic typing, together with its interpreted nature, make it an ideal language for scripting and rapid application development in many areas on most platforms.\n\nAn Informal Introduction to Python\n\nIn the following examples, input and output are distinguished by the presence or absence of prompts. Python supports integers, floating point numbers, strings, lists, dictionaries, tuples, and sets.\n\nBesides the while statement, Python uses the usual flow control statements known from other languages, with some twists: if statements, for statements, the range function, break and continue statements, and match statements.\n\nThis chapter describes more about list methods, using lists as stacks and queues, list comprehensions, the del statement, tuples and sequences, sets, and dictionaries.",
+      "language": "en",
+      "category": "Programming",
+      "categoryConfidence": 0.53,
+      "categorySignals": [
+        "title:python",
+        "heading:python",
+        "desc:programming",
+        "desc:python",
+        "desc:syntax",
+        "body:programming(2)",
+        "body:python(5)"
+      ],
+      "contentLengthBytes": 1694,
+      "wordCount": 141,
+      "statusCode": 200,
+      "fetchTimeMs": 22,
+      "processedAt": "2026-09-24T05:08:13.474Z",
+      "chunkId": "chunk-001",
+      "retryCount": 0
+    },
+    {
+      "id": "doc-bun_sh-yx8j6q",
+      "url": "https://bun.sh/docs",
+      "canonicalUrl": "https://bun.sh/docs",
+      "domain": "bun.sh",
+      "title": "Bun Documentation – Fast JavaScript Runtime & Package Manager",
+      "description": "Bun is an all-in-one JavaScript runtime, bundler, test runner, and package manager written in Zig with native speed and Node.js compatibility.",
+      "headings": {
+        "h1": [
+          "Bun All-in-One JavaScript Runtime"
+        ],
+        "h2": [
+          "Package Manager Speed",
+          "Bundling & Serving"
+        ],
+        "h3": []
+      },
+      "mainText": "Bun All-in-One JavaScript Runtime\n\nBun was built from scratch using Zig and JavaScriptCore to focus on performance, developer ergonomics, and native TypeScript execution without transpilation steps.\n\nPackage Manager Speed\n\nBun installs npm packages orders of magnitude faster by utilizing system copy_file_range and hardlinks.\n\nBun includes a blazing-fast native bundler and HTTP web server module capable of handling millions of requests per second.",
+      "language": "en",
+      "category": "Programming",
+      "categoryConfidence": 0.89,
+      "categorySignals": [
+        "domain:bun.sh",
+        "title:javascript",
+        "title:package",
+        "title:runtime",
+        "title:bun",
+        "heading:javascript",
+        "heading:package",
+        "heading:runtime",
+        "heading:bun",
+        "desc:javascript"
+      ],
+      "contentLengthBytes": 966,
+      "wordCount": 62,
+      "statusCode": 200,
+      "fetchTimeMs": 38,
+      "processedAt": "2026-09-24T05:08:13.513Z",
+      "chunkId": "chunk-001",
+      "retryCount": 0
+    },
+    {
+      "id": "doc-vite_dev-93k47h",
+      "url": "https://vite.dev/guide/",
+      "canonicalUrl": "https://vite.dev/guide/",
+      "domain": "vite.dev",
+      "title": "Getting Started | Vite Next Generation Frontend Tooling",
+      "description": "Vite is a modern build tool that aims to provide a faster and leaner development experience for modern web projects using native ES modules.",
+      "headings": {
+        "h1": [
+          "Getting Started with Vite"
+        ],
+        "h2": [
+          "Lightning Fast Cold Starts"
+        ],
+        "h3": []
+      },
+      "mainText": "Getting Started with Vite\n\nVite consists of two major parts: a dev server that provides rich feature enhancements over native ES modules, and a build command that bundles your code with Rollup.\n\nLightning Fast Cold Starts\n\nBy pre-bundling dependencies with esbuild and serving source code over native ESM, Vite eliminates server bundling delays during development.",
+      "language": "en",
+      "category": "Programming",
+      "categoryConfidence": 0.77,
+      "categorySignals": [
+        "domain:vite.dev",
+        "title:vite",
+        "title:frontend",
+        "heading:vite",
+        "desc:vite",
+        "body:code(2)",
+        "body:vite(3)"
+      ],
+      "contentLengthBytes": 832,
+      "wordCount": 55,
+      "statusCode": 200,
+      "fetchTimeMs": 34,
+      "processedAt": "2026-09-24T05:08:13.547Z",
+      "chunkId": "chunk-001",
+      "retryCount": 0
+    }
+  ]
+}

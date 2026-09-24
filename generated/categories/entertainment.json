@@ -1,0 +1,18 @@
+{
+  "category": "Entertainment",
+  "documentCount": 1,
+  "updatedAt": "2026-09-24T05:08:13.995Z",
+  "documentIds": [
+    "doc-variety_com-ze6t27"
+  ],
+  "items": [
+    {
+      "id": "doc-variety_com-ze6t27",
+      "title": "Cannes Film Festival Premiere Reviews and Box Office Preview – Variety Entertainment",
+      "canonicalUrl": "https://variety.com/feature/cannes-film-festival-screenings",
+      "domain": "variety.com",
+      "description": "In-depth coverage of cinematic world premieres, director interviews, festival awards, and Hollywood box office projections from the Cannes Croisette.",
+      "confidence": 0.86
+    }
+  ]
+}

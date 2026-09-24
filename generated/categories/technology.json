@@ -1,0 +1,54 @@
+{
+  "category": "Technology",
+  "documentCount": 5,
+  "updatedAt": "2026-09-24T05:08:14.281Z",
+  "documentIds": [
+    "doc-github_com-jeqtcy",
+    "doc-sqlite_org-54ba90",
+    "doc-kubernetes_io-c0zv41",
+    "doc-docs_docker_com-r3diza",
+    "doc-en_wikipedia_org-6wu5fq"
+  ],
+  "items": [
+    {
+      "id": "doc-github_com-jeqtcy",
+      "title": "torvalds/linux: Linux kernel source tree – GitHub",
+      "canonicalUrl": "https://github.com/torvalds/linux",
+      "domain": "github.com",
+      "description": "Linux kernel source tree maintained by Linus Torvalds. The open source monolithic operating system kernel powering cloud servers, supercomputers, and mobile devices.",
+      "confidence": 0.65
+    },
+    {
+      "id": "doc-sqlite_org-54ba90",
+      "title": "Architecture of SQLite – In-Process SQL Database Engine",
+      "canonicalUrl": "https://sqlite.org/arch.html",
+      "domain": "sqlite.org",
+      "description": "Technical architecture and internal subsystems of SQLite: tokenizer, parser, code generator, virtual machine (VDBE), B-Tree, pager, and OS interface.",
+      "confidence": 0.8
+    },
+    {
+      "id": "doc-kubernetes_io-c0zv41",
+      "title": "What is Kubernetes? | Kubernetes Cloud Infrastructure",
+      "canonicalUrl": "https://kubernetes.io/docs/concepts/overview/what-is-kubernetes/",
+      "domain": "kubernetes.io",
+      "description": "Kubernetes is an open-source container orchestration system for automating software deployment, scaling, and management of containerized applications.",
+      "confidence": 0.8
+    },
+    {
+      "id": "doc-docs_docker_com-r3diza",
+      "title": "Docker Overview | Containerization Platform Architecture",
+      "canonicalUrl": "https://docs.docker.com/get-started/overview/",
+      "domain": "docs.docker.com",
+      "description": "Docker is an open platform for developing, shipping, and running applications using OS-level containerization for predictable environments.",
+      "confidence": 0.66
+    },
+    {
+      "id": "doc-en_wikipedia_org-6wu5fq",
+      "title": "Okapi BM25 – Wikipedia, the free encyclopedia",
+      "canonicalUrl": "https://en.wikipedia.org/wiki/Okapi_BM25",
+      "domain": "en.wikipedia.org",
+      "description": "In information retrieval, Okapi BM25 is a probabilistic ranking function used by search engines to estimate the relevance of documents to a given search query.",
+      "confidence": 0.53
+    }
+  ]
+}

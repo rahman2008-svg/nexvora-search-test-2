@@ -1,0 +1,18 @@
+{
+  "category": "General",
+  "documentCount": 1,
+  "updatedAt": "2026-09-24T05:08:14.065Z",
+  "documentIds": [
+    "doc-en_wikipedia_org-ba8l3w"
+  ],
+  "items": [
+    {
+      "id": "doc-en_wikipedia_org-ba8l3w",
+      "title": "Portal: Contents – Wikipedia Reference Directory",
+      "canonicalUrl": "https://en.wikipedia.org/wiki/Portal:Contents",
+      "domain": "en.wikipedia.org",
+      "description": "General reference portal, category indexes, subject overviews, and broad encyclopedic topic directories across all human knowledge.",
+      "confidence": 0.87
+    }
+  ]
+}

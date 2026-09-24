@@ -1,0 +1,9 @@
+{
+  "generatedAt": "2026-09-24T05:08:14.324Z",
+  "checksumSha256": "86ec64c8070adfb212fde93b78cd437296e0dbcd7323c8c4efdc06a26f57c7b1",
+  "indexFile": "generated/index/nexvora-index.json",
+  "statsFile": "generated/index/index-stats.json",
+  "totalDocuments": 24,
+  "totalTerms": 1066,
+  "sizeKb": 309
+}

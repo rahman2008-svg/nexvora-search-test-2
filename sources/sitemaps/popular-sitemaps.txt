@@ -1,0 +1,12 @@
+# NexVora Search - Sitemap Sources
+# Place sitemap XML / index URLs to be discovered and indexed by Phase 3 (one per line).
+# The processor validates XML URLs, canonicalizes domains, and prepares extraction targets.
+
+https://developer.mozilla.org/sitemap.xml
+https://react.dev/sitemap.xml
+https://bun.sh/sitemap.xml
+https://vite.dev/sitemap.xml
+https://tailwindcss.com/sitemap.xml
+https://kubernetes.io/sitemap.xml
+https://docs.docker.com/sitemap.xml
+https://webb.nasa.gov/sitemap.xml

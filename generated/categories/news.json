@@ -1,0 +1,18 @@
+{
+  "category": "News",
+  "documentCount": 1,
+  "updatedAt": "2026-09-24T05:08:13.906Z",
+  "documentIds": [
+    "doc-reuters_com-i1fbxk"
+  ],
+  "items": [
+    {
+      "id": "doc-reuters_com-i1fbxk",
+      "title": "Global Climate Summit Reaches Historic Clean Energy Accord – Reuters News",
+      "canonicalUrl": "https://www.reuters.com/world/global-climate-summit-accord/",
+      "domain": "reuters.com",
+      "description": "Breaking international news: Diplomats and world leaders agree to accelerate renewable energy deployment and carbon reduction targets at global summit.",
+      "confidence": 0.8
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+# NexVora Search - Direct Website Sources
+# Curated URLs across 11 rule-based categories with tracking params for canonical testing.
+# Includes duplicates, edge cases, and robots/error simulations for robust engine verification.
+
+# Programming
+https://developer.mozilla.org/en-US/docs/Web/JavaScript?utm_source=newsletter&utm_medium=email
+https://react.dev/blog/2024/12/05/react-19?ref=hackernews
+https://www.rust-lang.org/learn
+https://docs.python.org/3/tutorial/
+https://bun.sh/docs
+https://vite.dev/guide/
+https://tailwindcss.com/docs/v4-upgrade-guide
+
+# Technology
+https://github.com/torvalds/linux
+https://sqlite.org/arch.html
+https://kubernetes.io/docs/concepts/overview/what-is-kubernetes/
+https://docs.docker.com/get-started/overview/
+https://signal.org/docs/specifications/doubleratchet/
+
+# Science
+https://webb.nasa.gov/content/science/overview.html
+https://www.nature.com/articles/d41586-quantum-computing
+
+# Education
+https://www.khanacademy.org/math/calculus-1
+https://ocw.mit.edu/courses/intro-to-algorithms/
+
+# News
+https://www.reuters.com/world/global-climate-summit-accord/
+
+# Business
+https://www.bloomberg.com/news/articles/global-markets-rally
+
+# Sports
+https://www.espn.com/football/fifa-world-cup-qualifiers
+
+# Entertainment
+https://variety.com/feature/cannes-film-festival-screenings
+
+# Health
+https://www.who.int/news-room/fact-sheets/detail/cardiovascular-diseases
+
+# Travel
+https://www.lonelyplanet.com/articles/best-sustainable-travel-destinations
+
+# General
+https://en.wikipedia.org/wiki/Portal:Contents
+https://en.wikipedia.org/wiki/Okapi_BM25
+
+# --- EDGE CASES & TEST VECTORS ---
+# Duplicate canonical test (identical to first URL with trailing slash & extra params)
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/?gclid=987654321&fbclid=abcdef
+# Blocked by robots.txt test
+https://en.wikipedia.org/trap/crawler-honeypot
+# Malformed URL test
+httpx://invalid-protocol-test.com/bad^url

@@ -1,0 +1,27 @@
+{
+  "category": "Education",
+  "documentCount": 2,
+  "updatedAt": "2026-09-24T05:08:13.868Z",
+  "documentIds": [
+    "doc-khanacademy_org-p34of3",
+    "doc-ocw_mit_edu-cwo0j2"
+  ],
+  "items": [
+    {
+      "id": "doc-khanacademy_org-p34of3",
+      "title": "Calculus 1 Course & Practice Lessons | Khan Academy Education",
+      "canonicalUrl": "https://www.khanacademy.org/math/calculus-1",
+      "domain": "khanacademy.org",
+      "description": "Learn Calculus 1 with free interactive video lectures, practice exercises, syllabus guides, and student quizzes covering limits, derivatives, and integrals.",
+      "confidence": 0.88
+    },
+    {
+      "id": "doc-ocw_mit_edu-cwo0j2",
+      "title": "Introduction to Algorithms | MIT OpenCourseWare Free Education",
+      "canonicalUrl": "https://ocw.mit.edu/courses/intro-to-algorithms/",
+      "domain": "ocw.mit.edu",
+      "description": "Undergraduate MIT computer science curriculum featuring professor lecture notes, exam problems, syllabus, and study materials for algorithm analysis.",
+      "confidence": 0.82
+    }
+  ]
+}

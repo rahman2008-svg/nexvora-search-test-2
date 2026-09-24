@@ -1,0 +1,50 @@
+name: NexVora CI
+
+on:
+  push:
+    branches:
+      - main
+      - master
+    paths-ignore:
+      - 'generated/**'
+      - '*.md'
+  pull_request:
+    branches:
+      - main
+      - master
+
+concurrency:
+  group: nexvora-ci-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  test-and-build:
+    name: Lint, Test Pipeline & Build
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js Runtime
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: 'npm'
+
+      - name: Install Dependencies
+        run: |
+          npm ci || npm install
+
+      - name: Lint Source Code
+        run: |
+          npm run lint
+
+      - name: Validate Generated Files & Index Integrity
+        run: |
+          npm run validate:generated
+
+      - name: Build Application Bundle
+        run: |
+          npm run build

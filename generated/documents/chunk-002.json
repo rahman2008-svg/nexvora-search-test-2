@@ -1,0 +1,226 @@
+{
+  "chunkId": "chunk-002",
+  "filename": "chunk-002.json",
+  "documentCount": 6,
+  "totalBytes": 4834,
+  "createdAt": "2026-09-24T05:08:14.281Z",
+  "documents": [
+    {
+      "id": "doc-tailwindcss_com-f2u7ud",
+      "url": "https://tailwindcss.com/docs/v4-upgrade-guide",
+      "canonicalUrl": "https://tailwindcss.com/docs/v4-upgrade-guide",
+      "domain": "tailwindcss.com",
+      "title": "Upgrade Guide to Tailwind CSS v4 – Tailwind Documentation",
+      "description": "Comprehensive guide for migrating your frontend styles to Tailwind CSS v4 featuring the new high-speed Rust-powered engine and CSS-first configuration.",
+      "headings": {
+        "h1": [
+          "Upgrading to Tailwind CSS v4"
+        ],
+        "h2": [
+          "New Engine Architecture"
+        ],
+        "h3": []
+      },
+      "mainText": "Upgrading to Tailwind CSS v4\n\nTailwind CSS v4 is a ground-up rewrite of the framework, designed for speed and built using a new unified CSS-first configuration model.\n\nNew Engine Architecture\n\nBuilt with Lightning CSS, Tailwind v4 compiles stylesheets up to 10x faster with a fraction of memory usage.",
+      "language": "en",
+      "category": "Programming",
+      "categoryConfidence": 0.45,
+      "categorySignals": [
+        "url_pattern:\\/docs\\/",
+        "desc:frontend"
+      ],
+      "contentLengthBytes": 806,
+      "wordCount": 48,
+      "statusCode": 200,
+      "fetchTimeMs": 38,
+      "processedAt": "2026-09-24T05:08:13.587Z",
+      "chunkId": "chunk-002",
+      "retryCount": 0
+    },
+    {
+      "id": "doc-github_com-jeqtcy",
+      "url": "https://github.com/torvalds/linux",
+      "canonicalUrl": "https://github.com/torvalds/linux",
+      "domain": "github.com",
+      "title": "torvalds/linux: Linux kernel source tree – GitHub",
+      "description": "Linux kernel source tree maintained by Linus Torvalds. The open source monolithic operating system kernel powering cloud servers, supercomputers, and mobile devices.",
+      "headings": {
+        "h1": [
+          "Linux Kernel Source Repository"
+        ],
+        "h2": [
+          "Subsystems & Architecture"
+        ],
+        "h3": []
+      },
+      "mainText": "Linux Kernel Source Repository\n\nLinux is a free software, open-source Unix-like operating system kernel created by Linus Torvalds in 1991. The codebase is primarily written in C with portions in Rust and assembly.\n\nSubsystems & Architecture\n\nIncludes memory management, process scheduling, virtual file system (VFS), networking stack, device drivers, and namespace isolation for Docker and Linux containers.",
+      "language": "en",
+      "category": "Technology",
+      "categoryConfidence": 0.65,
+      "categorySignals": [
+        "url_pattern:\\/linux",
+        "title:linux",
+        "title:kernel",
+        "heading:linux",
+        "heading:kernel",
+        "heading:architecture",
+        "desc:cloud",
+        "desc:linux",
+        "desc:kernel",
+        "desc_phrase:operating system"
+      ],
+      "contentLengthBytes": 906,
+      "wordCount": 57,
+      "statusCode": 200,
+      "fetchTimeMs": 21,
+      "processedAt": "2026-09-24T05:08:13.609Z",
+      "chunkId": "chunk-002",
+      "retryCount": 0
+    },
+    {
+      "id": "doc-sqlite_org-54ba90",
+      "url": "https://sqlite.org/arch.html",
+      "canonicalUrl": "https://sqlite.org/arch.html",
+      "domain": "sqlite.org",
+      "title": "Architecture of SQLite – In-Process SQL Database Engine",
+      "description": "Technical architecture and internal subsystems of SQLite: tokenizer, parser, code generator, virtual machine (VDBE), B-Tree, pager, and OS interface.",
+      "headings": {
+        "h1": [
+          "The Architecture of SQLite"
+        ],
+        "h2": [
+          "Virtual Database Engine (VDBE)"
+        ],
+        "h3": []
+      },
+      "mainText": "The Architecture of SQLite\n\nSQLite is structured into three main subsystems: the compiler subsystem (SQL frontend), the execution engine (virtual database engine VDBE), and the storage backend (B-tree and pager).\n\nVirtual Database Engine (VDBE)\n\nThe VDBE is a register-based virtual machine that executes bytecode instructions produced by the SQL parser and code generator to read or write database records.",
+      "language": "en",
+      "category": "Technology",
+      "categoryConfidence": 0.8,
+      "categorySignals": [
+        "domain:sqlite.org",
+        "title:database",
+        "title:sql",
+        "title:sqlite",
+        "title:architecture",
+        "heading:database",
+        "heading:sqlite",
+        "heading:architecture",
+        "desc:sqlite",
+        "desc:architecture"
+      ],
+      "contentLengthBytes": 891,
+      "wordCount": 59,
+      "statusCode": 200,
+      "fetchTimeMs": 32,
+      "processedAt": "2026-09-24T05:08:13.641Z",
+      "chunkId": "chunk-002",
+      "retryCount": 0
+    },
+    {
+      "id": "doc-kubernetes_io-c0zv41",
+      "url": "https://kubernetes.io/docs/concepts/overview/what-is-kubernetes/",
+      "canonicalUrl": "https://kubernetes.io/docs/concepts/overview/what-is-kubernetes/",
+      "domain": "kubernetes.io",
+      "title": "What is Kubernetes? | Kubernetes Cloud Infrastructure",
+      "description": "Kubernetes is an open-source container orchestration system for automating software deployment, scaling, and management of containerized applications.",
+      "headings": {
+        "h1": [
+          "Introduction to Kubernetes Container Orchestration"
+        ],
+        "h2": [],
+        "h3": []
+      },
+      "mainText": "Introduction to Kubernetes Container Orchestration\n\nKubernetes provides a framework to run distributed systems resiliently. It takes care of scaling and failover for your application, provides deployment patterns, and manages cluster hardware resources.",
+      "language": "en",
+      "category": "Technology",
+      "categoryConfidence": 0.8,
+      "categorySignals": [
+        "domain:kubernetes.io",
+        "url_pattern:\\/kubernetes",
+        "title:cloud",
+        "title:infrastructure",
+        "title:kubernetes",
+        "heading:kubernetes",
+        "heading:container",
+        "desc:software",
+        "desc:kubernetes",
+        "desc:container"
+      ],
+      "contentLengthBytes": 748,
+      "wordCount": 32,
+      "statusCode": 200,
+      "fetchTimeMs": 31,
+      "processedAt": "2026-09-24T05:08:13.674Z",
+      "chunkId": "chunk-002",
+      "retryCount": 0
+    },
+    {
+      "id": "doc-docs_docker_com-r3diza",
+      "url": "https://docs.docker.com/get-started/overview/",
+      "canonicalUrl": "https://docs.docker.com/get-started/overview/",
+      "domain": "docs.docker.com",
+      "title": "Docker Overview | Containerization Platform Architecture",
+      "description": "Docker is an open platform for developing, shipping, and running applications using OS-level containerization for predictable environments.",
+      "headings": {
+        "h1": [
+          "Docker Platform Overview"
+        ],
+        "h2": [],
+        "h3": []
+      },
+      "mainText": "Docker Platform Overview\n\nDocker provides the ability to package and run an application in a loosely isolated environment called a container. The isolation and security allow you to run many containers simultaneously on a given host.",
+      "language": "en",
+      "category": "Technology",
+      "categoryConfidence": 0.66,
+      "categorySignals": [
+        "domain:docker.com",
+        "title:docker",
+        "title:architecture",
+        "heading:docker",
+        "desc:docker",
+        "body:docker(2)"
+      ],
+      "contentLengthBytes": 701,
+      "wordCount": 36,
+      "statusCode": 200,
+      "fetchTimeMs": 33,
+      "processedAt": "2026-09-24T05:08:13.708Z",
+      "chunkId": "chunk-002",
+      "retryCount": 0
+    },
+    {
+      "id": "doc-signal_org-f2mu9z",
+      "url": "https://signal.org/docs/specifications/doubleratchet/",
+      "canonicalUrl": "https://signal.org/docs/specifications/doubleratchet/",
+      "domain": "signal.org",
+      "title": "The Double Ratchet Algorithm – Signal Cryptographic Protocol",
+      "description": "Cryptographic specification of the Double Ratchet Algorithm: providing end-to-end encryption with forward secrecy and break-in recovery for messaging protocols.",
+      "headings": {
+        "h1": [
+          "The Double Ratchet Cryptographic Algorithm"
+        ],
+        "h2": [],
+        "h3": []
+      },
+      "mainText": "The Double Ratchet Cryptographic Algorithm\n\nThe Double Ratchet algorithm is used by two parties to exchange encrypted messages based on a shared secret key. The parties derive new keys for every message so that earlier keys cannot be calculated from later ones (forward secrecy).",
+      "language": "en",
+      "category": "Programming",
+      "categoryConfidence": 0.42,
+      "categorySignals": [
+        "url_pattern:\\/docs\\/",
+        "title:algorithm",
+        "heading:algorithm",
+        "desc:algorithm",
+        "body:algorithm(2)"
+      ],
+      "contentLengthBytes": 782,
+      "wordCount": 44,
+      "statusCode": 200,
+      "fetchTimeMs": 38,
+      "processedAt": "2026-09-24T05:08:13.746Z",
+      "chunkId": "chunk-002",
+      "retryCount": 0
+    }
+  ]
+}

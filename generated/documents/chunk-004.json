@@ -1,0 +1,242 @@
+{
+  "chunkId": "chunk-004",
+  "filename": "chunk-004.json",
+  "documentCount": 6,
+  "totalBytes": 5949,
+  "createdAt": "2026-09-24T05:08:14.281Z",
+  "documents": [
+    {
+      "id": "doc-espn_com-6fulrx",
+      "url": "https://www.espn.com/football/fifa-world-cup-qualifiers",
+      "canonicalUrl": "https://www.espn.com/football/fifa-world-cup-qualifiers",
+      "domain": "espn.com",
+      "title": "FIFA World Cup Qualifiers Scores and Match Highlights – ESPN Sports",
+      "description": "Get live match scores, standings, team results, and player statistics from the international FIFA World Cup championship qualification rounds.",
+      "headings": {
+        "h1": [
+          "International Football World Cup Qualifiers Matchday Report"
+        ],
+        "h2": [
+          "Head Coach Post-Match Press Conference"
+        ],
+        "h3": []
+      },
+      "mainText": "International Football World Cup Qualifiers Matchday Report\n\nNational teams competed in decisive tournament matches across three continents on Tuesday evening, with stunning goals in stoppage time reshaping group standings.\n\nHead Coach Post-Match Press Conference\n\nThe manager praised the squad's defensive discipline and athletic endurance after holding their rivals to a crucial away draw in front of 68,000 spectators in the stadium.",
+      "language": "en",
+      "category": "Sports",
+      "categoryConfidence": 0.81,
+      "categorySignals": [
+        "domain:espn.com",
+        "url_pattern:\\/football",
+        "title:sports",
+        "title:match",
+        "title:fifa",
+        "heading:football",
+        "heading:coach",
+        "desc:championship",
+        "desc:match",
+        "desc:fifa"
+      ],
+      "contentLengthBytes": 952,
+      "wordCount": 61,
+      "statusCode": 200,
+      "fetchTimeMs": 31,
+      "processedAt": "2026-09-24T05:08:13.967Z",
+      "chunkId": "chunk-004",
+      "retryCount": 0
+    },
+    {
+      "id": "doc-variety_com-ze6t27",
+      "url": "https://variety.com/feature/cannes-film-festival-screenings",
+      "canonicalUrl": "https://variety.com/feature/cannes-film-festival-screenings",
+      "domain": "variety.com",
+      "title": "Cannes Film Festival Premiere Reviews and Box Office Preview – Variety Entertainment",
+      "description": "In-depth coverage of cinematic world premieres, director interviews, festival awards, and Hollywood box office projections from the Cannes Croisette.",
+      "headings": {
+        "h1": [
+          "Cannes Film Festival Red Carpet and Premiere Highlights"
+        ],
+        "h2": [
+          "Palme d'Or Contenders and Director Spotlights"
+        ],
+        "h3": []
+      },
+      "mainText": "Cannes Film Festival Red Carpet and Premiere Highlights\n\nAcclaimed directors and international actors gathered on the French Riviera as jury members previewed competing feature films and documentary cinema entries.\n\nPalme d'Or Contenders and Director Spotlights\n\nCritics gave standing ovations to breakthrough theatrical indie dramas and high-concept science fiction thrillers eyeing global streaming releases.",
+      "language": "en",
+      "category": "Entertainment",
+      "categoryConfidence": 0.86,
+      "categorySignals": [
+        "domain:variety.com",
+        "title:entertainment",
+        "title:film",
+        "title_phrase:box office",
+        "title:festival",
+        "heading:film",
+        "heading:director",
+        "heading:festival",
+        "desc:director",
+        "desc:hollywood"
+      ],
+      "contentLengthBytes": 954,
+      "wordCount": 53,
+      "statusCode": 200,
+      "fetchTimeMs": 27,
+      "processedAt": "2026-09-24T05:08:13.995Z",
+      "chunkId": "chunk-004",
+      "retryCount": 0
+    },
+    {
+      "id": "doc-who_int-4vufe3",
+      "url": "https://www.who.int/news-room/fact-sheets/detail/cardiovascular-diseases",
+      "canonicalUrl": "https://www.who.int/news-room/fact-sheets/detail/cardiovascular-diseases",
+      "domain": "who.int",
+      "title": "Cardiovascular Diseases: Prevention and Clinical Guidelines – WHO Health",
+      "description": "World Health Organization fact sheet on cardiovascular health, hypertension symptoms, clinical diagnosis, lifestyle therapy, and preventive medicine.",
+      "headings": {
+        "h1": [
+          "Cardiovascular Health, Disease Prevention, and Clinical Care"
+        ],
+        "h2": [
+          "Clinical Diagnosis & Medical Therapy"
+        ],
+        "h3": []
+      },
+      "mainText": "Cardiovascular Health, Disease Prevention, and Clinical Care\n\nCardiovascular diseases are the leading cause of mortality globally. Most cardiovascular conditions can be prevented by addressing behavioral risk factors such as physical inactivity, tobacco use, and unhealthy diet.\n\nClinical Diagnosis & Medical Therapy\n\nEarly detection through blood pressure screening, cholesterol management, and evidence-based pharmacotherapy reduces hospitalizations and coronary complications.",
+      "language": "en",
+      "category": "Health",
+      "categoryConfidence": 0.88,
+      "categorySignals": [
+        "domain:who.int",
+        "title:health",
+        "title:clinical",
+        "heading:health",
+        "heading:medical",
+        "heading:clinical",
+        "heading:disease",
+        "heading:therapy",
+        "heading:diagnosis",
+        "desc:health"
+      ],
+      "contentLengthBytes": 1024,
+      "wordCount": 57,
+      "statusCode": 200,
+      "fetchTimeMs": 23,
+      "processedAt": "2026-09-24T05:08:14.019Z",
+      "chunkId": "chunk-004",
+      "retryCount": 0
+    },
+    {
+      "id": "doc-lonelyplanet_com-27vfsi",
+      "url": "https://www.lonelyplanet.com/articles/best-sustainable-travel-destinations",
+      "canonicalUrl": "https://www.lonelyplanet.com/articles/best-sustainable-travel-destinations",
+      "domain": "lonelyplanet.com",
+      "title": "Best Sustainable Travel Destinations & Eco-Tourism Itineraries – Lonely Planet Travel",
+      "description": "Discover top eco-friendly travel destinations, boutique hotels, scenic train itineraries, and responsible tourism guides for world travelers.",
+      "headings": {
+        "h1": [
+          "Sustainable Travel Guides and Top Vacation Itineraries"
+        ],
+        "h2": [
+          "Booking Flights, Boutique Hotels, and Local Tours"
+        ],
+        "h3": []
+      },
+      "mainText": "Sustainable Travel Guides and Top Vacation Itineraries\n\nPlanning your next holiday? From scenic Alpine rail adventures to pristine coastal eco-resorts, explore destination guides that combine unforgettable cultural sightseeing with low-impact exploration.\n\nBooking Flights, Boutique Hotels, and Local Tours\n\nTips on packing light luggage, securing train passes, and immersing in local communities off the beaten tourist path.",
+      "language": "en",
+      "category": "Travel",
+      "categoryConfidence": 0.8,
+      "categorySignals": [
+        "domain:lonelyplanet.com",
+        "title:travel",
+        "heading:travel",
+        "heading:vacation",
+        "desc:travel",
+        "desc:tourism"
+      ],
+      "contentLengthBytes": 977,
+      "wordCount": 56,
+      "statusCode": 200,
+      "fetchTimeMs": 22,
+      "processedAt": "2026-09-24T05:08:14.042Z",
+      "chunkId": "chunk-004",
+      "retryCount": 0
+    },
+    {
+      "id": "doc-en_wikipedia_org-ba8l3w",
+      "url": "https://en.wikipedia.org/wiki/Portal:Contents",
+      "canonicalUrl": "https://en.wikipedia.org/wiki/Portal:Contents",
+      "domain": "en.wikipedia.org",
+      "title": "Portal: Contents – Wikipedia Reference Directory",
+      "description": "General reference portal, category indexes, subject overviews, and broad encyclopedic topic directories across all human knowledge.",
+      "headings": {
+        "h1": [
+          "Wikipedia Knowledge Portal and Reference Directories"
+        ],
+        "h2": [
+          "Subject Overviews and Indexes"
+        ],
+        "h3": []
+      },
+      "mainText": "Wikipedia Knowledge Portal and Reference Directories\n\nThis page serves as a master general index and navigation guide to articles, portals, outlines, and topical overviews across the free encyclopedia.\n\nSubject Overviews and Indexes\n\nBrowse general topics categorized by humanities, natural sciences, geography, history, and culture.",
+      "language": "en",
+      "category": "General",
+      "categoryConfidence": 0.87,
+      "categorySignals": [
+        "domain:wikipedia.org",
+        "url_pattern:\\/portal",
+        "title:portal",
+        "title:directory",
+        "title:reference",
+        "heading:portal",
+        "heading:reference",
+        "desc:general",
+        "desc:portal",
+        "desc:reference"
+      ],
+      "contentLengthBytes": 809,
+      "wordCount": 44,
+      "statusCode": 200,
+      "fetchTimeMs": 22,
+      "processedAt": "2026-09-24T05:08:14.065Z",
+      "chunkId": "chunk-004",
+      "retryCount": 0
+    },
+    {
+      "id": "doc-en_wikipedia_org-6wu5fq",
+      "url": "https://en.wikipedia.org/wiki/Okapi_BM25",
+      "canonicalUrl": "https://en.wikipedia.org/wiki/Okapi_BM25",
+      "domain": "en.wikipedia.org",
+      "title": "Okapi BM25 – Wikipedia, the free encyclopedia",
+      "description": "In information retrieval, Okapi BM25 is a probabilistic ranking function used by search engines to estimate the relevance of documents to a given search query.",
+      "headings": {
+        "h1": [
+          "Okapi BM25 Information Retrieval"
+        ],
+        "h2": [
+          "The Ranking Function Formula",
+          "Search Engine Implementations"
+        ],
+        "h3": []
+      },
+      "mainText": "Okapi BM25 Information Retrieval\n\nOkapi BM25 (BM is an abbreviation of Best Matching) is a bag-of-words retrieval function that ranks a set of documents based on the query terms appearing in each document, regardless of their inter-relationship.\n\nThe Ranking Function Formula\n\nGiven a query Q containing keywords q1 through qn, the BM25 score of a document D is evaluated using inverse document frequency (IDF), term frequency saturation controlled by parameter k1, and document length normalization parameterized by b.\n\nSearch Engine Implementations\n\nWidely adopted by modern search systems including Lucene, Elasticsearch, and NexVora for fast, mathematically sound keyword scoring without black-box auction bias.",
+      "language": "en",
+      "category": "Technology",
+      "categoryConfidence": 0.53,
+      "categorySignals": [
+        "title:bm25",
+        "heading:bm25",
+        "heading_phrase:search engine",
+        "desc:bm25",
+        "desc_phrase:search engine",
+        "body:bm25(3)"
+      ],
+      "contentLengthBytes": 1233,
+      "wordCount": 102,
+      "statusCode": 200,
+      "fetchTimeMs": 37,
+      "processedAt": "2026-09-24T05:08:14.281Z",
+      "chunkId": "chunk-004",
+      "retryCount": 0
+    }
+  ]
+}

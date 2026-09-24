@@ -1,0 +1,131 @@
+name: NexVora Ingestion & Index Pipeline
+
+on:
+  push:
+    branches:
+      - main
+      - master
+    paths:
+      - 'sources/**'
+      - 'src/processor/**'
+      - 'src/indexing/**'
+      - 'scripts/**'
+    paths-ignore:
+      - 'generated/**'
+      - 'README.md'
+      - '.github/**'
+      - 'docs/**'
+  schedule:
+    # Run daily at 04:00 UTC (periodic scheduled ingestion)
+    - cron: '0 4 * * *'
+  workflow_dispatch:
+    inputs:
+      force_rebuild:
+        description: 'Force complete rebuild and re-indexing'
+        required: false
+        type: boolean
+        default: false
+      validate_only:
+        description: 'Run validation checks only (do not commit changes)'
+        required: false
+        type: boolean
+        default: false
+
+# Prevent concurrent runs on the same branch from colliding
+concurrency:
+  group: nexvora-pipeline-${{ github.ref }}
+  cancel-in-progress: true
+
+permissions:
+  contents: write
+
+jobs:
+  pipeline:
+    name: Ingest, Classify, Index & Validate
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Setup Node.js Runtime
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: 'npm'
+
+      - name: Install Dependencies
+        run: |
+          npm ci || npm install
+
+      - name: Step 1 - Validate Sources
+        run: |
+          npx tsx scripts/pipeline.ts --validate-sources-only
+
+      - name: Step 2 to 5 - Ingest URLs, Extract Metadata, Categorize & Generate JSON/JSONL
+        run: |
+          npx tsx scripts/pipeline.ts
+
+      - name: Step 6 - Validate Generated Files Integrity
+        run: |
+          npx tsx scripts/validate-pipeline.ts
+
+      - name: Generate Workflow Summary Report
+        if: always()
+        run: |
+          echo "## 🚀 NexVora Search Pipeline Run Summary" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "| Metric | Value |" >> $GITHUB_STEP_SUMMARY
+          echo "| :--- | :--- |" >> $GITHUB_STEP_SUMMARY
+          if [ -f "generated/reports/processing-report.json" ]; then
+            DOCS=$(node -e "const r=JSON.parse(require('fs').readFileSync('generated/reports/processing-report.json','utf-8')); console.log(r.summary.successfullyProcessed);")
+            DUPS=$(node -e "const r=JSON.parse(require('fs').readFileSync('generated/reports/processing-report.json','utf-8')); console.log(r.summary.duplicateUrlsIgnored);")
+            FAILS=$(node -e "const r=JSON.parse(require('fs').readFileSync('generated/reports/processing-report.json','utf-8')); console.log(r.summary.failedUrlsCount);")
+            CHUNKS=$(node -e "const r=JSON.parse(require('fs').readFileSync('generated/reports/processing-report.json','utf-8')); console.log(r.summary.totalChunksGenerated);")
+            BYTES=$(node -e "const r=JSON.parse(require('fs').readFileSync('generated/reports/processing-report.json','utf-8')); console.log(Math.round(r.summary.totalExtractedBytes/1024) + ' KB');")
+            echo "| **Processed Documents** | ${DOCS} |" >> $GITHUB_STEP_SUMMARY
+            echo "| **Duplicate URLs Filtered** | ${DUPS} |" >> $GITHUB_STEP_SUMMARY
+            echo "| **Failed / Blocked URLs** | ${FAILS} |" >> $GITHUB_STEP_SUMMARY
+            echo "| **JSON Chunks Generated** | ${CHUNKS} |" >> $GITHUB_STEP_SUMMARY
+            echo "| **Total Extracted Data** | ${BYTES} |" >> $GITHUB_STEP_SUMMARY
+          fi
+          if [ -f "generated/index/index-stats.json" ]; then
+            TERMS=$(node -e "const s=JSON.parse(require('fs').readFileSync('generated/index/index-stats.json','utf-8')); console.log(s.totalTerms);")
+            AVG_LEN=$(node -e "const s=JSON.parse(require('fs').readFileSync('generated/index/index-stats.json','utf-8')); console.log(s.avgDocLength + ' tokens');")
+            echo "| **Inverted Index Terms** | ${TERMS} |" >> $GITHUB_STEP_SUMMARY
+            echo "| **Average Doc Length** | ${AVG_LEN} |" >> $GITHUB_STEP_SUMMARY
+          fi
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "Updated directories: \`generated/documents/\`, \`generated/categories/\`, \`generated/index/\`, \`generated/reports/\`" >> $GITHUB_STEP_SUMMARY
+
+      - name: Step 7 - Commit & Push Generated Changes
+        if: ${{ github.event.inputs.validate_only != 'true' }}
+        run: |
+          echo "Checking git status for generated/ directories..."
+          git status --porcelain generated/
+
+          if [ -z "$(git status --porcelain generated/)" ]; then
+            echo "No changes in generated/ directory. Working tree clean, skipping commit."
+            exit 0
+          fi
+
+          echo "Changes detected in generated/ assets. Preparing automated commit..."
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          # Stage only the intended generated directories
+          git add generated/documents/
+          git add generated/categories/
+          git add generated/index/
+          git add generated/reports/
+
+          # [skip ci] prevents recursive GitHub Actions workflow execution
+          git commit -m "chore(pipeline): automated index & source processing [skip ci]" \
+            -m "Automated update of generated documents, categories, BM25 inverted index, and reports."
+
+          echo "Pushing changes to ${{ github.ref_name }}..."
+          git push origin HEAD:${{ github.ref_name }}

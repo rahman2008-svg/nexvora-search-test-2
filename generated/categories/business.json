@@ -1,0 +1,18 @@
+{
+  "category": "Business",
+  "documentCount": 1,
+  "updatedAt": "2026-09-24T05:08:13.935Z",
+  "documentIds": [
+    "doc-bloomberg_com-z2mmfe"
+  ],
+  "items": [
+    {
+      "id": "doc-bloomberg_com-z2mmfe",
+      "title": "Global Stock Markets Rally Following Quarterly Earnings and Rate Forecast – Bloomberg",
+      "canonicalUrl": "https://www.bloomberg.com/news/articles/global-markets-rally",
+      "domain": "bloomberg.com",
+      "description": "Financial markets surge as corporate enterprise earnings beat quarterly expectations and central bank inflation forecasts indicate monetary easing.",
+      "confidence": 0.77
+    }
+  ]
+}

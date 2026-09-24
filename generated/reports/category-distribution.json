@@ -1,0 +1,57 @@
+[
+  {
+    "category": "Education",
+    "count": 2,
+    "percentage": 8.3
+  },
+  {
+    "category": "Programming",
+    "count": 8,
+    "percentage": 33.3
+  },
+  {
+    "category": "Technology",
+    "count": 5,
+    "percentage": 20.8
+  },
+  {
+    "category": "Science",
+    "count": 2,
+    "percentage": 8.3
+  },
+  {
+    "category": "News",
+    "count": 1,
+    "percentage": 4.2
+  },
+  {
+    "category": "Business",
+    "count": 1,
+    "percentage": 4.2
+  },
+  {
+    "category": "Sports",
+    "count": 1,
+    "percentage": 4.2
+  },
+  {
+    "category": "Entertainment",
+    "count": 1,
+    "percentage": 4.2
+  },
+  {
+    "category": "Health",
+    "count": 1,
+    "percentage": 4.2
+  },
+  {
+    "category": "Travel",
+    "count": 1,
+    "percentage": 4.2
+  },
+  {
+    "category": "General",
+    "count": 1,
+    "percentage": 4.2
+  }
+]

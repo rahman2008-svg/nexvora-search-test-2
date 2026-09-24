@@ -1,0 +1,247 @@
+{
+  "chunkId": "chunk-003",
+  "filename": "chunk-003.json",
+  "documentCount": 6,
+  "totalBytes": 6006,
+  "createdAt": "2026-09-24T05:08:14.281Z",
+  "documents": [
+    {
+      "id": "doc-webb_nasa_gov-hbuwpj",
+      "url": "https://webb.nasa.gov/content/science/overview.html",
+      "canonicalUrl": "https://webb.nasa.gov/content/science/overview.html",
+      "domain": "webb.nasa.gov",
+      "title": "Science Overview – James Webb Space Telescope – NASA",
+      "description": "Explore the scientific mission of NASA",
+      "headings": {
+        "h1": [
+          "NASA James Webb Space Telescope Science Mission"
+        ],
+        "h2": [
+          "Infrared Astronomy & Deep Fields"
+        ],
+        "h3": []
+      },
+      "mainText": "NASA James Webb Space Telescope Science Mission\n\nThe James Webb Space Telescope (JWST) is the premier space observatory of the next decade, studying every phase in the history of our Universe from the first luminous glows after the Big Bang to the formation of solar systems capable of supporting life on planets like Earth.\n\nInfrared Astronomy & Deep Fields\n\nBecause the universe is expanding, light from the most distant cosmic objects shifts into infrared wavelengths. Webb's gold-coated mirrors capture deep cosmic fields.",
+      "language": "en",
+      "category": "Science",
+      "categoryConfidence": 0.88,
+      "categorySignals": [
+        "domain:nasa.gov",
+        "url_pattern:\\/science",
+        "title:science",
+        "title:space",
+        "title:telescope",
+        "title:nasa",
+        "title_phrase:james webb",
+        "heading:science",
+        "heading:astronomy",
+        "heading:space"
+      ],
+      "contentLengthBytes": 1045,
+      "wordCount": 82,
+      "statusCode": 200,
+      "fetchTimeMs": 39,
+      "processedAt": "2026-09-24T05:08:13.785Z",
+      "chunkId": "chunk-003",
+      "retryCount": 0
+    },
+    {
+      "id": "doc-nature_com-rbglia",
+      "url": "https://www.nature.com/articles/d41586-quantum-computing",
+      "canonicalUrl": "https://www.nature.com/articles/d41586-quantum-computing",
+      "domain": "nature.com",
+      "title": "Quantum Computing Milestones and Coherence Times – Nature Science",
+      "description": "Peer-reviewed research into superconducting qubits, quantum error correction, and quantum physics coherence times in cryogenic physics laboratories.",
+      "headings": {
+        "h1": [
+          "Breakthroughs in Quantum Physics and Superconducting Qubits"
+        ],
+        "h2": [
+          "Cryogenic Physics Experiments"
+        ],
+        "h3": []
+      },
+      "mainText": "Breakthroughs in Quantum Physics and Superconducting Qubits\n\nPhysicists and quantum researchers have demonstrated unprecedented coherence times in superconducting circuits, bringing fault-tolerant quantum algorithms closer to physical reality.\n\nCryogenic Physics Experiments\n\nOperating dilution refrigerators at temperatures below 15 millikelvin shields delicate quantum superposition states from thermal noise and electromagnetic interference.",
+      "language": "en",
+      "category": "Science",
+      "categoryConfidence": 0.76,
+      "categorySignals": [
+        "domain:nature.com",
+        "title:science",
+        "title:quantum",
+        "heading:physics",
+        "heading:quantum",
+        "desc:physics",
+        "desc:quantum",
+        "desc:research",
+        "desc:peer-reviewed",
+        "body:physics(2)"
+      ],
+      "contentLengthBytes": 965,
+      "wordCount": 49,
+      "statusCode": 200,
+      "fetchTimeMs": 30,
+      "processedAt": "2026-09-24T05:08:13.816Z",
+      "chunkId": "chunk-003",
+      "retryCount": 0
+    },
+    {
+      "id": "doc-khanacademy_org-p34of3",
+      "url": "https://www.khanacademy.org/math/calculus-1",
+      "canonicalUrl": "https://www.khanacademy.org/math/calculus-1",
+      "domain": "khanacademy.org",
+      "title": "Calculus 1 Course & Practice Lessons | Khan Academy Education",
+      "description": "Learn Calculus 1 with free interactive video lectures, practice exercises, syllabus guides, and student quizzes covering limits, derivatives, and integrals.",
+      "headings": {
+        "h1": [
+          "Calculus 1 Curriculum and Student Coursework"
+        ],
+        "h2": [
+          "Course Syllabus Modules",
+          "Interactive Student Practice"
+        ],
+        "h3": []
+      },
+      "mainText": "Calculus 1 Curriculum and Student Coursework\n\nWelcome to the Khan Academy Calculus 1 education course! Designed for high school and university undergraduate students preparing for AP exams and college STEM degrees.\n\nCourse Syllabus Modules\n\nModule 1 covers limits and continuity, Module 2 introduces differentiation rules, and Module 3 applies derivatives to optimization and physics problems.\n\nInteractive Student Practice\n\nEach unit includes auto-graded quizzes and detailed step-by-step tutoring solutions to help students master fundamental mathematical concepts.",
+      "language": "en",
+      "category": "Education",
+      "categoryConfidence": 0.88,
+      "categorySignals": [
+        "domain:khanacademy.org",
+        "title:education",
+        "title:course",
+        "title:academy",
+        "title_phrase:khan academy",
+        "heading:course",
+        "heading:student",
+        "heading:syllabus",
+        "heading:curriculum",
+        "desc:student"
+      ],
+      "contentLengthBytes": 1099,
+      "wordCount": 75,
+      "statusCode": 200,
+      "fetchTimeMs": 21,
+      "processedAt": "2026-09-24T05:08:13.837Z",
+      "chunkId": "chunk-003",
+      "retryCount": 0
+    },
+    {
+      "id": "doc-ocw_mit_edu-cwo0j2",
+      "url": "https://ocw.mit.edu/courses/intro-to-algorithms/",
+      "canonicalUrl": "https://ocw.mit.edu/courses/intro-to-algorithms/",
+      "domain": "ocw.mit.edu",
+      "title": "Introduction to Algorithms | MIT OpenCourseWare Free Education",
+      "description": "Undergraduate MIT computer science curriculum featuring professor lecture notes, exam problems, syllabus, and study materials for algorithm analysis.",
+      "headings": {
+        "h1": [
+          "MIT Course 6.006: Introduction to Algorithms"
+        ],
+        "h2": [
+          "Professor Lecture Series"
+        ],
+        "h3": []
+      },
+      "mainText": "MIT Course 6.006: Introduction to Algorithms\n\nThis undergraduate college course teaches algorithmic design, time complexity analysis (Big-O notation), dynamic programming, divide-and-conquer, and graph algorithms.\n\nProfessor Lecture Series\n\nTaught by leading academic professors in the MIT Department of Electrical Engineering and Computer Science.",
+      "language": "en",
+      "category": "Education",
+      "categoryConfidence": 0.82,
+      "categorySignals": [
+        "domain:.edu",
+        "domain:mit.edu",
+        "url_pattern:\\/course",
+        "title:education",
+        "heading:course",
+        "heading:lecture",
+        "heading:professor",
+        "desc:syllabus",
+        "desc:lecture",
+        "desc:professor"
+      ],
+      "contentLengthBytes": 857,
+      "wordCount": 42,
+      "statusCode": 200,
+      "fetchTimeMs": 30,
+      "processedAt": "2026-09-24T05:08:13.868Z",
+      "chunkId": "chunk-003",
+      "retryCount": 0
+    },
+    {
+      "id": "doc-reuters_com-i1fbxk",
+      "url": "https://www.reuters.com/world/global-climate-summit-accord/",
+      "canonicalUrl": "https://www.reuters.com/world/global-climate-summit-accord/",
+      "domain": "reuters.com",
+      "title": "Global Climate Summit Reaches Historic Clean Energy Accord – Reuters News",
+      "description": "Breaking international news: Diplomats and world leaders agree to accelerate renewable energy deployment and carbon reduction targets at global summit.",
+      "headings": {
+        "h1": [
+          "Delegates Reach Landmark Global Energy Accord"
+        ],
+        "h2": [
+          "Summit Spokesperson Briefing"
+        ],
+        "h3": []
+      },
+      "mainText": "Delegates Reach Landmark Global Energy Accord\n\nGENEVA (Reuters) — Diplomats and government delegations concluded round-the-clock negotiations on Tuesday, signing a comprehensive multilateral agreement to phase down fossil fuels and double international clean energy investments by 2035.\n\nSummit Spokesperson Briefing\n\nA spokesperson for the summit announced that 142 nations approved the binding communique following bilateral compromise between emerging and developed economies.",
+      "language": "en",
+      "category": "News",
+      "categoryConfidence": 0.8,
+      "categorySignals": [
+        "domain:reuters.com",
+        "url_pattern:\\/world\\/",
+        "title:news",
+        "heading:spokesperson",
+        "desc:news",
+        "desc:breaking",
+        "body:spokesperson(2)"
+      ],
+      "contentLengthBytes": 1022,
+      "wordCount": 60,
+      "statusCode": 200,
+      "fetchTimeMs": 37,
+      "processedAt": "2026-09-24T05:08:13.906Z",
+      "chunkId": "chunk-003",
+      "retryCount": 0
+    },
+    {
+      "id": "doc-bloomberg_com-z2mmfe",
+      "url": "https://www.bloomberg.com/news/articles/global-markets-rally",
+      "canonicalUrl": "https://www.bloomberg.com/news/articles/global-markets-rally",
+      "domain": "bloomberg.com",
+      "title": "Global Stock Markets Rally Following Quarterly Earnings and Rate Forecast – Bloomberg",
+      "description": "Financial markets surge as corporate enterprise earnings beat quarterly expectations and central bank inflation forecasts indicate monetary easing.",
+      "headings": {
+        "h1": [
+          "Stock Indices Surge on Strong Corporate Earnings and Economic Data"
+        ],
+        "h2": [
+          "Corporate Revenue and Valuation Multiples"
+        ],
+        "h3": []
+      },
+      "mainText": "Stock Indices Surge on Strong Corporate Earnings and Economic Data\n\nWall Street equities and European markets traded higher on Wednesday as quarterly corporate profit margins surpassed consensus analyst estimates, buoyed by enterprise software demand and cooling consumer price inflation.\n\nCorporate Revenue and Valuation Multiples\n\nVenture capital investments and initial public offerings rebounded sharply, while treasury yields stabilized across benchmark ten-year bonds.",
+      "language": "en",
+      "category": "Business",
+      "categoryConfidence": 0.77,
+      "categorySignals": [
+        "domain:bloomberg.com",
+        "title:earnings",
+        "title:quarterly",
+        "heading:revenue",
+        "heading:earnings",
+        "heading:valuation",
+        "heading:corporate",
+        "desc:enterprise",
+        "desc:earnings",
+        "desc:inflation"
+      ],
+      "contentLengthBytes": 1018,
+      "wordCount": 61,
+      "statusCode": 200,
+      "fetchTimeMs": 29,
+      "processedAt": "2026-09-24T05:08:13.935Z",
+      "chunkId": "chunk-003",
+      "retryCount": 0
+    }
+  ]
+}
