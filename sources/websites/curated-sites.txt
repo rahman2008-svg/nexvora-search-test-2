@@ -1,57 +1,396 @@
-# NexVora Search - Direct Website Sources
-# Curated URLs across 11 rule-based categories with tracking params for canonical testing.
-# Includes duplicates, edge cases, and robots/error simulations for robust engine verification.
+# ============================================================
+# Programming & Software Development
+# ============================================================
 
-# Programming
-https://developer.mozilla.org/en-US/docs/Web/JavaScript?utm_source=newsletter&utm_medium=email
-https://react.dev/blog/2024/12/05/react-19?ref=hackernews
-https://www.rust-lang.org/learn
-https://docs.python.org/3/tutorial/
-https://bun.sh/docs
+https://go.dev/doc/
+https://go.dev/tour/
+https://www.php.net/manual/en/
+https://www.ruby-lang.org/en/documentation/
+https://www.swift.org/documentation/
+https://dart.dev/guides
+https://developer.apple.com/documentation/
+https://learn.microsoft.com/en-us/dotnet/
+https://learn.microsoft.com/en-us/cpp/
+https://learn.microsoft.com/en-us/powershell/
+https://developer.mozilla.org/en-US/docs/Learn
+https://developer.mozilla.org/en-US/docs/Web/HTTP
+https://developer.mozilla.org/en-US/docs/Web/CSS
+https://developer.mozilla.org/en-US/docs/Web/HTML
+https://developer.mozilla.org/en-US/docs/Web/API
+https://web.dev/learn/
+https://www.w3.org/TR/
+https://www.ecma-international.org/publications-and-standards/standards/
+https://tc39.es/ecma262/
+https://nodejs.org/docs/latest/api/
+https://deno.com/manual
+https://bun.sh/docs/runtime
+https://expressjs.com/
+https://fastapi.tiangolo.com/
+https://flask.palletsprojects.com/
+https://docs.djangoproject.com/
+https://spring.io/guides
+https://laravel.com/docs
+https://rubyonrails.org/docs
+https://nestjs.com/
+https://hono.dev/docs/
+https://astro.build/
+https://nuxt.com/docs
+https://svelte.dev/docs
+https://vuejs.org/guide/
+https://angular.dev/overview
+https://nextjs.org/docs
+https://remix.run/docs
+https://qwik.dev/docs/
 https://vite.dev/guide/
-https://tailwindcss.com/docs/v4-upgrade-guide
+https://webpack.js.org/concepts/
+https://rollupjs.org/introduction/
+https://esbuild.github.io/
+https://babeljs.io/docs/
+https://eslint.org/docs/latest/
+https://prettier.io/docs/
+https://jestjs.io/docs/getting-started
+https://vitest.dev/guide/
+https://playwright.dev/docs/intro
+https://www.selenium.dev/documentation/
 
-# Technology
-https://github.com/torvalds/linux
-https://sqlite.org/arch.html
-https://kubernetes.io/docs/concepts/overview/what-is-kubernetes/
-https://docs.docker.com/get-started/overview/
-https://signal.org/docs/specifications/doubleratchet/
+# ============================================================
+# Android & Mobile Development
+# ============================================================
 
+https://developer.android.com/guide
+https://developer.android.com/jetpack/compose
+https://developer.android.com/kotlin
+https://developer.android.com/studio
+https://developer.android.com/develop/ui
+https://developer.android.com/develop/background-work
+https://developer.android.com/topic/architecture
+https://developer.android.com/topic/libraries/architecture
+https://developer.android.com/training
+https://developer.android.com/courses
+https://kotlinlang.org/docs/home.html
+https://kotlinlang.org/docs/compose-multiplatform.html
+https://developer.android.com/develop/ui/compose/documentation
+https://developer.android.com/topic/libraries/data
+https://developer.android.com/training/data-storage
+https://developer.android.com/training/permissions
+https://developer.android.com/develop/connectivity
+https://developer.android.com/media
+https://developer.android.com/develop/ui/views
+https://developer.android.com/topic/security
+
+# ============================================================
+# Open Source & Git
+# ============================================================
+
+https://git-scm.com/book/en/v2
+https://git-scm.com/docs
+https://docs.github.com/en/get-started
+https://docs.github.com/en/actions
+https://docs.github.com/en/repositories
+https://docs.github.com/en/pull-requests
+https://docs.github.com/en/rest
+https://docs.github.com/en/graphql
+https://opensource.guide/
+https://www.linuxfoundation.org/
+https://www.apache.org/
+https://www.gnu.org/
+https://www.mozilla.org/en-US/
+https://www.eclipse.org/
+https://www.python.org/community/
+https://www.rust-lang.org/learn/get-started
+https://www.kernel.org/doc/html/latest/
+https://docs.kernel.org/
+
+# ============================================================
+# Linux & System Administration
+# ============================================================
+
+https://ubuntu.com/tutorials
+https://help.ubuntu.com/
+https://ubuntu.com/server/docs
+https://docs.fedoraproject.org/
+https://wiki.archlinux.org/
+https://docs.alpinelinux.org/
+https://docs.debian.org/
+https://www.debian.org/doc/
+https://www.gnu.org/software/bash/manual/
+https://man7.org/linux/man-pages/
+https://systemd.io/
+https://www.freedesktop.org/wiki/
+https://docs.opensuse.org/
+https://docs.oracle.com/en/operating-systems/
+https://docs.redhat.com/
+https://www.linux.org/
+
+# ============================================================
+# DevOps, Cloud & Infrastructure
+# ============================================================
+
+https://docs.docker.com/
+https://docs.docker.com/get-started/
+https://docs.docker.com/compose/
+https://kubernetes.io/docs/home/
+https://helm.sh/docs/
+https://docs.ansible.com/
+https://developer.hashicorp.com/terraform/docs
+https://developer.hashicorp.com/vault/docs
+https://developer.hashicorp.com/packer/docs
+https://docs.github.com/en/actions
+https://docs.gitlab.com/
+https://docs.aws.amazon.com/
+https://cloud.google.com/docs
+https://learn.microsoft.com/en-us/azure/
+https://cloud.google.com/architecture
+https://docs.oracle.com/en-us/iaas/
+https://www.digitalocean.com/community/tutorials
+https://vercel.com/docs
+https://render.com/docs
+https://docs.netlify.com/
+https://docs.cloudflare.com/
+https://docs.nginx.com/
+https://httpd.apache.org/docs/
+https://prometheus.io/docs/
+https://grafana.com/docs/
+https://opentelemetry.io/docs/
+
+# ============================================================
+# Databases & Data
+# ============================================================
+
+https://www.postgresql.org/docs/
+https://dev.mysql.com/doc/
+https://mariadb.com/kb/en/documentation/
+https://www.sqlite.org/docs.html
+https://www.mongodb.com/docs/
+https://redis.io/docs/
+https://docs.cockroachlabs.com/
+https://duckdb.org/docs/
+https://clickhouse.com/docs
+https://docs.influxdata.com/
+https://neo4j.com/docs/
+https://docs.oracle.com/en/database/
+https://www.elastic.co/docs
+https://opensearch.org/docs/latest/
+https://pandas.pydata.org/docs/
+https://numpy.org/doc/
+https://scipy.org/
+https://matplotlib.org/stable/users/index.html
+https://jupyter.org/documentation
+https://docs.python.org/3/library/
+https://docs.python.org/3/howto/
+
+# ============================================================
+# Artificial Intelligence & Machine Learning
+# ============================================================
+
+https://www.tensorflow.org/learn
+https://pytorch.org/docs/stable/
+https://scikit-learn.org/stable/user_guide.html
+https://keras.io/
+https://huggingface.co/docs
+https://www.nltk.org/
+https://spacy.io/usage
+https://xgboost.readthedocs.io/
+https://lightgbm.readthedocs.io/
+https://opencv.org/
+https://docs.opencv.org/
+https://mlflow.org/docs/latest/
+https://www.kaggle.com/docs
+https://developers.google.com/machine-learning
+https://developers.google.com/mediapipe
+https://ai.google.dev/gemini-api/docs
+https://www.deeplearningbook.org/
+https://distill.pub/
+https://paperswithcode.com/
+
+# ============================================================
 # Science
-https://webb.nasa.gov/content/science/overview.html
-https://www.nature.com/articles/d41586-quantum-computing
+# ============================================================
 
-# Education
-https://www.khanacademy.org/math/calculus-1
-https://ocw.mit.edu/courses/intro-to-algorithms/
+https://science.nasa.gov/
+https://www.nasa.gov/
+https://www.nasa.gov/learning-resources/
+https://www.esa.int/Science_Exploration
+https://www.noaa.gov/education
+https://www.usgs.gov/
+https://www.nist.gov/
+https://www.energy.gov/science
+https://home.cern/science
+https://home.cern/science/physics
+https://www.fnal.gov/
+https://www.nationalacademies.org/
+https://www.science.org/
+https://www.scientificamerican.com/
+https://royalsocietypublishing.org/
+https://www.pnas.org/
+https://arxiv.org/
+https://plato.stanford.edu/
+https://iep.utm.edu/
 
-# News
-https://www.reuters.com/world/global-climate-summit-accord/
+# ============================================================
+# Mathematics
+# ============================================================
 
-# Business
-https://www.bloomberg.com/news/articles/global-markets-rally
+https://www.khanacademy.org/math
+https://www.mathsisfun.com/
+https://www.wolfram.com/mathematica/
+https://mathworld.wolfram.com/
+https://www.ams.org/
+https://www.maa.org/
+https://www.nctm.org/
+https://openstax.org/subjects/math
+https://tutorial.math.lamar.edu/
+https://www.purplemath.com/
+https://artofproblemsolving.com/
+https://projecteuler.net/
+https://oeis.org/
 
-# Sports
-https://www.espn.com/football/fifa-world-cup-qualifiers
+# ============================================================
+# Education & Learning
+# ============================================================
 
-# Entertainment
-https://variety.com/feature/cannes-film-festival-screenings
+https://www.khanacademy.org/
+https://ocw.mit.edu/
+https://openstax.org/
+https://www.edx.org/
+https://www.coursera.org/
+https://www.futurelearn.com/
+https://www.classcentral.com/
+https://www.oercommons.org/
+https://open.umn.edu/opentextbooks/
+https://libretexts.org/
+https://www.gutenberg.org/
+https://archive.org/details/texts
+https://www.doaj.org/
+https://www.jstor.org/
+https://eric.ed.gov/
+https://www.unesco.org/en/education
+https://www.unicef.org/education
 
-# Health
-https://www.who.int/news-room/fact-sheets/detail/cardiovascular-diseases
+# ============================================================
+# History & Culture
+# ============================================================
 
-# Travel
-https://www.lonelyplanet.com/articles/best-sustainable-travel-destinations
+https://www.britannica.com/
+https://www.history.com/
+https://www.worldhistory.org/
+https://www.metmuseum.org/toah/
+https://www.si.edu/
+https://www.louvre.fr/en
+https://www.britishmuseum.org/collection
+https://www.loc.gov/
+https://www.archives.gov/
+https://www.nationalarchives.gov.uk/
+https://www.bl.uk/
+https://www.europeana.eu/
+https://www.smithsonianmag.com/
+https://www.historytoday.com/
 
-# General
-https://en.wikipedia.org/wiki/Portal:Contents
-https://en.wikipedia.org/wiki/Okapi_BM25
+# ============================================================
+# General Knowledge
+# ============================================================
 
-# --- EDGE CASES & TEST VECTORS ---
-# Duplicate canonical test (identical to first URL with trailing slash & extra params)
-https://developer.mozilla.org/en-US/docs/Web/JavaScript/?gclid=987654321&fbclid=abcdef
-# Blocked by robots.txt test
-https://en.wikipedia.org/trap/crawler-honeypot
-# Malformed URL test
-httpx://invalid-protocol-test.com/bad^url
+https://www.wikipedia.org/
+https://en.wikibooks.org/
+https://en.wikiversity.org/
+https://en.wikinews.org/
+https://en.wikisource.org/
+https://en.wiktionary.org/
+https://www.britannica.com/
+https://www.dictionary.com/
+https://www.merriam-webster.com/
+https://www.collinsdictionary.com/
+https://www.etymonline.com/
+https://www.gutenberg.org/
+https://archive.org/
+https://www.loc.gov/
+https://www.cia.gov/the-world-factbook/
+https://ourworldindata.org/
+https://data.worldbank.org/
+https://data.un.org/
+https://www.oecd.org/data/
+
+# ============================================================
+# Environment & Earth
+# ============================================================
+
+https://www.epa.gov/
+https://www.unep.org/
+https://www.ipcc.ch/
+https://climate.nasa.gov/
+https://climate.nasa.gov/vital-signs/
+https://www.noaa.gov/climate
+https://www.nationalgeographic.com/environment/
+https://earthobservatory.nasa.gov/
+https://earthdata.nasa.gov/
+https://www.usgs.gov/programs/water-resources
+https://www.usgs.gov/programs/earthquake-hazards
+https://www.usgs.gov/programs/volcano-hazards
+https://www.wri.org/
+https://www.worldwildlife.org/
+
+# ============================================================
+# Health & Medicine
+# ============================================================
+
+https://www.who.int/health-topics
+https://www.cdc.gov/
+https://www.nih.gov/
+https://medlineplus.gov/
+https://www.nhs.uk/conditions/
+https://www.mayoclinic.org/diseases-conditions
+https://www.cancer.gov/
+https://www.fda.gov/consumers
+https://www.nimh.nih.gov/health
+https://www.nhlbi.nih.gov/health
+https://www.nia.nih.gov/health
+https://www.unicef.org/health
+
+# ============================================================
+# Travel & Geography
+# ============================================================
+
+https://www.nationalgeographic.com/travel/
+https://www.lonelyplanet.com/
+https://www.unwto.org/
+https://www.worldtravelguide.net/
+https://www.britannica.com/places
+https://www.geonames.org/
+https://www.openstreetmap.org/
+https://wiki.openstreetmap.org/
+https://www.nationalgeographic.org/encyclopedia/geography/
+https://education.nationalgeographic.org/resource/geography/
+
+# ============================================================
+# Business & Economics
+# ============================================================
+
+https://www.worldbank.org/
+https://www.imf.org/en/Home
+https://www.oecd.org/
+https://www.wto.org/
+https://www.un.org/en/global-issues/economic-development
+https://www.investopedia.com/
+https://www.economicshelp.org/
+https://www.khanacademy.org/economics-finance-domain
+https://www.federalreserve.gov/
+https://www.bls.gov/
+https://www.bea.gov/
+https://www.census.gov/economic-indicators/
+
+# ============================================================
+# Web Standards & Security
+# ============================================================
+
+https://owasp.org/www-project-top-ten/
+https://owasp.org/www-project-web-security-testing-guide/
+https://cheatsheetseries.owasp.org/
+https://www.cisa.gov/topics/cyber-threats-and-advisories
+https://www.cisa.gov/resources-tools
+https://www.nist.gov/cybersecurity
+https://csrc.nist.gov/
+https://www.rfc-editor.org/
+https://www.iana.org/
+https://www.icann.org/resources/pages/what-2012-02-25-en
+https://www.w3.org/Security/
+https://developer.mozilla.org/en-US/docs/Web/Security
