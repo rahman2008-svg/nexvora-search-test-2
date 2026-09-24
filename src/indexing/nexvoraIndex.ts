@@ -381,6 +381,56 @@ export class NexVoraSearchEngine {
   }
 
   /**
+   * Return current search engine statistics.
+   */
+  public getStats() {
+    return {
+      documents: this.documents.size,
+      terms: this.invertedIndex.size,
+      avgDocLength: this.avgDocLength,
+      totalDocLength: this.totalDocLength,
+      initialized: this.initialized,
+    };
+  }
+
+  /**
+   * Export the complete in-memory index.
+   */
+  public exportIndex(): SerializedIndex {
+    const documents: Record<string, IndexedDocument> = {};
+    const docLengths: Record<string, number> = {};
+    const invertedIndex: SerializedIndex["invertedIndex"] = {};
+
+    for (const [id, document] of this.documents.entries()) {
+      documents[id] = document;
+    }
+
+    for (const [id, length] of this.docLengths.entries()) {
+      docLengths[id] = length;
+    }
+
+    for (const [term, record] of this.invertedIndex.entries()) {
+      invertedIndex[term] = {
+        df: record.docFrequency,
+        idf: record.idf,
+        postings: record.postings,
+      };
+    }
+
+    return {
+      version: "1.0.0",
+      createdAt: new Date().toISOString(),
+      totalDocuments: this.documents.size,
+      avgDocLength: this.avgDocLength,
+      totalTerms: this.invertedIndex.size,
+      lexicon: Array.from(this.invertedIndex.keys()).sort(),
+      documents,
+      docLengths,
+      invertedIndex,
+    };
+  }
+
+  /**
    * Recompute IDF for every term.
    */
   private recomputeAllIDFs(): void {
