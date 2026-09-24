@@ -384,12 +384,21 @@ export class NexVoraSearchEngine {
    * Return current search engine statistics.
    */
   public getStats() {
+    const categories = new Set<string>();
+
+    for (const document of this.documents.values()) {
+      if (document.category) {
+        categories.add(document.category);
+      }
+    }
+
     return {
-      documents: this.documents.size,
-      terms: this.invertedIndex.size,
+      totalDocuments: this.documents.size,
+      totalTerms: this.invertedIndex.size,
       avgDocLength: this.avgDocLength,
       totalDocLength: this.totalDocLength,
       initialized: this.initialized,
+      categories: Array.from(categories).sort(),
     };
   }
 
