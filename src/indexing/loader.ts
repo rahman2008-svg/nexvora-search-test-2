@@ -7,121 +7,450 @@ import { IndexedDocument } from './types.ts';
 import { PRECOMPILED_CHUNKS } from '../processor/precompiledData.ts';
 
 /**
- * Loads processed documents from generated/documents/
- * Uses fs/path in Node.js runtime, falls back to PRECOMPILED_CHUNKS in browser.
+ * Load processed documents for the search engine.
+ *
+ * Source priority:
+ *
+ * 1. generated/documents/documents.jsonl
+ * 2. generated/documents/chunk-*.json
+ * 3. PRECOMPILED_CHUNKS
+ *
+ * The JSONL file is treated as the primary processed-document
+ * source because it represents the complete generated dataset.
  */
 export function loadProcessedDocuments(): IndexedDocument[] {
-  // If running in Node.js server environment, read live from generated/documents
-  if (typeof process !== 'undefined' && process.versions && process.versions.node) {
+  /**
+   * Try the filesystem when running in Node.js/Vercel server runtime.
+   */
+  if (
+    typeof process !== 'undefined' &&
+    process.versions &&
+    process.versions.node
+  ) {
     try {
       const getModule = (process as any).getBuiltinModule;
-      const fs = getModule ? getModule('fs') : null;
-      const path = getModule ? getModule('path') : null;
-      if (!fs || !path) throw new Error('fs or path not available');
-      const docsDir = path.resolve(process.cwd(), 'generated', 'documents');
+
+      const fs = getModule
+        ? getModule('fs')
+        : null;
+
+      const path = getModule
+        ? getModule('path')
+        : null;
+
+      if (!fs || !path) {
+        throw new Error(
+          'Node.js fs/path modules are unavailable'
+        );
+      }
+
+      const docsDir = path.resolve(
+        process.cwd(),
+        'generated',
+        'documents'
+      );
 
       if (fs.existsSync(docsDir)) {
-        const files = fs.readdirSync(docsDir);
-        const docs: IndexedDocument[] = [];
-        const seenIds = new Set<string>();
+        /**
+         * ---------------------------------------------------------
+         * PRIMARY SOURCE: documents.jsonl
+         * ---------------------------------------------------------
+         *
+         * This must be checked FIRST.
+         *
+         * Previously chunk-*.json had priority, which could cause
+         * the runtime search engine to load an older/incomplete
+         * chunk dataset while documents.jsonl contained newer data.
+         */
+        const jsonlPath = path.join(
+          docsDir,
+          'documents.jsonl'
+        );
 
-        // Prefer chunk-*.json files
-        const chunkFiles = files.filter((f: string) => f.startsWith('chunk-') && f.endsWith('.json')).sort();
-        
-        if (chunkFiles.length > 0) {
-          for (const chunkFile of chunkFiles) {
-            const filePath = path.join(docsDir, chunkFile);
-            const content = fs.readFileSync(filePath, 'utf-8');
-            const parsed = JSON.parse(content);
-            if (Array.isArray(parsed.documents)) {
-              for (const doc of parsed.documents) {
-                if (!seenIds.has(doc.id)) {
-                  seenIds.add(doc.id);
-                  docs.push(normalizeLoadedDocument(doc));
-                }
+        if (fs.existsSync(jsonlPath)) {
+          const content = fs.readFileSync(
+            jsonlPath,
+            'utf-8'
+          );
+
+          const docs: IndexedDocument[] = [];
+          const seenIds = new Set<string>();
+
+          const lines = content
+            .split(/\r?\n/)
+            .map((line: string) => line.trim())
+            .filter(Boolean);
+
+          for (const line of lines) {
+            try {
+              const parsed = JSON.parse(line);
+
+              if (!parsed || typeof parsed !== 'object') {
+                continue;
               }
+
+              const normalized =
+                normalizeLoadedDocument(parsed);
+
+              if (seenIds.has(normalized.id)) {
+                continue;
+              }
+
+              seenIds.add(normalized.id);
+              docs.push(normalized);
+            } catch {
+              /**
+               * Ignore malformed JSONL lines.
+               * One broken document must not prevent the
+               * remaining search corpus from loading.
+               */
             }
           }
+
           if (docs.length > 0) {
             return docs;
           }
         }
 
-        // Fallback to documents.jsonl
-        const jsonlPath = path.join(docsDir, 'documents.jsonl');
-        if (fs.existsSync(jsonlPath)) {
-          const lines = fs.readFileSync(jsonlPath, 'utf-8').trim().split('\n');
-          for (const line of lines) {
-            if (!line.trim()) continue;
+        /**
+         * ---------------------------------------------------------
+         * SECONDARY SOURCE: chunk-*.json
+         * ---------------------------------------------------------
+         *
+         * Used only when documents.jsonl is missing or empty.
+         */
+        const files = fs
+          .readdirSync(docsDir)
+          .filter(
+            (file: string) =>
+              file.startsWith('chunk-') &&
+              file.endsWith('.json')
+          )
+          .sort();
+
+        if (files.length > 0) {
+          const docs: IndexedDocument[] = [];
+          const seenIds = new Set<string>();
+
+          for (const chunkFile of files) {
             try {
-              const doc = JSON.parse(line);
-              if (!seenIds.has(doc.id)) {
-                seenIds.add(doc.id);
-                docs.push(normalizeLoadedDocument(doc));
+              const filePath = path.join(
+                docsDir,
+                chunkFile
+              );
+
+              const content =
+                fs.readFileSync(
+                  filePath,
+                  'utf-8'
+                );
+
+              const parsed =
+                JSON.parse(content);
+
+              if (
+                !parsed ||
+                !Array.isArray(
+                  parsed.documents
+                )
+              ) {
+                continue;
               }
-            } catch (e) {
-              // skip malformed line
+
+              for (const doc of parsed.documents) {
+                const normalized =
+                  normalizeLoadedDocument(
+                    doc
+                  );
+
+                if (
+                  seenIds.has(
+                    normalized.id
+                  )
+                ) {
+                  continue;
+                }
+
+                seenIds.add(
+                  normalized.id
+                );
+
+                docs.push(
+                  normalized
+                );
+              }
+            } catch {
+              /**
+               * Skip a broken chunk and continue
+               * loading other chunks.
+               */
             }
           }
+
           if (docs.length > 0) {
             return docs;
           }
         }
       }
-    } catch (err) {
-      console.warn('Node.js fs load from generated/documents failed, using precompiled fallback:', err);
+    } catch (error) {
+      console.warn(
+        'Filesystem document loading failed. Using precompiled fallback.',
+        error
+      );
     }
   }
 
-  // Precompiled fallback (works in both browser & Node)
+  /**
+   * -----------------------------------------------------------
+   * FINAL FALLBACK: PRECOMPILED_CHUNKS
+   * -----------------------------------------------------------
+   *
+   * Works in browser and Node environments.
+   */
+  return loadPrecompiledDocuments();
+}
+
+/**
+ * Load documents from the bundled precompiled dataset.
+ */
+function loadPrecompiledDocuments(): IndexedDocument[] {
   const docs: IndexedDocument[] = [];
   const seenIds = new Set<string>();
 
   for (const chunk of PRECOMPILED_CHUNKS) {
-    if (chunk && Array.isArray(chunk.documents)) {
-      for (const doc of chunk.documents) {
-        if (!seenIds.has(doc.id)) {
-          seenIds.add(doc.id);
-          docs.push(normalizeLoadedDocument(doc));
-        }
+    if (
+      !chunk ||
+      !Array.isArray(chunk.documents)
+    ) {
+      continue;
+    }
+
+    for (const doc of chunk.documents) {
+      const normalized =
+        normalizeLoadedDocument(doc);
+
+      if (seenIds.has(normalized.id)) {
+        continue;
       }
+
+      seenIds.add(
+        normalized.id
+      );
+
+      docs.push(normalized);
     }
   }
 
   return docs;
 }
 
-export function normalizeLoadedDocument(doc: any): IndexedDocument {
+/**
+ * Normalize a raw processed document into the exact
+ * IndexedDocument structure expected by the search engine.
+ */
+export function normalizeLoadedDocument(
+  doc: any
+): IndexedDocument {
+  const sourceUrl =
+    doc?.canonicalUrl ||
+    doc?.url ||
+    '';
+
+  const mainText =
+    typeof doc?.mainText === 'string'
+      ? doc.mainText
+      : '';
+
   return {
-    id: doc.id || `doc-${Math.random().toString(36).slice(2, 9)}`,
-    url: doc.url || doc.canonicalUrl || '',
-    canonicalUrl: doc.canonicalUrl || doc.url || '',
-    domain: doc.domain || extractDomain(doc.canonicalUrl || doc.url || ''),
-    title: doc.title || 'Untitled Document',
-    description: doc.description || '',
+    id:
+      typeof doc?.id === 'string' &&
+      doc.id.trim()
+        ? doc.id
+        : createStableDocumentId(
+            sourceUrl,
+            doc?.title
+          ),
+
+    url:
+      typeof doc?.url === 'string'
+        ? doc.url
+        : sourceUrl,
+
+    canonicalUrl:
+      typeof doc?.canonicalUrl ===
+      'string'
+        ? doc.canonicalUrl
+        : sourceUrl,
+
+    domain:
+      typeof doc?.domain === 'string' &&
+      doc.domain.trim()
+        ? doc.domain
+        : extractDomain(sourceUrl),
+
+    title:
+      typeof doc?.title === 'string' &&
+      doc.title.trim()
+        ? doc.title
+        : 'Untitled Document',
+
+    description:
+      typeof doc?.description ===
+      'string'
+        ? doc.description
+        : '',
+
     headings: {
-      h1: Array.isArray(doc.headings?.h1) ? doc.headings.h1 : [],
-      h2: Array.isArray(doc.headings?.h2) ? doc.headings.h2 : [],
-      h3: Array.isArray(doc.headings?.h3) ? doc.headings.h3 : [],
+      h1: Array.isArray(
+        doc?.headings?.h1
+      )
+        ? doc.headings.h1
+        : [],
+
+      h2: Array.isArray(
+        doc?.headings?.h2
+      )
+        ? doc.headings.h2
+        : [],
+
+      h3: Array.isArray(
+        doc?.headings?.h3
+      )
+        ? doc.headings.h3
+        : [],
     },
-    mainText: doc.mainText || '',
-    language: doc.language || 'en',
-    category: doc.category || 'General',
-    categoryConfidence: typeof doc.categoryConfidence === 'number' ? doc.categoryConfidence : 0.8,
-    categorySignals: Array.isArray(doc.categorySignals) ? doc.categorySignals : [],
-    wordCount: doc.wordCount || (doc.mainText ? doc.mainText.split(/\s+/).length : 0),
-    contentLengthBytes: doc.contentLengthBytes,
-    statusCode: doc.statusCode || 200,
-    fetchTimeMs: doc.fetchTimeMs || 20,
-    processedAt: doc.processedAt || new Date().toISOString(),
-    chunkId: doc.chunkId || 'chunk-001',
+
+    mainText,
+
+    language:
+      typeof doc?.language === 'string'
+        ? doc.language
+        : 'en',
+
+    category:
+      typeof doc?.category === 'string' &&
+      doc.category.trim()
+        ? doc.category
+        : 'General',
+
+    categoryConfidence:
+      typeof doc?.categoryConfidence ===
+      'number'
+        ? doc.categoryConfidence
+        : 0.8,
+
+    categorySignals:
+      Array.isArray(
+        doc?.categorySignals
+      )
+        ? doc.categorySignals
+        : [],
+
+    wordCount:
+      typeof doc?.wordCount ===
+      'number'
+        ? doc.wordCount
+        : calculateWordCount(
+            mainText
+          ),
+
+    contentLengthBytes:
+      typeof doc?.contentLengthBytes ===
+      'number'
+        ? doc.contentLengthBytes
+        : undefined,
+
+    statusCode:
+      typeof doc?.statusCode ===
+      'number'
+        ? doc.statusCode
+        : 200,
+
+    fetchTimeMs:
+      typeof doc?.fetchTimeMs ===
+      'number'
+        ? doc.fetchTimeMs
+        : 20,
+
+    processedAt:
+      typeof doc?.processedAt ===
+      'string'
+        ? doc.processedAt
+        : new Date().toISOString(),
+
+    chunkId:
+      typeof doc?.chunkId === 'string'
+        ? doc.chunkId
+        : 'chunk-001',
   };
 }
 
-function extractDomain(urlStr: string): string {
+/**
+ * Create a stable fallback document ID.
+ *
+ * This avoids Math.random(), which would produce a
+ * different ID on every serverless invocation.
+ */
+function createStableDocumentId(
+  url: string,
+  title?: string
+): string {
+  const source =
+    `${url}|${title || ''}`.trim();
+
+  let hash = 0;
+
+  for (
+    let i = 0;
+    i < source.length;
+    i++
+  ) {
+    hash =
+      (
+        (hash << 5) -
+        hash +
+        source.charCodeAt(i)
+      ) |
+      0;
+  }
+
+  const unsignedHash =
+    Math.abs(hash).toString(36);
+
+  return `doc-${unsignedHash}`;
+}
+
+/**
+ * Calculate a safe word count.
+ */
+function calculateWordCount(
+  text: string
+): number {
+  if (!text.trim()) {
+    return 0;
+  }
+
+  return text
+    .trim()
+    .split(/\s+/)
+    .filter(Boolean)
+    .length;
+}
+
+/**
+ * Extract hostname from a URL safely.
+ */
+function extractDomain(
+  urlStr: string
+): string {
   try {
-    const parsed = new URL(urlStr);
-    return parsed.hostname.replace(/^www\./, '');
+    const parsed =
+      new URL(urlStr);
+
+    return parsed.hostname.replace(
+      /^www\./i,
+      ''
+    );
   } catch {
     return 'web';
   }
